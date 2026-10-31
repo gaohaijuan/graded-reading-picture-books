@@ -1,0 +1,13 @@
+const fs=require('node:fs'),path=require('node:path');
+const root=path.resolve(__dirname,'..'),repo=path.join(root,'little-protagonist');
+const src='C:/Users/Administrator/Downloads/小石头-第1级阅读故事集 · 第2册（现有9个故事样册）-A5阅读校样.pdf';
+const dest=path.join(root,'output/pdf/小小主角-第2册-竖版A5校样.pdf');
+fs.copyFileSync(src,dest);
+let t=fs.readFileSync(path.join(root,'tmp/pdfs/verify_volume_two_six_pdfs.py'),'utf8');
+t=t.replaceAll('六故事','九故事').replaceAll('two-six','two-nine').replace("['tree','calling','catball','shoes','watering','wagon']","['tree','calling','catball','shoes','watering','wagon','paper','fruit','catbed']").replace("['books'][:6]","['books'][:9]");
+fs.writeFileSync(path.join(root,'tmp/pdfs/verify_volume_two_nine_pdfs.py'),t);
+const {listBooks}=require(path.join(repo,'miniprogram/lib/stories')),{defaultMembers,normalizeMembers}=require(path.join(repo,'miniprogram/lib/family')),{summarizeBooks}=require(path.join(repo,'miniprogram/lib/literacy'));
+const normal=defaultMembers(),photo=normalizeMembers([{id:'child',included:true},{id:'dad',included:true},{id:'mom',included:true},{id:'grandpa',included:true},{id:'grandma',included:true},{id:'olderSister',included:true}]);
+const data={default:summarizeBooks(listBooks({name:'CHILD',age:5,className:'大班'},normal,{includeApproved:true})).slice(10),photo:summarizeBooks(listBooks({name:'CHILD',age:5,className:'大班'},photo,{includeApproved:true})).slice(10)};
+fs.writeFileSync(path.join(root,'browser-test/volume-two-nine-expected-literacy.json'),JSON.stringify(data,null,2));
+console.log(JSON.stringify({pdfBytes:fs.statSync(dest).size,counts:data.default.map(r=>[r.id,r.count,r.newCount,r.cumulativeCount]),photoFamily:photo.filter(m=>m.included).map(m=>m.id)}));

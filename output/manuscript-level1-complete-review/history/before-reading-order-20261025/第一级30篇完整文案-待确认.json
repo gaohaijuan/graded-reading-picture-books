@@ -1,0 +1,479 @@
+{
+  "title": "第一级30篇完整文案·待确认稿",
+  "status": "text-draft-awaiting-user-review",
+  "basis": "以当前书架旧序1—20及同序后续21—30原稿为基础，合入用户逐条指出的问题；未使用已撤回的v9。",
+  "numbering": "沿用旧编号，便于核对；第27篇简化后建议前移，目录尚未正式换序。",
+  "example": {
+    "name": "小石头",
+    "age": 5,
+    "className": "大班",
+    "family": [
+      "爸爸",
+      "妈妈",
+      "孩子"
+    ]
+  },
+  "firstThreePreserved": true,
+  "illustrationsGenerated": 0,
+  "shelfReplaced": false,
+  "pdfRegenerated": false,
+  "layout": "paragraphs仅为阅读分段，不是固定A5页码。",
+  "approval": {
+    "confirmedBooks": [],
+    "history": []
+  },
+  "books": [
+    {
+      "number": 1,
+      "title": "你好，我是CHILD",
+      "paragraphs": [
+        "你好！我是CHILD。",
+        "我的名字叫CHILD。",
+        "你的名字是什么呢？",
+        "我五岁了。你几岁呢？",
+        "我上大班了。",
+        "你也是吗？"
+      ],
+      "status": "awaiting-user-confirmation",
+      "userDecision": null
+    },
+    {
+      "number": 2,
+      "title": "我的花",
+      "paragraphs": [
+        "我的小花。",
+        "我的花有好多片。",
+        "一片两片三四片，",
+        "五片六片七八片，",
+        "九片十片十一片，",
+        "飞入草丛都不见。"
+      ],
+      "status": "awaiting-user-confirmation",
+      "userDecision": null
+    },
+    {
+      "number": 3,
+      "title": "我家有几口人？",
+      "paragraphs": [
+        "我家有几口人？我来数一数。",
+        "这是爸爸。",
+        "这是妈妈。",
+        "我数好了！一共有两口人。",
+        "咦？我把谁忘了？",
+        "是我呀！还要加上我。",
+        "我家有三口人。我们都在家！"
+      ],
+      "status": "awaiting-user-confirmation",
+      "userDecision": null
+    },
+    {
+      "number": 4,
+      "title": "我的小手",
+      "paragraphs": [
+        "我有两只小手。",
+        "我用小手做小花。",
+        "小手开，小花开。",
+        "小手合上，小花不见了。",
+        "小手开，小花开。",
+        "你的小花开了吗？"
+      ],
+      "status": "awaiting-user-confirmation",
+      "userDecision": null
+    },
+    {
+      "number": 5,
+      "title": "下雨了",
+      "paragraphs": [
+        "下雨了！",
+        "小伞开了。我在伞下。",
+        "小花在雨中。",
+        "“小花，来！”小花不来。",
+        "“花不来，我去！”",
+        "我在伞下，小花也在伞下。",
+        "雨在伞上，伞下有我，也有花。"
+      ],
+      "status": "awaiting-user-confirmation",
+      "userDecision": null
+    },
+    {
+      "number": 6,
+      "title": "小石头回家",
+      "paragraphs": [
+        "大石头下，有小石头。",
+        "这是小石头的家。",
+        "我拿起小石头。",
+        "我走，小石头也走。",
+        "我要回家了。",
+        "我把小石头放回大石头下。",
+        "“小石头，你回家了！”",
+        "我也回家了。"
+      ],
+      "status": "awaiting-user-confirmation",
+      "userDecision": null
+    },
+    {
+      "number": 7,
+      "title": "山不见了",
+      "paragraphs": [
+        "山上有白云。",
+        "白云来了，山不见了。",
+        "“山呢？”",
+        "风来了，云走了。",
+        "山出来了！",
+        "山没有走，是云走了！"
+      ],
+      "status": "awaiting-user-confirmation",
+      "userDecision": null
+    },
+    {
+      "number": 8,
+      "title": "小车回家",
+      "paragraphs": [
+        "小车的家，有两个门。",
+        "一个入口，一个出口。",
+        "我开小车，从入口进去，从出口出来。",
+        "我不玩了，小车也要回家。",
+        "我把小车开回家，关上门。"
+      ],
+      "status": "awaiting-user-confirmation",
+      "userDecision": null
+    },
+    {
+      "number": 9,
+      "title": "小球在哪",
+      "paragraphs": [
+        "我要和小球玩。小球在哪？",
+        "我在家里找小球，没有看见。",
+        "我去小山上找。山上有小石头，没有小球。",
+        "我去小车里找。车里也没有。",
+        "我回家一看，小球在门后！",
+        "“小球，你在这里呀！”"
+      ],
+      "status": "awaiting-user-confirmation",
+      "userDecision": null
+    },
+    {
+      "number": 10,
+      "title": "水中的我",
+      "paragraphs": [
+        "水中有天，有云，也有我。",
+        "我走，水中的我也走。",
+        "我不走，水中的我也不走。",
+        "我把小手放入水中。",
+        "水动了，水中的我不见了！",
+        "我把小手拿出来，不动了。",
+        "等一等，水中的我回来了。",
+        "“你好，水中的我！”"
+      ],
+      "status": "awaiting-user-confirmation",
+      "userDecision": null
+    },
+    {
+      "number": 11,
+      "title": "我和小树谁高",
+      "paragraphs": [
+        "小树，你好！",
+        "我和小树，谁高？",
+        "小树高，我不高。",
+        "我站在小石头上。",
+        "“这回，我高！”",
+        "我下来，小树又高了。",
+        "我看看脚下的小石头，笑了。"
+      ],
+      "status": "awaiting-user-confirmation",
+      "userDecision": null
+    },
+    {
+      "number": 12,
+      "title": "谁在叫",
+      "paragraphs": [
+        "谁在叫？",
+        "我看看树上，是小鸟在叫。",
+        "“小鸟，下来和我玩！”",
+        "小鸟不叫了。谁又在叫？",
+        "我看看树下，是小猫在叫。",
+        "“小猫，你也来！”",
+        "小鸟呢？小鸟不在树上了。",
+        "我一看，小鸟在小车上！",
+        "“小鸟，你也来了！”"
+      ],
+      "status": "awaiting-user-confirmation",
+      "userDecision": null
+    },
+    {
+      "number": 13,
+      "title": "小猫要小球吗",
+      "paragraphs": [
+        "我有一个红球。",
+        "我有一个黄球。",
+        "“小猫，你要小球吗？”",
+        "“红球给你。黄球也给你。”",
+        "小猫不来玩。",
+        "我把小球推过去。",
+        "小猫跑来了！",
+        "我和小猫一起玩！"
+      ],
+      "status": "awaiting-user-confirmation",
+      "userDecision": null
+    },
+    {
+      "number": 14,
+      "title": "大鞋和小鞋",
+      "paragraphs": [
+        "这是我的小鞋。",
+        "这是大人的鞋，我也要穿。",
+        "我穿上大鞋。",
+        "我一走，小脚从大鞋里出来了！",
+        "我穿好小鞋。",
+        "这回，小脚和小鞋一起走。"
+      ],
+      "status": "awaiting-user-confirmation",
+      "userDecision": null
+    },
+    {
+      "number": 15,
+      "title": "小花喝水",
+      "paragraphs": [
+        "“小花，你要喝水吗？”",
+        "我给小花喝水。",
+        "一点，再一点。",
+        "水多了，流到我的脚上。",
+        "“我的脚湿了！”",
+        "我不再加水。",
+        "“小花，你喝好了，我要去洗脚了。”"
+      ],
+      "status": "awaiting-user-confirmation",
+      "userDecision": null
+    },
+    {
+      "number": 16,
+      "title": "小球也要走",
+      "paragraphs": [
+        "我把小球放在小车前。",
+        "我推小车，小车推着小球走。",
+        "我把小球放在小车后。",
+        "我推小车，小球没有动。",
+        "我把小车拿回来，把小球放进去。",
+        "我再推小车，小球也一起走了！"
+      ],
+      "status": "awaiting-user-confirmation",
+      "userDecision": null
+    },
+    {
+      "number": 17,
+      "title": "小纸片飞了",
+      "paragraphs": [
+        "我有一片红纸。",
+        "风来了，小纸片飞了！",
+        "纸片飞到左边，我跑到左边。",
+        "纸片飞到右边，我又跑到右边。",
+        "小纸片下来了，我把它拿回来。",
+        "我拿小石头压住纸片。",
+        "风又来了，纸片不飞了！",
+        "“这回，我不用跑了！”"
+      ],
+      "status": "awaiting-user-confirmation",
+      "userDecision": null
+    },
+    {
+      "number": 18,
+      "title": "大果子和小果子",
+      "paragraphs": [
+        "我有两个果子，一个大，一个小。",
+        "朋友来我家玩。",
+        "我说：“大的给你，小的给我。”",
+        "我把大果子给朋友。",
+        "朋友吃了一口：“真好吃！”",
+        "我也吃一口：“小的也好吃！”"
+      ],
+      "status": "awaiting-user-confirmation",
+      "userDecision": null
+    },
+    {
+      "number": 19,
+      "title": "小猫的床",
+      "paragraphs": [
+        "这是小猫的床。",
+        "小猫想睡了。",
+        "床上有小球，我把小球拿出来。",
+        "床上还有小车，我把小车也拿出来。",
+        "小球、小车都放好了。",
+        "“小猫，睡吧。”",
+        "小猫上了床，睡了。"
+      ],
+      "status": "awaiting-user-confirmation",
+      "userDecision": null
+    },
+    {
+      "number": 20,
+      "title": "我还不想睡",
+      "paragraphs": [
+        "天晚了，我还不想睡。",
+        "“小鸟，来和我玩！”",
+        "小鸟在树上睡了。",
+        "“小猫，来和我玩！”",
+        "小猫在小床上睡了。",
+        "我把小车放好：“小车，你也睡吧。”",
+        "好吧，我也要睡了。"
+      ],
+      "status": "awaiting-user-confirmation",
+      "userDecision": null
+    },
+    {
+      "number": 21,
+      "title": "早上好",
+      "paragraphs": [
+        "今天，我早早起来了。",
+        "我要和爸爸出门玩。",
+        "我穿好衣，穿好鞋。",
+        "爸爸还在睡！",
+        "“爸爸，快起来！我都穿好了！”",
+        "爸爸起来了，也去穿衣、穿鞋。",
+        "我在门口等爸爸。",
+        "爸爸穿好了，我们一起出门。"
+      ],
+      "status": "awaiting-user-confirmation",
+      "userDecision": null
+    },
+    {
+      "number": 22,
+      "title": "看日出",
+      "paragraphs": [
+        "今天，我来看日出。",
+        "天还黑着，小鸟还没有叫。",
+        "天边红了。",
+        "看，日出！",
+        "我听见小鸟叫，我也笑了。",
+        "“小鸟，早上好！”",
+        "明天，我还来看日出。"
+      ],
+      "status": "awaiting-user-confirmation",
+      "userDecision": null
+    },
+    {
+      "number": 23,
+      "title": "水中的月亮",
+      "paragraphs": [
+        "天上有月亮，水中也有月亮。",
+        "小兔在水边，我也在水边。",
+        "风来了，水动了。",
+        "水中的月亮不见了！",
+        "“月亮，你在哪？”",
+        "我看看天上。月亮还在！",
+        "我和小兔等一等。",
+        "水不动了，水中的月亮又回来了。"
+      ],
+      "status": "awaiting-user-confirmation",
+      "userDecision": null
+    },
+    {
+      "number": 24,
+      "title": "这水太热了",
+      "paragraphs": [
+        "我想喝水。",
+        "这水太热了，我还不能喝。",
+        "我把水放好，等一等。",
+        "水不热了！这回，我能喝了。",
+        "我喝一口，再喝一口。"
+      ],
+      "status": "awaiting-user-confirmation",
+      "userDecision": null
+    },
+    {
+      "number": 25,
+      "title": "我画的家",
+      "paragraphs": [
+        "我给小火车画个家。",
+        "家有一个小门。",
+        "我还要在门里画小火车。",
+        "门太小，画不下！",
+        "我再画一个大门。",
+        "这回，小火车画进去了！",
+        "门外有绿树，树下有红花。",
+        "“小火车，这是你的家！”"
+      ],
+      "status": "awaiting-user-confirmation",
+      "userDecision": null
+    },
+    {
+      "number": 26,
+      "title": "长纸和短纸",
+      "paragraphs": [
+        "我有两张纸，一张长，一张短。",
+        "小车在这边，小车的家在那边。",
+        "我要给小车做条回家的路。",
+        "我把短纸放在地上。",
+        "太短了，还没到家门口。",
+        "我拿走短纸，放上长纸。",
+        "这回，纸路到家门口了！",
+        "我把小车放在纸上，推到家门口。",
+        "“小车回家了！”"
+      ],
+      "status": "awaiting-user-confirmation",
+      "userDecision": null
+    },
+    {
+      "number": 27,
+      "title": "小虫过小山",
+      "paragraphs": [
+        "我在山下，小虫也在山下。",
+        "我上山，小虫也上山。",
+        "我下山了，小虫在山上。",
+        "我坐下来，看小虫。",
+        "小虫过了小山。",
+        "我坐在山下，小虫走了。",
+        "“小虫，我也来！”",
+        "我也走了。"
+      ],
+      "status": "awaiting-user-confirmation",
+      "userDecision": null
+    },
+    {
+      "number": 28,
+      "title": "我和小兔",
+      "paragraphs": [
+        "我看小白兔。",
+        "小兔的耳朵长长的，我的耳朵小小的。",
+        "小鸟在叫，小兔在听，我也在听。",
+        "小兔的眼睛红红的，我的眼睛黑黑的。",
+        "我笑了，小兔看见了我的牙。",
+        "“小兔，你的牙呢？”",
+        "我拿一片菜叶给小兔。",
+        "小兔一吃，我也看见了它的小牙！"
+      ],
+      "status": "awaiting-user-confirmation",
+      "userDecision": null
+    },
+    {
+      "number": 29,
+      "title": "我跳过去了",
+      "paragraphs": [
+        "小兔会跳，我也要学。",
+        "小兔跳过小石头。",
+        "我跳了一下，没有过去。",
+        "小石头太高了。",
+        "我把小纸片放在地上。",
+        "“我先跳过小纸片吧。”",
+        "我跳！这回，我过去了！",
+        "“小兔，你看，我跳过去了！”"
+      ],
+      "status": "awaiting-user-confirmation",
+      "userDecision": null
+    },
+    {
+      "number": 30,
+      "title": "小鱼的新家",
+      "paragraphs": [
+        "我画了一条小鱼。",
+        "“小鱼，你的家在哪？”",
+        "我给小鱼画水。",
+        "我再画水中的草和小石头。",
+        "“小鱼，这是你的新家！”",
+        "我在水边画上一个我。",
+        "“这回，我也来和你玩！”"
+      ],
+      "status": "awaiting-user-confirmation",
+      "userDecision": null
+    }
+  ]
+}

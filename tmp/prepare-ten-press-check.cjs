@@ -1,0 +1,4 @@
+const fs=require('fs'),path=require('path');const root=path.resolve(__dirname,'..');
+let s=fs.readFileSync(path.join(root,'tmp/pdfs/inspect_volume_two_nine_package.py'),'utf8');
+s=s.replaceAll('现有9个故事','现有10个故事').replaceAll('九故事','十故事').replaceAll('two-nine','two-ten').replace("'paper','fruit','catbed'}","'paper','fruit','catbed','sleepy'}").replace("==68","==76").replace("manifest['storyCount']==9 and manifest['pageCount']==80 and manifest['interiorPageCount']==76","manifest['storyCount']==10 and manifest['pageCount']==89 and manifest['interiorPageCount']==85").replace("['necessaryAdditionalFaces']==0","['necessaryAdditionalFaces']==3").replace('else 76','else 85').replace("'reading_pages':80","'reading_pages':89");
+fs.writeFileSync(path.join(root,'tmp/pdfs/inspect_volume_two_ten_package.py'),s);

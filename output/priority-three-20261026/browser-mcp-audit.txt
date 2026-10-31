@@ -1,0 +1,494 @@
+Browser tab: 3, Title: "小小主角 · 本地开发版", URL: "http://127.0.0.1:4173/?view=priority-three".
+1 AXWebArea 小小主角 · 本地开发版, URL: 127.0.0.1:4173/?view=priority-three
+	2 container
+		3 link Description: ‹ 返回原书架, Value: 127.0.0.1:4173/
+		4 heading 第一级新版 · 这三篇先看, Value: 1
+			5 text 第一级新版 · 这三篇先看
+		6 text 按你指定的15篇编排，本次完成第2、8、10篇。文案原样保留，其他篇目未修改。
+		7 container 选择绘本
+			8 checkbox 第2篇《下雪了》, Value: 1
+			9 checkbox 第8篇《小虫在哪》, Value: 0
+			10 checkbox 第10篇《小球在哪》, Value: 0
+		22 text 第2篇 · 5页正文 · A5图文同页
+		12 container A5绘本页面
+			13 heading 下雪了, Value: 2
+				23 text 下雪了
+			15 image 下雪了 · 第1页插画
+			24 text 下雪了！
+			25 text 1
+		17 container 翻页
+			18 button 上一页, ID: pr-prev
+			26 text 1 / 5
+			20 button 下一页, ID: pr-next
+		21 text 当前显示原有默认人物；在原书架保存小主角头像后，此页会沿用。
+
+The focused UI element is 20 button 下一页, ID: pr-next
+
+Browser tab: 3, Title: "小小主角 · 本地开发版", URL: "http://127.0.0.1:4173/?view=priority-three".
+1 AXWebArea 小小主角 · 本地开发版, URL: 127.0.0.1:4173/?view=priority-three
+	2 container
+		3 link Description: ‹ 返回原书架, Value: 127.0.0.1:4173/
+		4 heading 第一级新版 · 这三篇先看, Value: 1
+			5 text 第一级新版 · 这三篇先看
+		6 text 按你指定的15篇编排，本次完成第2、8、10篇。文案原样保留，其他篇目未修改。
+		7 container 选择绘本
+			8 checkbox 第2篇《下雪了》, Value: 1
+			9 checkbox 第8篇《小虫在哪》, Value: 0
+			10 checkbox 第10篇《小球在哪》, Value: 0
+		22 text 第2篇 · 5页正文 · A5图文同页
+		12 container A5绘本页面
+			13 heading 下雪了, Value: 2
+				23 text 下雪了
+			15 image 下雪了 · 第2页插画
+			24 text 一片两片三四片，
+			25 text 2
+		17 container 翻页
+			18 button 上一页, ID: pr-prev
+			26 text 2 / 5
+			20 button 下一页, ID: pr-next
+		21 text 当前显示原有默认人物；在原书架保存小主角头像后，此页会沿用。
+
+The focused UI element is 1 AXWebArea 小小主角 · 本地开发版, URL: 127.0.0.1:4173/?view=priority-three
+
+Browser tab: 3, Title: "小小主角 · 本地开发版", URL: "http://127.0.0.1:4173/?view=priority-three".
+1 AXWebArea 小小主角 · 本地开发版, URL: 127.0.0.1:4173/?view=priority-three
+	2 container
+		3 link Description: ‹ 返回原书架, Value: 127.0.0.1:4173/
+		4 heading 第一级新版 · 这三篇先看, Value: 1
+			5 text 第一级新版 · 这三篇先看
+		6 text 按你指定的15篇编排，本次完成第2、8、10篇。文案原样保留，其他篇目未修改。
+		7 container 选择绘本
+			8 checkbox 第2篇《下雪了》, Value: 1
+			9 checkbox 第8篇《小虫在哪》, Value: 0
+			10 checkbox 第10篇《小球在哪》, Value: 0
+		22 text 第2篇 · 5页正文 · A5图文同页
+		12 container A5绘本页面
+			13 heading 下雪了, Value: 2
+				23 text 下雪了
+			15 image 下雪了 · 第3页插画
+			24 text 五片六片七八片，
+			25 text 3
+		17 container 翻页
+			18 button 上一页, ID: pr-prev
+			26 text 3 / 5
+			20 button 下一页, ID: pr-next
+		21 text 当前显示原有默认人物；在原书架保存小主角头像后，此页会沿用。
+
+The focused UI element is 20 button 下一页, ID: pr-next
+
+Browser tab: 3, Title: "小小主角 · 本地开发版", URL: "http://127.0.0.1:4173/?view=priority-three".
+1 AXWebArea 小小主角 · 本地开发版, URL: 127.0.0.1:4173/?view=priority-three
+	2 container
+		3 link Description: ‹ 返回原书架, Value: 127.0.0.1:4173/
+		4 heading 第一级新版 · 这三篇先看, Value: 1
+			5 text 第一级新版 · 这三篇先看
+		6 text 按你指定的15篇编排，本次完成第2、8、10篇。文案原样保留，其他篇目未修改。
+		7 container 选择绘本
+			8 checkbox 第2篇《下雪了》, Value: 1
+			9 checkbox 第8篇《小虫在哪》, Value: 0
+			10 checkbox 第10篇《小球在哪》, Value: 0
+		22 text 第2篇 · 5页正文 · A5图文同页
+		12 container A5绘本页面
+			13 heading 下雪了, Value: 2
+				23 text 下雪了
+			15 image 下雪了 · 第4页插画
+			24 text 九片十片十一片，
+			25 text 4
+		17 container 翻页
+			18 button 上一页, ID: pr-prev
+			26 text 4 / 5
+			20 button 下一页, ID: pr-next
+		21 text 当前显示原有默认人物；在原书架保存小主角头像后，此页会沿用。
+
+The focused UI element is 1 AXWebArea 小小主角 · 本地开发版, URL: 127.0.0.1:4173/?view=priority-three
+
+Browser tab: 3, Title: "小小主角 · 本地开发版", URL: "http://127.0.0.1:4173/?view=priority-three".
+1 AXWebArea 小小主角 · 本地开发版, URL: 127.0.0.1:4173/?view=priority-three
+	2 container
+		3 link Description: ‹ 返回原书架, Value: 127.0.0.1:4173/
+		4 heading 第一级新版 · 这三篇先看, Value: 1
+			5 text 第一级新版 · 这三篇先看
+		6 text 按你指定的15篇编排，本次完成第2、8、10篇。文案原样保留，其他篇目未修改。
+		7 container 选择绘本
+			8 checkbox 第2篇《下雪了》, Value: 1
+			9 checkbox 第8篇《小虫在哪》, Value: 0
+			10 checkbox 第10篇《小球在哪》, Value: 0
+		22 text 第2篇 · 5页正文 · A5图文同页
+		12 container A5绘本页面
+			13 heading 下雪了, Value: 2
+				23 text 下雪了
+			15 image 下雪了 · 第5页插画
+			24 text 飞入草丛都不见。
+			25 text 5
+		17 container 翻页
+			18 button 上一页, ID: pr-prev
+			26 text 5 / 5
+			20 button 识字小结, ID: pr-next
+		21 text 当前显示原有默认人物；在原书架保存小主角头像后，此页会沿用。
+
+The focused UI element is 20 button 识字小结, ID: pr-next
+
+Browser tab: 3, Title: "小小主角 · 本地开发版", URL: "http://127.0.0.1:4173/?view=priority-three".
+1 AXWebArea 小小主角 · 本地开发版, URL: 127.0.0.1:4173/?view=priority-three
+	2 container
+		3 link Description: ‹ 返回原书架, Value: 127.0.0.1:4173/
+		4 heading 第一级新版 · 这三篇先看, Value: 1
+			5 text 第一级新版 · 这三篇先看
+		6 text 按你指定的15篇编排，本次完成第2、8、10篇。文案原样保留，其他篇目未修改。
+		7 container 选择绘本
+			8 checkbox 第2篇《下雪了》, Value: 0
+			9 checkbox 第8篇《小虫在哪》, Value: 1
+			10 checkbox 第10篇《小球在哪》, Value: 0
+		22 text 第8篇 · 6页正文 · A5图文同页
+		12 container A5绘本页面
+			13 heading 小虫在哪, Value: 2
+				23 text 小虫在哪
+			15 image 小虫在哪 · 第1页插画
+			24 text 石头上，有一只小虫。
+			25 text 1
+		17 container 翻页
+			18 button 上一页, ID: pr-prev
+			26 text 1 / 6
+			20 button 下一页, ID: pr-next
+		21 text 当前显示原有默认人物；在原书架保存小主角头像后，此页会沿用。
+
+The focused UI element is 20 button 下一页, ID: pr-next
+
+Browser tab: 3, Title: "小小主角 · 本地开发版", URL: "http://127.0.0.1:4173/?view=priority-three".
+1 AXWebArea 小小主角 · 本地开发版, URL: 127.0.0.1:4173/?view=priority-three
+	2 container
+		3 link Description: ‹ 返回原书架, Value: 127.0.0.1:4173/
+		4 heading 第一级新版 · 这三篇先看, Value: 1
+			5 text 第一级新版 · 这三篇先看
+		6 text 按你指定的15篇编排，本次完成第2、8、10篇。文案原样保留，其他篇目未修改。
+		7 container 选择绘本
+			8 checkbox 第2篇《下雪了》, Value: 0
+			9 checkbox 第8篇《小虫在哪》, Value: 1
+			10 checkbox 第10篇《小球在哪》, Value: 0
+		22 text 第8篇 · 6页正文 · A5图文同页
+		12 container A5绘本页面
+			13 heading 小虫在哪, Value: 2
+				23 text 小虫在哪
+			15 image 小虫在哪 · 第2页插画
+			24 text 我走过去看。
+			25 text 2
+		17 container 翻页
+			18 button 上一页, ID: pr-prev
+			26 text 2 / 6
+			20 button 下一页, ID: pr-next
+		21 text 当前显示原有默认人物；在原书架保存小主角头像后，此页会沿用。
+
+The focused UI element is 20 button 下一页, ID: pr-next
+
+Browser tab: 3, Title: "小小主角 · 本地开发版", URL: "http://127.0.0.1:4173/?view=priority-three".
+1 AXWebArea 小小主角 · 本地开发版, URL: 127.0.0.1:4173/?view=priority-three
+	2 container
+		3 link Description: ‹ 返回原书架, Value: 127.0.0.1:4173/
+		4 heading 第一级新版 · 这三篇先看, Value: 1
+			5 text 第一级新版 · 这三篇先看
+		6 text 按你指定的15篇编排，本次完成第2、8、10篇。文案原样保留，其他篇目未修改。
+		7 container 选择绘本
+			8 checkbox 第2篇《下雪了》, Value: 0
+			9 checkbox 第8篇《小虫在哪》, Value: 1
+			10 checkbox 第10篇《小球在哪》, Value: 0
+		22 text 第8篇 · 6页正文 · A5图文同页
+		12 container A5绘本页面
+			13 heading 小虫在哪, Value: 2
+				23 text 小虫在哪
+			15 image 小虫在哪 · 第3页插画
+			24 text 小虫不见了！
+			25 text 3
+		17 container 翻页
+			18 button 上一页, ID: pr-prev
+			26 text 3 / 6
+			20 button 下一页, ID: pr-next
+		21 text 当前显示原有默认人物；在原书架保存小主角头像后，此页会沿用。
+
+The focused UI element is 1 AXWebArea 小小主角 · 本地开发版, URL: 127.0.0.1:4173/?view=priority-three
+
+Browser tab: 3, Title: "小小主角 · 本地开发版", URL: "http://127.0.0.1:4173/?view=priority-three".
+1 AXWebArea 小小主角 · 本地开发版, URL: 127.0.0.1:4173/?view=priority-three
+	2 container
+		3 link Description: ‹ 返回原书架, Value: 127.0.0.1:4173/
+		4 heading 第一级新版 · 这三篇先看, Value: 1
+			5 text 第一级新版 · 这三篇先看
+		6 text 按你指定的15篇编排，本次完成第2、8、10篇。文案原样保留，其他篇目未修改。
+		7 container 选择绘本
+			8 checkbox 第2篇《下雪了》, Value: 0
+			9 checkbox 第8篇《小虫在哪》, Value: 1
+			10 checkbox 第10篇《小球在哪》, Value: 0
+		22 text 第8篇 · 6页正文 · A5图文同页
+		12 container A5绘本页面
+			13 heading 小虫在哪, Value: 2
+				23 text 小虫在哪
+			15 image 小虫在哪 · 第4页插画
+			24 text “小虫，你在哪？”
+			25 text 4
+		17 container 翻页
+			18 button 上一页, ID: pr-prev
+			26 text 4 / 6
+			20 button 下一页, ID: pr-next
+		21 text 当前显示原有默认人物；在原书架保存小主角头像后，此页会沿用。
+
+The focused UI element is 20 button 下一页, ID: pr-next
+
+Browser tab: 3, Title: "小小主角 · 本地开发版", URL: "http://127.0.0.1:4173/?view=priority-three".
+1 AXWebArea 小小主角 · 本地开发版, URL: 127.0.0.1:4173/?view=priority-three
+	2 container
+		3 link Description: ‹ 返回原书架, Value: 127.0.0.1:4173/
+		4 heading 第一级新版 · 这三篇先看, Value: 1
+			5 text 第一级新版 · 这三篇先看
+		6 text 按你指定的15篇编排，本次完成第2、8、10篇。文案原样保留，其他篇目未修改。
+		7 container 选择绘本
+			8 checkbox 第2篇《下雪了》, Value: 0
+			9 checkbox 第8篇《小虫在哪》, Value: 1
+			10 checkbox 第10篇《小球在哪》, Value: 0
+		22 text 第8篇 · 6页正文 · A5图文同页
+		12 container A5绘本页面
+			13 heading 小虫在哪, Value: 2
+				23 text 小虫在哪
+			15 image 小虫在哪 · 第5页插画
+			24 text 我低头一看，小虫在我的脚上！
+			25 text 5
+		17 container 翻页
+			18 button 上一页, ID: pr-prev
+			26 text 5 / 6
+			20 button 下一页, ID: pr-next
+		21 text 当前显示原有默认人物；在原书架保存小主角头像后，此页会沿用。
+
+The focused UI element is 20 button 下一页, ID: pr-next
+
+Browser tab: 3, Title: "小小主角 · 本地开发版", URL: "http://127.0.0.1:4173/?view=priority-three".
+1 AXWebArea 小小主角 · 本地开发版, URL: 127.0.0.1:4173/?view=priority-three
+	2 container
+		3 link Description: ‹ 返回原书架, Value: 127.0.0.1:4173/
+		4 heading 第一级新版 · 这三篇先看, Value: 1
+			5 text 第一级新版 · 这三篇先看
+		6 text 按你指定的15篇编排，本次完成第2、8、10篇。文案原样保留，其他篇目未修改。
+		7 container 选择绘本
+			8 checkbox 第2篇《下雪了》, Value: 0
+			9 checkbox 第8篇《小虫在哪》, Value: 1
+			10 checkbox 第10篇《小球在哪》, Value: 0
+		22 text 第8篇 · 6页正文 · A5图文同页
+		12 container A5绘本页面
+			13 heading 小虫在哪, Value: 2
+				23 text 小虫在哪
+			15 image 小虫在哪 · 第6页插画
+			24 text “你也要和我一起走吗？”
+			25 text 6
+		17 container 翻页
+			18 button 上一页, ID: pr-prev
+			26 text 6 / 6
+			20 button 识字小结, ID: pr-next
+		21 text 当前显示原有默认人物；在原书架保存小主角头像后，此页会沿用。
+
+The focused UI element is 20 button 识字小结, ID: pr-next
+
+Browser tab: 3, Title: "小小主角 · 本地开发版", URL: "http://127.0.0.1:4173/?view=priority-three".
+1 AXWebArea 小小主角 · 本地开发版, URL: 127.0.0.1:4173/?view=priority-three
+	2 container
+		3 link Description: ‹ 返回原书架, Value: 127.0.0.1:4173/
+		4 heading 第一级新版 · 这三篇先看, Value: 1
+			5 text 第一级新版 · 这三篇先看
+		6 text 按你指定的15篇编排，本次完成第2、8、10篇。文案原样保留，其他篇目未修改。
+		7 container 选择绘本
+			8 checkbox 第2篇《下雪了》, Value: 0
+			9 checkbox 第8篇《小虫在哪》, Value: 0
+			10 checkbox 第10篇《小球在哪》, Value: 1
+		22 text 第10篇 · 6页正文 · A5图文同页
+		12 container A5绘本页面
+			13 heading 小球在哪, Value: 2
+				23 text 小球在哪
+			15 image 小球在哪 · 第1页插画
+			24 container
+				25 text 我要找小球玩。 谁看见小球了？小球在哪？
+			26 text 1
+		17 container 翻页
+			18 button 上一页, ID: pr-prev
+			27 text 1 / 6
+			20 button 下一页, ID: pr-next
+		21 text 当前显示原有默认人物；在原书架保存小主角头像后，此页会沿用。
+
+The focused UI element is 20 button 下一页, ID: pr-next
+
+Browser tab: 3, Title: "小小主角 · 本地开发版", URL: "http://127.0.0.1:4173/?view=priority-three".
+1 AXWebArea 小小主角 · 本地开发版, URL: 127.0.0.1:4173/?view=priority-three
+	2 container
+		3 link Description: ‹ 返回原书架, Value: 127.0.0.1:4173/
+		4 heading 第一级新版 · 这三篇先看, Value: 1
+			5 text 第一级新版 · 这三篇先看
+		6 text 按你指定的15篇编排，本次完成第2、8、10篇。文案原样保留，其他篇目未修改。
+		7 container 选择绘本
+			8 checkbox 第2篇《下雪了》, Value: 0
+			9 checkbox 第8篇《小虫在哪》, Value: 0
+			10 checkbox 第10篇《小球在哪》, Value: 1
+		22 text 第10篇 · 6页正文 · A5图文同页
+		12 container A5绘本页面
+			13 heading 小球在哪, Value: 2
+				23 text 小球在哪
+			15 image 小球在哪 · 第2页插画
+			24 text 我看看小车里，没有。
+			25 text 2
+		17 container 翻页
+			18 button 上一页, ID: pr-prev
+			26 text 2 / 6
+			20 button 下一页, ID: pr-next
+		21 text 当前显示原有默认人物；在原书架保存小主角头像后，此页会沿用。
+
+The focused UI element is 1 AXWebArea 小小主角 · 本地开发版, URL: 127.0.0.1:4173/?view=priority-three
+
+Browser tab: 3, Title: "小小主角 · 本地开发版", URL: "http://127.0.0.1:4173/?view=priority-three".
+1 AXWebArea 小小主角 · 本地开发版, URL: 127.0.0.1:4173/?view=priority-three
+	2 container
+		3 link Description: ‹ 返回原书架, Value: 127.0.0.1:4173/
+		4 heading 第一级新版 · 这三篇先看, Value: 1
+			5 text 第一级新版 · 这三篇先看
+		6 text 按你指定的15篇编排，本次完成第2、8、10篇。文案原样保留，其他篇目未修改。
+		7 container 选择绘本
+			8 checkbox 第2篇《下雪了》, Value: 0
+			9 checkbox 第8篇《小虫在哪》, Value: 0
+			10 checkbox 第10篇《小球在哪》, Value: 1
+		22 text 第10篇 · 6页正文 · A5图文同页
+		12 container A5绘本页面
+			13 heading 小球在哪, Value: 2
+				23 text 小球在哪
+			15 image 小球在哪 · 第3页插画
+			24 text 我看看小车前，也没有。
+			25 text 3
+		17 container 翻页
+			18 button 上一页, ID: pr-prev
+			26 text 3 / 6
+			20 button 下一页, ID: pr-next
+		21 text 当前显示原有默认人物；在原书架保存小主角头像后，此页会沿用。
+
+The focused UI element is 1 AXWebArea 小小主角 · 本地开发版, URL: 127.0.0.1:4173/?view=priority-three
+
+Browser tab: 3, Title: "小小主角 · 本地开发版", URL: "http://127.0.0.1:4173/?view=priority-three".
+1 AXWebArea 小小主角 · 本地开发版, URL: 127.0.0.1:4173/?view=priority-three
+	2 container
+		3 link Description: ‹ 返回原书架, Value: 127.0.0.1:4173/
+		4 heading 第一级新版 · 这三篇先看, Value: 1
+			5 text 第一级新版 · 这三篇先看
+		6 text 按你指定的15篇编排，本次完成第2、8、10篇。文案原样保留，其他篇目未修改。
+		7 container 选择绘本
+			8 checkbox 第2篇《下雪了》, Value: 0
+			9 checkbox 第8篇《小虫在哪》, Value: 0
+			10 checkbox 第10篇《小球在哪》, Value: 1
+		22 text 第10篇 · 6页正文 · A5图文同页
+		12 container A5绘本页面
+			13 heading 小球在哪, Value: 2
+				23 text 小球在哪
+			15 image 小球在哪 · 第4页插画
+			24 text 我看看小车后，也没有。
+			25 text 4
+		17 container 翻页
+			18 button 上一页, ID: pr-prev
+			26 text 4 / 6
+			20 button 下一页, ID: pr-next
+		21 text 当前显示原有默认人物；在原书架保存小主角头像后，此页会沿用。
+
+The focused UI element is 20 button 下一页, ID: pr-next
+
+Browser tab: 3, Title: "小小主角 · 本地开发版", URL: "http://127.0.0.1:4173/?view=priority-three".
+1 AXWebArea 小小主角 · 本地开发版, URL: 127.0.0.1:4173/?view=priority-three
+	2 container
+		3 link Description: ‹ 返回原书架, Value: 127.0.0.1:4173/
+		4 heading 第一级新版 · 这三篇先看, Value: 1
+			5 text 第一级新版 · 这三篇先看
+		6 text 按你指定的15篇编排，本次完成第2、8、10篇。文案原样保留，其他篇目未修改。
+		7 container 选择绘本
+			8 checkbox 第2篇《下雪了》, Value: 0
+			9 checkbox 第8篇《小虫在哪》, Value: 0
+			10 checkbox 第10篇《小球在哪》, Value: 1
+		22 text 第10篇 · 6页正文 · A5图文同页
+		12 container A5绘本页面
+			13 heading 小球在哪, Value: 2
+				23 text 小球在哪
+			15 image 小球在哪 · 第5页插画
+			24 text 门后呢？小球在这里！
+			25 text 5
+		17 container 翻页
+			18 button 上一页, ID: pr-prev
+			26 text 5 / 6
+			20 button 下一页, ID: pr-next
+		21 text 当前显示原有默认人物；在原书架保存小主角头像后，此页会沿用。
+
+The focused UI element is 1 AXWebArea 小小主角 · 本地开发版, URL: 127.0.0.1:4173/?view=priority-three
+
+Browser tab: 3, Title: "小小主角 · 本地开发版", URL: "http://127.0.0.1:4173/?view=priority-three".
+1 AXWebArea 小小主角 · 本地开发版, URL: 127.0.0.1:4173/?view=priority-three
+	2 container
+		3 link Description: ‹ 返回原书架, Value: 127.0.0.1:4173/
+		4 heading 第一级新版 · 这三篇先看, Value: 1
+			5 text 第一级新版 · 这三篇先看
+		6 text 按你指定的15篇编排，本次完成第2、8、10篇。文案原样保留，其他篇目未修改。
+		7 container 选择绘本
+			8 checkbox 第2篇《下雪了》, Value: 0
+			9 checkbox 第8篇《小虫在哪》, Value: 0
+			10 checkbox 第10篇《小球在哪》, Value: 1
+		22 text 第10篇 · 6页正文 · A5图文同页
+		12 container A5绘本页面
+			13 heading 小球在哪, Value: 2
+				23 text 小球在哪
+			15 image 小球在哪 · 第6页插画
+			24 text “找到你了！”
+			25 text 6
+		17 container 翻页
+			18 button 上一页, ID: pr-prev
+			26 text 6 / 6
+			20 button 识字小结, ID: pr-next
+		21 text 当前显示原有默认人物；在原书架保存小主角头像后，此页会沿用。
+
+The focused UI element is 20 button 识字小结, ID: pr-next
+
+Browser tab: 3, Title: "小小主角 · 本地开发版", URL: "http://127.0.0.1:4173/?view=priority-three".
+1 AXWebArea 小小主角 · 本地开发版, URL: 127.0.0.1:4173/?view=priority-three
+	2 container
+		3 link Description: ‹ 返回原书架, Value: 127.0.0.1:4173/
+		4 heading 第一级新版 · 这三篇先看, Value: 1
+			5 text 第一级新版 · 这三篇先看
+		6 text 按你指定的15篇编排，本次完成第2、8、10篇。文案原样保留，其他篇目未修改。
+		7 container 选择绘本
+			8 checkbox 第2篇《下雪了》, Value: 0
+			9 checkbox 第8篇《小虫在哪》, Value: 1
+			10 checkbox 第10篇《小球在哪》, Value: 0
+		22 text 第8篇 · 6页正文 · A5图文同页
+		12 container A5绘本页面
+			13 heading 小虫在哪, Value: 2
+				23 text 小虫在哪
+			15 image 小虫在哪 · 第4页插画
+			24 text “小虫，你在哪？”
+			25 text 4
+		17 container 翻页
+			18 button 上一页, ID: pr-prev
+			26 text 4 / 6
+			20 button 下一页, ID: pr-next
+		21 text 当前显示原有默认人物；在原书架保存小主角头像后，此页会沿用。
+
+The focused UI element is 1 AXWebArea 小小主角 · 本地开发版, URL: 127.0.0.1:4173/?view=priority-three
+
+Browser tab: 3, Title: "小小主角 · 本地开发版", URL: "http://127.0.0.1:4173/?view=priority-three".
+1 AXWebArea 小小主角 · 本地开发版, URL: 127.0.0.1:4173/?view=priority-three
+	2 container
+		3 link Description: ‹ 返回原书架, Value: 127.0.0.1:4173/
+		4 heading 第一级新版 · 这三篇先看, Value: 1
+			5 text 第一级新版 · 这三篇先看
+		6 text 按你指定的15篇编排，本次完成第2、8、10篇。文案原样保留，其他篇目未修改。
+		7 container 选择绘本
+			8 checkbox 第2篇《下雪了》, Value: 0
+			9 checkbox 第8篇《小虫在哪》, Value: 1
+			10 checkbox 第10篇《小球在哪》, Value: 0
+		22 text 第8篇 · 6页正文 · A5图文同页
+		12 container A5绘本页面
+			13 heading 小虫在哪, Value: 2
+				23 text 小虫在哪
+			15 image 小虫在哪 · 第6页插画
+			24 text “你也要和我一起走吗？”
+			25 text 6
+		17 container 翻页
+			18 button 上一页, ID: pr-prev
+			26 text 6 / 6
+			20 button 识字小结, ID: pr-next
+		21 text 当前显示原有默认人物；在原书架保存小主角头像后，此页会沿用。
+
+The focused UI element is 20 button 识字小结, ID: pr-next

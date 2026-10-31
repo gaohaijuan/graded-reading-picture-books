@@ -1,0 +1,716 @@
+{
+  "passed": true,
+  "bodyPages": 22,
+  "books": 3,
+  "approvedTextExact": true,
+  "perPageHeadOverrides": false,
+  "records": [
+    {
+      "id": "level2-jump",
+      "page": 0,
+      "proof": {
+        "beat": "watch-the-rabbit-and-want-to-learn",
+        "pose": "stand-wave",
+        "background": "jump-garden-wide",
+        "rabbit": {
+          "key": "white-rabbit-alert",
+          "x": 725,
+          "ground": 925,
+          "width": 200
+        },
+        "stone": {
+          "key": "jump-stone",
+          "x": 505,
+          "ground": 925,
+          "width": 215
+        },
+        "paper": null,
+        "rabbitClears": false,
+        "failedAttempt": false,
+        "clearedPaper": false,
+        "paperPlaced": false
+      }
+    },
+    {
+      "id": "level2-jump",
+      "page": 1,
+      "proof": {
+        "beat": "rabbit-clears-the-stone",
+        "pose": null,
+        "background": "jump-ground-close",
+        "rabbit": {
+          "key": "white-rabbit-jump",
+          "x": 495,
+          "ground": 725,
+          "width": 330
+        },
+        "stone": {
+          "key": "jump-stone",
+          "x": 505,
+          "ground": 925,
+          "width": 215
+        },
+        "paper": null,
+        "rabbitClears": true,
+        "failedAttempt": false,
+        "clearedPaper": false,
+        "paperPlaced": false
+      }
+    },
+    {
+      "id": "level2-jump",
+      "page": 2,
+      "proof": {
+        "beat": "first-jump-stops-before-the-stone",
+        "pose": "jump-forward",
+        "background": "jump-ground-close",
+        "rabbit": {
+          "key": "white-rabbit-alert",
+          "x": 775,
+          "ground": 925,
+          "width": 165
+        },
+        "stone": {
+          "key": "jump-stone",
+          "x": 505,
+          "ground": 925,
+          "width": 215
+        },
+        "paper": null,
+        "rabbitClears": false,
+        "failedAttempt": true,
+        "clearedPaper": false,
+        "paperPlaced": false
+      }
+    },
+    {
+      "id": "level2-jump",
+      "page": 3,
+      "proof": {
+        "beat": "look-closely-the-stone-is-too-high",
+        "pose": "crouch-book",
+        "background": "jump-ground-close",
+        "rabbit": {
+          "key": "white-rabbit-alert",
+          "x": 700,
+          "ground": 925,
+          "width": 135
+        },
+        "stone": {
+          "key": "jump-stone",
+          "x": 505,
+          "ground": 925,
+          "width": 215
+        },
+        "paper": null,
+        "rabbitClears": false,
+        "failedAttempt": false,
+        "clearedPaper": false,
+        "paperPlaced": false
+      }
+    },
+    {
+      "id": "level2-jump",
+      "page": 4,
+      "proof": {
+        "beat": "place-a-small-paper-on-the-ground",
+        "pose": "crouch-reach-right",
+        "background": "jump-ground-close",
+        "rabbit": {
+          "key": "white-rabbit-alert",
+          "x": 770,
+          "ground": 925,
+          "width": 165
+        },
+        "stone": null,
+        "paper": {
+          "key": "jump-paper",
+          "x": 535,
+          "ground": 920,
+          "width": 145,
+          "flat": 0.36
+        },
+        "rabbitClears": false,
+        "failedAttempt": false,
+        "clearedPaper": false,
+        "paperPlaced": true
+      }
+    },
+    {
+      "id": "level2-jump",
+      "page": 5,
+      "proof": {
+        "beat": "choose-the-flat-paper-for-practice",
+        "pose": "stand-wave",
+        "background": "jump-garden-wide",
+        "rabbit": {
+          "key": "white-rabbit-alert",
+          "x": 775,
+          "ground": 925,
+          "width": 180
+        },
+        "stone": null,
+        "paper": {
+          "key": "jump-paper",
+          "x": 442,
+          "ground": 920,
+          "width": 145,
+          "flat": 0.36
+        },
+        "rabbitClears": false,
+        "failedAttempt": false,
+        "clearedPaper": false,
+        "paperPlaced": false
+      }
+    },
+    {
+      "id": "level2-jump",
+      "page": 6,
+      "proof": {
+        "beat": "jump-across-the-paper-successfully",
+        "pose": "jump-forward",
+        "background": "jump-garden-wide",
+        "rabbit": {
+          "key": "white-rabbit-alert",
+          "x": 820,
+          "ground": 925,
+          "width": 145
+        },
+        "stone": null,
+        "paper": {
+          "key": "jump-paper",
+          "x": 442,
+          "ground": 920,
+          "width": 145,
+          "flat": 0.36
+        },
+        "rabbitClears": false,
+        "failedAttempt": false,
+        "clearedPaper": true,
+        "paperPlaced": false
+      }
+    },
+    {
+      "id": "level2-jump",
+      "page": 7,
+      "proof": {
+        "beat": "land-on-the-other-side-and-show-rabbit",
+        "pose": "hands-flower-open",
+        "background": "jump-ground-close",
+        "rabbit": {
+          "key": "white-rabbit-alert",
+          "x": 145,
+          "ground": 925,
+          "width": 185,
+          "flip": true
+        },
+        "stone": null,
+        "paper": {
+          "key": "jump-paper",
+          "x": 442,
+          "ground": 920,
+          "width": 145,
+          "flat": 0.36
+        },
+        "rabbitClears": false,
+        "failedAttempt": false,
+        "clearedPaper": true,
+        "paperPlaced": false
+      }
+    },
+    {
+      "id": "level2-train",
+      "page": 0,
+      "proof": {
+        "beat": "draw-a-narrow-road-for-the-train",
+        "kind": "train",
+        "stage": 0,
+        "pose": "sit-draw-active",
+        "background": "studio-floor",
+        "paperPlane": {
+          "a": 0.58,
+          "b": 0,
+          "c": 0.04,
+          "d": 0.4,
+          "e": 361.7578231292518,
+          "f": 654.1496598639455
+        },
+        "paperSize": {
+          "width": 1000,
+          "height": 700
+        },
+        "view": "seated-room-view",
+        "drawingIsOnPaper": true,
+        "childEntersWater": false,
+        "pencilContact": {
+          "x": 391.3578231292518,
+          "y": 718.1496598639455
+        },
+        "narrowRoadWidth": 90,
+        "wideRoadWidth": null,
+        "trainX": 200,
+        "trainDirection": "right",
+        "trainWidth": 280,
+        "trainBlocked": true,
+        "secondRoad": false,
+        "treesAndFlowers": false,
+        "departed": false
+      }
+    },
+    {
+      "id": "level2-train",
+      "page": 1,
+      "proof": {
+        "beat": "close-the-train-is-too-wide-for-the-road",
+        "kind": "train",
+        "stage": 0,
+        "pose": null,
+        "background": "studio-floor",
+        "paperPlane": {
+          "a": 0.86,
+          "b": 0,
+          "c": 0,
+          "d": 0.86,
+          "e": 70,
+          "f": 170
+        },
+        "paperSize": {
+          "width": 1000,
+          "height": 700
+        },
+        "view": "overhead-paper-detail",
+        "drawingIsOnPaper": true,
+        "childEntersWater": false,
+        "pencilContact": null,
+        "narrowRoadWidth": 90,
+        "wideRoadWidth": null,
+        "trainX": 200,
+        "trainDirection": "right",
+        "trainWidth": 280,
+        "trainBlocked": true,
+        "secondRoad": false,
+        "treesAndFlowers": false,
+        "departed": false
+      }
+    },
+    {
+      "id": "level2-train",
+      "page": 2,
+      "proof": {
+        "beat": "draw-a-second-much-wider-road",
+        "kind": "train",
+        "stage": 1,
+        "pose": "sit-draw-active",
+        "background": "studio-floor",
+        "paperPlane": {
+          "a": 0.58,
+          "b": 0,
+          "c": 0.04,
+          "d": 0.56,
+          "e": 354.15782312925177,
+          "f": 522.1496598639455
+        },
+        "paperSize": {
+          "width": 1000,
+          "height": 700
+        },
+        "view": "seated-room-view",
+        "drawingIsOnPaper": true,
+        "childEntersWater": false,
+        "pencilContact": {
+          "x": 391.35782312925176,
+          "y": 718.1496598639455
+        },
+        "narrowRoadWidth": 90,
+        "wideRoadWidth": 280,
+        "trainX": 50,
+        "trainDirection": "right",
+        "trainWidth": 280,
+        "trainBlocked": false,
+        "secondRoad": true,
+        "treesAndFlowers": false,
+        "departed": false
+      }
+    },
+    {
+      "id": "level2-train",
+      "page": 3,
+      "proof": {
+        "beat": "the-train-now-fits-and-moves-right",
+        "kind": "train",
+        "stage": 1,
+        "pose": null,
+        "background": "studio-floor",
+        "paperPlane": {
+          "a": 0.86,
+          "b": 0,
+          "c": 0,
+          "d": 0.86,
+          "e": 70,
+          "f": 170
+        },
+        "paperSize": {
+          "width": 1000,
+          "height": 700
+        },
+        "view": "overhead-paper-detail",
+        "drawingIsOnPaper": true,
+        "childEntersWater": false,
+        "pencilContact": null,
+        "narrowRoadWidth": 90,
+        "wideRoadWidth": 280,
+        "trainX": 390,
+        "trainDirection": "right",
+        "trainWidth": 280,
+        "trainBlocked": false,
+        "secondRoad": true,
+        "treesAndFlowers": false,
+        "departed": false
+      }
+    },
+    {
+      "id": "level2-train",
+      "page": 4,
+      "proof": {
+        "beat": "add-green-trees-and-red-flowers-beside-the-road",
+        "kind": "train",
+        "stage": 2,
+        "pose": "sit-draw-active",
+        "background": "studio-floor",
+        "paperPlane": {
+          "a": 0.58,
+          "b": 0,
+          "c": 0.04,
+          "d": 0.4,
+          "e": 360.9578231292518,
+          "f": 576.1496598639455
+        },
+        "paperSize": {
+          "width": 1000,
+          "height": 700
+        },
+        "view": "seated-room-view",
+        "drawingIsOnPaper": true,
+        "childEntersWater": false,
+        "pencilContact": {
+          "x": 391.35782312925176,
+          "y": 648.1496598639455
+        },
+        "narrowRoadWidth": 90,
+        "wideRoadWidth": 280,
+        "trainX": 390,
+        "trainDirection": "right",
+        "trainWidth": 280,
+        "trainBlocked": false,
+        "secondRoad": true,
+        "treesAndFlowers": true,
+        "departed": false
+      }
+    },
+    {
+      "id": "level2-train",
+      "page": 5,
+      "proof": {
+        "beat": "invite-the-train-to-follow-the-wide-road",
+        "kind": "train",
+        "stage": 2,
+        "pose": "sit-draw",
+        "background": "studio-floor",
+        "paperPlane": {
+          "a": 0.58,
+          "b": 0,
+          "c": 0.04,
+          "d": 0.56,
+          "e": 354.15782312925177,
+          "f": 522.1496598639455
+        },
+        "paperSize": {
+          "width": 1000,
+          "height": 700
+        },
+        "view": "seated-room-view",
+        "drawingIsOnPaper": true,
+        "childEntersWater": false,
+        "pencilContact": null,
+        "narrowRoadWidth": 90,
+        "wideRoadWidth": 280,
+        "trainX": 550,
+        "trainDirection": "right",
+        "trainWidth": 280,
+        "trainBlocked": false,
+        "secondRoad": true,
+        "treesAndFlowers": true,
+        "departed": false
+      }
+    },
+    {
+      "id": "level2-train",
+      "page": 6,
+      "proof": {
+        "beat": "the-train-departs-along-the-new-road",
+        "kind": "train",
+        "stage": 2,
+        "pose": null,
+        "background": "studio-floor",
+        "paperPlane": {
+          "a": 0.86,
+          "b": 0,
+          "c": 0,
+          "d": 0.86,
+          "e": 70,
+          "f": 170
+        },
+        "paperSize": {
+          "width": 1000,
+          "height": 700
+        },
+        "view": "overhead-paper-detail",
+        "drawingIsOnPaper": true,
+        "childEntersWater": false,
+        "pencilContact": null,
+        "narrowRoadWidth": 90,
+        "wideRoadWidth": 280,
+        "trainX": 690,
+        "trainDirection": "right",
+        "trainWidth": 280,
+        "trainBlocked": false,
+        "secondRoad": true,
+        "treesAndFlowers": true,
+        "departed": true
+      }
+    },
+    {
+      "id": "level2-fish",
+      "page": 0,
+      "proof": {
+        "beat": "show-the-one-crayon-fish-on-paper",
+        "kind": "fish",
+        "stage": 0,
+        "pose": null,
+        "background": "studio-floor",
+        "paperPlane": {
+          "a": 0.86,
+          "b": 0,
+          "c": 0,
+          "d": 0.86,
+          "e": 70,
+          "f": 170
+        },
+        "paperSize": {
+          "width": 1000,
+          "height": 700
+        },
+        "view": "overhead-paper-detail",
+        "drawingIsOnPaper": true,
+        "childEntersWater": false,
+        "pencilContact": null,
+        "fish": true,
+        "water": false,
+        "plantsAndStones": false,
+        "selfPortrait": false,
+        "finished": false
+      }
+    },
+    {
+      "id": "level2-fish",
+      "page": 1,
+      "proof": {
+        "beat": "ask-the-drawn-fish-where-its-home-is",
+        "kind": "fish",
+        "stage": 0,
+        "pose": "sit-draw",
+        "background": "studio-floor",
+        "paperPlane": {
+          "a": 0.58,
+          "b": 0,
+          "c": 0.04,
+          "d": 0.56,
+          "e": 354.15782312925177,
+          "f": 522.1496598639455
+        },
+        "paperSize": {
+          "width": 1000,
+          "height": 700
+        },
+        "view": "seated-room-view",
+        "drawingIsOnPaper": true,
+        "childEntersWater": false,
+        "pencilContact": null,
+        "fish": true,
+        "water": false,
+        "plantsAndStones": false,
+        "selfPortrait": false,
+        "finished": false
+      }
+    },
+    {
+      "id": "level2-fish",
+      "page": 2,
+      "proof": {
+        "beat": "draw-blue-water-around-the-fish",
+        "kind": "fish",
+        "stage": 1,
+        "pose": "sit-draw-active",
+        "background": "studio-floor",
+        "paperPlane": {
+          "a": 0.58,
+          "b": 0,
+          "c": 0.04,
+          "d": 0.4,
+          "e": 361.7578231292518,
+          "f": 654.1496598639455
+        },
+        "paperSize": {
+          "width": 1000,
+          "height": 700
+        },
+        "view": "seated-room-view",
+        "drawingIsOnPaper": true,
+        "childEntersWater": false,
+        "pencilContact": {
+          "x": 391.3578231292518,
+          "y": 718.1496598639455
+        },
+        "fish": true,
+        "water": true,
+        "plantsAndStones": false,
+        "selfPortrait": false,
+        "finished": false
+      }
+    },
+    {
+      "id": "level2-fish",
+      "page": 3,
+      "proof": {
+        "beat": "draw-water-plants-and-small-and-large-stones",
+        "kind": "fish",
+        "stage": 2,
+        "pose": "sit-draw-active",
+        "background": "studio-floor",
+        "paperPlane": {
+          "a": 0.58,
+          "b": 0,
+          "c": 0.04,
+          "d": 0.56,
+          "e": 346.15782312925177,
+          "f": 410.1496598639455
+        },
+        "paperSize": {
+          "width": 1000,
+          "height": 700
+        },
+        "view": "seated-room-view",
+        "drawingIsOnPaper": true,
+        "childEntersWater": false,
+        "pencilContact": {
+          "x": 391.35782312925176,
+          "y": 718.1496598639455
+        },
+        "fish": true,
+        "water": true,
+        "plantsAndStones": true,
+        "selfPortrait": false,
+        "finished": false
+      }
+    },
+    {
+      "id": "level2-fish",
+      "page": 4,
+      "proof": {
+        "beat": "reveal-the-fishs-drawn-home-in-water",
+        "kind": "fish",
+        "stage": 2,
+        "pose": null,
+        "background": "studio-floor",
+        "paperPlane": {
+          "a": 0.86,
+          "b": 0,
+          "c": 0,
+          "d": 0.86,
+          "e": 70,
+          "f": 170
+        },
+        "paperSize": {
+          "width": 1000,
+          "height": 700
+        },
+        "view": "overhead-paper-detail",
+        "drawingIsOnPaper": true,
+        "childEntersWater": false,
+        "pencilContact": null,
+        "fish": true,
+        "water": true,
+        "plantsAndStones": true,
+        "selfPortrait": false,
+        "finished": false
+      }
+    },
+    {
+      "id": "level2-fish",
+      "page": 5,
+      "proof": {
+        "beat": "add-a-small-crayon-self-portrait-to-the-paper",
+        "kind": "fish",
+        "stage": 3,
+        "pose": "sit-draw-active",
+        "background": "studio-floor",
+        "paperPlane": {
+          "a": 0.58,
+          "b": 0,
+          "c": 0.04,
+          "d": 0.4,
+          "e": 299.15782312925177,
+          "f": 596.1496598639455
+        },
+        "paperSize": {
+          "width": 1000,
+          "height": 700
+        },
+        "view": "seated-room-view",
+        "drawingIsOnPaper": true,
+        "childEntersWater": false,
+        "pencilContact": {
+          "x": 391.35782312925176,
+          "y": 648.1496598639455
+        },
+        "fish": true,
+        "water": true,
+        "plantsAndStones": true,
+        "selfPortrait": true,
+        "finished": false
+      }
+    },
+    {
+      "id": "level2-fish",
+      "page": 6,
+      "proof": {
+        "beat": "finished-drawing-child-and-fish-play-together",
+        "kind": "fish",
+        "stage": 3,
+        "pose": null,
+        "background": "studio-floor",
+        "paperPlane": {
+          "a": 0.86,
+          "b": 0,
+          "c": 0,
+          "d": 0.86,
+          "e": 70,
+          "f": 170
+        },
+        "paperSize": {
+          "width": 1000,
+          "height": 700
+        },
+        "view": "overhead-paper-detail",
+        "drawingIsOnPaper": true,
+        "childEntersWater": false,
+        "pencilContact": null,
+        "fish": true,
+        "water": true,
+        "plantsAndStones": true,
+        "selfPortrait": true,
+        "finished": true
+      }
+    }
+  ]
+}

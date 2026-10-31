@@ -1,0 +1,2517 @@
+{
+  "pages": [
+    {
+      "bookId": "intro",
+      "title": "你好，我是小石头",
+      "kind": "front",
+      "page": null,
+      "layers": [
+        {
+          "asset": "/art/intro/greeting.webp",
+          "sourceWidth": 1672,
+          "sourceHeight": 941,
+          "effectivePpi": 228.49,
+          "sampledPixels": {
+            "width": 1672,
+            "height": 941
+          }
+        },
+        {
+          "asset": "/art/family/child-head.webp",
+          "sourceWidth": 1317,
+          "sourceHeight": 1194,
+          "effectivePpi": 846.36,
+          "sampledPixels": {
+            "width": 1317,
+            "height": 1194
+          }
+        }
+      ],
+      "minimumLayerPpi": 228.49
+    },
+    {
+      "bookId": "intro",
+      "title": "你好，我是小石头",
+      "kind": "story",
+      "page": 1,
+      "layers": [
+        {
+          "asset": "/art/intro/greeting.webp",
+          "sourceWidth": 1672,
+          "sourceHeight": 941,
+          "effectivePpi": 215.7,
+          "sampledPixels": {
+            "width": 1672,
+            "height": 941
+          }
+        },
+        {
+          "asset": "/art/family/child-head.webp",
+          "sourceWidth": 1317,
+          "sourceHeight": 1194,
+          "effectivePpi": 798.99,
+          "sampledPixels": {
+            "width": 1317,
+            "height": 1194
+          }
+        }
+      ],
+      "minimumLayerPpi": 215.7
+    },
+    {
+      "bookId": "intro",
+      "title": "你好，我是小石头",
+      "kind": "story",
+      "page": 2,
+      "layers": [
+        {
+          "asset": "/art/intro/play.webp",
+          "sourceWidth": 1672,
+          "sourceHeight": 941,
+          "effectivePpi": 142.88,
+          "sampledPixels": {
+            "width": 1672,
+            "height": 941
+          }
+        },
+        {
+          "asset": "/art/family/child-head.webp",
+          "sourceWidth": 1317,
+          "sourceHeight": 1194,
+          "effectivePpi": 529.23,
+          "sampledPixels": {
+            "width": 1317,
+            "height": 1194
+          }
+        }
+      ],
+      "minimumLayerPpi": 142.88
+    },
+    {
+      "bookId": "intro",
+      "title": "你好，我是小石头",
+      "kind": "story",
+      "page": 3,
+      "layers": [
+        {
+          "asset": "/art/intro/greeting.webp",
+          "sourceWidth": 1672,
+          "sourceHeight": 941,
+          "effectivePpi": 208.76,
+          "sampledPixels": {
+            "width": 1672,
+            "height": 941
+          }
+        },
+        {
+          "asset": "/art/family/child-head.webp",
+          "sourceWidth": 1317,
+          "sourceHeight": 1194,
+          "effectivePpi": 773.27,
+          "sampledPixels": {
+            "width": 1317,
+            "height": 1194
+          }
+        }
+      ],
+      "minimumLayerPpi": 208.76
+    },
+    {
+      "bookId": "intro",
+      "title": "你好，我是小石头",
+      "kind": "story",
+      "page": 4,
+      "layers": [
+        {
+          "asset": "/art/intro/play.webp",
+          "sourceWidth": 1672,
+          "sourceHeight": 941,
+          "effectivePpi": 215.7,
+          "sampledPixels": {
+            "width": 1672,
+            "height": 941
+          }
+        },
+        {
+          "asset": "/art/family/child-head.webp",
+          "sourceWidth": 1317,
+          "sourceHeight": 1194,
+          "effectivePpi": 798.99,
+          "sampledPixels": {
+            "width": 1317,
+            "height": 1194
+          }
+        }
+      ],
+      "minimumLayerPpi": 215.7
+    },
+    {
+      "bookId": "intro",
+      "title": "你好，我是小石头",
+      "kind": "story",
+      "page": 5,
+      "layers": [
+        {
+          "asset": "/art/intro/school.webp",
+          "sourceWidth": 1672,
+          "sourceHeight": 941,
+          "effectivePpi": 215.7,
+          "sampledPixels": {
+            "width": 1672,
+            "height": 941
+          }
+        },
+        {
+          "asset": "/art/family/child-head.webp",
+          "sourceWidth": 1317,
+          "sourceHeight": 1194,
+          "effectivePpi": 798.99,
+          "sampledPixels": {
+            "width": 1317,
+            "height": 1194
+          }
+        }
+      ],
+      "minimumLayerPpi": 215.7
+    },
+    {
+      "bookId": "intro",
+      "title": "你好，我是小石头",
+      "kind": "story",
+      "page": 6,
+      "layers": [
+        {
+          "asset": "/art/intro/school.webp",
+          "sourceWidth": 1672,
+          "sourceHeight": 941,
+          "effectivePpi": 148.83,
+          "sampledPixels": {
+            "width": 1672,
+            "height": 941
+          }
+        },
+        {
+          "asset": "/art/family/child-head.webp",
+          "sourceWidth": 1317,
+          "sourceHeight": 1194,
+          "effectivePpi": 551.28,
+          "sampledPixels": {
+            "width": 1317,
+            "height": 1194
+          }
+        }
+      ],
+      "minimumLayerPpi": 148.83
+    },
+    {
+      "bookId": "intro",
+      "title": "你好，我是小石头",
+      "kind": "summary",
+      "page": null,
+      "layers": [],
+      "minimumLayerPpi": null
+    },
+    {
+      "bookId": "flower",
+      "title": "我的花",
+      "kind": "front",
+      "page": null,
+      "layers": [
+        {
+          "asset": "/art/flower/care.webp",
+          "sourceWidth": 1672,
+          "sourceHeight": 941,
+          "effectivePpi": 245.72,
+          "sampledPixels": {
+            "width": 1672,
+            "height": 941
+          }
+        },
+        {
+          "asset": "/art/flower/care-head.webp",
+          "sourceWidth": 1254,
+          "sourceHeight": 1254,
+          "effectivePpi": 690.01,
+          "sampledPixels": {
+            "width": 1254,
+            "height": 1254
+          }
+        }
+      ],
+      "minimumLayerPpi": 245.72
+    },
+    {
+      "bookId": "flower",
+      "title": "我的花",
+      "kind": "story",
+      "page": 1,
+      "layers": [
+        {
+          "asset": "/art/flower/care.webp",
+          "sourceWidth": 1672,
+          "sourceHeight": 941,
+          "effectivePpi": 215.66,
+          "sampledPixels": {
+            "width": 1672,
+            "height": 941
+          }
+        },
+        {
+          "asset": "/art/flower/care-head.webp",
+          "sourceWidth": 1254,
+          "sourceHeight": 1254,
+          "effectivePpi": 605.59,
+          "sampledPixels": {
+            "width": 1254,
+            "height": 1254
+          }
+        }
+      ],
+      "minimumLayerPpi": 215.66
+    },
+    {
+      "bookId": "flower",
+      "title": "我的花",
+      "kind": "story",
+      "page": 2,
+      "layers": [
+        {
+          "asset": "/art/flower/care.webp",
+          "sourceWidth": 1672,
+          "sourceHeight": 941,
+          "effectivePpi": 103.36,
+          "sampledPixels": {
+            "width": 520,
+            "height": 451
+          }
+        }
+      ],
+      "minimumLayerPpi": 103.36
+    },
+    {
+      "bookId": "flower",
+      "title": "我的花",
+      "kind": "story",
+      "page": 3,
+      "layers": [
+        {
+          "asset": "/art/flower/wind.webp",
+          "sourceWidth": 1672,
+          "sourceHeight": 941,
+          "effectivePpi": 215.66,
+          "sampledPixels": {
+            "width": 1672,
+            "height": 941
+          }
+        },
+        {
+          "asset": "/art/flower/petal.webp",
+          "sourceWidth": 1254,
+          "sourceHeight": 1254,
+          "effectivePpi": 2895.86,
+          "sampledPixels": {
+            "width": 1254,
+            "height": 1254
+          }
+        },
+        {
+          "asset": "/art/flower/petal.webp",
+          "sourceWidth": 1254,
+          "sourceHeight": 1254,
+          "effectivePpi": 2895.86,
+          "sampledPixels": {
+            "width": 1254,
+            "height": 1254
+          }
+        },
+        {
+          "asset": "/art/flower/petal.webp",
+          "sourceWidth": 1254,
+          "sourceHeight": 1254,
+          "effectivePpi": 2895.86,
+          "sampledPixels": {
+            "width": 1254,
+            "height": 1254
+          }
+        },
+        {
+          "asset": "/art/flower/petal.webp",
+          "sourceWidth": 1254,
+          "sourceHeight": 1254,
+          "effectivePpi": 2895.86,
+          "sampledPixels": {
+            "width": 1254,
+            "height": 1254
+          }
+        },
+        {
+          "asset": "/art/flower/petal.webp",
+          "sourceWidth": 1254,
+          "sourceHeight": 1254,
+          "effectivePpi": 2751.07,
+          "sampledPixels": {
+            "width": 1254,
+            "height": 1254
+          }
+        },
+        {
+          "asset": "/art/flower/petal.webp",
+          "sourceWidth": 1254,
+          "sourceHeight": 1254,
+          "effectivePpi": 2751.07,
+          "sampledPixels": {
+            "width": 1254,
+            "height": 1254
+          }
+        },
+        {
+          "asset": "/art/flower/petal.webp",
+          "sourceWidth": 1254,
+          "sourceHeight": 1254,
+          "effectivePpi": 2751.07,
+          "sampledPixels": {
+            "width": 1254,
+            "height": 1254
+          }
+        },
+        {
+          "asset": "/art/flower/petal.webp",
+          "sourceWidth": 1254,
+          "sourceHeight": 1254,
+          "effectivePpi": 2751.07,
+          "sampledPixels": {
+            "width": 1254,
+            "height": 1254
+          }
+        },
+        {
+          "asset": "/art/flower/petal.webp",
+          "sourceWidth": 1254,
+          "sourceHeight": 1254,
+          "effectivePpi": 2751.07,
+          "sampledPixels": {
+            "width": 1254,
+            "height": 1254
+          }
+        },
+        {
+          "asset": "/art/flower/petal.webp",
+          "sourceWidth": 1254,
+          "sourceHeight": 1254,
+          "effectivePpi": 2751.07,
+          "sampledPixels": {
+            "width": 1254,
+            "height": 1254
+          }
+        },
+        {
+          "asset": "/art/flower/petal.webp",
+          "sourceWidth": 1254,
+          "sourceHeight": 1254,
+          "effectivePpi": 2751.07,
+          "sampledPixels": {
+            "width": 1254,
+            "height": 1254
+          }
+        },
+        {
+          "asset": "/art/flower/wind-head.webp",
+          "sourceWidth": 1254,
+          "sourceHeight": 1254,
+          "effectivePpi": 737.07,
+          "sampledPixels": {
+            "width": 1254,
+            "height": 1254
+          }
+        }
+      ],
+      "minimumLayerPpi": 215.66
+    },
+    {
+      "bookId": "flower",
+      "title": "我的花",
+      "kind": "story",
+      "page": 4,
+      "layers": [
+        {
+          "asset": "/art/flower/wind.webp",
+          "sourceWidth": 1672,
+          "sourceHeight": 941,
+          "effectivePpi": 215.66,
+          "sampledPixels": {
+            "width": 1672,
+            "height": 941
+          }
+        },
+        {
+          "asset": "/art/flower/petal.webp",
+          "sourceWidth": 1254,
+          "sourceHeight": 1254,
+          "effectivePpi": 3527.01,
+          "sampledPixels": {
+            "width": 1254,
+            "height": 1254
+          }
+        },
+        {
+          "asset": "/art/flower/petal.webp",
+          "sourceWidth": 1254,
+          "sourceHeight": 1254,
+          "effectivePpi": 3527.01,
+          "sampledPixels": {
+            "width": 1254,
+            "height": 1254
+          }
+        },
+        {
+          "asset": "/art/flower/petal.webp",
+          "sourceWidth": 1254,
+          "sourceHeight": 1254,
+          "effectivePpi": 3527.01,
+          "sampledPixels": {
+            "width": 1254,
+            "height": 1254
+          }
+        },
+        {
+          "asset": "/art/flower/petal.webp",
+          "sourceWidth": 1254,
+          "sourceHeight": 1254,
+          "effectivePpi": 3527.01,
+          "sampledPixels": {
+            "width": 1254,
+            "height": 1254
+          }
+        },
+        {
+          "asset": "/art/flower/petal.webp",
+          "sourceWidth": 1254,
+          "sourceHeight": 1254,
+          "effectivePpi": 2895.86,
+          "sampledPixels": {
+            "width": 1254,
+            "height": 1254
+          }
+        },
+        {
+          "asset": "/art/flower/petal.webp",
+          "sourceWidth": 1254,
+          "sourceHeight": 1254,
+          "effectivePpi": 2895.86,
+          "sampledPixels": {
+            "width": 1254,
+            "height": 1254
+          }
+        },
+        {
+          "asset": "/art/flower/petal.webp",
+          "sourceWidth": 1254,
+          "sourceHeight": 1254,
+          "effectivePpi": 2895.86,
+          "sampledPixels": {
+            "width": 1254,
+            "height": 1254
+          }
+        },
+        {
+          "asset": "/art/flower/petal.webp",
+          "sourceWidth": 1254,
+          "sourceHeight": 1254,
+          "effectivePpi": 2895.86,
+          "sampledPixels": {
+            "width": 1254,
+            "height": 1254
+          }
+        },
+        {
+          "asset": "/art/flower/petal.webp",
+          "sourceWidth": 1254,
+          "sourceHeight": 1254,
+          "effectivePpi": 2751.07,
+          "sampledPixels": {
+            "width": 1254,
+            "height": 1254
+          }
+        },
+        {
+          "asset": "/art/flower/petal.webp",
+          "sourceWidth": 1254,
+          "sourceHeight": 1254,
+          "effectivePpi": 2751.07,
+          "sampledPixels": {
+            "width": 1254,
+            "height": 1254
+          }
+        },
+        {
+          "asset": "/art/flower/petal.webp",
+          "sourceWidth": 1254,
+          "sourceHeight": 1254,
+          "effectivePpi": 2751.07,
+          "sampledPixels": {
+            "width": 1254,
+            "height": 1254
+          }
+        },
+        {
+          "asset": "/art/flower/wind-head.webp",
+          "sourceWidth": 1254,
+          "sourceHeight": 1254,
+          "effectivePpi": 737.07,
+          "sampledPixels": {
+            "width": 1254,
+            "height": 1254
+          }
+        }
+      ],
+      "minimumLayerPpi": 215.66
+    },
+    {
+      "bookId": "flower",
+      "title": "我的花",
+      "kind": "story",
+      "page": 5,
+      "layers": [
+        {
+          "asset": "/art/flower/wind.webp",
+          "sourceWidth": 1672,
+          "sourceHeight": 941,
+          "effectivePpi": 215.66,
+          "sampledPixels": {
+            "width": 1672,
+            "height": 941
+          }
+        },
+        {
+          "asset": "/art/flower/petal.webp",
+          "sourceWidth": 1254,
+          "sourceHeight": 1254,
+          "effectivePpi": 3527.01,
+          "sampledPixels": {
+            "width": 1254,
+            "height": 1254
+          }
+        },
+        {
+          "asset": "/art/flower/petal.webp",
+          "sourceWidth": 1254,
+          "sourceHeight": 1254,
+          "effectivePpi": 3527.01,
+          "sampledPixels": {
+            "width": 1254,
+            "height": 1254
+          }
+        },
+        {
+          "asset": "/art/flower/petal.webp",
+          "sourceWidth": 1254,
+          "sourceHeight": 1254,
+          "effectivePpi": 3527.01,
+          "sampledPixels": {
+            "width": 1254,
+            "height": 1254
+          }
+        },
+        {
+          "asset": "/art/flower/petal.webp",
+          "sourceWidth": 1254,
+          "sourceHeight": 1254,
+          "effectivePpi": 3527.01,
+          "sampledPixels": {
+            "width": 1254,
+            "height": 1254
+          }
+        },
+        {
+          "asset": "/art/flower/petal.webp",
+          "sourceWidth": 1254,
+          "sourceHeight": 1254,
+          "effectivePpi": 3527.01,
+          "sampledPixels": {
+            "width": 1254,
+            "height": 1254
+          }
+        },
+        {
+          "asset": "/art/flower/petal.webp",
+          "sourceWidth": 1254,
+          "sourceHeight": 1254,
+          "effectivePpi": 3527.01,
+          "sampledPixels": {
+            "width": 1254,
+            "height": 1254
+          }
+        },
+        {
+          "asset": "/art/flower/petal.webp",
+          "sourceWidth": 1254,
+          "sourceHeight": 1254,
+          "effectivePpi": 3527.01,
+          "sampledPixels": {
+            "width": 1254,
+            "height": 1254
+          }
+        },
+        {
+          "asset": "/art/flower/petal.webp",
+          "sourceWidth": 1254,
+          "sourceHeight": 1254,
+          "effectivePpi": 3527.01,
+          "sampledPixels": {
+            "width": 1254,
+            "height": 1254
+          }
+        },
+        {
+          "asset": "/art/flower/petal.webp",
+          "sourceWidth": 1254,
+          "sourceHeight": 1254,
+          "effectivePpi": 2895.86,
+          "sampledPixels": {
+            "width": 1254,
+            "height": 1254
+          }
+        },
+        {
+          "asset": "/art/flower/petal.webp",
+          "sourceWidth": 1254,
+          "sourceHeight": 1254,
+          "effectivePpi": 2895.86,
+          "sampledPixels": {
+            "width": 1254,
+            "height": 1254
+          }
+        },
+        {
+          "asset": "/art/flower/petal.webp",
+          "sourceWidth": 1254,
+          "sourceHeight": 1254,
+          "effectivePpi": 2895.86,
+          "sampledPixels": {
+            "width": 1254,
+            "height": 1254
+          }
+        },
+        {
+          "asset": "/art/flower/wind-head.webp",
+          "sourceWidth": 1254,
+          "sourceHeight": 1254,
+          "effectivePpi": 737.07,
+          "sampledPixels": {
+            "width": 1254,
+            "height": 1254
+          }
+        }
+      ],
+      "minimumLayerPpi": 215.66
+    },
+    {
+      "bookId": "flower",
+      "title": "我的花",
+      "kind": "story",
+      "page": 6,
+      "layers": [
+        {
+          "asset": "/art/flower/search.webp",
+          "sourceWidth": 1672,
+          "sourceHeight": 941,
+          "effectivePpi": 215.66,
+          "sampledPixels": {
+            "width": 1672,
+            "height": 941
+          }
+        },
+        {
+          "asset": "/art/flower/search-head.webp",
+          "sourceWidth": 1254,
+          "sourceHeight": 1254,
+          "effectivePpi": 517.61,
+          "sampledPixels": {
+            "width": 1254,
+            "height": 1254
+          }
+        }
+      ],
+      "minimumLayerPpi": 215.66
+    },
+    {
+      "bookId": "flower",
+      "title": "我的花",
+      "kind": "summary",
+      "page": null,
+      "layers": [],
+      "minimumLayerPpi": null
+    },
+    {
+      "bookId": "family",
+      "title": "我家有几口人？",
+      "kind": "front",
+      "page": null,
+      "layers": [
+        {
+          "asset": "/art/family/courtyard.webp",
+          "sourceWidth": 1672,
+          "sourceHeight": 941,
+          "effectivePpi": 245.72,
+          "sampledPixels": {
+            "width": 1238.157894736842,
+            "height": 941.0000000000001
+          }
+        },
+        {
+          "asset": "/art/family/bodies.webp",
+          "sourceWidth": 1254,
+          "sourceHeight": 1254,
+          "effectivePpi": 287.18,
+          "sampledPixels": {
+            "width": 627,
+            "height": 627
+          }
+        },
+        {
+          "asset": "/art/family/heads.webp",
+          "sourceWidth": 1254,
+          "sourceHeight": 1254,
+          "effectivePpi": 580.32,
+          "sampledPixels": {
+            "width": 627,
+            "height": 627
+          }
+        },
+        {
+          "asset": "/art/family/bodies.webp",
+          "sourceWidth": 1254,
+          "sourceHeight": 1254,
+          "effectivePpi": 273.99,
+          "sampledPixels": {
+            "width": 627,
+            "height": 627
+          }
+        },
+        {
+          "asset": "/art/family/heads.webp",
+          "sourceWidth": 1254,
+          "sourceHeight": 1254,
+          "effectivePpi": 540.95,
+          "sampledPixels": {
+            "width": 627,
+            "height": 610
+          }
+        },
+        {
+          "asset": "/art/family/child-body.webp",
+          "sourceWidth": 1024,
+          "sourceHeight": 1536,
+          "effectivePpi": 1131.31,
+          "sampledPixels": {
+            "width": 1024,
+            "height": 1536
+          }
+        },
+        {
+          "asset": "/art/family/child-head.webp",
+          "sourceWidth": 1317,
+          "sourceHeight": 1194,
+          "effectivePpi": 1257.67,
+          "sampledPixels": {
+            "width": 1317,
+            "height": 1194
+          }
+        }
+      ],
+      "minimumLayerPpi": 245.72
+    },
+    {
+      "bookId": "family",
+      "title": "我家有几口人？",
+      "kind": "story",
+      "page": 1,
+      "layers": [
+        {
+          "asset": "/art/family/courtyard.webp",
+          "sourceWidth": 1672,
+          "sourceHeight": 941,
+          "effectivePpi": 215.66,
+          "sampledPixels": {
+            "width": 1086.8,
+            "height": 941
+          }
+        },
+        {
+          "asset": "/art/family/child-body.webp",
+          "sourceWidth": 1024,
+          "sourceHeight": 1536,
+          "effectivePpi": 1085.94,
+          "sampledPixels": {
+            "width": 1024,
+            "height": 1536
+          }
+        },
+        {
+          "asset": "/art/family/child-head.webp",
+          "sourceWidth": 1317,
+          "sourceHeight": 1194,
+          "effectivePpi": 1207.23,
+          "sampledPixels": {
+            "width": 1317,
+            "height": 1194
+          }
+        },
+        {
+          "asset": "/art/family/bodies.webp",
+          "sourceWidth": 1254,
+          "sourceHeight": 1254,
+          "effectivePpi": 275.66,
+          "sampledPixels": {
+            "width": 627,
+            "height": 627
+          }
+        },
+        {
+          "asset": "/art/family/heads.webp",
+          "sourceWidth": 1254,
+          "sourceHeight": 1254,
+          "effectivePpi": 557.04,
+          "sampledPixels": {
+            "width": 627,
+            "height": 627
+          }
+        },
+        {
+          "asset": "/art/family/bodies.webp",
+          "sourceWidth": 1254,
+          "sourceHeight": 1254,
+          "effectivePpi": 263,
+          "sampledPixels": {
+            "width": 627,
+            "height": 627
+          }
+        },
+        {
+          "asset": "/art/family/heads.webp",
+          "sourceWidth": 1254,
+          "sourceHeight": 1254,
+          "effectivePpi": 519.26,
+          "sampledPixels": {
+            "width": 627,
+            "height": 610
+          }
+        }
+      ],
+      "minimumLayerPpi": 215.66
+    },
+    {
+      "bookId": "family",
+      "title": "我家有几口人？",
+      "kind": "story",
+      "page": 2,
+      "layers": [
+        {
+          "asset": "/art/family/courtyard.webp",
+          "sourceWidth": 1672,
+          "sourceHeight": 941,
+          "effectivePpi": 185.47,
+          "sampledPixels": {
+            "width": 934.6479999999999,
+            "height": 809.26
+          }
+        },
+        {
+          "asset": "/art/family/bodies.webp",
+          "sourceWidth": 1254,
+          "sourceHeight": 1254,
+          "effectivePpi": 260.74,
+          "sampledPixels": {
+            "width": 627,
+            "height": 627
+          }
+        },
+        {
+          "asset": "/art/family/heads.webp",
+          "sourceWidth": 1254,
+          "sourceHeight": 1254,
+          "effectivePpi": 526.89,
+          "sampledPixels": {
+            "width": 627,
+            "height": 627
+          }
+        },
+        {
+          "asset": "/art/family/child-body.webp",
+          "sourceWidth": 1024,
+          "sourceHeight": 1536,
+          "effectivePpi": 1027.16,
+          "sampledPixels": {
+            "width": 1024,
+            "height": 1536
+          }
+        },
+        {
+          "asset": "/art/family/child-head.webp",
+          "sourceWidth": 1317,
+          "sourceHeight": 1194,
+          "effectivePpi": 1141.88,
+          "sampledPixels": {
+            "width": 1317,
+            "height": 1194
+          }
+        }
+      ],
+      "minimumLayerPpi": 185.47
+    },
+    {
+      "bookId": "family",
+      "title": "我家有几口人？",
+      "kind": "story",
+      "page": 3,
+      "layers": [
+        {
+          "asset": "/art/family/courtyard.webp",
+          "sourceWidth": 1672,
+          "sourceHeight": 941,
+          "effectivePpi": 185.47,
+          "sampledPixels": {
+            "width": 934.6479999999999,
+            "height": 809.26
+          }
+        },
+        {
+          "asset": "/art/family/bodies.webp",
+          "sourceWidth": 1254,
+          "sourceHeight": 1254,
+          "effectivePpi": 250.7,
+          "sampledPixels": {
+            "width": 627,
+            "height": 627
+          }
+        },
+        {
+          "asset": "/art/family/heads.webp",
+          "sourceWidth": 1254,
+          "sourceHeight": 1254,
+          "effectivePpi": 494.97,
+          "sampledPixels": {
+            "width": 627,
+            "height": 610
+          }
+        },
+        {
+          "asset": "/art/family/child-body.webp",
+          "sourceWidth": 1024,
+          "sourceHeight": 1536,
+          "effectivePpi": 1035.14,
+          "sampledPixels": {
+            "width": 1024,
+            "height": 1536
+          }
+        },
+        {
+          "asset": "/art/family/child-head.webp",
+          "sourceWidth": 1317,
+          "sourceHeight": 1194,
+          "effectivePpi": 1150.76,
+          "sampledPixels": {
+            "width": 1317,
+            "height": 1194
+          }
+        }
+      ],
+      "minimumLayerPpi": 185.47
+    },
+    {
+      "bookId": "family",
+      "title": "我家有几口人？",
+      "kind": "story",
+      "page": 4,
+      "layers": [
+        {
+          "asset": "/art/family/courtyard.webp",
+          "sourceWidth": 1672,
+          "sourceHeight": 941,
+          "effectivePpi": 215.66,
+          "sampledPixels": {
+            "width": 1086.8,
+            "height": 941
+          }
+        },
+        {
+          "asset": "/art/family/bodies.webp",
+          "sourceWidth": 1254,
+          "sourceHeight": 1254,
+          "effectivePpi": 252.05,
+          "sampledPixels": {
+            "width": 627,
+            "height": 627
+          }
+        },
+        {
+          "asset": "/art/family/heads.webp",
+          "sourceWidth": 1254,
+          "sourceHeight": 1254,
+          "effectivePpi": 509.32,
+          "sampledPixels": {
+            "width": 627,
+            "height": 627
+          }
+        },
+        {
+          "asset": "/art/family/bodies.webp",
+          "sourceWidth": 1254,
+          "sourceHeight": 1254,
+          "effectivePpi": 240.47,
+          "sampledPixels": {
+            "width": 627,
+            "height": 627
+          }
+        },
+        {
+          "asset": "/art/family/heads.webp",
+          "sourceWidth": 1254,
+          "sourceHeight": 1254,
+          "effectivePpi": 474.77,
+          "sampledPixels": {
+            "width": 627,
+            "height": 610
+          }
+        }
+      ],
+      "minimumLayerPpi": 215.66
+    },
+    {
+      "bookId": "family",
+      "title": "我家有几口人？",
+      "kind": "story",
+      "page": 5,
+      "layers": [
+        {
+          "asset": "/art/family/courtyard.webp",
+          "sourceWidth": 1672,
+          "sourceHeight": 941,
+          "effectivePpi": 215.66,
+          "sampledPixels": {
+            "width": 1086.8,
+            "height": 941
+          }
+        },
+        {
+          "asset": "/art/family/bodies.webp",
+          "sourceWidth": 1254,
+          "sourceHeight": 1254,
+          "effectivePpi": 360.07,
+          "sampledPixels": {
+            "width": 627,
+            "height": 627
+          }
+        },
+        {
+          "asset": "/art/family/heads.webp",
+          "sourceWidth": 1254,
+          "sourceHeight": 1254,
+          "effectivePpi": 727.6,
+          "sampledPixels": {
+            "width": 627,
+            "height": 627
+          }
+        },
+        {
+          "asset": "/art/family/bodies.webp",
+          "sourceWidth": 1254,
+          "sourceHeight": 1254,
+          "effectivePpi": 343.53,
+          "sampledPixels": {
+            "width": 627,
+            "height": 627
+          }
+        },
+        {
+          "asset": "/art/family/heads.webp",
+          "sourceWidth": 1254,
+          "sourceHeight": 1254,
+          "effectivePpi": 678.25,
+          "sampledPixels": {
+            "width": 627,
+            "height": 610
+          }
+        },
+        {
+          "asset": "/art/family/child-body.webp",
+          "sourceWidth": 1024,
+          "sourceHeight": 1536,
+          "effectivePpi": 1418.44,
+          "sampledPixels": {
+            "width": 1024,
+            "height": 1536
+          }
+        },
+        {
+          "asset": "/art/family/child-head.webp",
+          "sourceWidth": 1317,
+          "sourceHeight": 1194,
+          "effectivePpi": 1576.87,
+          "sampledPixels": {
+            "width": 1317,
+            "height": 1194
+          }
+        }
+      ],
+      "minimumLayerPpi": 215.66
+    },
+    {
+      "bookId": "family",
+      "title": "我家有几口人？",
+      "kind": "story",
+      "page": 6,
+      "layers": [
+        {
+          "asset": "/art/family/courtyard.webp",
+          "sourceWidth": 1672,
+          "sourceHeight": 941,
+          "effectivePpi": 215.66,
+          "sampledPixels": {
+            "width": 1086.8,
+            "height": 941
+          }
+        },
+        {
+          "asset": "/art/family/bodies.webp",
+          "sourceWidth": 1254,
+          "sourceHeight": 1254,
+          "effectivePpi": 379.02,
+          "sampledPixels": {
+            "width": 627,
+            "height": 627
+          }
+        },
+        {
+          "asset": "/art/family/heads.webp",
+          "sourceWidth": 1254,
+          "sourceHeight": 1254,
+          "effectivePpi": 765.9,
+          "sampledPixels": {
+            "width": 627,
+            "height": 627
+          }
+        },
+        {
+          "asset": "/art/family/bodies.webp",
+          "sourceWidth": 1254,
+          "sourceHeight": 1254,
+          "effectivePpi": 361.61,
+          "sampledPixels": {
+            "width": 627,
+            "height": 627
+          }
+        },
+        {
+          "asset": "/art/family/heads.webp",
+          "sourceWidth": 1254,
+          "sourceHeight": 1254,
+          "effectivePpi": 713.94,
+          "sampledPixels": {
+            "width": 627,
+            "height": 610
+          }
+        },
+        {
+          "asset": "/art/family/child-body.webp",
+          "sourceWidth": 1024,
+          "sourceHeight": 1536,
+          "effectivePpi": 1493.1,
+          "sampledPixels": {
+            "width": 1024,
+            "height": 1536
+          }
+        },
+        {
+          "asset": "/art/family/child-head.webp",
+          "sourceWidth": 1317,
+          "sourceHeight": 1194,
+          "effectivePpi": 1659.87,
+          "sampledPixels": {
+            "width": 1317,
+            "height": 1194
+          }
+        }
+      ],
+      "minimumLayerPpi": 215.66
+    },
+    {
+      "bookId": "family",
+      "title": "我家有几口人？",
+      "kind": "story",
+      "page": 7,
+      "layers": [
+        {
+          "asset": "/art/family/courtyard.webp",
+          "sourceWidth": 1672,
+          "sourceHeight": 941,
+          "effectivePpi": 215.66,
+          "sampledPixels": {
+            "width": 1086.8,
+            "height": 941
+          }
+        },
+        {
+          "asset": "/art/family/child-body.webp",
+          "sourceWidth": 1024,
+          "sourceHeight": 1536,
+          "effectivePpi": 1143.55,
+          "sampledPixels": {
+            "width": 1024,
+            "height": 1536
+          }
+        },
+        {
+          "asset": "/art/family/child-head.webp",
+          "sourceWidth": 1317,
+          "sourceHeight": 1194,
+          "effectivePpi": 1271.27,
+          "sampledPixels": {
+            "width": 1317,
+            "height": 1194
+          }
+        },
+        {
+          "asset": "/art/family/bodies.webp",
+          "sourceWidth": 1254,
+          "sourceHeight": 1254,
+          "effectivePpi": 290.28,
+          "sampledPixels": {
+            "width": 627,
+            "height": 627
+          }
+        },
+        {
+          "asset": "/art/family/heads.webp",
+          "sourceWidth": 1254,
+          "sourceHeight": 1254,
+          "effectivePpi": 586.59,
+          "sampledPixels": {
+            "width": 627,
+            "height": 627
+          }
+        },
+        {
+          "asset": "/art/family/bodies.webp",
+          "sourceWidth": 1254,
+          "sourceHeight": 1254,
+          "effectivePpi": 276.96,
+          "sampledPixels": {
+            "width": 627,
+            "height": 627
+          }
+        },
+        {
+          "asset": "/art/family/heads.webp",
+          "sourceWidth": 1254,
+          "sourceHeight": 1254,
+          "effectivePpi": 546.8,
+          "sampledPixels": {
+            "width": 627,
+            "height": 610
+          }
+        }
+      ],
+      "minimumLayerPpi": 215.66
+    },
+    {
+      "bookId": "family",
+      "title": "我家有几口人？",
+      "kind": "summary",
+      "page": null,
+      "layers": [],
+      "minimumLayerPpi": null
+    },
+    {
+      "bookId": "hands",
+      "title": "我的小手",
+      "kind": "front",
+      "page": null,
+      "layers": [
+        {
+          "asset": "/art/sequence/hands/hands-open.webp",
+          "sourceWidth": 1672,
+          "sourceHeight": 941,
+          "effectivePpi": 238.93,
+          "sampledPixels": {
+            "width": 1672,
+            "height": 941
+          }
+        },
+        {
+          "asset": "/art/sequence/hands/curious-head.webp",
+          "sourceWidth": 1317,
+          "sourceHeight": 1194,
+          "effectivePpi": 1078.26,
+          "sampledPixels": {
+            "width": 1317,
+            "height": 1194
+          }
+        }
+      ],
+      "minimumLayerPpi": 238.93
+    },
+    {
+      "bookId": "hands",
+      "title": "我的小手",
+      "kind": "story",
+      "page": 1,
+      "layers": [
+        {
+          "asset": "/art/sequence/hands/hands-show.webp",
+          "sourceWidth": 1672,
+          "sourceHeight": 941,
+          "effectivePpi": 182.51,
+          "sampledPixels": {
+            "width": 1672,
+            "height": 941
+          }
+        },
+        {
+          "asset": "/art/family/child-head.webp",
+          "sourceWidth": 1317,
+          "sourceHeight": 1194,
+          "effectivePpi": 832.04,
+          "sampledPixels": {
+            "width": 1317,
+            "height": 1194
+          }
+        }
+      ],
+      "minimumLayerPpi": 182.51
+    },
+    {
+      "bookId": "hands",
+      "title": "我的小手",
+      "kind": "story",
+      "page": 2,
+      "layers": [
+        {
+          "asset": "/art/sequence/hands/hands-open.webp",
+          "sourceWidth": 1672,
+          "sourceHeight": 941,
+          "effectivePpi": 182.51,
+          "sampledPixels": {
+            "width": 1672,
+            "height": 941
+          }
+        },
+        {
+          "asset": "/art/sequence/hands/curious-head.webp",
+          "sourceWidth": 1317,
+          "sourceHeight": 1194,
+          "effectivePpi": 823.61,
+          "sampledPixels": {
+            "width": 1317,
+            "height": 1194
+          }
+        }
+      ],
+      "minimumLayerPpi": 182.51
+    },
+    {
+      "bookId": "hands",
+      "title": "我的小手",
+      "kind": "story",
+      "page": 3,
+      "layers": [
+        {
+          "asset": "/art/sequence/hands/hands-closed.webp",
+          "sourceWidth": 1672,
+          "sourceHeight": 941,
+          "effectivePpi": 182.51,
+          "sampledPixels": {
+            "width": 1672,
+            "height": 941
+          }
+        },
+        {
+          "asset": "/art/sequence/hands/curious-head.webp",
+          "sourceWidth": 1317,
+          "sourceHeight": 1194,
+          "effectivePpi": 823.61,
+          "sampledPixels": {
+            "width": 1317,
+            "height": 1194
+          }
+        }
+      ],
+      "minimumLayerPpi": 182.51
+    },
+    {
+      "bookId": "hands",
+      "title": "我的小手",
+      "kind": "story",
+      "page": 4,
+      "layers": [
+        {
+          "asset": "/art/sequence/hands/hands-closed.webp",
+          "sourceWidth": 1672,
+          "sourceHeight": 941,
+          "effectivePpi": 142.88,
+          "sampledPixels": {
+            "width": 1672,
+            "height": 941
+          }
+        },
+        {
+          "asset": "/art/sequence/hands/curious-head.webp",
+          "sourceWidth": 1317,
+          "sourceHeight": 1194,
+          "effectivePpi": 644.77,
+          "sampledPixels": {
+            "width": 1317,
+            "height": 1194
+          }
+        }
+      ],
+      "minimumLayerPpi": 142.88
+    },
+    {
+      "bookId": "hands",
+      "title": "我的小手",
+      "kind": "story",
+      "page": 5,
+      "layers": [
+        {
+          "asset": "/art/sequence/hands/hands-open.webp",
+          "sourceWidth": 1672,
+          "sourceHeight": 941,
+          "effectivePpi": 160.98,
+          "sampledPixels": {
+            "width": 1672,
+            "height": 941
+          }
+        },
+        {
+          "asset": "/art/sequence/hands/curious-head.webp",
+          "sourceWidth": 1317,
+          "sourceHeight": 1194,
+          "effectivePpi": 726.46,
+          "sampledPixels": {
+            "width": 1317,
+            "height": 1194
+          }
+        }
+      ],
+      "minimumLayerPpi": 160.98
+    },
+    {
+      "bookId": "hands",
+      "title": "我的小手",
+      "kind": "story",
+      "page": 6,
+      "layers": [
+        {
+          "asset": "/art/sequence/hands/hands-open.webp",
+          "sourceWidth": 1672,
+          "sourceHeight": 941,
+          "effectivePpi": 142.88,
+          "sampledPixels": {
+            "width": 1672,
+            "height": 941
+          }
+        },
+        {
+          "asset": "/art/sequence/hands/curious-head.webp",
+          "sourceWidth": 1317,
+          "sourceHeight": 1194,
+          "effectivePpi": 644.77,
+          "sampledPixels": {
+            "width": 1317,
+            "height": 1194
+          }
+        }
+      ],
+      "minimumLayerPpi": 142.88
+    },
+    {
+      "bookId": "hands",
+      "title": "我的小手",
+      "kind": "summary",
+      "page": null,
+      "layers": [],
+      "minimumLayerPpi": null
+    },
+    {
+      "bookId": "rain",
+      "title": "下雨了",
+      "kind": "front",
+      "page": null,
+      "layers": [
+        {
+          "asset": "/art/sequence/rain/rain-shelter.webp",
+          "sourceWidth": 1672,
+          "sourceHeight": 941,
+          "effectivePpi": 237.63,
+          "sampledPixels": {
+            "width": 1672,
+            "height": 941
+          }
+        },
+        {
+          "asset": "/art/sequence/rain/curious-head.webp",
+          "sourceWidth": 1317,
+          "sourceHeight": 1194,
+          "effectivePpi": 909.18,
+          "sampledPixels": {
+            "width": 1317,
+            "height": 1194
+          }
+        }
+      ],
+      "minimumLayerPpi": 237.63
+    },
+    {
+      "bookId": "rain",
+      "title": "下雨了",
+      "kind": "story",
+      "page": 1,
+      "layers": [
+        {
+          "asset": "/art/sequence/rain/rain-sky.webp",
+          "sourceWidth": 1672,
+          "sourceHeight": 941,
+          "effectivePpi": 215.7,
+          "sampledPixels": {
+            "width": 1672,
+            "height": 941
+          }
+        }
+      ],
+      "minimumLayerPpi": 215.7
+    },
+    {
+      "bookId": "rain",
+      "title": "下雨了",
+      "kind": "story",
+      "page": 2,
+      "layers": [
+        {
+          "asset": "/art/sequence/rain/rain-alone.webp",
+          "sourceWidth": 1672,
+          "sourceHeight": 941,
+          "effectivePpi": 110.55,
+          "sampledPixels": {
+            "width": 1672,
+            "height": 941
+          }
+        }
+      ],
+      "minimumLayerPpi": 110.55
+    },
+    {
+      "bookId": "rain",
+      "title": "下雨了",
+      "kind": "story",
+      "page": 3,
+      "layers": [
+        {
+          "asset": "/art/sequence/rain/rain-alone.webp",
+          "sourceWidth": 1672,
+          "sourceHeight": 941,
+          "effectivePpi": 195.46,
+          "sampledPixels": {
+            "width": 1672,
+            "height": 941
+          }
+        },
+        {
+          "asset": "/art/sequence/rain/curious-head.webp",
+          "sourceWidth": 1317,
+          "sourceHeight": 1194,
+          "effectivePpi": 929.76,
+          "sampledPixels": {
+            "width": 1317,
+            "height": 1194
+          }
+        }
+      ],
+      "minimumLayerPpi": 195.46
+    },
+    {
+      "bookId": "rain",
+      "title": "下雨了",
+      "kind": "story",
+      "page": 4,
+      "layers": [
+        {
+          "asset": "/art/sequence/rain/rain-alone.webp",
+          "sourceWidth": 1672,
+          "sourceHeight": 941,
+          "effectivePpi": 81.46,
+          "sampledPixels": {
+            "width": 1672,
+            "height": 941
+          }
+        }
+      ],
+      "minimumLayerPpi": 81.46
+    },
+    {
+      "bookId": "rain",
+      "title": "下雨了",
+      "kind": "story",
+      "page": 5,
+      "layers": [
+        {
+          "asset": "/art/sequence/rain/rain-alone.webp",
+          "sourceWidth": 1672,
+          "sourceHeight": 941,
+          "effectivePpi": 190.5,
+          "sampledPixels": {
+            "width": 1672,
+            "height": 941
+          }
+        },
+        {
+          "asset": "/art/sequence/rain/curious-head.webp",
+          "sourceWidth": 1317,
+          "sourceHeight": 1194,
+          "effectivePpi": 906.16,
+          "sampledPixels": {
+            "width": 1317,
+            "height": 1194
+          }
+        }
+      ],
+      "minimumLayerPpi": 190.5
+    },
+    {
+      "bookId": "rain",
+      "title": "下雨了",
+      "kind": "story",
+      "page": 6,
+      "layers": [
+        {
+          "asset": "/art/sequence/rain/rain-walk.webp",
+          "sourceWidth": 1672,
+          "sourceHeight": 941,
+          "effectivePpi": 186.53,
+          "sampledPixels": {
+            "width": 1672,
+            "height": 941
+          }
+        },
+        {
+          "asset": "/art/sequence/rain/curious-head.webp",
+          "sourceWidth": 1317,
+          "sourceHeight": 1194,
+          "effectivePpi": 887.28,
+          "sampledPixels": {
+            "width": 1317,
+            "height": 1194
+          }
+        }
+      ],
+      "minimumLayerPpi": 186.53
+    },
+    {
+      "bookId": "rain",
+      "title": "下雨了",
+      "kind": "story",
+      "page": 7,
+      "layers": [
+        {
+          "asset": "/art/sequence/rain/rain-shelter.webp",
+          "sourceWidth": 1672,
+          "sourceHeight": 941,
+          "effectivePpi": 190.5,
+          "sampledPixels": {
+            "width": 1672,
+            "height": 941
+          }
+        },
+        {
+          "asset": "/art/sequence/rain/curious-head.webp",
+          "sourceWidth": 1317,
+          "sourceHeight": 1194,
+          "effectivePpi": 728.87,
+          "sampledPixels": {
+            "width": 1317,
+            "height": 1194
+          }
+        }
+      ],
+      "minimumLayerPpi": 190.5
+    },
+    {
+      "bookId": "rain",
+      "title": "下雨了",
+      "kind": "story",
+      "page": 8,
+      "layers": [
+        {
+          "asset": "/art/sequence/rain/rain-shelter.webp",
+          "sourceWidth": 1672,
+          "sourceHeight": 941,
+          "effectivePpi": 172.61,
+          "sampledPixels": {
+            "width": 1672,
+            "height": 941
+          }
+        },
+        {
+          "asset": "/art/sequence/rain/curious-head.webp",
+          "sourceWidth": 1317,
+          "sourceHeight": 1194,
+          "effectivePpi": 660.43,
+          "sampledPixels": {
+            "width": 1317,
+            "height": 1194
+          }
+        }
+      ],
+      "minimumLayerPpi": 172.61
+    },
+    {
+      "bookId": "rain",
+      "title": "下雨了",
+      "kind": "summary",
+      "page": null,
+      "layers": [],
+      "minimumLayerPpi": null
+    },
+    {
+      "bookId": "stone",
+      "title": "小石头回家",
+      "kind": "front",
+      "page": null,
+      "layers": [
+        {
+          "asset": "/art/sequence/stone/stone-home.webp",
+          "sourceWidth": 1672,
+          "sourceHeight": 941,
+          "effectivePpi": 245.72,
+          "sampledPixels": {
+            "width": 1672,
+            "height": 941
+          }
+        },
+        {
+          "asset": "/art/sequence/stone/stone-curious-head.webp",
+          "sourceWidth": 1317,
+          "sourceHeight": 1194,
+          "effectivePpi": 896.3,
+          "sampledPixels": {
+            "width": 1317,
+            "height": 1194
+          }
+        }
+      ],
+      "minimumLayerPpi": 245.72
+    },
+    {
+      "bookId": "stone",
+      "title": "小石头回家",
+      "kind": "story",
+      "page": 1,
+      "layers": [
+        {
+          "asset": "/art/sequence/stone/stone-home.webp",
+          "sourceWidth": 1672,
+          "sourceHeight": 941,
+          "effectivePpi": 215.7,
+          "sampledPixels": {
+            "width": 1672,
+            "height": 941
+          }
+        },
+        {
+          "asset": "/art/sequence/stone/stone-curious-head.webp",
+          "sourceWidth": 1317,
+          "sourceHeight": 1194,
+          "effectivePpi": 786.8,
+          "sampledPixels": {
+            "width": 1317,
+            "height": 1194
+          }
+        }
+      ],
+      "minimumLayerPpi": 215.7
+    },
+    {
+      "bookId": "stone",
+      "title": "小石头回家",
+      "kind": "story",
+      "page": 2,
+      "layers": [
+        {
+          "asset": "/art/sequence/stone/stone-home.webp",
+          "sourceWidth": 1672,
+          "sourceHeight": 941,
+          "effectivePpi": 87.31,
+          "sampledPixels": {
+            "width": 1672,
+            "height": 941
+          }
+        }
+      ],
+      "minimumLayerPpi": 87.31
+    },
+    {
+      "bookId": "stone",
+      "title": "小石头回家",
+      "kind": "story",
+      "page": 3,
+      "layers": [
+        {
+          "asset": "/art/sequence/stone/stone-hold.webp",
+          "sourceWidth": 1672,
+          "sourceHeight": 941,
+          "effectivePpi": 178.11,
+          "sampledPixels": {
+            "width": 1672,
+            "height": 941
+          }
+        },
+        {
+          "asset": "/art/sequence/stone/stone-hold.webp",
+          "sourceWidth": 1672,
+          "sourceHeight": 941,
+          "effectivePpi": 178.11,
+          "sampledPixels": {
+            "width": 1672,
+            "height": 43.347454308094
+          }
+        },
+        {
+          "asset": "/art/sequence/stone/stone-curious-head.webp",
+          "sourceWidth": 1317,
+          "sourceHeight": 1194,
+          "effectivePpi": 649.68,
+          "sampledPixels": {
+            "width": 1317,
+            "height": 1194
+          }
+        }
+      ],
+      "minimumLayerPpi": 178.11
+    },
+    {
+      "bookId": "stone",
+      "title": "小石头回家",
+      "kind": "story",
+      "page": 4,
+      "layers": [
+        {
+          "asset": "/art/sequence/stone/stone-walk.webp",
+          "sourceWidth": 1672,
+          "sourceHeight": 941,
+          "effectivePpi": 215.7,
+          "sampledPixels": {
+            "width": 1672,
+            "height": 941
+          }
+        },
+        {
+          "asset": "/art/sequence/stone/stone-walk.webp",
+          "sourceWidth": 1672,
+          "sourceHeight": 941,
+          "effectivePpi": 215.7,
+          "sampledPixels": {
+            "width": 1672,
+            "height": 21.907428940568447
+          }
+        },
+        {
+          "asset": "/art/family/child-head.webp",
+          "sourceWidth": 1317,
+          "sourceHeight": 1194,
+          "effectivePpi": 834.77,
+          "sampledPixels": {
+            "width": 1317,
+            "height": 1194
+          }
+        }
+      ],
+      "minimumLayerPpi": 215.7
+    },
+    {
+      "bookId": "stone",
+      "title": "小石头回家",
+      "kind": "story",
+      "page": 5,
+      "layers": [
+        {
+          "asset": "/art/sequence/stone/stone-walk.webp",
+          "sourceWidth": 1672,
+          "sourceHeight": 941,
+          "effectivePpi": 178.8,
+          "sampledPixels": {
+            "width": 1672,
+            "height": 941
+          }
+        },
+        {
+          "asset": "/art/sequence/stone/stone-walk.webp",
+          "sourceWidth": 1672,
+          "sourceHeight": 941,
+          "effectivePpi": 178.8,
+          "sampledPixels": {
+            "width": 1672,
+            "height": 21.907428940568447
+          }
+        },
+        {
+          "asset": "/art/family/child-head.webp",
+          "sourceWidth": 1317,
+          "sourceHeight": 1194,
+          "effectivePpi": 691.96,
+          "sampledPixels": {
+            "width": 1317,
+            "height": 1194
+          }
+        }
+      ],
+      "minimumLayerPpi": 178.8
+    },
+    {
+      "bookId": "stone",
+      "title": "小石头回家",
+      "kind": "story",
+      "page": 6,
+      "layers": [
+        {
+          "asset": "/art/sequence/stone/stone-return.webp",
+          "sourceWidth": 1672,
+          "sourceHeight": 941,
+          "effectivePpi": 215.7,
+          "sampledPixels": {
+            "width": 1672,
+            "height": 941
+          }
+        },
+        {
+          "asset": "/art/sequence/stone/stone-curious-head.webp",
+          "sourceWidth": 1317,
+          "sourceHeight": 1194,
+          "effectivePpi": 786.8,
+          "sampledPixels": {
+            "width": 1317,
+            "height": 1194
+          }
+        }
+      ],
+      "minimumLayerPpi": 215.7
+    },
+    {
+      "bookId": "stone",
+      "title": "小石头回家",
+      "kind": "story",
+      "page": 7,
+      "layers": [
+        {
+          "asset": "/art/sequence/stone/stone-return.webp",
+          "sourceWidth": 1672,
+          "sourceHeight": 941,
+          "effectivePpi": 87.31,
+          "sampledPixels": {
+            "width": 1672,
+            "height": 941
+          }
+        }
+      ],
+      "minimumLayerPpi": 87.31
+    },
+    {
+      "bookId": "stone",
+      "title": "小石头回家",
+      "kind": "story",
+      "page": 8,
+      "layers": [
+        {
+          "asset": "/art/sequence/stone/stone-leave.webp",
+          "sourceWidth": 1672,
+          "sourceHeight": 941,
+          "effectivePpi": 215.7,
+          "sampledPixels": {
+            "width": 1672,
+            "height": 941
+          }
+        },
+        {
+          "asset": "/art/sequence/stone/stone-leave.webp",
+          "sourceWidth": 1672,
+          "sourceHeight": 941,
+          "effectivePpi": 215.7,
+          "sampledPixels": {
+            "width": 1672,
+            "height": 21.907428940568447
+          }
+        },
+        {
+          "asset": "/art/family/child-head.webp",
+          "sourceWidth": 1317,
+          "sourceHeight": 1194,
+          "effectivePpi": 834.77,
+          "sampledPixels": {
+            "width": 1317,
+            "height": 1194
+          }
+        }
+      ],
+      "minimumLayerPpi": 215.7
+    },
+    {
+      "bookId": "stone",
+      "title": "小石头回家",
+      "kind": "summary",
+      "page": null,
+      "layers": [],
+      "minimumLayerPpi": null
+    }
+  ],
+  "assets": [
+    {
+      "asset": "/art/intro/greeting.webp",
+      "width": 1672,
+      "height": 941,
+      "minimumPpi": 208.76,
+      "worstBook": "intro",
+      "worstPage": 3,
+      "kind": "story",
+      "passes300": false,
+      "requiredResolutionMultiplier": 1.4371,
+      "requiredFullMaster": [
+        2403,
+        1353
+      ]
+    },
+    {
+      "asset": "/art/family/child-head.webp",
+      "width": 1317,
+      "height": 1194,
+      "minimumPpi": 529.23,
+      "worstBook": "intro",
+      "worstPage": 2,
+      "kind": "story",
+      "passes300": true,
+      "requiredResolutionMultiplier": 1,
+      "requiredFullMaster": [
+        1317,
+        1194
+      ]
+    },
+    {
+      "asset": "/art/intro/play.webp",
+      "width": 1672,
+      "height": 941,
+      "minimumPpi": 142.88,
+      "worstBook": "intro",
+      "worstPage": 2,
+      "kind": "story",
+      "passes300": false,
+      "requiredResolutionMultiplier": 2.0997,
+      "requiredFullMaster": [
+        3511,
+        1976
+      ]
+    },
+    {
+      "asset": "/art/intro/school.webp",
+      "width": 1672,
+      "height": 941,
+      "minimumPpi": 148.83,
+      "worstBook": "intro",
+      "worstPage": 6,
+      "kind": "story",
+      "passes300": false,
+      "requiredResolutionMultiplier": 2.0157,
+      "requiredFullMaster": [
+        3371,
+        1897
+      ]
+    },
+    {
+      "asset": "/art/flower/care.webp",
+      "width": 1672,
+      "height": 941,
+      "minimumPpi": 103.36,
+      "worstBook": "flower",
+      "worstPage": 2,
+      "kind": "story",
+      "passes300": false,
+      "requiredResolutionMultiplier": 2.9024,
+      "requiredFullMaster": [
+        4853,
+        2732
+      ]
+    },
+    {
+      "asset": "/art/flower/care-head.webp",
+      "width": 1254,
+      "height": 1254,
+      "minimumPpi": 605.59,
+      "worstBook": "flower",
+      "worstPage": 1,
+      "kind": "story",
+      "passes300": true,
+      "requiredResolutionMultiplier": 1,
+      "requiredFullMaster": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "asset": "/art/flower/wind.webp",
+      "width": 1672,
+      "height": 941,
+      "minimumPpi": 215.66,
+      "worstBook": "flower",
+      "worstPage": 3,
+      "kind": "story",
+      "passes300": false,
+      "requiredResolutionMultiplier": 1.3911,
+      "requiredFullMaster": [
+        2326,
+        1309
+      ]
+    },
+    {
+      "asset": "/art/flower/petal.webp",
+      "width": 1254,
+      "height": 1254,
+      "minimumPpi": 2751.07,
+      "worstBook": "flower",
+      "worstPage": 3,
+      "kind": "story",
+      "passes300": true,
+      "requiredResolutionMultiplier": 1,
+      "requiredFullMaster": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "asset": "/art/flower/wind-head.webp",
+      "width": 1254,
+      "height": 1254,
+      "minimumPpi": 737.07,
+      "worstBook": "flower",
+      "worstPage": 3,
+      "kind": "story",
+      "passes300": true,
+      "requiredResolutionMultiplier": 1,
+      "requiredFullMaster": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "asset": "/art/flower/search.webp",
+      "width": 1672,
+      "height": 941,
+      "minimumPpi": 215.66,
+      "worstBook": "flower",
+      "worstPage": 6,
+      "kind": "story",
+      "passes300": false,
+      "requiredResolutionMultiplier": 1.3911,
+      "requiredFullMaster": [
+        2326,
+        1309
+      ]
+    },
+    {
+      "asset": "/art/flower/search-head.webp",
+      "width": 1254,
+      "height": 1254,
+      "minimumPpi": 517.61,
+      "worstBook": "flower",
+      "worstPage": 6,
+      "kind": "story",
+      "passes300": true,
+      "requiredResolutionMultiplier": 1,
+      "requiredFullMaster": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "asset": "/art/family/courtyard.webp",
+      "width": 1672,
+      "height": 941,
+      "minimumPpi": 185.47,
+      "worstBook": "family",
+      "worstPage": 2,
+      "kind": "story",
+      "passes300": false,
+      "requiredResolutionMultiplier": 1.6175,
+      "requiredFullMaster": [
+        2705,
+        1523
+      ]
+    },
+    {
+      "asset": "/art/family/bodies.webp",
+      "width": 1254,
+      "height": 1254,
+      "minimumPpi": 240.47,
+      "worstBook": "family",
+      "worstPage": 4,
+      "kind": "story",
+      "passes300": false,
+      "requiredResolutionMultiplier": 1.2475,
+      "requiredFullMaster": [
+        1565,
+        1565
+      ]
+    },
+    {
+      "asset": "/art/family/heads.webp",
+      "width": 1254,
+      "height": 1254,
+      "minimumPpi": 474.77,
+      "worstBook": "family",
+      "worstPage": 4,
+      "kind": "story",
+      "passes300": true,
+      "requiredResolutionMultiplier": 1,
+      "requiredFullMaster": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "asset": "/art/family/child-body.webp",
+      "width": 1024,
+      "height": 1536,
+      "minimumPpi": 1027.16,
+      "worstBook": "family",
+      "worstPage": 2,
+      "kind": "story",
+      "passes300": true,
+      "requiredResolutionMultiplier": 1,
+      "requiredFullMaster": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "asset": "/art/sequence/hands/hands-open.webp",
+      "width": 1672,
+      "height": 941,
+      "minimumPpi": 142.88,
+      "worstBook": "hands",
+      "worstPage": 6,
+      "kind": "story",
+      "passes300": false,
+      "requiredResolutionMultiplier": 2.0997,
+      "requiredFullMaster": [
+        3511,
+        1976
+      ]
+    },
+    {
+      "asset": "/art/sequence/hands/curious-head.webp",
+      "width": 1317,
+      "height": 1194,
+      "minimumPpi": 644.77,
+      "worstBook": "hands",
+      "worstPage": 4,
+      "kind": "story",
+      "passes300": true,
+      "requiredResolutionMultiplier": 1,
+      "requiredFullMaster": [
+        1317,
+        1194
+      ]
+    },
+    {
+      "asset": "/art/sequence/hands/hands-show.webp",
+      "width": 1672,
+      "height": 941,
+      "minimumPpi": 182.51,
+      "worstBook": "hands",
+      "worstPage": 1,
+      "kind": "story",
+      "passes300": false,
+      "requiredResolutionMultiplier": 1.6438,
+      "requiredFullMaster": [
+        2749,
+        1547
+      ]
+    },
+    {
+      "asset": "/art/sequence/hands/hands-closed.webp",
+      "width": 1672,
+      "height": 941,
+      "minimumPpi": 142.88,
+      "worstBook": "hands",
+      "worstPage": 4,
+      "kind": "story",
+      "passes300": false,
+      "requiredResolutionMultiplier": 2.0997,
+      "requiredFullMaster": [
+        3511,
+        1976
+      ]
+    },
+    {
+      "asset": "/art/sequence/rain/rain-shelter.webp",
+      "width": 1672,
+      "height": 941,
+      "minimumPpi": 172.61,
+      "worstBook": "rain",
+      "worstPage": 8,
+      "kind": "story",
+      "passes300": false,
+      "requiredResolutionMultiplier": 1.738,
+      "requiredFullMaster": [
+        2906,
+        1636
+      ]
+    },
+    {
+      "asset": "/art/sequence/rain/curious-head.webp",
+      "width": 1317,
+      "height": 1194,
+      "minimumPpi": 660.43,
+      "worstBook": "rain",
+      "worstPage": 8,
+      "kind": "story",
+      "passes300": true,
+      "requiredResolutionMultiplier": 1,
+      "requiredFullMaster": [
+        1317,
+        1194
+      ]
+    },
+    {
+      "asset": "/art/sequence/rain/rain-sky.webp",
+      "width": 1672,
+      "height": 941,
+      "minimumPpi": 215.7,
+      "worstBook": "rain",
+      "worstPage": 1,
+      "kind": "story",
+      "passes300": false,
+      "requiredResolutionMultiplier": 1.3908,
+      "requiredFullMaster": [
+        2326,
+        1309
+      ]
+    },
+    {
+      "asset": "/art/sequence/rain/rain-alone.webp",
+      "width": 1672,
+      "height": 941,
+      "minimumPpi": 81.46,
+      "worstBook": "rain",
+      "worstPage": 4,
+      "kind": "story",
+      "passes300": false,
+      "requiredResolutionMultiplier": 3.6829,
+      "requiredFullMaster": [
+        6158,
+        3466
+      ]
+    },
+    {
+      "asset": "/art/sequence/rain/rain-walk.webp",
+      "width": 1672,
+      "height": 941,
+      "minimumPpi": 186.53,
+      "worstBook": "rain",
+      "worstPage": 6,
+      "kind": "story",
+      "passes300": false,
+      "requiredResolutionMultiplier": 1.6083,
+      "requiredFullMaster": [
+        2690,
+        1514
+      ]
+    },
+    {
+      "asset": "/art/sequence/stone/stone-home.webp",
+      "width": 1672,
+      "height": 941,
+      "minimumPpi": 87.31,
+      "worstBook": "stone",
+      "worstPage": 2,
+      "kind": "story",
+      "passes300": false,
+      "requiredResolutionMultiplier": 3.4359,
+      "requiredFullMaster": [
+        5745,
+        3234
+      ]
+    },
+    {
+      "asset": "/art/sequence/stone/stone-curious-head.webp",
+      "width": 1317,
+      "height": 1194,
+      "minimumPpi": 649.68,
+      "worstBook": "stone",
+      "worstPage": 3,
+      "kind": "story",
+      "passes300": true,
+      "requiredResolutionMultiplier": 1,
+      "requiredFullMaster": [
+        1317,
+        1194
+      ]
+    },
+    {
+      "asset": "/art/sequence/stone/stone-hold.webp",
+      "width": 1672,
+      "height": 941,
+      "minimumPpi": 178.11,
+      "worstBook": "stone",
+      "worstPage": 3,
+      "kind": "story",
+      "passes300": false,
+      "requiredResolutionMultiplier": 1.6843,
+      "requiredFullMaster": [
+        2817,
+        1585
+      ]
+    },
+    {
+      "asset": "/art/sequence/stone/stone-walk.webp",
+      "width": 1672,
+      "height": 941,
+      "minimumPpi": 178.8,
+      "worstBook": "stone",
+      "worstPage": 5,
+      "kind": "story",
+      "passes300": false,
+      "requiredResolutionMultiplier": 1.6778,
+      "requiredFullMaster": [
+        2806,
+        1579
+      ]
+    },
+    {
+      "asset": "/art/sequence/stone/stone-return.webp",
+      "width": 1672,
+      "height": 941,
+      "minimumPpi": 87.31,
+      "worstBook": "stone",
+      "worstPage": 7,
+      "kind": "story",
+      "passes300": false,
+      "requiredResolutionMultiplier": 3.4359,
+      "requiredFullMaster": [
+        5745,
+        3234
+      ]
+    },
+    {
+      "asset": "/art/sequence/stone/stone-leave.webp",
+      "width": 1672,
+      "height": 941,
+      "minimumPpi": 215.7,
+      "worstBook": "stone",
+      "worstPage": 8,
+      "kind": "story",
+      "passes300": false,
+      "requiredResolutionMultiplier": 1.3908,
+      "requiredFullMaster": [
+        2326,
+        1309
+      ]
+    }
+  ]
+}

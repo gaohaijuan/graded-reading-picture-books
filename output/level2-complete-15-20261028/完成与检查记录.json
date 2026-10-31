@@ -1,0 +1,235 @@
+{
+  "completedOn": "2026-10-28",
+  "level": 2,
+  "status": "complete-15-for-review",
+  "bookCount": 15,
+  "remainingBooks": [],
+  "inventory": [
+    {
+      "levelNumber": 1,
+      "number": 16,
+      "title": "大鞋和小鞋",
+      "bodyPages": 7,
+      "cover": true,
+      "summary": true,
+      "assetsChecked": 11,
+      "status": "正文插画及校样齐全"
+    },
+    {
+      "levelNumber": 2,
+      "number": 17,
+      "title": "我还不想睡",
+      "bodyPages": 8,
+      "cover": true,
+      "summary": true,
+      "assetsChecked": 17,
+      "status": "正文插画及校样齐全"
+    },
+    {
+      "levelNumber": 3,
+      "number": 18,
+      "title": "早上好",
+      "bodyPages": 8,
+      "cover": true,
+      "summary": true,
+      "assetsChecked": 11,
+      "status": "正文插画及校样齐全"
+    },
+    {
+      "levelNumber": 4,
+      "number": 19,
+      "title": "这水太热了",
+      "bodyPages": 8,
+      "cover": true,
+      "summary": true,
+      "assetsChecked": 17,
+      "status": "正文插画及校样齐全"
+    },
+    {
+      "levelNumber": 5,
+      "number": 20,
+      "title": "小花喝水",
+      "bodyPages": 8,
+      "cover": true,
+      "summary": true,
+      "assetsChecked": 15,
+      "status": "正文插画及校样齐全"
+    },
+    {
+      "levelNumber": 6,
+      "number": 21,
+      "title": "小球也要走",
+      "bodyPages": 6,
+      "cover": true,
+      "summary": true,
+      "assetsChecked": 18,
+      "status": "正文插画及校样齐全"
+    },
+    {
+      "levelNumber": 7,
+      "number": 22,
+      "title": "小纸片飞了",
+      "bodyPages": 8,
+      "cover": true,
+      "summary": true,
+      "assetsChecked": 19,
+      "status": "正文插画及校样齐全"
+    },
+    {
+      "levelNumber": 8,
+      "number": 23,
+      "title": "谁先笑",
+      "bodyPages": 7,
+      "cover": true,
+      "summary": true,
+      "assetsChecked": 17,
+      "status": "正文插画及校样齐全"
+    },
+    {
+      "levelNumber": 9,
+      "number": 24,
+      "title": "大果子和小果子",
+      "bodyPages": 7,
+      "cover": true,
+      "summary": true,
+      "assetsChecked": 21,
+      "status": "正文插画及校样齐全"
+    },
+    {
+      "levelNumber": 10,
+      "number": 25,
+      "title": "谁还在睡",
+      "bodyPages": 7,
+      "cover": true,
+      "summary": true,
+      "assetsChecked": 7,
+      "status": "正文插画及校样齐全"
+    },
+    {
+      "levelNumber": 11,
+      "number": 26,
+      "title": "水中的月亮",
+      "bodyPages": 7,
+      "cover": true,
+      "summary": true,
+      "assetsChecked": 19,
+      "status": "正文插画及校样齐全"
+    },
+    {
+      "levelNumber": 12,
+      "number": 27,
+      "title": "我和小兔",
+      "bodyPages": 8,
+      "cover": true,
+      "summary": true,
+      "assetsChecked": 18,
+      "status": "正文插画及校样齐全"
+    },
+    {
+      "levelNumber": 13,
+      "number": 28,
+      "title": "我跳过去了",
+      "bodyPages": 8,
+      "cover": true,
+      "summary": true,
+      "assetsChecked": 24,
+      "status": "正文插画及校样齐全"
+    },
+    {
+      "levelNumber": 14,
+      "number": 29,
+      "title": "小火车",
+      "bodyPages": 7,
+      "cover": true,
+      "summary": true,
+      "assetsChecked": 17,
+      "status": "正文插画及校样齐全"
+    },
+    {
+      "levelNumber": 15,
+      "number": 30,
+      "title": "小鱼的新家",
+      "bodyPages": 7,
+      "cover": true,
+      "summary": true,
+      "assetsChecked": 25,
+      "status": "正文插画及校样齐全"
+    }
+  ],
+  "bodyPages": 111,
+  "storyCoverPages": 15,
+  "summaryPages": 15,
+  "pdfPages": 144,
+  "previewURL": "http://127.0.0.1:4176/?view=level2-complete",
+  "pdf": {
+    "path": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\output\\level2-complete-15-20261028\\第二级-完整15本-A5合订校样.pdf",
+    "sha256": "0c91596699d990ca83d8d1d551d8f8fef12c1c91f77c989a79ca9ddd2282b6fa",
+    "bytes": 258200171,
+    "formatMm": [
+      148,
+      210
+    ],
+    "chapterStarts": [
+      3,
+      12,
+      22,
+      32,
+      42,
+      52,
+      60,
+      70,
+      79,
+      88,
+      97,
+      106,
+      116,
+      126,
+      135
+    ],
+    "bodyStarts": [
+      4,
+      13,
+      23,
+      33,
+      43,
+      53,
+      61,
+      71,
+      80,
+      89,
+      98,
+      107,
+      117,
+      127,
+      136
+    ]
+  },
+  "checks": {
+    "exactApprovedBodyText": true,
+    "allAssetsPresent": true,
+    "browserErrors": [],
+    "mobilePageStates": 141,
+    "allPdfPagesRenderedAndContactReviewed": 144,
+    "embeddedChineseVectorText": true,
+    "noBlankPages": true,
+    "rollingReadingWindowMaxBooks": 3,
+    "browserMcpAll15Covers": true,
+    "minimumBackgroundEffectivePpi": 145.89,
+    "all144PageTextsUnchanged": true,
+    "only13ReviewedBodyImagesChanged": true,
+    "targetedDefaultAndRealPhotoChecksPassed": true,
+    "reviewFixBrowserMcpPages": 14
+  },
+  "changesThisRun": "修改5篇13页插画：大鞋第3页、早上好第6页、谁先笑第1—7页、大果子和小果子第5—7页、我和小兔第5页。原文及其余PDF图像流保持不变。",
+  "deliveryScope": "默认人物的数字审核校样；实体打样、微信接入和打印订单开放另行验收。",
+  "reviewFixes": {
+    "books": 5,
+    "bodyPages": 13,
+    "imageGeneration": "Built-in image_gen",
+    "defaultCharacterExpressions": "谁先笑前6页闭嘴忍笑，第7页笑；我和小兔第5页露齿。",
+    "realPhotoConstraint": "真人头像保持原表情，不生成新表情；谁先笑前5页采用第一人称视角，我和小兔露齿效果取决于原照片。",
+    "originalBackup": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\output\\level2-review-fixes-20261028\\before",
+    "validation": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\output\\level2-review-fixes-20261028\\repair-validation.json",
+    "pdfChangeScope": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\output\\level2-review-fixes-20261028\\pdf-change-scope-audit.json"
+  }
+}

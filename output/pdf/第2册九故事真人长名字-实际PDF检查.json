@@ -1,0 +1,1411 @@
+{
+  "summary": {
+    "file": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\tmp\\pdfs\\第2册九故事-真人长名字-QA.pdf",
+    "pages": 80,
+    "body_pages": 68,
+    "chapters": [
+      {
+        "book": "tree",
+        "title": "小树长高了",
+        "start_folio": 1,
+        "start_pdf_page": 3,
+        "body_pages": 6
+      },
+      {
+        "book": "calling",
+        "title": "谁在叫",
+        "start_folio": 8,
+        "start_pdf_page": 10,
+        "body_pages": 8
+      },
+      {
+        "book": "catball",
+        "title": "小猫要小球吗",
+        "start_folio": 17,
+        "start_pdf_page": 19,
+        "body_pages": 8
+      },
+      {
+        "book": "shoes",
+        "title": "大鞋和小鞋",
+        "start_folio": 26,
+        "start_pdf_page": 28,
+        "body_pages": 6
+      },
+      {
+        "book": "watering",
+        "title": "小花喝水",
+        "start_folio": 33,
+        "start_pdf_page": 35,
+        "body_pages": 8
+      },
+      {
+        "book": "wagon",
+        "title": "小球也要走",
+        "start_folio": 42,
+        "start_pdf_page": 44,
+        "body_pages": 8
+      },
+      {
+        "book": "paper",
+        "title": "小纸片飞了",
+        "start_folio": 51,
+        "start_pdf_page": 53,
+        "body_pages": 8
+      },
+      {
+        "book": "fruit",
+        "title": "大果子和小果子",
+        "start_folio": 60,
+        "start_pdf_page": 62,
+        "body_pages": 8
+      },
+      {
+        "book": "catbed",
+        "title": "小猫的床",
+        "start_folio": 69,
+        "start_pdf_page": 71,
+        "body_pages": 8
+      }
+    ],
+    "fonts": [
+      {
+        "name": "/NotoSerifSC-ExtraLight-7697",
+        "embedded": true
+      }
+    ],
+    "errors": []
+  },
+  "pages": [
+    {
+      "page": 1,
+      "kind": "front",
+      "book": null,
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 53,
+      "text_inside": true,
+      "text": "小小主角 · 第1级\n第1级\n阅读故事集 · 第2册\n小小云朵和小太阳的专属故事集\n现有 9 个故事 · 合集样册"
+    },
+    {
+      "page": 2,
+      "kind": "contents",
+      "book": null,
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 134,
+      "text_inside": true,
+      "text": "故事目录\n第1级 · 第2册样册 · 9 个故事\n11 小树长高了 1\n12 谁在叫 8\n13 小猫要小球吗 17\n14 大鞋和小鞋 26\n15 小花喝水 33\n16 小球也要走 42\n17 小纸片飞了 51\n18 大果子和小果子 60\n19 小猫的床 69\n每个故事后都有识字小结。\n这是现有故事样册，完整第1级仍在陆续制作。"
+    },
+    {
+      "page": 3,
+      "kind": "story",
+      "book": "tree",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 17,
+      "text_inside": true,
+      "text": "11 · 小树长高了\n小树，你好！\n1",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 4,
+      "kind": "story",
+      "book": "tree",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 17,
+      "text_inside": true,
+      "text": "小树长高了\n你长高了，\n我也长高了。\n2",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 5,
+      "kind": "story",
+      "book": "tree",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 14,
+      "text_inside": true,
+      "text": "小树长高了\n我和小树，\n谁高？\n3",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 6,
+      "kind": "story",
+      "book": "tree",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 17,
+      "text_inside": true,
+      "text": "小树长高了\n我站在小石头上。\n我高！\n4",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 7,
+      "kind": "story",
+      "book": "tree",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 14,
+      "text_inside": true,
+      "text": "小树长高了\n我下来。\n小树高！\n5",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 8,
+      "kind": "story",
+      "book": "tree",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 19,
+      "text_inside": true,
+      "text": "小树长高了\n小树，你长吧！\n我也要长高！\n6",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 9,
+      "kind": "summary",
+      "book": "tree",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 171,
+      "text_inside": true,
+      "text": "小树长高了\n识字小结\n小小云朵和小太阳的阅读足迹\n故事读完了，这些字我见过啦。\n本书用字 新出现 累计接触\n20 字 4 字 99 字\n本书汉字\n下划线为本册新字，可圈出还想练习的字\n小 树 你 好 长 高 了 我 也 和 谁\n站 在 石 头 上 下 来 吧 要\n阅读日期：________ 能独立认读：____ / 20 字\n正文去重，含辅助字，不计书名与姓名；从第1本累计。\n重读不叠加。读过不代表掌握。\n7",
+      "literacy_matches": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 10,
+      "kind": "story",
+      "book": "calling",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 13,
+      "text_inside": true,
+      "text": "12 · 谁在叫\n谁在叫？\n8",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 11,
+      "kind": "story",
+      "book": "calling",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 15,
+      "text_inside": true,
+      "text": "谁在叫\n我看树上。\n树上有小鸟。\n9",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 12,
+      "kind": "story",
+      "book": "calling",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 17,
+      "text_inside": true,
+      "text": "谁在叫\n小鸟，小鸟，\n下来和我玩！\n10",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 13,
+      "kind": "story",
+      "book": "calling",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 16,
+      "text_inside": true,
+      "text": "谁在叫\n小鸟不叫了。\n谁又在叫？\n11",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 14,
+      "kind": "story",
+      "book": "calling",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 16,
+      "text_inside": true,
+      "text": "谁在叫\n我看树下。\n树下有小猫。\n12",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 15,
+      "kind": "story",
+      "book": "calling",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 12,
+      "text_inside": true,
+      "text": "谁在叫\n小猫，你也来！\n13",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 16,
+      "kind": "story",
+      "book": "calling",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 17,
+      "text_inside": true,
+      "text": "谁在叫\n小鸟呢？\n小树上没有小鸟。\n14",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 17,
+      "kind": "story",
+      "book": "calling",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 22,
+      "text_inside": true,
+      "text": "谁在叫\n小鸟在我的小车上！\n你也来和我玩了！\n15",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 18,
+      "kind": "summary",
+      "book": "calling",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 175,
+      "text_inside": true,
+      "text": "谁在叫\n识字小结\n小小云朵和小太阳的阅读足迹\n故事读完了，这些字我见过啦。\n本书用字 新出现 累计接触\n24 字 3 字 102 字\n本书汉字\n下划线为本册新字，可圈出还想练习的字\n谁 在 叫 我 看 树 上 有 小 鸟 下\n来 和 玩 不 了 又 猫 你 也 呢 没\n的 车\n阅读日期：________ 能独立认读：____ / 24 字\n正文去重，含辅助字，不计书名与姓名；从第1本累计。\n重读不叠加。读过不代表掌握。\n16",
+      "literacy_matches": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 19,
+      "kind": "story",
+      "book": "catball",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 20,
+      "text_inside": true,
+      "text": "13 · 小猫要小球吗\n我有一个红球。\n17",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 20,
+      "kind": "story",
+      "book": "catball",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 15,
+      "text_inside": true,
+      "text": "小猫要小球吗\n我有一个黄球。\n18",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 21,
+      "kind": "story",
+      "book": "catball",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 17,
+      "text_inside": true,
+      "text": "小猫要小球吗\n小猫，\n你要小球吗？\n19",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 22,
+      "kind": "story",
+      "book": "catball",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 13,
+      "text_inside": true,
+      "text": "小猫要小球吗\n红球给你。\n20",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 23,
+      "kind": "story",
+      "book": "catball",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 14,
+      "text_inside": true,
+      "text": "小猫要小球吗\n黄球也给你。\n21",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 24,
+      "kind": "story",
+      "book": "catball",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 21,
+      "text_inside": true,
+      "text": "小猫要小球吗\n小猫不要红球，\n也不要黄球。\n22",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 25,
+      "kind": "story",
+      "book": "catball",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 16,
+      "text_inside": true,
+      "text": "小猫要小球吗\n小球来，\n小球去。\n23",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 26,
+      "kind": "story",
+      "book": "catball",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 20,
+      "text_inside": true,
+      "text": "小猫要小球吗\n小猫来了！\n小猫要和我玩！\n24",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 27,
+      "kind": "summary",
+      "book": "catball",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 174,
+      "text_inside": true,
+      "text": "小猫要小球吗\n识字小结\n小小云朵和小太阳的阅读足迹\n故事读完了，这些字我见过啦。\n本书用字 新出现 累计接触\n20 字 3 字 105 字\n本书汉字\n下划线为本册新字，可圈出还想练习的字\n我 有 一 个 红 球 黄 小 猫 你 要\n吗 给 也 不 来 去 了 和 玩\n阅读日期：________ 能独立认读：____ / 20 字\n正文去重，含辅助字，不计书名与姓名；从第1本累计。\n重读不叠加。读过不代表掌握。\n25",
+      "literacy_matches": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 28,
+      "kind": "story",
+      "book": "shoes",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 19,
+      "text_inside": true,
+      "text": "14 · 大鞋和小鞋\n这是我的小鞋。\n26",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 29,
+      "kind": "story",
+      "book": "shoes",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 17,
+      "text_inside": true,
+      "text": "大鞋和小鞋\n这是大鞋。\n我也要穿。\n27",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 30,
+      "kind": "story",
+      "book": "shoes",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 13,
+      "text_inside": true,
+      "text": "大鞋和小鞋\n小脚穿大鞋。\n28",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 31,
+      "kind": "story",
+      "book": "shoes",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 15,
+      "text_inside": true,
+      "text": "大鞋和小鞋\n我走，大鞋不走。\n29",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 32,
+      "kind": "story",
+      "book": "shoes",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 13,
+      "text_inside": true,
+      "text": "大鞋和小鞋\n小脚出来了！\n30",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 33,
+      "kind": "story",
+      "book": "shoes",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 21,
+      "text_inside": true,
+      "text": "大鞋和小鞋\n我穿小鞋。\n小脚和小鞋一起走。\n31",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 34,
+      "kind": "summary",
+      "book": "shoes",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 172,
+      "text_inside": true,
+      "text": "大鞋和小鞋\n识字小结\n小小云朵和小太阳的阅读足迹\n故事读完了，这些字我见过啦。\n本书用字 新出现 累计接触\n19 字 4 字 109 字\n本书汉字\n下划线为本册新字，可圈出还想练习的字\n这 是 我 的 小 鞋 大 也 要 穿 脚\n走 不 出 来 了 和 一 起\n阅读日期：________ 能独立认读：____ / 19 字\n正文去重，含辅助字，不计书名与姓名；从第1本累计。\n重读不叠加。读过不代表掌握。\n32",
+      "literacy_matches": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 35,
+      "kind": "story",
+      "book": "watering",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 23,
+      "text_inside": true,
+      "text": "15 · 小花喝水\n小花，小花，\n你要喝水吗？\n33",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 36,
+      "kind": "story",
+      "book": "watering",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 13,
+      "text_inside": true,
+      "text": "小花喝水\n我给小花喝水。\n34",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 37,
+      "kind": "story",
+      "book": "watering",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 13,
+      "text_inside": true,
+      "text": "小花喝水\n一点，再一点。\n35",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 38,
+      "kind": "story",
+      "book": "watering",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 18,
+      "text_inside": true,
+      "text": "小花喝水\n水多了！\n水跑到我的脚下。\n36",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 39,
+      "kind": "story",
+      "book": "watering",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 19,
+      "text_inside": true,
+      "text": "小花喝水\n小花喝水，\n我的小脚也喝水？\n37",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 40,
+      "kind": "story",
+      "book": "watering",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 19,
+      "text_inside": true,
+      "text": "小花喝水\n小脚不喝水。\n小脚要洗一洗。\n38",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 41,
+      "kind": "story",
+      "book": "watering",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 20,
+      "text_inside": true,
+      "text": "小花喝水\n给小花一点水，\n给小脚洗一洗。\n39",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 42,
+      "kind": "story",
+      "book": "watering",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 19,
+      "text_inside": true,
+      "text": "小花喝水\n小花喝好了，\n小脚也洗好了！\n40",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 43,
+      "kind": "summary",
+      "book": "watering",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 175,
+      "text_inside": true,
+      "text": "小花喝水\n识字小结\n小小云朵和小太阳的阅读足迹\n故事读完了，这些字我见过啦。\n本书用字 新出现 累计接触\n23 字 6 字 115 字\n本书汉字\n下划线为本册新字，可圈出还想练习的字\n小 花 你 要 喝 水 吗 我 给 一 点\n再 多 了 跑 到 的 脚 下 也 不 洗\n好\n阅读日期：________ 能独立认读：____ / 23 字\n正文去重，含辅助字，不计书名与姓名；从第1本累计。\n重读不叠加。读过不代表掌握。\n41",
+      "literacy_matches": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 44,
+      "kind": "story",
+      "book": "wagon",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 22,
+      "text_inside": true,
+      "text": "16 · 小球也要走\n我把小球放在小车前。\n42",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 45,
+      "kind": "story",
+      "book": "wagon",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 17,
+      "text_inside": true,
+      "text": "小球也要走\n小车一开，\n小球跑了！\n43",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 46,
+      "kind": "story",
+      "book": "wagon",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 17,
+      "text_inside": true,
+      "text": "小球也要走\n我把小球放在小车后。\n44",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 47,
+      "kind": "story",
+      "book": "wagon",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 19,
+      "text_inside": true,
+      "text": "小球也要走\n小车开走了，\n小球没有走。\n45",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 48,
+      "kind": "story",
+      "book": "wagon",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 14,
+      "text_inside": true,
+      "text": "小球也要走\n小车，你回来！\n46",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 49,
+      "kind": "story",
+      "book": "wagon",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 20,
+      "text_inside": true,
+      "text": "小球也要走\n这回，\n我把小球放在小车里。\n47",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 50,
+      "kind": "story",
+      "book": "wagon",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 16,
+      "text_inside": true,
+      "text": "小球也要走\n小车走，\n小球也走！\n48",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 51,
+      "kind": "story",
+      "book": "wagon",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 17,
+      "text_inside": true,
+      "text": "小球也要走\n小球，\n我们一起回家！\n49",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 52,
+      "kind": "summary",
+      "book": "wagon",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 178,
+      "text_inside": true,
+      "text": "小球也要走\n识字小结\n小小云朵和小太阳的阅读足迹\n故事读完了，这些字我见过啦。\n本书用字 新出现 累计接触\n25 字 3 字 118 字\n本书汉字\n下划线为本册新字，可圈出还想练习的字\n我 把 小 球 放 在 车 前 一 开 跑\n了 后 走 没 有 你 回 来 这 里 也\n们 起 家\n阅读日期：________ 能独立认读：____ / 25 字\n正文去重，含辅助字，不计书名与姓名；从第1本累计。\n重读不叠加。读过不代表掌握。\n50",
+      "literacy_matches": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 53,
+      "kind": "story",
+      "book": "paper",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 25,
+      "text_inside": true,
+      "text": "17 · 小纸片飞了\n我有小纸片。\n红红的小纸片。\n51",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 54,
+      "kind": "story",
+      "book": "paper",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 17,
+      "text_inside": true,
+      "text": "小纸片飞了\n风来了，\n小纸片飞了！\n52",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 55,
+      "kind": "story",
+      "book": "paper",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 22,
+      "text_inside": true,
+      "text": "小纸片飞了\n小纸片飞到左边，\n我也跑到左边。\n53",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 56,
+      "kind": "story",
+      "book": "paper",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 22,
+      "text_inside": true,
+      "text": "小纸片飞了\n小纸片飞到右边，\n我也跑到右边。\n54",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 57,
+      "kind": "story",
+      "book": "paper",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 18,
+      "text_inside": true,
+      "text": "小纸片飞了\n风走了。\n小纸片下来了。\n55",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 58,
+      "kind": "story",
+      "book": "paper",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 20,
+      "text_inside": true,
+      "text": "小纸片飞了\n我把小纸片放好。\n风又来了！\n56",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 59,
+      "kind": "story",
+      "book": "paper",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 20,
+      "text_inside": true,
+      "text": "小纸片飞了\n小石头，来！\n你在小纸片上。\n57",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 60,
+      "kind": "story",
+      "book": "paper",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 20,
+      "text_inside": true,
+      "text": "小纸片飞了\n小纸片不飞了。\n我也不跑了！\n58",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 61,
+      "kind": "summary",
+      "book": "paper",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 182,
+      "text_inside": true,
+      "text": "小纸片飞了\n识字小结\n小小云朵和小太阳的阅读足迹\n故事读完了，这些字我见过啦。\n本书用字 新出现 累计接触\n29 字 4 字 122 字\n本书汉字\n下划线为本册新字，可圈出还想练习的字\n我 有 小 纸 片 红 的 风 来 了 飞\n到 左 边 也 跑 右 走 下 把 放 好\n又 石 头 你 在 上 不\n阅读日期：________ 能独立认读：____ / 29 字\n正文去重，含辅助字，不计书名与姓名；从第1本累计。\n重读不叠加。读过不代表掌握。\n59",
+      "literacy_matches": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 62,
+      "kind": "story",
+      "book": "fruit",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 29,
+      "text_inside": true,
+      "text": "18 · 大果子和小果子\n我有两个果子。\n一个大，一个小。\n60",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 63,
+      "kind": "story",
+      "book": "fruit",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 19,
+      "text_inside": true,
+      "text": "大果子和小果子\n大的给你，\n小的给我。\n61",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 64,
+      "kind": "story",
+      "book": "fruit",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 19,
+      "text_inside": true,
+      "text": "大果子和小果子\n你说：\n“大的给你！”\n62",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 65,
+      "kind": "story",
+      "book": "fruit",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 19,
+      "text_inside": true,
+      "text": "大果子和小果子\n大果子来，\n大果子去。\n63",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 66,
+      "kind": "story",
+      "book": "fruit",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 22,
+      "text_inside": true,
+      "text": "大果子和小果子\n小果子呢？\n小果子在我手中。\n64",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 67,
+      "kind": "story",
+      "book": "fruit",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 21,
+      "text_inside": true,
+      "text": "大果子和小果子\n我吃一口。\n小果子真好吃！\n65",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 68,
+      "kind": "story",
+      "book": "fruit",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 22,
+      "text_inside": true,
+      "text": "大果子和小果子\n你也吃一口。\n大果子也好吃！\n66",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 69,
+      "kind": "story",
+      "book": "fruit",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 22,
+      "text_inside": true,
+      "text": "大果子和小果子\n大果子小果子，\n我们都爱吃！\n67",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 70,
+      "kind": "summary",
+      "book": "fruit",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 182,
+      "text_inside": true,
+      "text": "大果子和小果子\n识字小结\n小小云朵和小太阳的阅读足迹\n故事读完了，这些字我见过啦。\n本书用字 新出现 累计接触\n27 字 6 字 128 字\n本书汉字\n下划线为本册新字，可圈出还想练习的字\n我 有 两 个 果 子 一 大 小 的 给\n你 说 来 去 呢 在 手 中 吃 口 真\n好 也 们 都 爱\n阅读日期：________ 能独立认读：____ / 27 字\n正文去重，含辅助字，不计书名与姓名；从第1本累计。\n重读不叠加。读过不代表掌握。\n68",
+      "literacy_matches": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 71,
+      "kind": "story",
+      "book": "catbed",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 18,
+      "text_inside": true,
+      "text": "19 · 小猫的床\n这是小猫的床。\n69",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 72,
+      "kind": "story",
+      "book": "catbed",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 12,
+      "text_inside": true,
+      "text": "小猫的床\n小猫想睡了。\n70",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 73,
+      "kind": "story",
+      "book": "catbed",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 14,
+      "text_inside": true,
+      "text": "小猫的床\n小床上，\n有小球。\n71",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 74,
+      "kind": "story",
+      "book": "catbed",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 14,
+      "text_inside": true,
+      "text": "小猫的床\n我把小球拿出来。\n72",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 75,
+      "kind": "story",
+      "book": "catbed",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 15,
+      "text_inside": true,
+      "text": "小猫的床\n我又把小车开进去。\n73",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 76,
+      "kind": "story",
+      "book": "catbed",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 17,
+      "text_inside": true,
+      "text": "小猫的床\n小猫看我。\n你要睡了吗？\n74",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 77,
+      "kind": "story",
+      "book": "catbed",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 19,
+      "text_inside": true,
+      "text": "小猫的床\n小车出来吧！\n小球也不来了。\n75",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 78,
+      "kind": "story",
+      "book": "catbed",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 18,
+      "text_inside": true,
+      "text": "小猫的床\n小猫，你睡吧。\n我去玩了。\n76",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 79,
+      "kind": "summary",
+      "book": "catbed",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 182,
+      "text_inside": true,
+      "text": "小猫的床\n识字小结\n小小云朵和小太阳的阅读足迹\n故事读完了，这些字我见过啦。\n本书用字 新出现 累计接触\n30 字 4 字 132 字\n本书汉字\n下划线为本册新字，可圈出还想练习的字\n这 是 小 猫 的 床 想 睡 了 上 有\n球 我 把 拿 出 来 又 车 开 进 去\n看 你 要 吗 吧 也 不 玩\n阅读日期：________ 能独立认读：____ / 30 字\n正文去重，含辅助字，不计书名与姓名；从第1本累计。\n重读不叠加。读过不代表掌握。\n77",
+      "literacy_matches": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 80,
+      "kind": "back",
+      "book": null,
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 115,
+      "text_inside": true,
+      "text": "故事读完啦\n小小云朵和小太阳的阅读足迹\n9 个 132 字 68 页\n小故事 累计接触 故事正文\n每一页，都有故事里的你。\n统计按正文汉字去重，姓名另计；重读不叠加。\n读过不代表掌握，各故事小结可记录实际认读情况。\n第1级 · 第2册样册 · 9个故事"
+    }
+  ]
+}

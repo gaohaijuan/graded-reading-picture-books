@@ -1,0 +1,468 @@
+{
+  "edition": "level1-15-priority-three-20261026",
+  "records": [
+    {
+      "id": "snow-revision",
+      "page": -1,
+      "file": "snow-revision-cover.png",
+      "ready": "true",
+      "text": "第一级 · 第2篇",
+      "overflow": false,
+      "paperRatio": 0.7045735475896168,
+      "canvas": {
+        "actorCacheId": "1",
+        "portraitScale": "0.26155187445510025",
+        "characterPipeline": "composed-actor-v1",
+        "pose": "stand-wave",
+        "scene": "snow-window",
+        "camera": "{\"x\":-77.74900869565226,\"y\":119.70899470899474,\"width\":1155.4980173913045,\"height\":878.8510052910053}"
+      },
+      "error": ""
+    },
+    {
+      "id": "snow-revision",
+      "page": 0,
+      "file": "snow-revision-01.png",
+      "ready": "true",
+      "text": "下雪了！",
+      "overflow": false,
+      "paperRatio": 0.7045735475896168,
+      "canvas": {
+        "actorCacheId": "1",
+        "portraitScale": "0.26155187445510025",
+        "characterPipeline": "composed-actor-v1",
+        "pose": "stand-wave",
+        "scene": "snow-window",
+        "camera": "{\"x\":11.312217194570167,\"y\":0,\"width\":977.3755656108597,\"height\":1000}"
+      },
+      "error": ""
+    },
+    {
+      "id": "snow-revision",
+      "page": 1,
+      "file": "snow-revision-02.png",
+      "ready": "true",
+      "text": "一片两片三四片，",
+      "overflow": false,
+      "paperRatio": 0.7045735475896168,
+      "canvas": {
+        "actorCacheId": "",
+        "portraitScale": "",
+        "characterPipeline": "composed-actor-v1",
+        "pose": "none",
+        "scene": "snow-air",
+        "camera": "{\"x\":11.312217194570167,\"y\":0,\"width\":977.3755656108597,\"height\":1000}"
+      },
+      "error": ""
+    },
+    {
+      "id": "snow-revision",
+      "page": 2,
+      "file": "snow-revision-03.png",
+      "ready": "true",
+      "text": "五片六片七八片，",
+      "overflow": false,
+      "paperRatio": 0.7045735475896168,
+      "canvas": {
+        "actorCacheId": "",
+        "portraitScale": "",
+        "characterPipeline": "composed-actor-v1",
+        "pose": "none",
+        "scene": "snow-air",
+        "camera": "{\"x\":11.312217194570167,\"y\":0,\"width\":977.3755656108597,\"height\":1000}"
+      },
+      "error": ""
+    },
+    {
+      "id": "snow-revision",
+      "page": 3,
+      "file": "snow-revision-04.png",
+      "ready": "true",
+      "text": "九片十片十一片，",
+      "overflow": false,
+      "paperRatio": 0.7045735475896168,
+      "canvas": {
+        "actorCacheId": "",
+        "portraitScale": "",
+        "characterPipeline": "composed-actor-v1",
+        "pose": "none",
+        "scene": "snow-grass",
+        "camera": "{\"x\":11.312217194570167,\"y\":0,\"width\":977.3755656108597,\"height\":1000}"
+      },
+      "error": ""
+    },
+    {
+      "id": "snow-revision",
+      "page": 4,
+      "file": "snow-revision-05.png",
+      "ready": "true",
+      "text": "飞入草丛都不见。",
+      "overflow": false,
+      "paperRatio": 0.7045735475896168,
+      "canvas": {
+        "actorCacheId": "",
+        "portraitScale": "",
+        "characterPipeline": "composed-actor-v1",
+        "pose": "none",
+        "scene": "snow-grass",
+        "camera": "{\"x\":11.312217194570167,\"y\":0,\"width\":977.3755656108597,\"height\":1000}"
+      },
+      "error": ""
+    },
+    {
+      "id": "snow-revision",
+      "page": 5,
+      "file": "snow-revision-summary.png",
+      "ready": "true",
+      "text": "",
+      "overflow": false,
+      "paperRatio": 0.7045735475896168,
+      "canvas": {
+        "actorCacheId": "1",
+        "portraitScale": "0.26155187445510025",
+        "characterPipeline": "composed-actor-v1",
+        "pose": "stand-wave",
+        "scene": "snow-window",
+        "camera": "{\"x\":-77.74900869565226,\"y\":119.70899470899474,\"width\":1155.4980173913045,\"height\":878.8510052910053}"
+      },
+      "error": ""
+    },
+    {
+      "id": "insect-revision",
+      "page": -1,
+      "file": "insect-revision-cover.png",
+      "ready": "true",
+      "text": "第一级 · 第8篇",
+      "overflow": false,
+      "paperRatio": 0.7045735475896168,
+      "canvas": {
+        "actorCacheId": "2",
+        "portraitScale": "0.26155187445510025",
+        "characterPipeline": "composed-actor-v1",
+        "pose": "barefoot-stand",
+        "scene": "insect-stone",
+        "camera": "{\"x\":-73.67318260869558,\"y\":119.70899470899474,\"width\":1147.3463652173912,\"height\":872.6510052910052}"
+      },
+      "error": ""
+    },
+    {
+      "id": "insect-revision",
+      "page": 0,
+      "file": "insect-revision-01.png",
+      "ready": "true",
+      "text": "石头上，有一只小虫。",
+      "overflow": false,
+      "paperRatio": 0.7045735475896168,
+      "canvas": {
+        "actorCacheId": "2",
+        "portraitScale": "0.26155187445510025",
+        "characterPipeline": "composed-actor-v1",
+        "pose": "barefoot-stand",
+        "scene": "insect-stone",
+        "camera": "{\"x\":11.312217194570167,\"y\":0,\"width\":977.3755656108597,\"height\":1000}"
+      },
+      "error": ""
+    },
+    {
+      "id": "insect-revision",
+      "page": 1,
+      "file": "insect-revision-02.png",
+      "ready": "true",
+      "text": "我走过去看。",
+      "overflow": false,
+      "paperRatio": 0.7045735475896168,
+      "canvas": {
+        "actorCacheId": "3",
+        "portraitScale": "0.26155187445510025",
+        "characterPipeline": "composed-actor-v1",
+        "pose": "barefoot-step",
+        "scene": "insect-stone",
+        "camera": "{\"x\":11.312217194570167,\"y\":0,\"width\":977.3755656108597,\"height\":1000}"
+      },
+      "error": ""
+    },
+    {
+      "id": "insect-revision",
+      "page": 2,
+      "file": "insect-revision-03.png",
+      "ready": "true",
+      "text": "小虫不见了！",
+      "overflow": false,
+      "paperRatio": 0.7045735475896168,
+      "canvas": {
+        "actorCacheId": "",
+        "portraitScale": "",
+        "characterPipeline": "composed-actor-v1",
+        "pose": "none",
+        "scene": "insect-ground",
+        "camera": "{\"x\":11.312217194570167,\"y\":0,\"width\":977.3755656108597,\"height\":1000}"
+      },
+      "error": ""
+    },
+    {
+      "id": "insect-revision",
+      "page": 3,
+      "file": "insect-revision-04.png",
+      "ready": "true",
+      "text": "“小虫，你在哪？”",
+      "overflow": false,
+      "paperRatio": 0.7045735475896168,
+      "canvas": {
+        "actorCacheId": "",
+        "portraitScale": "",
+        "characterPipeline": "composed-actor-v1",
+        "pose": "none",
+        "scene": "insect-empty-close",
+        "camera": "{\"x\":11.312217194570167,\"y\":0,\"width\":977.3755656108597,\"height\":1000}"
+      },
+      "error": ""
+    },
+    {
+      "id": "insect-revision",
+      "page": 4,
+      "file": "insect-revision-05.png",
+      "ready": "true",
+      "text": "我低头一看，小虫在我的脚上！",
+      "overflow": false,
+      "paperRatio": 0.7045735475896168,
+      "canvas": {
+        "actorCacheId": "2",
+        "portraitScale": "0.26155187445510025",
+        "characterPipeline": "composed-actor-v1",
+        "pose": "barefoot-stand",
+        "scene": "insect-ground",
+        "camera": "{\"x\":11.312217194570167,\"y\":0,\"width\":977.3755656108597,\"height\":1000}"
+      },
+      "error": ""
+    },
+    {
+      "id": "insect-revision",
+      "page": 5,
+      "file": "insect-revision-06.png",
+      "ready": "true",
+      "text": "“你也要和我一起走吗？”",
+      "overflow": false,
+      "paperRatio": 0.7045735475896168,
+      "canvas": {
+        "actorCacheId": "3",
+        "portraitScale": "0.26155187445510025",
+        "characterPipeline": "composed-actor-v1",
+        "pose": "barefoot-step",
+        "scene": "insect-stone",
+        "camera": "{\"x\":11.312217194570167,\"y\":0,\"width\":977.3755656108597,\"height\":1000}"
+      },
+      "error": ""
+    },
+    {
+      "id": "insect-revision",
+      "page": 6,
+      "file": "insect-revision-summary.png",
+      "ready": "true",
+      "text": "",
+      "overflow": false,
+      "paperRatio": 0.7045735475896168,
+      "canvas": {
+        "actorCacheId": "2",
+        "portraitScale": "0.26155187445510025",
+        "characterPipeline": "composed-actor-v1",
+        "pose": "barefoot-stand",
+        "scene": "insect-stone",
+        "camera": "{\"x\":-73.67318260869558,\"y\":119.70899470899474,\"width\":1147.3463652173912,\"height\":872.6510052910052}"
+      },
+      "error": ""
+    },
+    {
+      "id": "ball-revision",
+      "page": -1,
+      "file": "ball-revision-cover.png",
+      "ready": "true",
+      "text": "第一级 · 第10篇",
+      "overflow": false,
+      "paperRatio": 0.7045735475896168,
+      "canvas": {
+        "actorCacheId": "1",
+        "portraitScale": "0.26155187445510025",
+        "characterPipeline": "composed-actor-v1",
+        "pose": "stand-wave",
+        "scene": "revision-room",
+        "camera": "{\"x\":-71.33286956521738,\"y\":119.70899470899474,\"width\":1142.6657391304348,\"height\":869.0910052910052}"
+      },
+      "error": ""
+    },
+    {
+      "id": "ball-revision",
+      "page": 0,
+      "file": "ball-revision-01.png",
+      "ready": "true",
+      "text": "我要找小球玩。\n谁看见小球了？小球在哪？",
+      "overflow": false,
+      "paperRatio": 0.7045735475896168,
+      "canvas": {
+        "actorCacheId": "1",
+        "portraitScale": "0.26155187445510025",
+        "characterPipeline": "composed-actor-v1",
+        "pose": "stand-wave",
+        "scene": "revision-room",
+        "camera": "{\"x\":11.312217194570167,\"y\":0,\"width\":977.3755656108597,\"height\":1000}"
+      },
+      "error": ""
+    },
+    {
+      "id": "ball-revision",
+      "page": 1,
+      "file": "ball-revision-02.png",
+      "ready": "true",
+      "text": "我看看小车里，没有。",
+      "overflow": false,
+      "paperRatio": 0.7045735475896168,
+      "canvas": {
+        "actorCacheId": "4",
+        "portraitScale": "0.26155187445510025",
+        "characterPipeline": "composed-actor-v1",
+        "pose": "crouch-book",
+        "scene": "revision-wagon-overlook",
+        "camera": "{\"x\":11.312217194570167,\"y\":0,\"width\":977.3755656108597,\"height\":1000}"
+      },
+      "error": ""
+    },
+    {
+      "id": "ball-revision",
+      "page": 2,
+      "file": "ball-revision-03.png",
+      "ready": "true",
+      "text": "我看看小车前，也没有。",
+      "overflow": false,
+      "paperRatio": 0.7045735475896168,
+      "canvas": {
+        "actorCacheId": "4",
+        "portraitScale": "0.26155187445510025",
+        "characterPipeline": "composed-actor-v1",
+        "pose": "crouch-book",
+        "scene": "revision-wagon-room",
+        "camera": "{\"x\":11.312217194570167,\"y\":-3.2621579743008056,\"width\":983.7522726013482,\"height\":1006.5243159486016}"
+      },
+      "error": ""
+    },
+    {
+      "id": "ball-revision",
+      "page": 3,
+      "file": "ball-revision-04.png",
+      "ready": "true",
+      "text": "我看看小车后，也没有。",
+      "overflow": false,
+      "paperRatio": 0.7045735475896168,
+      "canvas": {
+        "actorCacheId": "4",
+        "portraitScale": "0.26155187445510025",
+        "characterPipeline": "composed-actor-v1",
+        "pose": "crouch-book",
+        "scene": "revision-wagon-room",
+        "camera": "{\"x\":4.534149659863942,\"y\":-3.467483623078863,\"width\":984.1536331455659,\"height\":1006.9349672461577}"
+      },
+      "error": ""
+    },
+    {
+      "id": "ball-revision",
+      "page": 4,
+      "file": "ball-revision-05.png",
+      "ready": "true",
+      "text": "门后呢？小球在这里！",
+      "overflow": false,
+      "paperRatio": 0.7045735475896168,
+      "canvas": {
+        "actorCacheId": "5",
+        "portraitScale": "0.26155187445510025",
+        "characterPipeline": "composed-actor-v1",
+        "pose": "hands-flower-open",
+        "scene": "ball-door",
+        "camera": "{\"x\":11.312217194570167,\"y\":0,\"width\":977.3755656108597,\"height\":1000}"
+      },
+      "error": ""
+    },
+    {
+      "id": "ball-revision",
+      "page": 5,
+      "file": "ball-revision-06.png",
+      "ready": "true",
+      "text": "“找到你了！”",
+      "overflow": false,
+      "paperRatio": 0.7045735475896168,
+      "canvas": {
+        "actorCacheId": "6",
+        "portraitScale": "0.26155187445510025",
+        "characterPipeline": "composed-actor-v1",
+        "pose": "carry-play",
+        "scene": "ball-door",
+        "camera": "{\"x\":11.312217194570167,\"y\":0,\"width\":977.3755656108597,\"height\":1000}"
+      },
+      "error": ""
+    },
+    {
+      "id": "ball-revision",
+      "page": 6,
+      "file": "ball-revision-summary.png",
+      "ready": "true",
+      "text": "",
+      "overflow": false,
+      "paperRatio": 0.7045735475896168,
+      "canvas": {
+        "actorCacheId": "1",
+        "portraitScale": "0.26155187445510025",
+        "characterPipeline": "composed-actor-v1",
+        "pose": "stand-wave",
+        "scene": "revision-room",
+        "camera": "{\"x\":-71.33286956521738,\"y\":119.70899470899474,\"width\":1142.6657391304348,\"height\":869.0910052910052}"
+      },
+      "error": ""
+    }
+  ],
+  "mobile": {
+    "body": 390,
+    "viewport": 390,
+    "text": 72,
+    "height": 72
+  },
+  "snapshot": {
+    "bodyDownloadMs": 158.80000000074506,
+    "backgroundDownloadMs": 468.7999999932945,
+    "composeMs": 3.699999999254942,
+    "composites": 6,
+    "pageDrawMs": 0,
+    "draws": 0,
+    "adultComposites": 0,
+    "buckets": [
+      {
+        "window": [
+          "ball-revision"
+        ],
+        "sessions": [
+          {
+            "books": [
+              "ball-revision"
+            ],
+            "poses": [
+              {
+                "id": "stand-wave",
+                "status": "ready"
+              },
+              {
+                "id": "crouch-book",
+                "status": "ready"
+              },
+              {
+                "id": "hands-flower-open",
+                "status": "ready"
+              },
+              {
+                "id": "carry-play",
+                "status": "ready"
+              }
+            ],
+            "loading": null
+          }
+        ]
+      }
+    ]
+  },
+  "errors": []
+}

@@ -1,0 +1,65 @@
+{
+  "createdAt": "2026-10-24T08:49:49.128Z",
+  "files": [
+    {
+      "path": "little-protagonist/miniprogram/lib/stories.js",
+      "sha256": "96494da01f3abebd049eb1768e916b15725b4152ac94e7a1e6c3171f71f12d56"
+    },
+    {
+      "path": "little-protagonist/content/level1-stories-04-10.json",
+      "sha256": "b6ba56ea5e10de2abab95806a2fe667bc1450bf60f57668d880dfb88d42db945"
+    },
+    {
+      "path": "little-protagonist/content/level1-stories-11-20.json",
+      "sha256": "277b7cbf127aede4b2167d5a1f7dcbdebd6bb1923bb329cc47b0c73c60fd9abe"
+    },
+    {
+      "path": "little-protagonist/content/level1-stories-21-40.json",
+      "sha256": "5c66458e3773f04779ec4e5c2b835b6c54737eea3f24cd27d729406478435095"
+    },
+    {
+      "path": "little-protagonist/miniprogram/lib/family.js",
+      "sha256": "8f5edd5b7ef6ae8208e70904c6efe120f68d0bd33f09b08cedc4612699f6e9da"
+    },
+    {
+      "path": "little-protagonist/miniprogram/lib/level1-approved.js",
+      "sha256": "b012613d58c5ca339e6f302cda2876637bb9b777460c2ae3283aa1fc90205d3d"
+    },
+    {
+      "path": "little-protagonist/content/level1-stories-balanced-30.json",
+      "sha256": "ebba655faef0bcc1c5a829f22132b2abbc97d7c986313f971c9065c0fea99ede"
+    },
+    {
+      "path": "little-protagonist/output/text/manuscript-before-series-v4.json",
+      "sha256": "f98559e81572cbb31f8a0fc5848d3e61eec78e1b1f395bfe16ee936127cc85f3"
+    },
+    {
+      "path": "little-protagonist/output/text/manuscript-before-recurrence-v5.json",
+      "sha256": "4abe35527713bb4ee26772c93d0825fa697ad914c23c37e0c9788bef0bc8485e"
+    },
+    {
+      "path": "little-protagonist/output/text/manuscript-before-naturalness-v6.json",
+      "sha256": "6ff59d2b5b638aaa68f7c18cd27a0f7c49401c104d344f12130c01015aa56c47"
+    },
+    {
+      "path": "little-protagonist/output/text/manuscript-before-remaining-v7.json",
+      "sha256": "bdac6643b03e7f5a981caab2c6c4919b9db86585272e4fb8d85e87cb8c616ace"
+    },
+    {
+      "path": "little-protagonist/output/text/manuscript-before-personalization-v8.json",
+      "sha256": "3cb10985a07aa4ca673e09087c1a0ce443fca104432aa040a8d62533a6244932"
+    },
+    {
+      "path": "little-protagonist/content/level1-stories-reviewed-30.json",
+      "sha256": "67434c06c38c92803053be354fa159222b767bb987ae11a8df0d04fb608ce4d8"
+    },
+    {
+      "path": "little-protagonist/content/level1-reviewed-manuscript-source.json",
+      "sha256": "67434c06c38c92803053be354fa159222b767bb987ae11a8df0d04fb608ce4d8"
+    },
+    {
+      "path": "little-protagonist/content/level1-stories-condensed-20.json",
+      "sha256": "b754dbae6fd03211576f71b071f67e0486a5755eb5a3882d91bb5163069dd13f"
+    }
+  ]
+}

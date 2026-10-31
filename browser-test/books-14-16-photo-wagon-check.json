@@ -1,0 +1,746 @@
+[
+  {
+    "book": "wagon",
+    "dataset": {
+      "actorCacheId": "46",
+      "art": "wagon",
+      "artState": "ready",
+      "camera": "{\"x\":11.363636363636374,\"y\":0,\"width\":977.2727272727273,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "0",
+      "portraitScale": "0.42889683837095727",
+      "pose": "crouch-touch",
+      "reflectionActor": "",
+      "scene": "wagon-side",
+      "sceneGeometry": "{\"wearing\":null,\"bigShoes\":null,\"basin\":null,\"wagon\":{\"x\":210,\"ground\":940,\"width\":360,\"front\":570,\"back\":210},\"ball\":{\"x\":625,\"y\":908,\"where\":\"front\"}}",
+      "storyBeat": "ball-in-front"
+    },
+    "overflow": false,
+    "page": 0,
+    "paper": {
+      "bottom": 641.3229217529297,
+      "height": 564.65625,
+      "left": 441.0208435058594,
+      "right": 838.9687805175781,
+      "top": 76.66667175292969,
+      "width": 397.9479370117187,
+      "x": 441.0208435058594,
+      "y": 76.66667175292969
+    },
+    "photoTiming": {
+      "cutoutMs": 792.1000000005588,
+      "photoReadMs": 119.90000000037251,
+      "pngEncodeMs": 16.799999999813735,
+      "recognitionMs": 194.20000000018624
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 8919.500000000466,
+      "bodyDownloadMs": 306.1000000005588,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "wagon"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                },
+                {
+                  "id": "push-cart",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "wagon"
+          ]
+        }
+      ],
+      "composeMs": 21.899999998509884,
+      "composites": 57,
+      "draws": 2202,
+      "pageDrawMs": 16596.10000000475
+    },
+    "text": "我把小球放在小车前。",
+    "textRect": {
+      "bottom": 590.21875,
+      "height": 77.96875,
+      "left": 462.53125,
+      "right": 806.6979370117188,
+      "top": 512.25,
+      "width": 344.16668701171875,
+      "x": 462.53125,
+      "y": 512.25
+    }
+  },
+  {
+    "book": "wagon",
+    "dataset": {
+      "actorCacheId": "44",
+      "art": "wagon",
+      "artState": "ready",
+      "camera": "{\"x\":11.363636363636374,\"y\":0,\"width\":977.2727272727273,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "1",
+      "portraitScale": "0.42889683837095727",
+      "pose": "push-cart",
+      "reflectionActor": "",
+      "scene": "wagon-side",
+      "sceneGeometry": "{\"wearing\":null,\"bigShoes\":null,\"basin\":null,\"wagon\":{\"x\":300,\"ground\":940,\"width\":360,\"front\":660,\"back\":300},\"ball\":{\"x\":800,\"y\":908,\"where\":\"front\"}}",
+      "storyBeat": "push-and-ball-rolls"
+    },
+    "overflow": false,
+    "page": 1,
+    "paper": {
+      "bottom": 641.3229217529297,
+      "height": 564.65625,
+      "left": 441.0208435058594,
+      "right": 838.9687805175781,
+      "top": 76.66667175292969,
+      "width": 397.9479370117187,
+      "x": 441.0208435058594,
+      "y": 76.66667175292969
+    },
+    "photoTiming": {
+      "cutoutMs": 792.1000000005588,
+      "photoReadMs": 119.90000000037251,
+      "pngEncodeMs": 16.799999999813735,
+      "recognitionMs": 194.20000000018624
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 8919.500000000466,
+      "bodyDownloadMs": 306.1000000005588,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "wagon"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                },
+                {
+                  "id": "push-cart",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "wagon"
+          ]
+        }
+      ],
+      "composeMs": 21.899999998509884,
+      "composites": 57,
+      "draws": 2204,
+      "pageDrawMs": 16596.400000003632
+    },
+    "text": "小车一开，小球跑了！",
+    "textRect": {
+      "bottom": 590.21875,
+      "height": 77.96875,
+      "left": 473.28125,
+      "right": 817.4479370117188,
+      "top": 512.25,
+      "width": 344.16668701171875,
+      "x": 473.28125,
+      "y": 512.25
+    }
+  },
+  {
+    "book": "wagon",
+    "dataset": {
+      "actorCacheId": "46",
+      "art": "wagon",
+      "artState": "ready",
+      "camera": "{\"x\":11.363636363636374,\"y\":0,\"width\":977.2727272727273,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "2",
+      "portraitScale": "0.42889683837095727",
+      "pose": "crouch-touch",
+      "reflectionActor": "",
+      "scene": "wagon-side",
+      "sceneGeometry": "{\"wearing\":null,\"bigShoes\":null,\"basin\":null,\"wagon\":{\"x\":210,\"ground\":940,\"width\":360,\"front\":570,\"back\":210},\"ball\":{\"x\":174,\"y\":908,\"where\":\"behind\"}}",
+      "storyBeat": "ball-behind"
+    },
+    "overflow": false,
+    "page": 2,
+    "paper": {
+      "bottom": 641.3229217529297,
+      "height": 564.65625,
+      "left": 441.0208435058594,
+      "right": 838.9687805175781,
+      "top": 76.66667175292969,
+      "width": 397.9479370117187,
+      "x": 441.0208435058594,
+      "y": 76.66667175292969
+    },
+    "photoTiming": {
+      "cutoutMs": 792.1000000005588,
+      "photoReadMs": 119.90000000037251,
+      "pngEncodeMs": 16.799999999813735,
+      "recognitionMs": 194.20000000018624
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 8919.500000000466,
+      "bodyDownloadMs": 306.1000000005588,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "wagon"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                },
+                {
+                  "id": "push-cart",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "wagon"
+          ]
+        }
+      ],
+      "composeMs": 21.899999998509884,
+      "composites": 57,
+      "draws": 2205,
+      "pageDrawMs": 16596.900000003632
+    },
+    "text": "我把小球放在小车后。",
+    "textRect": {
+      "bottom": 590.21875,
+      "height": 77.96875,
+      "left": 462.53125,
+      "right": 806.6979370117188,
+      "top": 512.25,
+      "width": 344.16668701171875,
+      "x": 462.53125,
+      "y": 512.25
+    }
+  },
+  {
+    "book": "wagon",
+    "dataset": {
+      "actorCacheId": "44",
+      "art": "wagon",
+      "artState": "ready",
+      "camera": "{\"x\":11.363636363636374,\"y\":0,\"width\":977.2727272727273,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "3",
+      "portraitScale": "0.42889683837095727",
+      "pose": "push-cart",
+      "reflectionActor": "",
+      "scene": "wagon-side",
+      "sceneGeometry": "{\"wearing\":null,\"bigShoes\":null,\"basin\":null,\"wagon\":{\"x\":420,\"ground\":940,\"width\":360,\"front\":780,\"back\":420},\"ball\":{\"x\":174,\"y\":908,\"where\":\"behind\"}}",
+      "storyBeat": "cart-goes-ball-stays"
+    },
+    "overflow": false,
+    "page": 3,
+    "paper": {
+      "bottom": 641.3229217529297,
+      "height": 564.65625,
+      "left": 441.0208435058594,
+      "right": 838.9687805175781,
+      "top": 76.66667175292969,
+      "width": 397.9479370117187,
+      "x": 441.0208435058594,
+      "y": 76.66667175292969
+    },
+    "photoTiming": {
+      "cutoutMs": 792.1000000005588,
+      "photoReadMs": 119.90000000037251,
+      "pngEncodeMs": 16.799999999813735,
+      "recognitionMs": 194.20000000018624
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 8919.500000000466,
+      "bodyDownloadMs": 306.1000000005588,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "wagon"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                },
+                {
+                  "id": "push-cart",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "wagon"
+          ]
+        }
+      ],
+      "composeMs": 21.899999998509884,
+      "composites": 57,
+      "draws": 2206,
+      "pageDrawMs": 16597.300000004005
+    },
+    "text": "小车开走了，小球没有走。",
+    "textRect": {
+      "bottom": 590.21875,
+      "height": 77.96875,
+      "left": 473.28125,
+      "right": 817.4479370117188,
+      "top": 512.25,
+      "width": 344.16668701171875,
+      "x": 473.28125,
+      "y": 512.25
+    }
+  },
+  {
+    "book": "wagon",
+    "dataset": {
+      "actorCacheId": "45",
+      "art": "wagon",
+      "artState": "ready",
+      "camera": "{\"x\":11.363636363636374,\"y\":0,\"width\":977.2727272727273,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "4",
+      "portraitScale": "0.42889683837095727",
+      "pose": "hands-flower-open",
+      "reflectionActor": "",
+      "scene": "wagon-call-door",
+      "sceneGeometry": "{\"wearing\":null,\"bigShoes\":null,\"basin\":null,\"wagon\":{\"x\":550,\"ground\":940,\"width\":360,\"front\":910,\"back\":550},\"ball\":{\"x\":174,\"y\":908,\"where\":\"behind\"}}",
+      "storyBeat": "call-the-cart-back"
+    },
+    "overflow": false,
+    "page": 4,
+    "paper": {
+      "bottom": 641.3229217529297,
+      "height": 564.65625,
+      "left": 441.0208435058594,
+      "right": 838.9687805175781,
+      "top": 76.66667175292969,
+      "width": 397.9479370117187,
+      "x": 441.0208435058594,
+      "y": 76.66667175292969
+    },
+    "photoTiming": {
+      "cutoutMs": 792.1000000005588,
+      "photoReadMs": 119.90000000037251,
+      "pngEncodeMs": 16.799999999813735,
+      "recognitionMs": 194.20000000018624
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 8919.500000000466,
+      "bodyDownloadMs": 306.1000000005588,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "wagon"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                },
+                {
+                  "id": "push-cart",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "wagon"
+          ]
+        }
+      ],
+      "composeMs": 21.899999998509884,
+      "composites": 57,
+      "draws": 2207,
+      "pageDrawMs": 16597.700000003446
+    },
+    "text": "小车，你回来！",
+    "textRect": {
+      "bottom": 590.21875,
+      "height": 77.96875,
+      "left": 462.53125,
+      "right": 806.6979370117188,
+      "top": 512.25,
+      "width": 344.16668701171875,
+      "x": 462.53125,
+      "y": 512.25
+    }
+  },
+  {
+    "book": "wagon",
+    "dataset": {
+      "actorCacheId": "38",
+      "art": "wagon",
+      "artState": "ready",
+      "camera": "{\"x\":11.363636363636374,\"y\":0,\"width\":977.2727272727273,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "5",
+      "portraitScale": "0.42889683837095727",
+      "pose": "crouch-book",
+      "reflectionActor": "",
+      "scene": "wagon-loading",
+      "sceneGeometry": "{\"wearing\":null,\"bigShoes\":null,\"basin\":null,\"wagon\":{\"x\":210,\"ground\":940,\"width\":360,\"front\":570,\"back\":210},\"ball\":{\"x\":410,\"y\":810,\"where\":\"inside\"}}",
+      "storyBeat": "put-ball-in-the-cart"
+    },
+    "overflow": false,
+    "page": 5,
+    "paper": {
+      "bottom": 641.3229217529297,
+      "height": 564.65625,
+      "left": 441.0208435058594,
+      "right": 838.9687805175781,
+      "top": 76.66667175292969,
+      "width": 397.9479370117187,
+      "x": 441.0208435058594,
+      "y": 76.66667175292969
+    },
+    "photoTiming": {
+      "cutoutMs": 792.1000000005588,
+      "photoReadMs": 119.90000000037251,
+      "pngEncodeMs": 16.799999999813735,
+      "recognitionMs": 194.20000000018624
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 8919.500000000466,
+      "bodyDownloadMs": 306.1000000005588,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "wagon"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                },
+                {
+                  "id": "push-cart",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "wagon"
+          ]
+        }
+      ],
+      "composeMs": 21.899999998509884,
+      "composites": 57,
+      "draws": 2208,
+      "pageDrawMs": 16597.900000003632
+    },
+    "text": "这回，我把小球放在小车里。",
+    "textRect": {
+      "bottom": 590.21875,
+      "height": 77.96875,
+      "left": 473.28125,
+      "right": 817.4479370117188,
+      "top": 512.25,
+      "width": 344.16668701171875,
+      "x": 473.28125,
+      "y": 512.25
+    }
+  },
+  {
+    "book": "wagon",
+    "dataset": {
+      "actorCacheId": "44",
+      "art": "wagon",
+      "artState": "ready",
+      "camera": "{\"x\":11.363636363636374,\"y\":0,\"width\":977.2727272727273,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "6",
+      "portraitScale": "0.42889683837095727",
+      "pose": "push-cart",
+      "reflectionActor": "",
+      "scene": "wagon-side",
+      "sceneGeometry": "{\"wearing\":null,\"bigShoes\":null,\"basin\":null,\"wagon\":{\"x\":420,\"ground\":940,\"width\":360,\"front\":780,\"back\":420},\"ball\":{\"x\":620,\"y\":810,\"where\":\"inside\"}}",
+      "storyBeat": "cart-and-ball-go-together"
+    },
+    "overflow": false,
+    "page": 6,
+    "paper": {
+      "bottom": 641.3229217529297,
+      "height": 564.65625,
+      "left": 441.0208435058594,
+      "right": 838.9687805175781,
+      "top": 76.66667175292969,
+      "width": 397.9479370117187,
+      "x": 441.0208435058594,
+      "y": 76.66667175292969
+    },
+    "photoTiming": {
+      "cutoutMs": 792.1000000005588,
+      "photoReadMs": 119.90000000037251,
+      "pngEncodeMs": 16.799999999813735,
+      "recognitionMs": 194.20000000018624
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 8919.500000000466,
+      "bodyDownloadMs": 306.1000000005588,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "wagon"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                },
+                {
+                  "id": "push-cart",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "wagon"
+          ]
+        }
+      ],
+      "composeMs": 21.899999998509884,
+      "composites": 57,
+      "draws": 2209,
+      "pageDrawMs": 16598.300000003073
+    },
+    "text": "小车走，小球也走！",
+    "textRect": {
+      "bottom": 590.21875,
+      "height": 77.96875,
+      "left": 462.53125,
+      "right": 806.6979370117188,
+      "top": 512.25,
+      "width": 344.16668701171875,
+      "x": 462.53125,
+      "y": 512.25
+    }
+  },
+  {
+    "book": "wagon",
+    "dataset": {
+      "actorCacheId": "44",
+      "art": "wagon",
+      "artState": "ready",
+      "camera": "{\"x\":11.363636363636374,\"y\":0,\"width\":977.2727272727273,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "7",
+      "portraitScale": "0.42889683837095727",
+      "pose": "push-cart",
+      "reflectionActor": "",
+      "scene": "wagon-home",
+      "sceneGeometry": "{\"wearing\":null,\"bigShoes\":null,\"basin\":null,\"wagon\":{\"x\":420,\"ground\":940,\"width\":360,\"front\":780,\"back\":420},\"ball\":{\"x\":620,\"y\":810,\"where\":\"inside\"}}",
+      "storyBeat": "go-home-together"
+    },
+    "overflow": false,
+    "page": 7,
+    "paper": {
+      "bottom": 641.3229217529297,
+      "height": 564.65625,
+      "left": 441.0208435058594,
+      "right": 838.9687805175781,
+      "top": 76.66667175292969,
+      "width": 397.9479370117187,
+      "x": 441.0208435058594,
+      "y": 76.66667175292969
+    },
+    "photoTiming": {
+      "cutoutMs": 792.1000000005588,
+      "photoReadMs": 119.90000000037251,
+      "pngEncodeMs": 16.799999999813735,
+      "recognitionMs": 194.20000000018624
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 8919.500000000466,
+      "bodyDownloadMs": 306.1000000005588,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "wagon"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                },
+                {
+                  "id": "push-cart",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "wagon"
+          ]
+        }
+      ],
+      "composeMs": 21.899999998509884,
+      "composites": 57,
+      "draws": 2210,
+      "pageDrawMs": 16650.700000003446
+    },
+    "text": "小球，我们一起回家！",
+    "textRect": {
+      "bottom": 590.21875,
+      "height": 77.96875,
+      "left": 473.28125,
+      "right": 817.4479370117188,
+      "top": 512.25,
+      "width": 344.16668701171875,
+      "x": 473.28125,
+      "y": 512.25
+    }
+  }
+]

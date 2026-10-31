@@ -1,0 +1,216 @@
+{
+  "summary": {
+    "targetCharacters": 200,
+    "actualCharacters": 180,
+    "targetUsed": 157,
+    "targetMissing": 43,
+    "targetCoveragePercent": 78.5,
+    "additionalCharacters": 23,
+    "charactersIfAllMissingAddedWithoutRemovingCurrent": 223,
+    "totalCharacterOccurrences": 1578,
+    "actualAcrossStories": {
+      "one": 71,
+      "two": 30,
+      "threeOrMore": 79
+    },
+    "targetAcrossStories": {
+      "zero": 43,
+      "one": 54,
+      "two": 26,
+      "threeOrMore": 77
+    },
+    "actualOccursAtMostTwice": 68,
+    "earlySingleStory": 37,
+    "longFirstReturnCount": 40,
+    "lateNewCharacters": 26,
+    "lateSingleStory": 24,
+    "multiwordEntriesFound": 150,
+    "independentQueries": 188,
+    "productionStories": 20,
+    "productionBodiesMatchingCurrentReview": 3
+  },
+  "missing": "他她很就那二外少低短乐心哥姐弟妹爷奶哭问洗让爱喜欢年明土生冷牛羊马狗书米饭面瓜豆蛋包本",
+  "auxiliary": "用合从比动等声推服流湿加压住先阳亮朵睛叶条自己",
+  "confirmedGroups": [
+    {
+      "group": 1,
+      "used": 20,
+      "missing": ""
+    },
+    {
+      "group": 2,
+      "used": 19,
+      "missing": "二"
+    },
+    {
+      "group": 3,
+      "used": 11,
+      "missing": "爷奶哥姐弟妹他她爱"
+    }
+  ],
+  "keyRows": [
+    {
+      "term": "名字",
+      "totalOccurrences": 2,
+      "distinctStories": 1,
+      "storyNumbers": [
+        1
+      ]
+    },
+    {
+      "term": "什么",
+      "totalOccurrences": 1,
+      "distinctStories": 1,
+      "storyNumbers": [
+        1
+      ]
+    },
+    {
+      "term": "爸爸",
+      "totalOccurrences": 15,
+      "distinctStories": 4,
+      "storyNumbers": [
+        3,
+        18,
+        23,
+        25
+      ]
+    },
+    {
+      "term": "妈妈",
+      "totalOccurrences": 1,
+      "distinctStories": 1,
+      "storyNumbers": [
+        3
+      ]
+    },
+    {
+      "term": "入口",
+      "totalOccurrences": 2,
+      "distinctStories": 1,
+      "storyNumbers": [
+        9
+      ]
+    },
+    {
+      "term": "出口",
+      "totalOccurrences": 2,
+      "distinctStories": 1,
+      "storyNumbers": [
+        9
+      ]
+    },
+    {
+      "term": "衣服",
+      "totalOccurrences": 2,
+      "distinctStories": 1,
+      "storyNumbers": [
+        18
+      ]
+    },
+    {
+      "term": "早上好",
+      "totalOccurrences": 0,
+      "distinctStories": 0,
+      "storyNumbers": []
+    },
+    {
+      "term": "喝水",
+      "totalOccurrences": 4,
+      "distinctStories": 3,
+      "storyNumbers": [
+        19,
+        20,
+        26
+      ]
+    },
+    {
+      "term": "小虫",
+      "totalOccurrences": 4,
+      "distinctStories": 1,
+      "storyNumbers": [
+        8
+      ]
+    },
+    {
+      "term": "小树",
+      "totalOccurrences": 4,
+      "distinctStories": 1,
+      "storyNumbers": [
+        11
+      ]
+    },
+    {
+      "term": "月亮",
+      "totalOccurrences": 5,
+      "distinctStories": 1,
+      "storyNumbers": [
+        26
+      ]
+    },
+    {
+      "term": "耳朵",
+      "totalOccurrences": 2,
+      "distinctStories": 1,
+      "storyNumbers": [
+        27
+      ]
+    },
+    {
+      "term": "眼睛",
+      "totalOccurrences": 2,
+      "distinctStories": 1,
+      "storyNumbers": [
+        27
+      ]
+    },
+    {
+      "term": "朋友",
+      "totalOccurrences": 3,
+      "distinctStories": 1,
+      "storyNumbers": [
+        24
+      ]
+    },
+    {
+      "term": "火车",
+      "totalOccurrences": 4,
+      "distinctStories": 1,
+      "storyNumbers": [
+        29
+      ]
+    },
+    {
+      "term": "自己",
+      "totalOccurrences": 1,
+      "distinctStories": 1,
+      "storyNumbers": [
+        30
+      ]
+    },
+    {
+      "term": "石头",
+      "totalOccurrences": 15,
+      "distinctStories": 6,
+      "storyNumbers": [
+        7,
+        8,
+        11,
+        22,
+        28,
+        30
+      ]
+    },
+    {
+      "term": "等一等",
+      "totalOccurrences": 3,
+      "distinctStories": 3,
+      "storyNumbers": [
+        12,
+        19,
+        25
+      ]
+    }
+  ],
+  "out": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\output\\level1-vocabulary-audit-20261025"
+}

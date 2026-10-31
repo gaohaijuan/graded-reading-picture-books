@@ -1,0 +1,257 @@
+{
+  "completedBooks": [
+    {
+      "number": 7,
+      "title": "山不见了",
+      "pages": 6
+    },
+    {
+      "number": 8,
+      "title": "小车回家",
+      "pages": 8
+    },
+    {
+      "number": 9,
+      "title": "小球在哪",
+      "pages": 8
+    },
+    {
+      "number": 10,
+      "title": "水中的我",
+      "pages": 8
+    }
+  ],
+  "scope": "Browser shelf, reading, per-story and collection PDFs; native WeChat renderer remains its supported three books.",
+  "generation": {
+    "method": "Built-in imagegen only; no image API/CLI. Original manuscript retained. Existing child-v1 heads/bodies reused; one registered crouch-touch action edited from crouch-palm.",
+    "nativePixelEncoding": "Lossless visible RGBA verification passed for 17 selected generated layers.",
+    "prompts": "little-protagonist/content/first-ten-art-provenance.json"
+  },
+  "browser": {
+    "method": "Browser MCP UI navigation and DOM-backed canvas diagnostics",
+    "defaultPages": 30,
+    "realPhotoPages": 30,
+    "overflowPages": 0,
+    "portraitScales": [
+      "0.42889683837095727"
+    ],
+    "name": "小小云朵和小太阳",
+    "familyMembers": 6,
+    "mobile": {
+      "artAboveText": true,
+      "controlsInside": true,
+      "documentOverflow": false,
+      "ratio": 0.7047753155761396,
+      "textInside": true,
+      "viewport": [
+        390,
+        844
+      ]
+    },
+    "settingsRestored": "小石头, age5, 大班, default illustrated head; child/dad/mom only"
+  },
+  "performance": {
+    "environment": "Windows in-app browser on localhost; recognition models already present. Mobile layout is simulated, not physical-device or cold-network measurement.",
+    "photoMs": {
+      "cutoutMs": 2140.20000000298,
+      "photoReadMs": 635.6000000014901,
+      "pngEncodeMs": 26.19999999552965,
+      "recognitionMs": 1086.39999999851
+    },
+    "readingDelta": {
+      "bodyDownloadMs": 0.0,
+      "backgroundDownloadMs": 0.0,
+      "composeMs": 4.7,
+      "composites": 5,
+      "pageDrawMs": 4719.2,
+      "draws": 179
+    },
+    "interpretation": "Reading delta runs from book7 page1 already ready to book10 page8 ready. Image loads include cache/decode; canvas durations are JS draw submission, not finished GPU time."
+  },
+  "tests": {
+    "passed": 388,
+    "failed": 0,
+    "projectCheck": "6 native pages and 40 JS files; does not replace WeChat compiler"
+  },
+  "pdf": {
+    "default": {
+      "file": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\output\\pdf\\小小主角-前十本合集-竖版A5校样.pdf",
+      "pages": 84,
+      "body_pages": 71,
+      "chapters": [
+        {
+          "book": "intro",
+          "title": "你好，我是小石头",
+          "start_folio": 1,
+          "start_pdf_page": 3,
+          "body_pages": 6
+        },
+        {
+          "book": "flower",
+          "title": "我的花",
+          "start_folio": 8,
+          "start_pdf_page": 10,
+          "body_pages": 6
+        },
+        {
+          "book": "family",
+          "title": "我家有几口人？",
+          "start_folio": 15,
+          "start_pdf_page": 17,
+          "body_pages": 7
+        },
+        {
+          "book": "hands",
+          "title": "我的小手",
+          "start_folio": 23,
+          "start_pdf_page": 25,
+          "body_pages": 6
+        },
+        {
+          "book": "rain",
+          "title": "下雨了",
+          "start_folio": 30,
+          "start_pdf_page": 32,
+          "body_pages": 8
+        },
+        {
+          "book": "stone",
+          "title": "小石头回家",
+          "start_folio": 39,
+          "start_pdf_page": 41,
+          "body_pages": 8
+        },
+        {
+          "book": "mountain",
+          "title": "山不见了",
+          "start_folio": 48,
+          "start_pdf_page": 50,
+          "body_pages": 6
+        },
+        {
+          "book": "car",
+          "title": "小车回家",
+          "start_folio": 55,
+          "start_pdf_page": 57,
+          "body_pages": 8
+        },
+        {
+          "book": "ball",
+          "title": "小球在哪",
+          "start_folio": 64,
+          "start_pdf_page": 66,
+          "body_pages": 8
+        },
+        {
+          "book": "water",
+          "title": "水中的我",
+          "start_folio": 73,
+          "start_pdf_page": 75,
+          "body_pages": 8
+        }
+      ],
+      "fonts": [
+        {
+          "name": "/NotoSerifSC-ExtraLight-1828",
+          "embedded": true
+        }
+      ],
+      "errors": []
+    },
+    "longNameSixPerson": {
+      "file": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\tmp\\pdfs\\first-ten-photo-six-family.pdf",
+      "pages": 87,
+      "body_pages": 74,
+      "chapters": [
+        {
+          "book": "intro",
+          "title": "你好，我是小小云朵和小太阳",
+          "start_folio": 1,
+          "start_pdf_page": 3,
+          "body_pages": 6
+        },
+        {
+          "book": "flower",
+          "title": "我的花",
+          "start_folio": 8,
+          "start_pdf_page": 10,
+          "body_pages": 6
+        },
+        {
+          "book": "family",
+          "title": "我家有几口人？",
+          "start_folio": 15,
+          "start_pdf_page": 17,
+          "body_pages": 10
+        },
+        {
+          "book": "hands",
+          "title": "我的小手",
+          "start_folio": 26,
+          "start_pdf_page": 28,
+          "body_pages": 6
+        },
+        {
+          "book": "rain",
+          "title": "下雨了",
+          "start_folio": 33,
+          "start_pdf_page": 35,
+          "body_pages": 8
+        },
+        {
+          "book": "stone",
+          "title": "小石头回家",
+          "start_folio": 42,
+          "start_pdf_page": 44,
+          "body_pages": 8
+        },
+        {
+          "book": "mountain",
+          "title": "山不见了",
+          "start_folio": 51,
+          "start_pdf_page": 53,
+          "body_pages": 6
+        },
+        {
+          "book": "car",
+          "title": "小车回家",
+          "start_folio": 58,
+          "start_pdf_page": 60,
+          "body_pages": 8
+        },
+        {
+          "book": "ball",
+          "title": "小球在哪",
+          "start_folio": 67,
+          "start_pdf_page": 69,
+          "body_pages": 8
+        },
+        {
+          "book": "water",
+          "title": "水中的我",
+          "start_folio": 76,
+          "start_pdf_page": 78,
+          "body_pages": 8
+        }
+      ],
+      "fonts": [
+        {
+          "name": "/NotoSerifSC-ExtraLight-9616",
+          "embedded": true
+        }
+      ],
+      "errors": []
+    },
+    "visualReview": "All 84 default and 87 QA pages rendered and visually inspected; both outer cover sides inspected."
+  },
+  "resolutionAndPressPackage": {
+    "newBooksMinimumNativePpi": 243,
+    "collectionMinimumNativePpi": 86,
+    "native300Ppi": false,
+    "completeLayerAudit": true,
+    "outerPages": 2,
+    "innerPages": 80,
+    "bleedMm": 3,
+    "note": "RGB reading proof, not a certified 300ppi/CMYK/PDF-X finished print file."
+  }
+}

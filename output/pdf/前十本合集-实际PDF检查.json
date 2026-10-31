@@ -1,0 +1,1474 @@
+{
+  "summary": {
+    "file": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\output\\pdf\\小小主角-前十本合集-竖版A5校样.pdf",
+    "pages": 84,
+    "body_pages": 71,
+    "chapters": [
+      {
+        "book": "intro",
+        "title": "你好，我是小石头",
+        "start_folio": 1,
+        "start_pdf_page": 3,
+        "body_pages": 6
+      },
+      {
+        "book": "flower",
+        "title": "我的花",
+        "start_folio": 8,
+        "start_pdf_page": 10,
+        "body_pages": 6
+      },
+      {
+        "book": "family",
+        "title": "我家有几口人？",
+        "start_folio": 15,
+        "start_pdf_page": 17,
+        "body_pages": 7
+      },
+      {
+        "book": "hands",
+        "title": "我的小手",
+        "start_folio": 23,
+        "start_pdf_page": 25,
+        "body_pages": 6
+      },
+      {
+        "book": "rain",
+        "title": "下雨了",
+        "start_folio": 30,
+        "start_pdf_page": 32,
+        "body_pages": 8
+      },
+      {
+        "book": "stone",
+        "title": "小石头回家",
+        "start_folio": 39,
+        "start_pdf_page": 41,
+        "body_pages": 8
+      },
+      {
+        "book": "mountain",
+        "title": "山不见了",
+        "start_folio": 48,
+        "start_pdf_page": 50,
+        "body_pages": 6
+      },
+      {
+        "book": "car",
+        "title": "小车回家",
+        "start_folio": 55,
+        "start_pdf_page": 57,
+        "body_pages": 8
+      },
+      {
+        "book": "ball",
+        "title": "小球在哪",
+        "start_folio": 64,
+        "start_pdf_page": 66,
+        "body_pages": 8
+      },
+      {
+        "book": "water",
+        "title": "水中的我",
+        "start_folio": 73,
+        "start_pdf_page": 75,
+        "body_pages": 8
+      }
+    ],
+    "fonts": [
+      {
+        "name": "/NotoSerifSC-ExtraLight-1828",
+        "embedded": true
+      }
+    ],
+    "errors": []
+  },
+  "pages": [
+    {
+      "page": 1,
+      "kind": "front",
+      "book": null,
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 43,
+      "text_inside": true,
+      "text": "小小主角 · 第1级\n第1级\n阅读故事集\n小石头的专属故事集\n现有 10 个故事 · 合集样册"
+    },
+    {
+      "page": 2,
+      "kind": "contents",
+      "book": null,
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 140,
+      "text_inside": true,
+      "text": "故事目录\n第1级合集样册 · 现有 10 个故事\n01 你好，我是小石头 1\n02 我的花 8\n03 我家有几口人？ 15\n04 我的小手 23\n05 下雨了 30\n06 小石头回家 39\n07 山不见了 48\n08 小车回家 55\n09 小球在哪 64\n10 水中的我 73\n每个故事后都有识字小结。\n这是现有故事样册，完整第1级仍在陆续制作。"
+    },
+    {
+      "page": 3,
+      "kind": "story",
+      "book": "intro",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 23,
+      "text_inside": true,
+      "text": "01 · 你好，我是小石头\n你好！\n我是小石头。\n1",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 4,
+      "kind": "story",
+      "book": "intro",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 18,
+      "text_inside": true,
+      "text": "你好，我是小石头\n我的名字\n叫小石头。\n2",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 5,
+      "kind": "story",
+      "book": "intro",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 18,
+      "text_inside": true,
+      "text": "你好，我是小石头\n你的名字\n是什么呢？\n3",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 6,
+      "kind": "story",
+      "book": "intro",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 19,
+      "text_inside": true,
+      "text": "你好，我是小石头\n我五岁了。\n你几岁呢？\n4",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 7,
+      "kind": "story",
+      "book": "intro",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 15,
+      "text_inside": true,
+      "text": "你好，我是小石头\n我上大班了。\n5",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 8,
+      "kind": "story",
+      "book": "intro",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 14,
+      "text_inside": true,
+      "text": "你好，我是小石头\n你也是吗？\n6",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 9,
+      "kind": "summary",
+      "book": "intro",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 182,
+      "text_inside": true,
+      "text": "你好，我是小石头\n识字小结\n小石头的阅读足迹\n故事读完了，这些字我见过啦。\n本书用字 新出现 累计接触\n20 字 20 字 20 字\n本书汉字\n下划线为本册新字，可圈出还想练习的字\n你 好 我 是 的 名 字 叫 什 么 呢\n五 岁 了 几 上 大 班 也 吗\n姓名汉字另计：小、石、头\n阅读日期：________ 能独立认读：____ / 20 字\n正文去重，含辅助字，不计书名与姓名；从第1本累计。\n重读不叠加。读过不代表掌握。\n7",
+      "continuous_folio": true
+    },
+    {
+      "page": 10,
+      "kind": "story",
+      "book": "flower",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 14,
+      "text_inside": true,
+      "text": "02 · 我的花\n我的小花。\n8",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 11,
+      "kind": "story",
+      "book": "flower",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 12,
+      "text_inside": true,
+      "text": "我的花\n我的花\n有好多片。\n9",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 12,
+      "kind": "story",
+      "book": "flower",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 13,
+      "text_inside": true,
+      "text": "我的花\n一片两片三四片，\n10",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 13,
+      "kind": "story",
+      "book": "flower",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 13,
+      "text_inside": true,
+      "text": "我的花\n五片六片七八片，\n11",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 14,
+      "kind": "story",
+      "book": "flower",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 13,
+      "text_inside": true,
+      "text": "我的花\n九片十片十一片，\n12",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 15,
+      "kind": "story",
+      "book": "flower",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 13,
+      "text_inside": true,
+      "text": "我的花\n飞入草丛都不见。\n13",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 16,
+      "kind": "summary",
+      "book": "flower",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 171,
+      "text_inside": true,
+      "text": "我的花\n识字小结\n小石头的阅读足迹\n故事读完了，这些字我见过啦。\n本书用字 新出现 累计接触\n25 字 21 字 41 字\n本书汉字\n下划线为本册新字，可圈出还想练习的字\n我 的 小 花 有 好 多 片 一 两 三\n四 五 六 七 八 九 十 飞 入 草 丛\n都 不 见\n阅读日期：________ 能独立认读：____ / 25 字\n正文去重，含辅助字，不计书名与姓名；从第1本累计。\n重读不叠加。读过不代表掌握。\n14",
+      "continuous_folio": true
+    },
+    {
+      "page": 17,
+      "kind": "story",
+      "book": "family",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 27,
+      "text_inside": true,
+      "text": "03 · 我家有几口人？\n我家有几口人？\n我来数一数。\n15",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 18,
+      "kind": "story",
+      "book": "family",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 14,
+      "text_inside": true,
+      "text": "我家有几口人？\n这是爸爸。\n16",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 19,
+      "kind": "story",
+      "book": "family",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 14,
+      "text_inside": true,
+      "text": "我家有几口人？\n这是妈妈。\n17",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 20,
+      "kind": "story",
+      "book": "family",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 21,
+      "text_inside": true,
+      "text": "我家有几口人？\n我数好了！\n一共有两口人。\n18",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 21,
+      "kind": "story",
+      "book": "family",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 17,
+      "text_inside": true,
+      "text": "我家有几口人？\n咦？\n我把谁忘了？\n19",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 22,
+      "kind": "story",
+      "book": "family",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 19,
+      "text_inside": true,
+      "text": "我家有几口人？\n是我呀！\n还要加上我。\n20",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 23,
+      "kind": "story",
+      "book": "family",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 22,
+      "text_inside": true,
+      "text": "我家有几口人？\n我家有三口人。\n我们都在家！\n21",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 24,
+      "kind": "summary",
+      "book": "family",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 180,
+      "text_inside": true,
+      "text": "我家有几口人？\n识字小结\n小石头的阅读足迹\n故事读完了，这些字我见过啦。\n本书用字 新出现 累计接触\n30 字 19 字 60 字\n本书汉字\n下划线为本册新字，可圈出还想练习的字\n我 家 有 几 口 人 来 数 一 这 是\n爸 妈 好 了 共 两 咦 把 谁 忘 呀\n还 要 加 上 三 们 都 在\n阅读日期：________ 能独立认读：____ / 30 字\n正文去重，含辅助字，不计书名与姓名；从第1本累计。\n重读不叠加。读过不代表掌握。\n22",
+      "continuous_folio": true
+    },
+    {
+      "page": 25,
+      "kind": "story",
+      "book": "hands",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 18,
+      "text_inside": true,
+      "text": "04 · 我的小手\n我有两只小手。\n23",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 26,
+      "kind": "story",
+      "book": "hands",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 14,
+      "text_inside": true,
+      "text": "我的小手\n小手开，\n小花来。\n24",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 27,
+      "kind": "story",
+      "book": "hands",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 14,
+      "text_inside": true,
+      "text": "我的小手\n小手关，\n小花去。\n25",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 28,
+      "kind": "story",
+      "book": "hands",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 18,
+      "text_inside": true,
+      "text": "我的小手\n小花，小花，\n你不来了吗？\n26",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 29,
+      "kind": "story",
+      "book": "hands",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 16,
+      "text_inside": true,
+      "text": "我的小手\n小手开，\n小花回来了！\n27",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 30,
+      "kind": "story",
+      "book": "hands",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 17,
+      "text_inside": true,
+      "text": "我的小手\n我的小手，\n是小花的家！\n28",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 31,
+      "kind": "summary",
+      "book": "hands",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 165,
+      "text_inside": true,
+      "text": "我的小手\n识字小结\n小石头的阅读足迹\n故事读完了，这些字我见过啦。\n本书用字 新出现 累计接触\n19 字 6 字 66 字\n本书汉字\n下划线为本册新字，可圈出还想练习的字\n我 有 两 只 小 手 开 花 来 关 去\n你 不 了 吗 回 的 是 家\n阅读日期：________ 能独立认读：____ / 19 字\n正文去重，含辅助字，不计书名与姓名；从第1本累计。\n重读不叠加。读过不代表掌握。\n29",
+      "continuous_folio": true
+    },
+    {
+      "page": 32,
+      "kind": "story",
+      "book": "rain",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 15,
+      "text_inside": true,
+      "text": "05 · 下雨了\n天上有云。\n30",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 33,
+      "kind": "story",
+      "book": "rain",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 13,
+      "text_inside": true,
+      "text": "下雨了\n风来了。\n下雨了！\n31",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 34,
+      "kind": "story",
+      "book": "rain",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 15,
+      "text_inside": true,
+      "text": "下雨了\n小伞开了。\n我在伞下。\n32",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 35,
+      "kind": "story",
+      "book": "rain",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 11,
+      "text_inside": true,
+      "text": "下雨了\n小花在雨中。\n33",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 36,
+      "kind": "story",
+      "book": "rain",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 15,
+      "text_inside": true,
+      "text": "下雨了\n小花，来！\n小花不来。\n34",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 37,
+      "kind": "story",
+      "book": "rain",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 12,
+      "text_inside": true,
+      "text": "下雨了\n花不来，\n我去！\n35",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 38,
+      "kind": "story",
+      "book": "rain",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 17,
+      "text_inside": true,
+      "text": "下雨了\n我在伞下，\n小花也在伞下。\n36",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 39,
+      "kind": "story",
+      "book": "rain",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 19,
+      "text_inside": true,
+      "text": "下雨了\n雨在伞上，\n伞下有我，也有花。\n37",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 40,
+      "kind": "summary",
+      "book": "rain",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 164,
+      "text_inside": true,
+      "text": "下雨了\n识字小结\n小石头的阅读足迹\n故事读完了，这些字我见过啦。\n本书用字 新出现 累计接触\n19 字 7 字 73 字\n本书汉字\n下划线为本册新字，可圈出还想练习的字\n天 上 有 云 风 来 了 下 雨 小 伞\n开 我 在 花 中 不 去 也\n阅读日期：________ 能独立认读：____ / 19 字\n正文去重，含辅助字，不计书名与姓名；从第1本累计。\n重读不叠加。读过不代表掌握。\n38",
+      "continuous_folio": true
+    },
+    {
+      "page": 41,
+      "kind": "story",
+      "book": "stone",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 22,
+      "text_inside": true,
+      "text": "06 · 小石头回家\n大石头下，\n有小石头。\n39",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 42,
+      "kind": "story",
+      "book": "stone",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 15,
+      "text_inside": true,
+      "text": "小石头回家\n这是小石头的家。\n40",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 43,
+      "kind": "story",
+      "book": "stone",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 20,
+      "text_inside": true,
+      "text": "小石头回家\n小石头，来！\n你在我的手中。\n41",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 44,
+      "kind": "story",
+      "book": "stone",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 16,
+      "text_inside": true,
+      "text": "小石头回家\n我走，\n小石头也走。\n42",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 45,
+      "kind": "story",
+      "book": "stone",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 13,
+      "text_inside": true,
+      "text": "小石头回家\n我要回家了。\n43",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 46,
+      "kind": "story",
+      "book": "stone",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 17,
+      "text_inside": true,
+      "text": "小石头回家\n小石头，\n你也回家吧。\n44",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 47,
+      "kind": "story",
+      "book": "stone",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 19,
+      "text_inside": true,
+      "text": "小石头回家\n大石头下，\n小石头回家了。\n45",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 48,
+      "kind": "story",
+      "book": "stone",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 13,
+      "text_inside": true,
+      "text": "小石头回家\n我也回家了！\n46",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 49,
+      "kind": "summary",
+      "book": "stone",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 169,
+      "text_inside": true,
+      "text": "小石头回家\n识字小结\n小石头的阅读足迹\n故事读完了，这些字我见过啦。\n本书用字 新出现 累计接触\n22 字 4 字 77 字\n本书汉字\n下划线为本册新字，可圈出还想练习的字\n大 石 头 下 有 小 这 是 的 家 来\n你 在 我 手 中 走 也 要 回 了 吧\n阅读日期：________ 能独立认读：____ / 22 字\n正文去重，含辅助字，不计书名与姓名；从第1本累计。\n重读不叠加。读过不代表掌握。\n47",
+      "continuous_folio": true
+    },
+    {
+      "page": 50,
+      "kind": "story",
+      "book": "mountain",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 17,
+      "text_inside": true,
+      "text": "07 · 山不见了\n山上有白云。\n48",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 51,
+      "kind": "story",
+      "book": "mountain",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 15,
+      "text_inside": true,
+      "text": "山不见了\n白云来，\n山不见了。\n49",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 52,
+      "kind": "story",
+      "book": "mountain",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 15,
+      "text_inside": true,
+      "text": "山不见了\n山，\n你也回家了吗？\n50",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 53,
+      "kind": "story",
+      "book": "mountain",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 14,
+      "text_inside": true,
+      "text": "山不见了\n风来了，\n云走了。\n51",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 54,
+      "kind": "story",
+      "book": "mountain",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 18,
+      "text_inside": true,
+      "text": "山不见了\n山出来了！\n山，你回来了！\n52",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 55,
+      "kind": "story",
+      "book": "mountain",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 16,
+      "text_inside": true,
+      "text": "山不见了\n山没有走，\n是云走了！\n53",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 56,
+      "kind": "summary",
+      "book": "mountain",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 165,
+      "text_inside": true,
+      "text": "山不见了\n识字小结\n小石头的阅读足迹\n故事读完了，这些字我见过啦。\n本书用字 新出现 累计接触\n19 字 4 字 81 字\n本书汉字\n下划线为本册新字，可圈出还想练习的字\n山 上 有 白 云 来 不 见 了 你 也\n回 家 吗 风 走 出 没 是\n阅读日期：________ 能独立认读：____ / 19 字\n正文去重，含辅助字，不计书名与姓名；从第1本累计。\n重读不叠加。读过不代表掌握。\n54",
+      "continuous_folio": true
+    },
+    {
+      "page": 57,
+      "kind": "story",
+      "book": "car",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 21,
+      "text_inside": true,
+      "text": "08 · 小车回家\n小车的家，\n有两个门。\n55",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 58,
+      "kind": "story",
+      "book": "car",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 16,
+      "text_inside": true,
+      "text": "小车回家\n一个入口，\n一个出口。\n56",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 59,
+      "kind": "story",
+      "book": "car",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 12,
+      "text_inside": true,
+      "text": "小车回家\n小车开进去。\n57",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 60,
+      "kind": "story",
+      "book": "car",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 12,
+      "text_inside": true,
+      "text": "小车回家\n小车开出来。\n58",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 61,
+      "kind": "story",
+      "book": "car",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 17,
+      "text_inside": true,
+      "text": "小车回家\n小车开进去，\n又开出来。\n59",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 62,
+      "kind": "story",
+      "book": "car",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 15,
+      "text_inside": true,
+      "text": "小车回家\n小车，\n你不回家吗？\n60",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 63,
+      "kind": "story",
+      "book": "car",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 13,
+      "text_inside": true,
+      "text": "小车回家\n小车开进去了。\n61",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 64,
+      "kind": "story",
+      "book": "car",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 16,
+      "text_inside": true,
+      "text": "小车回家\n小手关上门。\n回家了！\n62",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 65,
+      "kind": "summary",
+      "book": "car",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 171,
+      "text_inside": true,
+      "text": "小车回家\n识字小结\n小石头的阅读足迹\n故事读完了，这些字我见过啦。\n本书用字 新出现 累计接触\n25 字 5 字 86 字\n本书汉字\n下划线为本册新字，可圈出还想练习的字\n小 车 的 家 有 两 个 门 一 入 口\n出 开 进 去 来 又 你 不 回 吗 了\n手 关 上\n阅读日期：________ 能独立认读：____ / 25 字\n正文去重，含辅助字，不计书名与姓名；从第1本累计。\n重读不叠加。读过不代表掌握。\n63",
+      "continuous_folio": true
+    },
+    {
+      "page": 66,
+      "kind": "story",
+      "book": "ball",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 18,
+      "text_inside": true,
+      "text": "09 · 小球在哪\n我要和小球玩。\n64",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 67,
+      "kind": "story",
+      "book": "ball",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 16,
+      "text_inside": true,
+      "text": "小球在哪\n我找小球。\n你也来找。\n65",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 68,
+      "kind": "story",
+      "book": "ball",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 14,
+      "text_inside": true,
+      "text": "小球在哪\n小球在小山上吗？\n66",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 69,
+      "kind": "story",
+      "book": "ball",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 15,
+      "text_inside": true,
+      "text": "小球在哪\n小山上，\n有小石头。\n67",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 70,
+      "kind": "story",
+      "book": "ball",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 14,
+      "text_inside": true,
+      "text": "小球在哪\n小球在小车里吗？\n68",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 71,
+      "kind": "story",
+      "book": "ball",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 16,
+      "text_inside": true,
+      "text": "小球在哪\n小车里，\n也有小石头。\n69",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 72,
+      "kind": "story",
+      "book": "ball",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 16,
+      "text_inside": true,
+      "text": "小球在哪\n回家了！\n小球在家里！\n70",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 73,
+      "kind": "story",
+      "book": "ball",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 18,
+      "text_inside": true,
+      "text": "小球在哪\n我出门了，\n小球没有出门！\n71",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 74,
+      "kind": "summary",
+      "book": "ball",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 171,
+      "text_inside": true,
+      "text": "小球在哪\n识字小结\n小石头的阅读足迹\n故事读完了，这些字我见过啦。\n本书用字 新出现 累计接触\n25 字 5 字 91 字\n本书汉字\n下划线为本册新字，可圈出还想练习的字\n我 要 和 小 球 玩 找 你 也 来 在\n山 上 吗 有 石 头 车 里 回 家 了\n出 门 没\n阅读日期：________ 能独立认读：____ / 25 字\n正文去重，含辅助字，不计书名与姓名；从第1本累计。\n重读不叠加。读过不代表掌握。\n72",
+      "continuous_folio": true
+    },
+    {
+      "page": 75,
+      "kind": "story",
+      "book": "water",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 21,
+      "text_inside": true,
+      "text": "10 · 水中的我\n水中有天。\n水中有云。\n73",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 76,
+      "kind": "story",
+      "book": "water",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 16,
+      "text_inside": true,
+      "text": "水中的我\n水中有花。\n水中有我。\n74",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 77,
+      "kind": "story",
+      "book": "water",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 16,
+      "text_inside": true,
+      "text": "水中的我\n我走，\n水中的我也走。\n75",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 78,
+      "kind": "story",
+      "book": "water",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 18,
+      "text_inside": true,
+      "text": "水中的我\n我不走，\n水中的我也不走。\n76",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 79,
+      "kind": "story",
+      "book": "water",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 22,
+      "text_inside": true,
+      "text": "水中的我\n我的小手来了，\n水中的小手也来了。\n77",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 80,
+      "kind": "story",
+      "book": "water",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 19,
+      "text_inside": true,
+      "text": "水中的我\n小手入水。\n水中的我不见了！\n78",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 81,
+      "kind": "story",
+      "book": "water",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 19,
+      "text_inside": true,
+      "text": "水中的我\n小手出水。\n水中的我回来了！\n79",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 82,
+      "kind": "story",
+      "book": "water",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 21,
+      "text_inside": true,
+      "text": "水中的我\n你好，水中的我！\n你也要回家吗？\n80",
+      "body_present": true,
+      "art_present": true,
+      "body_below_art": true,
+      "continuous_folio": true
+    },
+    {
+      "page": 83,
+      "kind": "summary",
+      "book": "water",
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 170,
+      "text_inside": true,
+      "text": "水中的我\n识字小结\n小石头的阅读足迹\n故事读完了，这些字我见过啦。\n本书用字 新出现 累计接触\n24 字 1 字 92 字\n本书汉字\n下划线为本册新字，可圈出还想练习的字\n水 中 有 天 云 花 我 走 的 也 不\n小 手 来 了 入 见 出 回 你 好 要\n家 吗\n阅读日期：________ 能独立认读：____ / 24 字\n正文去重，含辅助字，不计书名与姓名；从第1本累计。\n重读不叠加。读过不代表掌握。\n81",
+      "continuous_folio": true
+    },
+    {
+      "page": 84,
+      "kind": "back",
+      "book": null,
+      "size_mm": [
+        148.0,
+        210.0
+      ],
+      "blank": false,
+      "vector_characters": 109,
+      "text_inside": true,
+      "text": "故事读完啦\n小石头的阅读足迹\n10 个 92 字 71 页\n小故事 累计接触 故事正文\n每一页，都有故事里的你。\n统计按正文汉字去重，姓名另计；重读不叠加。\n读过不代表掌握，各故事小结可记录实际认读情况。\n第1级合集样册 · 现有10个故事"
+    }
+  ]
+}

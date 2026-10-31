@@ -1,0 +1,273 @@
+{
+  "date": "2026-10-27",
+  "status": "complete-15-for-user-review",
+  "source": "第一级15篇-用户指定文稿.json",
+  "synchronizedNumbers": [
+    1,
+    7,
+    9,
+    14
+  ],
+  "approvedWordingChanged": false,
+  "newImagesGenerated": 7,
+  "imageAPIUsed": false,
+  "artChanges": {
+    "1": "原6页插画，名字年龄班级按设置同步",
+    "7": "第2、7页（PDF48、53）采用同一张清晰石头近景；其余六页和人物不动。",
+    "9": "原8分镜合为5页；出库车放在门板前，车头不被挡；删除旧路线标记",
+    "14": "复用7个分镜，结尾两段同页；删除双向滚动箭头"
+  },
+  "browserUrl": "http://127.0.0.1:4173/?view=level1-complete",
+  "browserMCP": {
+    "books": 15,
+    "bodyPages": 99,
+    "summaryPages": 15,
+    "records": 114
+  },
+  "checks": {
+    "exactTextBodyPages": 99,
+    "pdfRenderedPages": 117,
+    "blankPages": 0,
+    "imageAndTextSamePage": true,
+    "mobileWidth": 390,
+    "characterTestsPassed": 21,
+    "largeFamily": 12,
+    "maximumNameLength": 8,
+    "realUserPhotoTested": false,
+    "previousThreeAndEightPDFsUnchanged": true
+  },
+  "pdf": {
+    "path": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\output\\level1-complete-15-20261027\\第一级别-15篇绘本合集-审核版.pdf",
+    "bytes": 230868568,
+    "sha256": "3ca78f2f0cc48ec96da8cc61a72a0653eab485ddc40f289c555f25ba62147b0f",
+    "formatMm": [
+      148,
+      210
+    ],
+    "pages": 117,
+    "bodyPages": 99,
+    "summaryPages": 15,
+    "covers": 1,
+    "contents": 1,
+    "back": 1,
+    "chapterStarts": [
+      3,
+      10,
+      16,
+      23,
+      31,
+      38,
+      47,
+      56,
+      63,
+      69,
+      76,
+      85,
+      91,
+      101,
+      109
+    ],
+    "defaultCharacter": "小石头",
+    "RGB": true,
+    "physicalPrintTested": false
+  },
+  "knownLimitations": [],
+  "imageGenerationAttempts": 9,
+  "stoneQualityFix": {
+    "date": "2026-10-27",
+    "nativeSize": [
+      1254,
+      1254
+    ],
+    "oldBackgroundEffectivePpi": 87.3,
+    "newBackgroundEffectivePpi": 243.1,
+    "asset": "art-samples/stone-close-native/stone-home-close.png",
+    "provenance": "content/stone-close-quality-provenance.json",
+    "method": "Built-in imagegen editing; one accepted shared closeup; no API, no sharpening or interpolation enlargement",
+    "exactPdfComparison": {
+      "pageCount": 117,
+      "changedImagePages": [
+        48,
+        53
+      ],
+      "all117PageTextsUnchanged": true,
+      "other115PageImagesUnchanged": true,
+      "sha256": "90f0cdde48ef1d69f5924d5d14578e344f9af90e56954cf3d3df4bcabf86d709"
+    },
+    "browserMCP": "stone-browser-mcp-audit.json",
+    "pdfVisualCheck": "第7篇八页实际PDF渲染，重点检查48、53页；其他115页图像指纹完全一致",
+    "actual300PpiClaimed": false
+  },
+  "imageCountBasis": "累计：此前石头近景1项/2次尝试，本次动作修复6项/7次尝试。",
+  "actionFixes": {
+    "status": "complete-for-review",
+    "date": "2026-10-27",
+    "manuscriptChanged": false,
+    "imageAPIUsed": false,
+    "changes": [
+      {
+        "number": 11,
+        "pages": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "pdfPages": [
+          77,
+          78,
+          79,
+          80,
+          81,
+          82
+        ],
+        "change": "完整树梢与背景分开，站在地上树较高，站上石头孩子较高；石头从出现后持续保留"
+      },
+      {
+        "number": 8,
+        "pages": [
+          5
+        ],
+        "pdfPages": [
+          60
+        ],
+        "change": "第一人称低头看自己脚面，原款小虫独立放大到脚上"
+      },
+      {
+        "number": 14,
+        "pages": [
+          6
+        ],
+        "pdfPages": [
+          106
+        ],
+        "change": "完整人物蹲下向右伸手，红球紧邻指尖，沿孩子到右侧猫的方向推"
+      },
+      {
+        "number": 7,
+        "pages": [
+          4
+        ],
+        "pdfPages": [
+          50
+        ],
+        "change": "双手携石、向右迈步；保留此前清晰石头近景"
+      },
+      {
+        "number": 10,
+        "pages": [
+          2,
+          3,
+          4
+        ],
+        "pdfPages": [
+          70,
+          71,
+          72
+        ],
+        "change": "第一人称查看车厢内、车前、车后，手指分别指向对应位置"
+      },
+      {
+        "number": 13,
+        "pages": [
+          3,
+          4,
+          6
+        ],
+        "pdfPages": [
+          93,
+          94,
+          96
+        ],
+        "change": "抬手邀请树上鸟，蹲下听地面动静，向右侧猫伸手邀请；鸟猫独立特写继续保留"
+      }
+    ],
+    "assets": {
+      "accepted": 6,
+      "attempts": 7,
+      "registeredBodies": 3,
+      "transparentDetails": 2,
+      "backgrounds": 1,
+      "nativeDirectory": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\art-samples\\action-fixes-native",
+      "prompts": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\content\\level1-action-fixes-generation.json",
+      "registration": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\content\\action-fix-pose-registration.json",
+      "facesGeneratedOrRepainted": false
+    },
+    "validation": {
+      "browserMCPBodyPages": 44,
+      "browserMCPSummaryPages": 6,
+      "browserMCPRecords": 50,
+      "defaultShelfBook11Page5Checked": true,
+      "actualPDFRenderedPages": 117,
+      "pdfDetailsInspected": [
+        50,
+        60,
+        70,
+        71,
+        72,
+        80,
+        93,
+        94,
+        96,
+        106
+      ],
+      "all117PDFTextsUnchanged": true,
+      "imageChangesComparedToPreStoneBaseline": [
+        30,
+        48,
+        50,
+        53,
+        60,
+        61,
+        62,
+        70,
+        71,
+        72,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        90,
+        93,
+        94,
+        96,
+        106,
+        116
+      ],
+      "rigSessionFamilyTestsPassed": 21,
+      "newPosesCheckedWithSimulatedRealPortraitGeometry": true,
+      "realUserPhotoTested": false,
+      "continuousSixBookVisualReview": true,
+      "mobileViewportWidth": 390,
+      "level2PDFUnchanged": true,
+      "sourceWordUnchanged": true
+    },
+    "quality": {
+      "minimumNativeBackgroundEffectivePpi": 167.9,
+      "maximumNativeBackgroundEffectivePpi": 243.1,
+      "detailByNativeSource": true,
+      "native300PpiClaimed": false,
+      "physicalPrintTested": false
+    },
+    "browserAudit": "action-fixes-browser-mcp-audit.json",
+    "pdfDiffAudit": "action-pdf-diff-qa.json",
+    "completedOn": "2026-10-28",
+    "resumeCheck": "2026-10-28 重启本地4173预览并用浏览器MCP确认第14篇第6页；最终文字、图像范围和原稿哈希比对通过。"
+  },
+  "currentCoverEdition": {
+    "completedOn": "2026-10-28",
+    "file": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\output\\level1-complete-15-20261027\\第一级别-15篇绘本合集-逐篇封面版.pdf",
+    "pages": 132,
+    "storyCoverPages": 15,
+    "bodyPages": 99,
+    "report": "逐篇封面版-完成与检查记录.json",
+    "previous117PageProofPreserved": true
+  }
+}

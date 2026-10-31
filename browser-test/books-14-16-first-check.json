@@ -1,0 +1,2248 @@
+[
+  {
+    "book": "shoes",
+    "dataset": {
+      "actorCacheId": "2",
+      "art": "shoes",
+      "artState": "ready",
+      "camera": "{\"x\":11.363636363636374,\"y\":0,\"width\":977.2727272727273,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "0",
+      "portraitScale": "0.26155187445510025",
+      "pose": "barefoot-stand",
+      "reflectionActor": "",
+      "scene": "shoes-bench",
+      "sceneGeometry": "{\"wearing\":null,\"bigShoes\":null,\"basin\":null,\"wagon\":null,\"ball\":null}",
+      "storyBeat": "my-small-shoes"
+    },
+    "overflow": false,
+    "page": 0,
+    "paper": {
+      "bottom": 641.3229217529297,
+      "height": 564.65625,
+      "left": 441.0208435058594,
+      "right": 838.9687805175781,
+      "top": 76.66667175292969,
+      "width": 397.9479370117187,
+      "x": 441.0208435058594,
+      "y": 76.66667175292969
+    },
+    "photoTiming": {
+      "cutoutMs": null,
+      "photoReadMs": null,
+      "pngEncodeMs": null,
+      "recognitionMs": null
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 7631.0999999996275,
+      "bodyDownloadMs": 224.20000000065193,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "shoes",
+                "watering",
+                "wagon"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "barefoot-stand",
+                  "status": "ready"
+                },
+                {
+                  "id": "barefoot-step",
+                  "status": "ready"
+                },
+                {
+                  "id": "step-own-shoes",
+                  "status": "ready"
+                },
+                {
+                  "id": "water-pour",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                },
+                {
+                  "id": "push-cart",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "shoes",
+            "watering",
+            "wagon"
+          ]
+        }
+      ],
+      "composeMs": 4.8999999994412065,
+      "composites": 11,
+      "draws": 23,
+      "pageDrawMs": 913.5000000004655
+    },
+    "text": "这是我的小鞋。",
+    "textRect": {
+      "bottom": 590.21875,
+      "height": 77.96875,
+      "left": 462.53125,
+      "right": 806.6979370117188,
+      "top": 512.25,
+      "width": 344.16668701171875,
+      "x": 462.53125,
+      "y": 512.25
+    }
+  },
+  {
+    "book": "shoes",
+    "dataset": {
+      "actorCacheId": "",
+      "art": "shoes",
+      "artState": "ready",
+      "camera": "{\"x\":11.363636363636374,\"y\":0,\"width\":977.2727272727273,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "1",
+      "portraitScale": "",
+      "pose": "none",
+      "reflectionActor": "",
+      "scene": "shoes-comparison",
+      "sceneGeometry": "{\"wearing\":null,\"bigShoes\":null,\"basin\":null,\"wagon\":null,\"ball\":null}",
+      "storyBeat": "big-and-small-shoes"
+    },
+    "overflow": false,
+    "page": 1,
+    "paper": {
+      "bottom": 641.3229217529297,
+      "height": 564.65625,
+      "left": 441.0208435058594,
+      "right": 838.9687805175781,
+      "top": 76.66667175292969,
+      "width": 397.9479370117187,
+      "x": 441.0208435058594,
+      "y": 76.66667175292969
+    },
+    "photoTiming": {
+      "cutoutMs": null,
+      "photoReadMs": null,
+      "pngEncodeMs": null,
+      "recognitionMs": null
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 7659.699999999721,
+      "bodyDownloadMs": 224.20000000065193,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "shoes",
+                "watering",
+                "wagon"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "barefoot-stand",
+                  "status": "ready"
+                },
+                {
+                  "id": "barefoot-step",
+                  "status": "ready"
+                },
+                {
+                  "id": "step-own-shoes",
+                  "status": "ready"
+                },
+                {
+                  "id": "water-pour",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                },
+                {
+                  "id": "push-cart",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "shoes",
+            "watering",
+            "wagon"
+          ]
+        }
+      ],
+      "composeMs": 4.8999999994412065,
+      "composites": 11,
+      "draws": 24,
+      "pageDrawMs": 913.6000000005588
+    },
+    "text": "这是大鞋。我也要穿。",
+    "textRect": {
+      "bottom": 590.21875,
+      "height": 77.96875,
+      "left": 473.28125,
+      "right": 817.4479370117188,
+      "top": 512.25,
+      "width": 344.16668701171875,
+      "x": 473.28125,
+      "y": 512.25
+    }
+  },
+  {
+    "book": "shoes",
+    "dataset": {
+      "actorCacheId": "2",
+      "art": "shoes",
+      "artState": "ready",
+      "camera": "{\"x\":11.363636363636374,\"y\":0,\"width\":977.2727272727273,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "2",
+      "portraitScale": "0.26155187445510025",
+      "pose": "barefoot-stand",
+      "reflectionActor": "",
+      "scene": "shoes-try",
+      "sceneGeometry": "{\"wearing\":\"big\",\"bigShoes\":{\"x\":350,\"ground\":954,\"width\":300},\"basin\":null,\"wagon\":null,\"ball\":null}",
+      "storyBeat": "feet-inside-big-shoes"
+    },
+    "overflow": false,
+    "page": 2,
+    "paper": {
+      "bottom": 641.3229217529297,
+      "height": 564.65625,
+      "left": 441.0208435058594,
+      "right": 838.9687805175781,
+      "top": 76.66667175292969,
+      "width": 397.9479370117187,
+      "x": 441.0208435058594,
+      "y": 76.66667175292969
+    },
+    "photoTiming": {
+      "cutoutMs": null,
+      "photoReadMs": null,
+      "pngEncodeMs": null,
+      "recognitionMs": null
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 7883,
+      "bodyDownloadMs": 224.20000000065193,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "shoes",
+                "watering",
+                "wagon"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "barefoot-stand",
+                  "status": "ready"
+                },
+                {
+                  "id": "barefoot-step",
+                  "status": "ready"
+                },
+                {
+                  "id": "step-own-shoes",
+                  "status": "ready"
+                },
+                {
+                  "id": "water-pour",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                },
+                {
+                  "id": "push-cart",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "shoes",
+            "watering",
+            "wagon"
+          ]
+        }
+      ],
+      "composeMs": 4.8999999994412065,
+      "composites": 11,
+      "draws": 25,
+      "pageDrawMs": 934.0000000004655
+    },
+    "text": "小脚穿大鞋。",
+    "textRect": {
+      "bottom": 590.21875,
+      "height": 77.96875,
+      "left": 462.53125,
+      "right": 806.6979370117188,
+      "top": 512.25,
+      "width": 344.16668701171875,
+      "x": 462.53125,
+      "y": 512.25
+    }
+  },
+  {
+    "book": "shoes",
+    "dataset": {
+      "actorCacheId": "3",
+      "art": "shoes",
+      "artState": "ready",
+      "camera": "{\"x\":11.363636363636374,\"y\":0,\"width\":977.2727272727273,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "3",
+      "portraitScale": "0.26155187445510025",
+      "pose": "barefoot-step",
+      "reflectionActor": "",
+      "scene": "shoes-try",
+      "sceneGeometry": "{\"wearing\":\"none\",\"bigShoes\":{\"x\":350,\"ground\":954,\"width\":300},\"basin\":null,\"wagon\":null,\"ball\":null}",
+      "storyBeat": "one-step-shoes-stay"
+    },
+    "overflow": false,
+    "page": 3,
+    "paper": {
+      "bottom": 641.3229217529297,
+      "height": 564.65625,
+      "left": 441.0208435058594,
+      "right": 838.9687805175781,
+      "top": 76.66667175292969,
+      "width": 397.9479370117187,
+      "x": 441.0208435058594,
+      "y": 76.66667175292969
+    },
+    "photoTiming": {
+      "cutoutMs": null,
+      "photoReadMs": null,
+      "pngEncodeMs": null,
+      "recognitionMs": null
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 7883,
+      "bodyDownloadMs": 224.20000000065193,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "shoes",
+                "watering",
+                "wagon"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "barefoot-stand",
+                  "status": "ready"
+                },
+                {
+                  "id": "barefoot-step",
+                  "status": "ready"
+                },
+                {
+                  "id": "step-own-shoes",
+                  "status": "ready"
+                },
+                {
+                  "id": "water-pour",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                },
+                {
+                  "id": "push-cart",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "shoes",
+            "watering",
+            "wagon"
+          ]
+        }
+      ],
+      "composeMs": 4.8999999994412065,
+      "composites": 11,
+      "draws": 26,
+      "pageDrawMs": 934.3000000007452
+    },
+    "text": "我走，大鞋不走。",
+    "textRect": {
+      "bottom": 590.21875,
+      "height": 77.96875,
+      "left": 473.28125,
+      "right": 817.4479370117188,
+      "top": 512.25,
+      "width": 344.16668701171875,
+      "x": 473.28125,
+      "y": 512.25
+    }
+  },
+  {
+    "book": "shoes",
+    "dataset": {
+      "actorCacheId": "2",
+      "art": "shoes",
+      "artState": "ready",
+      "camera": "{\"x\":11.363636363636374,\"y\":0,\"width\":977.2727272727273,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "4",
+      "portraitScale": "0.26155187445510025",
+      "pose": "barefoot-stand",
+      "reflectionActor": "",
+      "scene": "shoes-out",
+      "sceneGeometry": "{\"wearing\":null,\"bigShoes\":null,\"basin\":null,\"wagon\":null,\"ball\":null}",
+      "storyBeat": "feet-are-out"
+    },
+    "overflow": false,
+    "page": 4,
+    "paper": {
+      "bottom": 641.3229217529297,
+      "height": 564.65625,
+      "left": 441.0208435058594,
+      "right": 838.9687805175781,
+      "top": 76.66667175292969,
+      "width": 397.9479370117187,
+      "x": 441.0208435058594,
+      "y": 76.66667175292969
+    },
+    "photoTiming": {
+      "cutoutMs": null,
+      "photoReadMs": null,
+      "pngEncodeMs": null,
+      "recognitionMs": null
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 7909.800000000279,
+      "bodyDownloadMs": 224.20000000065193,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "shoes",
+                "watering",
+                "wagon"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "barefoot-stand",
+                  "status": "ready"
+                },
+                {
+                  "id": "barefoot-step",
+                  "status": "ready"
+                },
+                {
+                  "id": "step-own-shoes",
+                  "status": "ready"
+                },
+                {
+                  "id": "water-pour",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                },
+                {
+                  "id": "push-cart",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "shoes",
+            "watering",
+            "wagon"
+          ]
+        }
+      ],
+      "composeMs": 4.8999999994412065,
+      "composites": 11,
+      "draws": 27,
+      "pageDrawMs": 952.6000000005588
+    },
+    "text": "小脚出来了！",
+    "textRect": {
+      "bottom": 590.21875,
+      "height": 77.96875,
+      "left": 462.53125,
+      "right": 806.6979370117188,
+      "top": 512.25,
+      "width": 344.16668701171875,
+      "x": 462.53125,
+      "y": 512.25
+    }
+  },
+  {
+    "book": "shoes",
+    "dataset": {
+      "actorCacheId": "4",
+      "art": "shoes",
+      "artState": "ready",
+      "camera": "{\"x\":11.363636363636374,\"y\":0,\"width\":977.2727272727273,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "5",
+      "portraitScale": "0.26155187445510025",
+      "pose": "step-own-shoes",
+      "reflectionActor": "",
+      "scene": "shoes-end",
+      "sceneGeometry": "{\"wearing\":\"own\",\"bigShoes\":null,\"basin\":null,\"wagon\":null,\"ball\":null}",
+      "storyBeat": "own-shoes-walk-together"
+    },
+    "overflow": false,
+    "page": 5,
+    "paper": {
+      "bottom": 641.3229217529297,
+      "height": 564.65625,
+      "left": 441.0208435058594,
+      "right": 838.9687805175781,
+      "top": 76.66667175292969,
+      "width": 397.9479370117187,
+      "x": 441.0208435058594,
+      "y": 76.66667175292969
+    },
+    "photoTiming": {
+      "cutoutMs": null,
+      "photoReadMs": null,
+      "pngEncodeMs": null,
+      "recognitionMs": null
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 7941.200000000186,
+      "bodyDownloadMs": 224.20000000065193,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "shoes",
+                "watering",
+                "wagon"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "barefoot-stand",
+                  "status": "ready"
+                },
+                {
+                  "id": "barefoot-step",
+                  "status": "ready"
+                },
+                {
+                  "id": "step-own-shoes",
+                  "status": "ready"
+                },
+                {
+                  "id": "water-pour",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                },
+                {
+                  "id": "push-cart",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "shoes",
+            "watering",
+            "wagon"
+          ]
+        }
+      ],
+      "composeMs": 4.8999999994412065,
+      "composites": 11,
+      "draws": 28,
+      "pageDrawMs": 974.3000000002794
+    },
+    "text": "我穿小鞋。小脚和小鞋一起走。",
+    "textRect": {
+      "bottom": 590.21875,
+      "height": 77.96875,
+      "left": 473.28125,
+      "right": 817.4479370117188,
+      "top": 512.25,
+      "width": 344.16668701171875,
+      "x": 473.28125,
+      "y": 512.25
+    }
+  },
+  {
+    "book": "watering",
+    "dataset": {
+      "actorCacheId": "2",
+      "art": "watering",
+      "artState": "ready",
+      "camera": "{\"x\":11.363636363636374,\"y\":0,\"width\":977.2727272727273,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "0",
+      "portraitScale": "0.26155187445510025",
+      "pose": "barefoot-stand",
+      "reflectionActor": "",
+      "scene": "water-greet",
+      "sceneGeometry": "{\"wearing\":null,\"bigShoes\":null,\"basin\":null,\"wagon\":null,\"ball\":null}",
+      "storyBeat": "ask-the-flower"
+    },
+    "overflow": false,
+    "page": 0,
+    "paper": {
+      "bottom": 641.3229217529297,
+      "height": 564.65625,
+      "left": 441.0208435058594,
+      "right": 838.9687805175781,
+      "top": 76.66667175292969,
+      "width": 397.9479370117187,
+      "x": 441.0208435058594,
+      "y": 76.66667175292969
+    },
+    "photoTiming": {
+      "cutoutMs": null,
+      "photoReadMs": null,
+      "pngEncodeMs": null,
+      "recognitionMs": null
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 7941.200000000186,
+      "bodyDownloadMs": 224.20000000065193,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "watering",
+                "wagon"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "barefoot-stand",
+                  "status": "ready"
+                },
+                {
+                  "id": "water-pour",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                },
+                {
+                  "id": "push-cart",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "watering",
+            "wagon"
+          ]
+        }
+      ],
+      "composeMs": 4.8999999994412065,
+      "composites": 11,
+      "draws": 152,
+      "pageDrawMs": 1113.6999999969266
+    },
+    "text": "小花，小花，你要喝水吗？",
+    "textRect": {
+      "bottom": 590.21875,
+      "height": 77.96875,
+      "left": 462.53125,
+      "right": 806.6979370117188,
+      "top": 512.25,
+      "width": 344.16668701171875,
+      "x": 462.53125,
+      "y": 512.25
+    }
+  },
+  {
+    "book": "watering",
+    "dataset": {
+      "actorCacheId": "5",
+      "art": "watering",
+      "artState": "ready",
+      "camera": "{\"x\":11.363636363636374,\"y\":0,\"width\":977.2727272727273,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "1",
+      "portraitScale": "0.26155187445510025",
+      "pose": "water-pour",
+      "reflectionActor": "",
+      "scene": "water-pour-scene",
+      "sceneGeometry": "{\"wearing\":null,\"bigShoes\":null,\"basin\":null,\"wagon\":null,\"ball\":null}",
+      "storyBeat": "water-the-soil"
+    },
+    "overflow": false,
+    "page": 1,
+    "paper": {
+      "bottom": 641.3229217529297,
+      "height": 564.65625,
+      "left": 441.0208435058594,
+      "right": 838.9687805175781,
+      "top": 76.66667175292969,
+      "width": 397.9479370117187,
+      "x": 441.0208435058594,
+      "y": 76.66667175292969
+    },
+    "photoTiming": {
+      "cutoutMs": null,
+      "photoReadMs": null,
+      "pngEncodeMs": null,
+      "recognitionMs": null
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 8006.800000000279,
+      "bodyDownloadMs": 224.20000000065193,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "watering",
+                "wagon"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "barefoot-stand",
+                  "status": "ready"
+                },
+                {
+                  "id": "water-pour",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                },
+                {
+                  "id": "push-cart",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "watering",
+            "wagon"
+          ]
+        }
+      ],
+      "composeMs": 4.8999999994412065,
+      "composites": 11,
+      "draws": 153,
+      "pageDrawMs": 1135.0999999968335
+    },
+    "text": "我给小花喝水。",
+    "textRect": {
+      "bottom": 590.21875,
+      "height": 77.96875,
+      "left": 473.28125,
+      "right": 817.4479370117188,
+      "top": 512.25,
+      "width": 344.16668701171875,
+      "x": 473.28125,
+      "y": 512.25
+    }
+  },
+  {
+    "book": "watering",
+    "dataset": {
+      "actorCacheId": "",
+      "art": "watering",
+      "artState": "ready",
+      "camera": "{\"x\":11.363636363636374,\"y\":0,\"width\":977.2727272727273,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "2",
+      "portraitScale": "",
+      "pose": "none",
+      "reflectionActor": "",
+      "scene": "water-drops",
+      "sceneGeometry": "{\"wearing\":null,\"bigShoes\":null,\"basin\":null,\"wagon\":null,\"ball\":null}",
+      "storyBeat": "a-little-more"
+    },
+    "overflow": false,
+    "page": 2,
+    "paper": {
+      "bottom": 641.3229217529297,
+      "height": 564.65625,
+      "left": 441.0208435058594,
+      "right": 838.9687805175781,
+      "top": 76.66667175292969,
+      "width": 397.9479370117187,
+      "x": 441.0208435058594,
+      "y": 76.66667175292969
+    },
+    "photoTiming": {
+      "cutoutMs": null,
+      "photoReadMs": null,
+      "pngEncodeMs": null,
+      "recognitionMs": null
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 8034.5,
+      "bodyDownloadMs": 224.20000000065193,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "watering",
+                "wagon"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "barefoot-stand",
+                  "status": "ready"
+                },
+                {
+                  "id": "water-pour",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                },
+                {
+                  "id": "push-cart",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "watering",
+            "wagon"
+          ]
+        }
+      ],
+      "composeMs": 4.8999999994412065,
+      "composites": 11,
+      "draws": 154,
+      "pageDrawMs": 1135.3999999966472
+    },
+    "text": "一点，再一点。",
+    "textRect": {
+      "bottom": 590.21875,
+      "height": 77.96875,
+      "left": 462.53125,
+      "right": 806.6979370117188,
+      "top": 512.25,
+      "width": 344.16668701171875,
+      "x": 462.53125,
+      "y": 512.25
+    }
+  },
+  {
+    "book": "watering",
+    "dataset": {
+      "actorCacheId": "2",
+      "art": "watering",
+      "artState": "ready",
+      "camera": "{\"x\":11.363636363636374,\"y\":0,\"width\":977.2727272727273,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "3",
+      "portraitScale": "0.26155187445510025",
+      "pose": "barefoot-stand",
+      "reflectionActor": "",
+      "scene": "water-runoff",
+      "sceneGeometry": "{\"wearing\":null,\"bigShoes\":null,\"basin\":null,\"wagon\":null,\"ball\":null}",
+      "storyBeat": "water-reaches-my-feet"
+    },
+    "overflow": false,
+    "page": 3,
+    "paper": {
+      "bottom": 641.3229217529297,
+      "height": 564.65625,
+      "left": 441.0208435058594,
+      "right": 838.9687805175781,
+      "top": 76.66667175292969,
+      "width": 397.9479370117187,
+      "x": 441.0208435058594,
+      "y": 76.66667175292969
+    },
+    "photoTiming": {
+      "cutoutMs": null,
+      "photoReadMs": null,
+      "pngEncodeMs": null,
+      "recognitionMs": null
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 8090.899999999907,
+      "bodyDownloadMs": 224.20000000065193,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "watering",
+                "wagon"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "barefoot-stand",
+                  "status": "ready"
+                },
+                {
+                  "id": "water-pour",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                },
+                {
+                  "id": "push-cart",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "watering",
+            "wagon"
+          ]
+        }
+      ],
+      "composeMs": 4.8999999994412065,
+      "composites": 11,
+      "draws": 155,
+      "pageDrawMs": 1157.0999999963678
+    },
+    "text": "水多了！水跑到我的脚下。",
+    "textRect": {
+      "bottom": 590.21875,
+      "height": 77.96875,
+      "left": 473.28125,
+      "right": 817.4479370117188,
+      "top": 512.25,
+      "width": 344.16668701171875,
+      "x": 473.28125,
+      "y": 512.25
+    }
+  },
+  {
+    "book": "watering",
+    "dataset": {
+      "actorCacheId": "2",
+      "art": "watering",
+      "artState": "ready",
+      "camera": "{\"x\":11.363636363636374,\"y\":0,\"width\":977.2727272727273,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "4",
+      "portraitScale": "0.26155187445510025",
+      "pose": "barefoot-stand",
+      "reflectionActor": "",
+      "scene": "water-feet",
+      "sceneGeometry": "{\"wearing\":null,\"bigShoes\":null,\"basin\":null,\"wagon\":null,\"ball\":null}",
+      "storyBeat": "do-feet-drink-water"
+    },
+    "overflow": false,
+    "page": 4,
+    "paper": {
+      "bottom": 641.3229217529297,
+      "height": 564.65625,
+      "left": 441.0208435058594,
+      "right": 838.9687805175781,
+      "top": 76.66667175292969,
+      "width": 397.9479370117187,
+      "x": 441.0208435058594,
+      "y": 76.66667175292969
+    },
+    "photoTiming": {
+      "cutoutMs": null,
+      "photoReadMs": null,
+      "pngEncodeMs": null,
+      "recognitionMs": null
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 8120,
+      "bodyDownloadMs": 224.20000000065193,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "watering",
+                "wagon"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "barefoot-stand",
+                  "status": "ready"
+                },
+                {
+                  "id": "water-pour",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                },
+                {
+                  "id": "push-cart",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "watering",
+            "wagon"
+          ]
+        }
+      ],
+      "composeMs": 4.8999999994412065,
+      "composites": 11,
+      "draws": 156,
+      "pageDrawMs": 1178.9999999962747
+    },
+    "text": "小花喝水，我的小脚也喝水？",
+    "textRect": {
+      "bottom": 590.21875,
+      "height": 77.96875,
+      "left": 462.53125,
+      "right": 806.6979370117188,
+      "top": 512.25,
+      "width": 344.16668701171875,
+      "x": 462.53125,
+      "y": 512.25
+    }
+  },
+  {
+    "book": "watering",
+    "dataset": {
+      "actorCacheId": "2",
+      "art": "watering",
+      "artState": "ready",
+      "camera": "{\"x\":11.363636363636374,\"y\":0,\"width\":977.2727272727273,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "5",
+      "portraitScale": "0.26155187445510025",
+      "pose": "barefoot-stand",
+      "reflectionActor": "",
+      "scene": "wash-corner",
+      "sceneGeometry": "{\"wearing\":null,\"bigShoes\":null,\"basin\":{\"x\":275,\"ground\":966,\"width\":280},\"wagon\":null,\"ball\":null}",
+      "storyBeat": "feet-need-washing"
+    },
+    "overflow": false,
+    "page": 5,
+    "paper": {
+      "bottom": 641.3229217529297,
+      "height": 564.65625,
+      "left": 441.0208435058594,
+      "right": 838.9687805175781,
+      "top": 76.66667175292969,
+      "width": 397.9479370117187,
+      "x": 441.0208435058594,
+      "y": 76.66667175292969
+    },
+    "photoTiming": {
+      "cutoutMs": null,
+      "photoReadMs": null,
+      "pngEncodeMs": null,
+      "recognitionMs": null
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 8185.9000000003725,
+      "bodyDownloadMs": 224.20000000065193,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "watering",
+                "wagon"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "barefoot-stand",
+                  "status": "ready"
+                },
+                {
+                  "id": "water-pour",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                },
+                {
+                  "id": "push-cart",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "watering",
+            "wagon"
+          ]
+        }
+      ],
+      "composeMs": 4.8999999994412065,
+      "composites": 11,
+      "draws": 157,
+      "pageDrawMs": 1268.3999999961816
+    },
+    "text": "小脚不喝水。小脚要洗一洗。",
+    "textRect": {
+      "bottom": 590.21875,
+      "height": 77.96875,
+      "left": 473.28125,
+      "right": 817.4479370117188,
+      "top": 512.25,
+      "width": 344.16668701171875,
+      "x": 473.28125,
+      "y": 512.25
+    }
+  },
+  {
+    "book": "watering",
+    "dataset": {
+      "actorCacheId": "2",
+      "art": "watering",
+      "artState": "ready",
+      "camera": "{\"x\":11.363636363636374,\"y\":0,\"width\":977.2727272727273,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "6",
+      "portraitScale": "0.26155187445510025",
+      "pose": "barefoot-stand",
+      "reflectionActor": "",
+      "scene": "wash-close",
+      "sceneGeometry": "{\"wearing\":null,\"bigShoes\":null,\"basin\":{\"x\":275,\"ground\":966,\"width\":280},\"wagon\":null,\"ball\":null}",
+      "storyBeat": "flower-water-and-foot-wash"
+    },
+    "overflow": false,
+    "page": 6,
+    "paper": {
+      "bottom": 641.3229217529297,
+      "height": 564.65625,
+      "left": 441.0208435058594,
+      "right": 838.9687805175781,
+      "top": 76.66667175292969,
+      "width": 397.9479370117187,
+      "x": 441.0208435058594,
+      "y": 76.66667175292969
+    },
+    "photoTiming": {
+      "cutoutMs": null,
+      "photoReadMs": null,
+      "pngEncodeMs": null,
+      "recognitionMs": null
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 8229.30000000028,
+      "bodyDownloadMs": 224.20000000065193,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "watering",
+                "wagon"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "barefoot-stand",
+                  "status": "ready"
+                },
+                {
+                  "id": "water-pour",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                },
+                {
+                  "id": "push-cart",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "watering",
+            "wagon"
+          ]
+        }
+      ],
+      "composeMs": 4.8999999994412065,
+      "composites": 11,
+      "draws": 158,
+      "pageDrawMs": 1315.4999999962747
+    },
+    "text": "给小花一点水，给小脚洗一洗。",
+    "textRect": {
+      "bottom": 590.21875,
+      "height": 77.96875,
+      "left": 462.53125,
+      "right": 806.6979370117188,
+      "top": 512.25,
+      "width": 344.16668701171875,
+      "x": 462.53125,
+      "y": 512.25
+    }
+  },
+  {
+    "book": "watering",
+    "dataset": {
+      "actorCacheId": "2",
+      "art": "watering",
+      "artState": "ready",
+      "camera": "{\"x\":11.363636363636374,\"y\":0,\"width\":977.2727272727273,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "7",
+      "portraitScale": "0.26155187445510025",
+      "pose": "barefoot-stand",
+      "reflectionActor": "",
+      "scene": "water-end",
+      "sceneGeometry": "{\"wearing\":null,\"bigShoes\":null,\"basin\":{\"x\":275,\"ground\":966,\"width\":280},\"wagon\":null,\"ball\":null}",
+      "storyBeat": "flower-and-feet-finished"
+    },
+    "overflow": false,
+    "page": 7,
+    "paper": {
+      "bottom": 641.3229217529297,
+      "height": 564.65625,
+      "left": 441.0208435058594,
+      "right": 838.9687805175781,
+      "top": 76.66667175292969,
+      "width": 397.9479370117187,
+      "x": 441.0208435058594,
+      "y": 76.66667175292969
+    },
+    "photoTiming": {
+      "cutoutMs": null,
+      "photoReadMs": null,
+      "pngEncodeMs": null,
+      "recognitionMs": null
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 8249.5,
+      "bodyDownloadMs": 224.20000000065193,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "watering",
+                "wagon"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "barefoot-stand",
+                  "status": "ready"
+                },
+                {
+                  "id": "water-pour",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                },
+                {
+                  "id": "push-cart",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "watering",
+            "wagon"
+          ]
+        }
+      ],
+      "composeMs": 4.8999999994412065,
+      "composites": 11,
+      "draws": 159,
+      "pageDrawMs": 1337.2999999960884
+    },
+    "text": "小花喝好了，小脚也洗好了！",
+    "textRect": {
+      "bottom": 590.21875,
+      "height": 77.96875,
+      "left": 473.28125,
+      "right": 817.4479370117188,
+      "top": 512.25,
+      "width": 344.16668701171875,
+      "x": 473.28125,
+      "y": 512.25
+    }
+  },
+  {
+    "book": "wagon",
+    "dataset": {
+      "actorCacheId": "6",
+      "art": "wagon",
+      "artState": "ready",
+      "camera": "{\"x\":11.363636363636374,\"y\":0,\"width\":977.2727272727273,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "0",
+      "portraitScale": "0.26155187445510025",
+      "pose": "crouch-touch",
+      "reflectionActor": "",
+      "scene": "wagon-side",
+      "sceneGeometry": "{\"wearing\":null,\"bigShoes\":null,\"basin\":null,\"wagon\":{\"x\":210,\"ground\":940,\"width\":360,\"front\":570,\"back\":210},\"ball\":{\"x\":625,\"y\":908,\"where\":\"front\"}}",
+      "storyBeat": "ball-in-front"
+    },
+    "overflow": false,
+    "page": 0,
+    "paper": {
+      "bottom": 641.3229217529297,
+      "height": 564.65625,
+      "left": 441.0208435058594,
+      "right": 838.9687805175781,
+      "top": 76.66667175292969,
+      "width": 397.9479370117187,
+      "x": 441.0208435058594,
+      "y": 76.66667175292969
+    },
+    "photoTiming": {
+      "cutoutMs": null,
+      "photoReadMs": null,
+      "pngEncodeMs": null,
+      "recognitionMs": null
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 8249.5,
+      "bodyDownloadMs": 224.20000000065193,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "wagon"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                },
+                {
+                  "id": "push-cart",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "wagon"
+          ]
+        }
+      ],
+      "composeMs": 4.8999999994412065,
+      "composites": 11,
+      "draws": 231,
+      "pageDrawMs": 2258.1999999973923
+    },
+    "text": "我把小球放在小车前。",
+    "textRect": {
+      "bottom": 590.21875,
+      "height": 77.96875,
+      "left": 462.53125,
+      "right": 806.6979370117188,
+      "top": 512.25,
+      "width": 344.16668701171875,
+      "x": 462.53125,
+      "y": 512.25
+    }
+  },
+  {
+    "book": "wagon",
+    "dataset": {
+      "actorCacheId": "7",
+      "art": "wagon",
+      "artState": "ready",
+      "camera": "{\"x\":11.363636363636374,\"y\":0,\"width\":977.2727272727273,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "1",
+      "portraitScale": "0.26155187445510025",
+      "pose": "push-cart",
+      "reflectionActor": "",
+      "scene": "wagon-side",
+      "sceneGeometry": "{\"wearing\":null,\"bigShoes\":null,\"basin\":null,\"wagon\":{\"x\":300,\"ground\":940,\"width\":360,\"front\":660,\"back\":300},\"ball\":{\"x\":800,\"y\":908,\"where\":\"front\"}}",
+      "storyBeat": "push-and-ball-rolls"
+    },
+    "overflow": false,
+    "page": 1,
+    "paper": {
+      "bottom": 641.3229217529297,
+      "height": 564.65625,
+      "left": 441.0208435058594,
+      "right": 838.9687805175781,
+      "top": 76.66667175292969,
+      "width": 397.9479370117187,
+      "x": 441.0208435058594,
+      "y": 76.66667175292969
+    },
+    "photoTiming": {
+      "cutoutMs": null,
+      "photoReadMs": null,
+      "pngEncodeMs": null,
+      "recognitionMs": null
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 8249.5,
+      "bodyDownloadMs": 224.20000000065193,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "wagon"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                },
+                {
+                  "id": "push-cart",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "wagon"
+          ]
+        }
+      ],
+      "composeMs": 4.8999999994412065,
+      "composites": 11,
+      "draws": 232,
+      "pageDrawMs": 2258.4999999976717
+    },
+    "text": "小车一开，小球跑了！",
+    "textRect": {
+      "bottom": 590.21875,
+      "height": 77.96875,
+      "left": 473.28125,
+      "right": 817.4479370117188,
+      "top": 512.25,
+      "width": 344.16668701171875,
+      "x": 473.28125,
+      "y": 512.25
+    }
+  },
+  {
+    "book": "wagon",
+    "dataset": {
+      "actorCacheId": "6",
+      "art": "wagon",
+      "artState": "ready",
+      "camera": "{\"x\":11.363636363636374,\"y\":0,\"width\":977.2727272727273,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "2",
+      "portraitScale": "0.26155187445510025",
+      "pose": "crouch-touch",
+      "reflectionActor": "",
+      "scene": "wagon-side",
+      "sceneGeometry": "{\"wearing\":null,\"bigShoes\":null,\"basin\":null,\"wagon\":{\"x\":210,\"ground\":940,\"width\":360,\"front\":570,\"back\":210},\"ball\":{\"x\":174,\"y\":908,\"where\":\"behind\"}}",
+      "storyBeat": "ball-behind"
+    },
+    "overflow": false,
+    "page": 2,
+    "paper": {
+      "bottom": 641.3229217529297,
+      "height": 564.65625,
+      "left": 441.0208435058594,
+      "right": 838.9687805175781,
+      "top": 76.66667175292969,
+      "width": 397.9479370117187,
+      "x": 441.0208435058594,
+      "y": 76.66667175292969
+    },
+    "photoTiming": {
+      "cutoutMs": null,
+      "photoReadMs": null,
+      "pngEncodeMs": null,
+      "recognitionMs": null
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 8249.5,
+      "bodyDownloadMs": 224.20000000065193,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "wagon"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                },
+                {
+                  "id": "push-cart",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "wagon"
+          ]
+        }
+      ],
+      "composeMs": 4.8999999994412065,
+      "composites": 11,
+      "draws": 233,
+      "pageDrawMs": 2258.799999997951
+    },
+    "text": "我把小球放在小车后。",
+    "textRect": {
+      "bottom": 590.21875,
+      "height": 77.96875,
+      "left": 462.53125,
+      "right": 806.6979370117188,
+      "top": 512.25,
+      "width": 344.16668701171875,
+      "x": 462.53125,
+      "y": 512.25
+    }
+  },
+  {
+    "book": "wagon",
+    "dataset": {
+      "actorCacheId": "7",
+      "art": "wagon",
+      "artState": "ready",
+      "camera": "{\"x\":11.363636363636374,\"y\":0,\"width\":977.2727272727273,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "3",
+      "portraitScale": "0.26155187445510025",
+      "pose": "push-cart",
+      "reflectionActor": "",
+      "scene": "wagon-side",
+      "sceneGeometry": "{\"wearing\":null,\"bigShoes\":null,\"basin\":null,\"wagon\":{\"x\":420,\"ground\":940,\"width\":360,\"front\":780,\"back\":420},\"ball\":{\"x\":174,\"y\":908,\"where\":\"behind\"}}",
+      "storyBeat": "cart-goes-ball-stays"
+    },
+    "overflow": false,
+    "page": 3,
+    "paper": {
+      "bottom": 641.3229217529297,
+      "height": 564.65625,
+      "left": 441.0208435058594,
+      "right": 838.9687805175781,
+      "top": 76.66667175292969,
+      "width": 397.9479370117187,
+      "x": 441.0208435058594,
+      "y": 76.66667175292969
+    },
+    "photoTiming": {
+      "cutoutMs": null,
+      "photoReadMs": null,
+      "pngEncodeMs": null,
+      "recognitionMs": null
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 8249.5,
+      "bodyDownloadMs": 224.20000000065193,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "wagon"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                },
+                {
+                  "id": "push-cart",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "wagon"
+          ]
+        }
+      ],
+      "composeMs": 4.8999999994412065,
+      "composites": 11,
+      "draws": 234,
+      "pageDrawMs": 2259.499999998138
+    },
+    "text": "小车开走了，小球没有走。",
+    "textRect": {
+      "bottom": 590.21875,
+      "height": 77.96875,
+      "left": 473.28125,
+      "right": 817.4479370117188,
+      "top": 512.25,
+      "width": 344.16668701171875,
+      "x": 473.28125,
+      "y": 512.25
+    }
+  },
+  {
+    "book": "wagon",
+    "dataset": {
+      "actorCacheId": "8",
+      "art": "wagon",
+      "artState": "ready",
+      "camera": "{\"x\":11.363636363636374,\"y\":0,\"width\":977.2727272727273,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "4",
+      "portraitScale": "0.26155187445510025",
+      "pose": "hands-flower-open",
+      "reflectionActor": "",
+      "scene": "wagon-call-door",
+      "sceneGeometry": "{\"wearing\":null,\"bigShoes\":null,\"basin\":null,\"wagon\":{\"x\":550,\"ground\":940,\"width\":360,\"front\":910,\"back\":550},\"ball\":{\"x\":174,\"y\":908,\"where\":\"behind\"}}",
+      "storyBeat": "call-the-cart-back"
+    },
+    "overflow": false,
+    "page": 4,
+    "paper": {
+      "bottom": 641.3229217529297,
+      "height": 564.65625,
+      "left": 441.0208435058594,
+      "right": 838.9687805175781,
+      "top": 76.66667175292969,
+      "width": 397.9479370117187,
+      "x": 441.0208435058594,
+      "y": 76.66667175292969
+    },
+    "photoTiming": {
+      "cutoutMs": null,
+      "photoReadMs": null,
+      "pngEncodeMs": null,
+      "recognitionMs": null
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 8265.399999999907,
+      "bodyDownloadMs": 224.20000000065193,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "wagon"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                },
+                {
+                  "id": "push-cart",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "wagon"
+          ]
+        }
+      ],
+      "composeMs": 4.8999999994412065,
+      "composites": 11,
+      "draws": 235,
+      "pageDrawMs": 2304.999999998138
+    },
+    "text": "小车，你回来！",
+    "textRect": {
+      "bottom": 590.21875,
+      "height": 77.96875,
+      "left": 462.53125,
+      "right": 806.6979370117188,
+      "top": 512.25,
+      "width": 344.16668701171875,
+      "x": 462.53125,
+      "y": 512.25
+    }
+  },
+  {
+    "book": "wagon",
+    "dataset": {
+      "actorCacheId": "9",
+      "art": "wagon",
+      "artState": "ready",
+      "camera": "{\"x\":11.363636363636374,\"y\":0,\"width\":977.2727272727273,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "5",
+      "portraitScale": "0.26155187445510025",
+      "pose": "crouch-book",
+      "reflectionActor": "",
+      "scene": "wagon-loading",
+      "sceneGeometry": "{\"wearing\":null,\"bigShoes\":null,\"basin\":null,\"wagon\":{\"x\":210,\"ground\":940,\"width\":360,\"front\":570,\"back\":210},\"ball\":{\"x\":410,\"y\":810,\"where\":\"inside\"}}",
+      "storyBeat": "put-ball-in-the-cart"
+    },
+    "overflow": false,
+    "page": 5,
+    "paper": {
+      "bottom": 641.3229217529297,
+      "height": 564.65625,
+      "left": 441.0208435058594,
+      "right": 838.9687805175781,
+      "top": 76.66667175292969,
+      "width": 397.9479370117187,
+      "x": 441.0208435058594,
+      "y": 76.66667175292969
+    },
+    "photoTiming": {
+      "cutoutMs": null,
+      "photoReadMs": null,
+      "pngEncodeMs": null,
+      "recognitionMs": null
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 8282.30000000028,
+      "bodyDownloadMs": 224.20000000065193,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "wagon"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                },
+                {
+                  "id": "push-cart",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "wagon"
+          ]
+        }
+      ],
+      "composeMs": 4.8999999994412065,
+      "composites": 11,
+      "draws": 236,
+      "pageDrawMs": 2349.799999997951
+    },
+    "text": "这回，我把小球放在小车里。",
+    "textRect": {
+      "bottom": 590.21875,
+      "height": 77.96875,
+      "left": 473.28125,
+      "right": 817.4479370117188,
+      "top": 512.25,
+      "width": 344.16668701171875,
+      "x": 473.28125,
+      "y": 512.25
+    }
+  },
+  {
+    "book": "wagon",
+    "dataset": {
+      "actorCacheId": "7",
+      "art": "wagon",
+      "artState": "ready",
+      "camera": "{\"x\":11.363636363636374,\"y\":0,\"width\":977.2727272727273,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "6",
+      "portraitScale": "0.26155187445510025",
+      "pose": "push-cart",
+      "reflectionActor": "",
+      "scene": "wagon-side",
+      "sceneGeometry": "{\"wearing\":null,\"bigShoes\":null,\"basin\":null,\"wagon\":{\"x\":420,\"ground\":940,\"width\":360,\"front\":780,\"back\":420},\"ball\":{\"x\":620,\"y\":810,\"where\":\"inside\"}}",
+      "storyBeat": "cart-and-ball-go-together"
+    },
+    "overflow": false,
+    "page": 6,
+    "paper": {
+      "bottom": 641.3229217529297,
+      "height": 564.65625,
+      "left": 441.0208435058594,
+      "right": 838.9687805175781,
+      "top": 76.66667175292969,
+      "width": 397.9479370117187,
+      "x": 441.0208435058594,
+      "y": 76.66667175292969
+    },
+    "photoTiming": {
+      "cutoutMs": null,
+      "photoReadMs": null,
+      "pngEncodeMs": null,
+      "recognitionMs": null
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 8282.30000000028,
+      "bodyDownloadMs": 224.20000000065193,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "wagon"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                },
+                {
+                  "id": "push-cart",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "wagon"
+          ]
+        }
+      ],
+      "composeMs": 4.8999999994412065,
+      "composites": 11,
+      "draws": 237,
+      "pageDrawMs": 2350.0999999982305
+    },
+    "text": "小车走，小球也走！",
+    "textRect": {
+      "bottom": 590.21875,
+      "height": 77.96875,
+      "left": 462.53125,
+      "right": 806.6979370117188,
+      "top": 512.25,
+      "width": 344.16668701171875,
+      "x": 462.53125,
+      "y": 512.25
+    }
+  },
+  {
+    "book": "wagon",
+    "dataset": {
+      "actorCacheId": "7",
+      "art": "wagon",
+      "artState": "ready",
+      "camera": "{\"x\":11.363636363636374,\"y\":0,\"width\":977.2727272727273,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "7",
+      "portraitScale": "0.26155187445510025",
+      "pose": "push-cart",
+      "reflectionActor": "",
+      "scene": "wagon-home",
+      "sceneGeometry": "{\"wearing\":null,\"bigShoes\":null,\"basin\":null,\"wagon\":{\"x\":420,\"ground\":940,\"width\":360,\"front\":780,\"back\":420},\"ball\":{\"x\":620,\"y\":810,\"where\":\"inside\"}}",
+      "storyBeat": "go-home-together"
+    },
+    "overflow": false,
+    "page": 7,
+    "paper": {
+      "bottom": 641.3229217529297,
+      "height": 564.65625,
+      "left": 441.0208435058594,
+      "right": 838.9687805175781,
+      "top": 76.66667175292969,
+      "width": 397.9479370117187,
+      "x": 441.0208435058594,
+      "y": 76.66667175292969
+    },
+    "photoTiming": {
+      "cutoutMs": null,
+      "photoReadMs": null,
+      "pngEncodeMs": null,
+      "recognitionMs": null
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 8300.400000000373,
+      "bodyDownloadMs": 224.20000000065193,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "wagon"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                },
+                {
+                  "id": "push-cart",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "wagon"
+          ]
+        }
+      ],
+      "composeMs": 4.8999999994412065,
+      "composites": 11,
+      "draws": 238,
+      "pageDrawMs": 2397.5999999982305
+    },
+    "text": "小球，我们一起回家！",
+    "textRect": {
+      "bottom": 590.21875,
+      "height": 77.96875,
+      "left": 473.28125,
+      "right": 817.4479370117188,
+      "top": 512.25,
+      "width": 344.16668701171875,
+      "x": 473.28125,
+      "y": 512.25
+    }
+  }
+]

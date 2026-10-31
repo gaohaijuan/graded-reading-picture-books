@@ -1,0 +1,167 @@
+{
+  "createdAt": "2026-10-24T08:55:54.367Z",
+  "stories": 30,
+  "allAwaitingConfirmation": true,
+  "confirmedBooks": [],
+  "paragraphs": [
+    {
+      "number": 1,
+      "title": "你好，我是CHILD",
+      "count": 4
+    },
+    {
+      "number": 2,
+      "title": "一片小花瓣",
+      "count": 6
+    },
+    {
+      "number": 3,
+      "title": "我家有几口人？",
+      "count": 7
+    },
+    {
+      "number": 4,
+      "title": "我的小手",
+      "count": 6
+    },
+    {
+      "number": 5,
+      "title": "山不见了",
+      "count": 5
+    },
+    {
+      "number": 6,
+      "title": "小石头不见了",
+      "count": 7
+    },
+    {
+      "number": 7,
+      "title": "下雨了",
+      "count": 7
+    },
+    {
+      "number": 8,
+      "title": "太阳出来了吗",
+      "count": 8
+    },
+    {
+      "number": 9,
+      "title": "水里的月亮",
+      "count": 8
+    },
+    {
+      "number": 10,
+      "title": "谁在叫",
+      "count": 8
+    },
+    {
+      "number": 11,
+      "title": "小车进不去",
+      "count": 8
+    },
+    {
+      "number": 12,
+      "title": "小虫爬上我的手",
+      "count": 7
+    },
+    {
+      "number": 13,
+      "title": "我和小树谁高",
+      "count": 7
+    },
+    {
+      "number": 14,
+      "title": "两个球回家",
+      "count": 8
+    },
+    {
+      "number": 15,
+      "title": "球还在我手里",
+      "count": 8
+    },
+    {
+      "number": 16,
+      "title": "小猫也要看书吗",
+      "count": 8
+    },
+    {
+      "number": 17,
+      "title": "菜叶走了",
+      "count": 9
+    },
+    {
+      "number": 18,
+      "title": "大鞋和小鞋",
+      "count": 8
+    },
+    {
+      "number": 19,
+      "title": "我的脚怎么湿了",
+      "count": 6
+    },
+    {
+      "number": 20,
+      "title": "红纸飞走了",
+      "count": 8
+    },
+    {
+      "number": 21,
+      "title": "爸爸找到我了",
+      "count": 8
+    },
+    {
+      "number": 22,
+      "title": "影子学我",
+      "count": 8
+    },
+    {
+      "number": 23,
+      "title": "小鱼的新家",
+      "count": 8
+    },
+    {
+      "number": 24,
+      "title": "谁来开小火车",
+      "count": 9
+    },
+    {
+      "number": 25,
+      "title": "一起吃西瓜",
+      "count": 8
+    },
+    {
+      "number": 26,
+      "title": "你的嘴角有米饭",
+      "count": 8
+    },
+    {
+      "number": 27,
+      "title": "我也要坐车",
+      "count": 7
+    },
+    {
+      "number": 28,
+      "title": "谁在替娃娃哭",
+      "count": 9
+    },
+    {
+      "number": 29,
+      "title": "我睡在哪里",
+      "count": 8
+    },
+    {
+      "number": 30,
+      "title": "今天我过生日",
+      "count": 9
+    }
+  ],
+  "oldSourceFilesUnchanged": 15,
+  "oldSourceChanges": [],
+  "baselineSha256": "67434c06c38c92803053be354fa159222b767bb987ae11a8df0d04fb608ce4d8",
+  "candidateSha256": "fdd5f63da05b8f076a9fe33f88780243eface577285ea3c9469c2d015e4e59e7",
+  "newImagesGenerated": 0,
+  "shelfChanged": false,
+  "pdfChanged": false,
+  "sourceFile": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\content\\level1-stories-revision-v9-awaiting-review.json",
+  "output": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\output\\manuscript-revision-v9"
+}

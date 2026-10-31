@@ -1,0 +1,21 @@
+{
+  "source_workspace": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本",
+  "snapshot_type": "Current working files, including uncommitted project assets and manuscripts",
+  "original_code_repository": {
+    "branch": "migration/graded-reading-20261023",
+    "head": "fff7377e64073c4e96d1c46661c609e73989a6ac",
+    "tracked_files": 790
+  },
+  "original_git_repository_is_unchanged": true,
+  "historical_git_objects_are_not_part_of_this_new_repository": true,
+  "repository_name": "graded-reading-picture-books",
+  "repository_visibility_required": "private",
+  "large_pdf_storage": {
+    "logical_source_files": 6235,
+    "direct_source_files": 6217,
+    "reconstructed_pdf_files": 18,
+    "pdf_part_files": 228,
+    "map": "PDF-PARTS.json",
+    "original_hashes_preserved": true
+  }
+}

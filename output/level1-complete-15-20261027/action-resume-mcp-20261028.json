@@ -1,0 +1,7 @@
+{
+  "date": "2026-10-28",
+  "url": "http://127.0.0.1:4173/?view=level1-complete",
+  "number": 14,
+  "page": 6,
+  "state": "Browser tab: 2, Title: \"小小主角 · 本地开发版\", URL: \"http://127.0.0.1:4173/?view=level1-complete\".\n0 AXWebArea 小小主角 · 本地开发版, URL: 127.0.0.1:4173/?view=level1-complete\n\t1 container\n\t\t2 link Description: ‹ 返回原书架, Value: 127.0.0.1:4173/\n\t\t3 heading 第一级别 · 15篇绘本合集（审核版）, Value: 1\n\t\t\t4 text 第一级别 · 15篇绘本合集（审核版）\n\t\t5 text 按你选定的15篇文稿编排，图文同页，竖版A5。第1、7、9、14篇已沿用插画同步文字，请逐篇审核。\n\t\t6 container 选择绘本\n\t\t\t7 checkbox 第1篇《你好，我是小石头》, Value: 0\n\t\t\t8 checkbox 第2篇《下雪了》, Value: 0\n\t\t\t9 checkbox 第3篇《我家有几口人？》, Value: 0\n\t\t\t10 checkbox 第4篇《我的小手》, Value: 0\n\t\t\t11 checkbox 第5篇《山不见了》, Value: 0\n\t\t\t12 checkbox 第6篇《下雨了》, Value: 0\n\t\t\t13 checkbox 第7篇《小石头回家》, Value: 0\n\t\t\t14 checkbox 第8篇《小虫在哪》, Value: 0\n\t\t\t15 checkbox 第9篇《小车回家》, Value: 0\n\t\t\t16 checkbox 第10篇《小球在哪》, Value: 0\n\t\t\t17 checkbox 第11篇《我和小树谁高》, Value: 0\n\t\t\t18 checkbox 第12篇《水中的我》, Value: 0\n\t\t\t19 checkbox 第13篇《谁在叫》, Value: 0\n\t\t\t20 checkbox 第14篇《小猫要小球吗》, Value: 1\n\t\t\t21 checkbox 第15篇《小猫的床》, Value: 0\n\t\t32 text 第14篇 · 7页正文 · A5图文同页\n\t\t23 container A5绘本页面\n\t\t\t24 heading 小猫要小球吗, Value: 2\n\t\t\t\t33 text 小猫要小球吗\n\t\t\t26 image 小猫要小球吗 · 第6页插画\n\t\t\t34 text 我把红球推过去。\n\t\t\t35 text 6\n\t\t27 container 翻页\n\t\t\t28 button 上一页, ID: pr-prev\n\t\t\t36 text 6 / 7\n\t\t\t30 button 下一页, ID: pr-next\n\t\t31 text 当前显示原有默认人物；在原书架保存小主角头像后，此页会沿用。\n\nThe focused UI element is 0 AXWebArea 小小主角 · 本地开发版, URL: 127.0.0.1:4173/?view=level1-complete"
+}

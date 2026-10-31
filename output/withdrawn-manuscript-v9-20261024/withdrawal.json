@@ -1,0 +1,34 @@
+{
+  "reason": "用户拒绝整版修订：超出第一级阅读与用字难度，要求恢复修订前状态。",
+  "serverStopped": true,
+  "originalManuscriptsChanged": false,
+  "illustrationsGenerated": false,
+  "moved": [
+    {
+      "archivedAs": "review-files",
+      "source": "output/manuscript-revision-v9"
+    },
+    {
+      "archivedAs": "level1-stories-revision-v9-withdrawn.json",
+      "source": "little-protagonist/content/level1-stories-revision-v9-awaiting-review.json"
+    },
+    {
+      "archivedAs": "tools/manuscript-v9-texts.cjs",
+      "source": "tmp/manuscript-v9-texts.cjs"
+    },
+    {
+      "archivedAs": "tools/build-manuscript-v9.cjs",
+      "source": "tmp/build-manuscript-v9.cjs"
+    },
+    {
+      "archivedAs": "tools/serve-manuscript-v9.cjs",
+      "source": "tmp/serve-manuscript-v9.cjs"
+    },
+    {
+      "archivedAs": "tools/manuscript-v9-before-hashes.json",
+      "source": "tmp/manuscript-v9-before-hashes.json"
+    }
+  ],
+  "activeCandidateRemoved": true,
+  "status": "withdrawn-by-user"
+}

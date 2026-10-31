@@ -1,0 +1,680 @@
+[
+  {
+    "book": "shoes",
+    "dataset": {
+      "actorCacheId": "48",
+      "art": "shoes",
+      "artState": "ready",
+      "camera": "{\"x\":10.736196319018404,\"y\":0,\"width\":978.5276073619632,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "0",
+      "portraitScale": "0.42889683837095727",
+      "pose": "barefoot-stand",
+      "reflectionActor": "",
+      "scene": "shoes-bench",
+      "sceneGeometry": "{\"wearing\":null,\"bigShoes\":null,\"basin\":null,\"wagon\":null,\"ball\":null}",
+      "storyBeat": "my-small-shoes"
+    },
+    "overflow": false,
+    "page": 0,
+    "paper": {
+      "bottom": 682.5417175292969,
+      "height": 523.0833740234375,
+      "left": 10.666666984558104,
+      "right": 379.3229169845581,
+      "top": 159.45834350585938,
+      "width": 368.65625,
+      "x": 10.666666984558104,
+      "y": 159.45834350585938
+    },
+    "photoTiming": {
+      "cutoutMs": 792.1000000005588,
+      "photoReadMs": 119.90000000037251,
+      "pngEncodeMs": 16.799999999813735,
+      "recognitionMs": 194.20000000018624
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 8919.500000000466,
+      "bodyDownloadMs": 306.1000000005588,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "shoes",
+                "watering",
+                "wagon"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                },
+                {
+                  "id": "push-cart",
+                  "status": "ready"
+                },
+                {
+                  "id": "barefoot-stand",
+                  "status": "ready"
+                },
+                {
+                  "id": "barefoot-step",
+                  "status": "ready"
+                },
+                {
+                  "id": "step-own-shoes",
+                  "status": "ready"
+                },
+                {
+                  "id": "water-pour",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "shoes",
+            "watering",
+            "wagon"
+          ]
+        }
+      ],
+      "composeMs": 22.699999999254945,
+      "composites": 62,
+      "draws": 2319,
+      "pageDrawMs": 18382.100000001956
+    },
+    "text": "这是我的小鞋。",
+    "textRect": {
+      "bottom": 635.2083587646484,
+      "height": 72.22917175292969,
+      "left": 30.59375,
+      "right": 349.4270935058594,
+      "top": 562.9791870117188,
+      "width": 318.8333435058594,
+      "x": 30.59375,
+      "y": 562.9791870117188
+    }
+  },
+  {
+    "book": "shoes",
+    "dataset": {
+      "actorCacheId": "",
+      "art": "shoes",
+      "artState": "ready",
+      "camera": "{\"x\":10.736196319018404,\"y\":0,\"width\":978.5276073619632,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "1",
+      "portraitScale": "",
+      "pose": "none",
+      "reflectionActor": "",
+      "scene": "shoes-comparison",
+      "sceneGeometry": "{\"wearing\":null,\"bigShoes\":null,\"basin\":null,\"wagon\":null,\"ball\":null}",
+      "storyBeat": "big-and-small-shoes"
+    },
+    "overflow": false,
+    "page": 1,
+    "paper": {
+      "bottom": 682.5417175292969,
+      "height": 523.0833740234375,
+      "left": 10.666666984558104,
+      "right": 379.3229169845581,
+      "top": 159.45834350585938,
+      "width": 368.65625,
+      "x": 10.666666984558104,
+      "y": 159.45834350585938
+    },
+    "photoTiming": {
+      "cutoutMs": 792.1000000005588,
+      "photoReadMs": 119.90000000037251,
+      "pngEncodeMs": 16.799999999813735,
+      "recognitionMs": 194.20000000018624
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 8919.500000000466,
+      "bodyDownloadMs": 306.1000000005588,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "shoes",
+                "watering",
+                "wagon"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                },
+                {
+                  "id": "push-cart",
+                  "status": "ready"
+                },
+                {
+                  "id": "barefoot-stand",
+                  "status": "ready"
+                },
+                {
+                  "id": "barefoot-step",
+                  "status": "ready"
+                },
+                {
+                  "id": "step-own-shoes",
+                  "status": "ready"
+                },
+                {
+                  "id": "water-pour",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "shoes",
+            "watering",
+            "wagon"
+          ]
+        }
+      ],
+      "composeMs": 22.699999999254945,
+      "composites": 62,
+      "draws": 2321,
+      "pageDrawMs": 18383.100000001956
+    },
+    "text": "这是大鞋。我也要穿。",
+    "textRect": {
+      "bottom": 635.2083587646484,
+      "height": 72.22917175292969,
+      "left": 40.55208587646485,
+      "right": 359.3854293823242,
+      "top": 562.9791870117188,
+      "width": 318.8333435058594,
+      "x": 40.55208587646485,
+      "y": 562.9791870117188
+    }
+  },
+  {
+    "book": "shoes",
+    "dataset": {
+      "actorCacheId": "48",
+      "art": "shoes",
+      "artState": "ready",
+      "camera": "{\"x\":10.736196319018404,\"y\":0,\"width\":978.5276073619632,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "2",
+      "portraitScale": "0.42889683837095727",
+      "pose": "barefoot-stand",
+      "reflectionActor": "",
+      "scene": "shoes-try",
+      "sceneGeometry": "{\"wearing\":\"big\",\"bigShoes\":{\"x\":350,\"ground\":954,\"width\":300},\"basin\":null,\"wagon\":null,\"ball\":null}",
+      "storyBeat": "feet-inside-big-shoes"
+    },
+    "overflow": false,
+    "page": 2,
+    "paper": {
+      "bottom": 682.5417175292969,
+      "height": 523.0833740234375,
+      "left": 10.666666984558104,
+      "right": 379.3229169845581,
+      "top": 159.45834350585938,
+      "width": 368.65625,
+      "x": 10.666666984558104,
+      "y": 159.45834350585938
+    },
+    "photoTiming": {
+      "cutoutMs": 792.1000000005588,
+      "photoReadMs": 119.90000000037251,
+      "pngEncodeMs": 16.799999999813735,
+      "recognitionMs": 194.20000000018624
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 8919.500000000466,
+      "bodyDownloadMs": 306.1000000005588,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "shoes",
+                "watering",
+                "wagon"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                },
+                {
+                  "id": "push-cart",
+                  "status": "ready"
+                },
+                {
+                  "id": "barefoot-stand",
+                  "status": "ready"
+                },
+                {
+                  "id": "barefoot-step",
+                  "status": "ready"
+                },
+                {
+                  "id": "step-own-shoes",
+                  "status": "ready"
+                },
+                {
+                  "id": "water-pour",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "shoes",
+            "watering",
+            "wagon"
+          ]
+        }
+      ],
+      "composeMs": 22.699999999254945,
+      "composites": 62,
+      "draws": 2322,
+      "pageDrawMs": 18383.200000002515
+    },
+    "text": "小脚穿大鞋。",
+    "textRect": {
+      "bottom": 635.2083587646484,
+      "height": 72.22917175292969,
+      "left": 30.59375,
+      "right": 349.4270935058594,
+      "top": 562.9791870117188,
+      "width": 318.8333435058594,
+      "x": 30.59375,
+      "y": 562.9791870117188
+    }
+  },
+  {
+    "book": "shoes",
+    "dataset": {
+      "actorCacheId": "49",
+      "art": "shoes",
+      "artState": "ready",
+      "camera": "{\"x\":10.736196319018404,\"y\":0,\"width\":978.5276073619632,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "3",
+      "portraitScale": "0.42889683837095727",
+      "pose": "barefoot-step",
+      "reflectionActor": "",
+      "scene": "shoes-try",
+      "sceneGeometry": "{\"wearing\":\"none\",\"bigShoes\":{\"x\":350,\"ground\":954,\"width\":300},\"basin\":null,\"wagon\":null,\"ball\":null}",
+      "storyBeat": "one-step-shoes-stay"
+    },
+    "overflow": false,
+    "page": 3,
+    "paper": {
+      "bottom": 682.5417175292969,
+      "height": 523.0833740234375,
+      "left": 10.666666984558104,
+      "right": 379.3229169845581,
+      "top": 159.45834350585938,
+      "width": 368.65625,
+      "x": 10.666666984558104,
+      "y": 159.45834350585938
+    },
+    "photoTiming": {
+      "cutoutMs": 792.1000000005588,
+      "photoReadMs": 119.90000000037251,
+      "pngEncodeMs": 16.799999999813735,
+      "recognitionMs": 194.20000000018624
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 8919.500000000466,
+      "bodyDownloadMs": 306.1000000005588,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "shoes",
+                "watering",
+                "wagon"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                },
+                {
+                  "id": "push-cart",
+                  "status": "ready"
+                },
+                {
+                  "id": "barefoot-stand",
+                  "status": "ready"
+                },
+                {
+                  "id": "barefoot-step",
+                  "status": "ready"
+                },
+                {
+                  "id": "step-own-shoes",
+                  "status": "ready"
+                },
+                {
+                  "id": "water-pour",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "shoes",
+            "watering",
+            "wagon"
+          ]
+        }
+      ],
+      "composeMs": 22.699999999254945,
+      "composites": 62,
+      "draws": 2323,
+      "pageDrawMs": 18383.50000000233
+    },
+    "text": "我走，大鞋不走。",
+    "textRect": {
+      "bottom": 635.2083587646484,
+      "height": 72.22917175292969,
+      "left": 40.55208587646485,
+      "right": 359.3854293823242,
+      "top": 562.9791870117188,
+      "width": 318.8333435058594,
+      "x": 40.55208587646485,
+      "y": 562.9791870117188
+    }
+  },
+  {
+    "book": "shoes",
+    "dataset": {
+      "actorCacheId": "48",
+      "art": "shoes",
+      "artState": "ready",
+      "camera": "{\"x\":10.736196319018404,\"y\":0,\"width\":978.5276073619632,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "4",
+      "portraitScale": "0.42889683837095727",
+      "pose": "barefoot-stand",
+      "reflectionActor": "",
+      "scene": "shoes-out",
+      "sceneGeometry": "{\"wearing\":null,\"bigShoes\":null,\"basin\":null,\"wagon\":null,\"ball\":null}",
+      "storyBeat": "feet-are-out"
+    },
+    "overflow": false,
+    "page": 4,
+    "paper": {
+      "bottom": 682.5417175292969,
+      "height": 523.0833740234375,
+      "left": 10.666666984558104,
+      "right": 379.3229169845581,
+      "top": 159.45834350585938,
+      "width": 368.65625,
+      "x": 10.666666984558104,
+      "y": 159.45834350585938
+    },
+    "photoTiming": {
+      "cutoutMs": 792.1000000005588,
+      "photoReadMs": 119.90000000037251,
+      "pngEncodeMs": 16.799999999813735,
+      "recognitionMs": 194.20000000018624
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 8919.500000000466,
+      "bodyDownloadMs": 306.1000000005588,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "shoes",
+                "watering",
+                "wagon"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                },
+                {
+                  "id": "push-cart",
+                  "status": "ready"
+                },
+                {
+                  "id": "barefoot-stand",
+                  "status": "ready"
+                },
+                {
+                  "id": "barefoot-step",
+                  "status": "ready"
+                },
+                {
+                  "id": "step-own-shoes",
+                  "status": "ready"
+                },
+                {
+                  "id": "water-pour",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "shoes",
+            "watering",
+            "wagon"
+          ]
+        }
+      ],
+      "composeMs": 22.699999999254945,
+      "composites": 62,
+      "draws": 2324,
+      "pageDrawMs": 18384.00000000233
+    },
+    "text": "小脚出来了！",
+    "textRect": {
+      "bottom": 635.2083587646484,
+      "height": 72.22917175292969,
+      "left": 30.59375,
+      "right": 349.4270935058594,
+      "top": 562.9791870117188,
+      "width": 318.8333435058594,
+      "x": 30.59375,
+      "y": 562.9791870117188
+    }
+  },
+  {
+    "book": "shoes",
+    "dataset": {
+      "actorCacheId": "47",
+      "art": "shoes",
+      "artState": "ready",
+      "camera": "{\"x\":10.736196319018404,\"y\":0,\"width\":978.5276073619632,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "5",
+      "portraitScale": "0.42889683837095727",
+      "pose": "step-own-shoes",
+      "reflectionActor": "",
+      "scene": "shoes-end",
+      "sceneGeometry": "{\"wearing\":\"own\",\"bigShoes\":null,\"basin\":null,\"wagon\":null,\"ball\":null}",
+      "storyBeat": "own-shoes-walk-together"
+    },
+    "overflow": false,
+    "page": 5,
+    "paper": {
+      "bottom": 682.5417175292969,
+      "height": 523.0833740234375,
+      "left": 10.666666984558104,
+      "right": 379.3229169845581,
+      "top": 159.45834350585938,
+      "width": 368.65625,
+      "x": 10.666666984558104,
+      "y": 159.45834350585938
+    },
+    "photoTiming": {
+      "cutoutMs": 792.1000000005588,
+      "photoReadMs": 119.90000000037251,
+      "pngEncodeMs": 16.799999999813735,
+      "recognitionMs": 194.20000000018624
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 8919.500000000466,
+      "bodyDownloadMs": 306.1000000005588,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "shoes",
+                "watering",
+                "wagon"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                },
+                {
+                  "id": "push-cart",
+                  "status": "ready"
+                },
+                {
+                  "id": "barefoot-stand",
+                  "status": "ready"
+                },
+                {
+                  "id": "barefoot-step",
+                  "status": "ready"
+                },
+                {
+                  "id": "step-own-shoes",
+                  "status": "ready"
+                },
+                {
+                  "id": "water-pour",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "shoes",
+            "watering",
+            "wagon"
+          ]
+        }
+      ],
+      "composeMs": 22.699999999254945,
+      "composites": 62,
+      "draws": 2325,
+      "pageDrawMs": 18384.300000002146
+    },
+    "text": "我穿小鞋。小脚和小鞋一起走。",
+    "textRect": {
+      "bottom": 635.2083587646484,
+      "height": 72.22917175292969,
+      "left": 40.55208587646485,
+      "right": 359.3854293823242,
+      "top": 562.9791870117188,
+      "width": 318.8333435058594,
+      "x": 40.55208587646485,
+      "y": 562.9791870117188
+    }
+  }
+]

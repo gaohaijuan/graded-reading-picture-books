@@ -1,0 +1,100 @@
+{
+  "completedOn": "2026-10-28",
+  "status": "level2-first-six-for-review",
+  "level": 2,
+  "newNumbers": [
+    19,
+    20,
+    21
+  ],
+  "newLevelNumbers": [
+    4,
+    5,
+    6
+  ],
+  "newTitles": [
+    "这水太热了",
+    "小花喝水",
+    "小球也要走"
+  ],
+  "newBodyPages": 22,
+  "allNumbers": [
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
+  ],
+  "approvedWordingChanged": false,
+  "imageAPIUsed": false,
+  "newGeneratedAssets": 3,
+  "newCharacterPoses": 0,
+  "facesRepainted": false,
+  "generationPrompts": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\content\\level2-next-three-generation-jobs.json",
+  "nativeAssets": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\art-samples\\level2-next-three-native",
+  "runtimeAssets": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\level2-next-three",
+  "browserURL": "http://127.0.0.1:4173/?view=level2-first-six",
+  "browserMCP": {
+    "covers": 6,
+    "newBodyPages": 22,
+    "newSummaryPages": 3,
+    "records": 31
+  },
+  "checks": {
+    "allBodyPagesExactText": 45,
+    "mobileWidth": 390,
+    "mobileBodyPages": 45,
+    "rollingWindowMaxBooks": 3,
+    "rigSessionFamilyAndPrintTestsPassed": 32,
+    "actualUserPhotoTested": false,
+    "oldFirstThreePDFUnchanged": true,
+    "sourceWordUnchanged": true,
+    "actualPDFRenderedPages": 60,
+    "noBlankPages": true,
+    "everyStoryHasCover": true
+  },
+  "pdf": {
+    "path": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\output\\level2-first-six-20261028\\第二级-前六本-A5合订校样.pdf",
+    "bytes": 101429723,
+    "sha256": "147d0e2e179668df4c4baec06b1d7820dd59f73a0d9c81840a88802adde1c457",
+    "pageCount": 60,
+    "bodyPages": 45,
+    "storyCoverPages": 6,
+    "summaryPages": 6,
+    "chapterStarts": [
+      3,
+      12,
+      22,
+      32,
+      42,
+      52
+    ],
+    "bodyStarts": [
+      4,
+      13,
+      23,
+      33,
+      43,
+      53
+    ],
+    "formatMm": [
+      148,
+      210
+    ],
+    "color": "RGB",
+    "embeddedChineseVectorText": true,
+    "physicalPrintingTested": false
+  },
+  "remainingLevel2Numbers": [
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30
+  ]
+}

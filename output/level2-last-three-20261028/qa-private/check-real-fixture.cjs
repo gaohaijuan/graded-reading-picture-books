@@ -1,0 +1,29 @@
+'use strict';
+const fs=require('node:fs'),path=require('node:path'),assert=require('node:assert/strict');
+const {chromium}=require('C:/Users/Administrator/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/playwright');
+const root=path.resolve(__dirname,'../../../little-protagonist'),output=__dirname,preview=path.join(root,'preview'),origin='https://pose-qa.local';
+const fixture=path.resolve(root,'../browser-test/portrait.jpg');
+const lib=JSON.parse(fs.readFileSync(path.join(root,'content/child-pose-library.json'),'utf8'));
+const reg=JSON.parse(fs.readFileSync(path.join(root,'content/level2-last-three-pose-registration.json'),'utf8'));
+const defs=['stand-wave','jump-forward','sit-draw','sit-draw-active'].map(id=>reg.poses[id]||lib.poses[id]);
+const data=p=>'data:image/'+(p.endsWith('.jpg')?'jpeg':p.endsWith('.png')?'png':'webp')+';base64,'+fs.readFileSync(p).toString('base64');
+const types={'.js':'application/javascript','.mjs':'application/javascript','.wasm':'application/wasm','.task':'application/octet-stream','.tflite':'application/octet-stream','.json':'application/json'};
+(async()=>{const browser=await chromium.launch({executablePath:'C:/Program Files/Google/Chrome/Application/chrome.exe',headless:true});try{
+ const context=await browser.newContext({serviceWorkers:'block',viewport:{width:1800,height:1000}}),requests=[],denied=[];
+ await context.route('**/*',async route=>{const req=route.request(),url=new URL(req.url());requests.push({url:req.url(),method:req.method()});if(url.origin!==origin||req.method()!=='GET'||req.postData()){denied.push(req.url());return route.abort();}if(url.pathname==='/')return route.fulfill({contentType:'text/html',body:'<html><body style="margin:0;background:#fbf6e9"><canvas id="qa"></canvas></body></html>'});const local=path.resolve(preview,'.'+decodeURIComponent(url.pathname));if(!local.startsWith(preview+path.sep)||!fs.existsSync(local))return route.fulfill({status:404,body:'not found'});return route.fulfill({contentType:types[path.extname(local)]||'application/octet-stream',body:fs.readFileSync(local)});});
+ const page=await context.newPage();await page.goto(origin+'/');
+ await page.addScriptTag({content:fs.readFileSync(path.join(preview,'face-processor.js'),'utf8')});
+ await page.addScriptTag({content:'var module={exports:{}};'+fs.readFileSync(path.join(root,'miniprogram/lib/character-rig.js'),'utf8')+';window.rig=module.exports;'});
+ const result=await page.evaluate(async({photo,defs,bodies})=>{const load=async src=>{const im=new Image;im.src=src;await im.decode();return im;};const image=await load(photo);await LittleFaceProcessor.prepare();const analysis=await LittleFaceProcessor.analyze(image);const extracted=await LittleFaceProcessor.cutout(analysis,0,{scale:1,x:0,y:0});const cut=extracted.canvas,before=cut.toDataURL('image/png');const raw=cut.getContext('2d').getImageData(0,0,cut.width,cut.height).data;const edges={top:0,left:0,right:0,bottom:0};let opaque=0;
+ for(let y=0;y<cut.height;y++)for(let x=0;x<cut.width;x++){const a=raw[(y*cut.width+x)*4+3];if(a>0){if(y===0)edges.top++;if(y===cut.height-1)edges.bottom++;if(x===0)edges.left++;if(x===cut.width-1)edges.right++;}if(a>220)opaque++;}
+ const composer=rig.createComposer(()=>document.createElement('canvas'),defs,{pixelDensity:2});const portrait=composer.prepare({kind:'cutout',image:cut,metrics:extracted.metrics});const canvas=document.querySelector('#qa');canvas.width=1800;canvas.height=1000;const c=canvas.getContext('2d');c.fillStyle='#fbf6e9';c.fillRect(0,0,1800,1000);const rows=[];
+ for(let i=0;i<defs.length;i++){const body=await load(bodies[i]),opts={portrait,body,poseId:defs[i].id},actor=composer.compose(opts);const same=composer.compose(opts)===actor;composer.place(c,actor,{x:225+i*450,y:310,scale:.8});c.fillStyle='#354b39';c.font='20px sans-serif';c.fillText(defs[i].id,i*450+20,35);rows.push({id:defs[i].id,headScale:actor.headScale,bounds:actor.bounds,cachedActorReused:same,sceneScale:.8});}
+ c.fillStyle='#354b39';c.font='18px sans-serif';c.fillText('Official MediaPipe adult QA fixture - original extracted face pixels, local composition only',30,970);
+ return{faces:analysis.faces.length,cutoutSize:[cut.width,cut.height],metrics:extracted.metrics,edges,opaque,rows,cutoutUnchangedAfterComposition:before===cut.toDataURL('image/png'),cutoutPng:before.split(',')[1],comparisonPng:canvas.toDataURL('image/png').split(',')[1]};},{photo:data(fixture),defs,bodies:defs.map(p=>data(path.join(preview,p.bodyUrl)))});
+ assert.equal(result.faces,1);assert.equal(new Set(result.rows.map(r=>r.headScale)).size,1);assert.ok(result.rows.every(r=>r.cachedActorReused));assert.equal(result.cutoutUnchangedAfterComposition,true);assert.deepEqual(result.edges,{top:0,left:0,right:0,bottom:0});assert.deepEqual(denied,[]);assert.ok(requests.every(r=>r.method==='GET'&&r.url.startsWith(origin+'/')));
+ fs.writeFileSync(path.join(output,'official-adult-fixture-cutout.png'),Buffer.from(result.cutoutPng,'base64'));
+ fs.writeFileSync(path.join(output,'real-fixture-four-poses.png'),Buffer.from(result.comparisonPng,'base64'));
+ delete result.cutoutPng;delete result.comparisonPng;
+ result.fixture={localPath:fixture,documentedSource:'https://storage.googleapis.com/mediapipe-assets/portrait.jpg',documentedIn:'tests/face.browser.cjs',userPhoto:false};result.localOnly=true;result.uploads=0;result.imageGenerationUsed=false;result.sameCutoutForAllPoses=true;result.requests=requests;
+ fs.writeFileSync(path.join(output,'real-fixture-qa.json'),JSON.stringify(result,null,2));console.log(JSON.stringify({faces:result.faces,headScale:result.rows[0].headScale,edges:result.edges,allCacheReused:true,uploads:0,comparison:path.join(output,'real-fixture-four-poses.png')}));
+}finally{await browser.close();}})().catch(e=>{console.error(e);process.exitCode=1;});

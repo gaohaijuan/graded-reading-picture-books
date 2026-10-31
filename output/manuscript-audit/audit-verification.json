@@ -1,0 +1,237 @@
+{
+  "currentStories": 20,
+  "reviewedStories": 30,
+  "currentOnly": [
+    {
+      "number": 9,
+      "title": "小球在哪"
+    },
+    {
+      "number": 10,
+      "title": "水中的我"
+    },
+    {
+      "number": 16,
+      "title": "小球也要走"
+    },
+    {
+      "number": 19,
+      "title": "小猫的床"
+    }
+  ],
+  "sharedBySource": 16,
+  "identicalCurrentAndV8": [
+    1,
+    2,
+    3
+  ],
+  "reviewedNotOnShelf": [
+    8,
+    9,
+    12,
+    15,
+    16,
+    17,
+    21,
+    22,
+    23,
+    24,
+    26,
+    27,
+    28,
+    30
+  ],
+  "versions": [
+    {
+      "id": "balanced",
+      "status": "text-draft-awaiting-user-review",
+      "changed": []
+    },
+    {
+      "id": "v3",
+      "status": "text-draft-awaiting-user-review",
+      "changed": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "id": "v4",
+      "status": "text-draft-awaiting-user-review",
+      "changed": [
+        6,
+        10,
+        11,
+        13,
+        14,
+        15,
+        16,
+        17,
+        20,
+        21,
+        22,
+        23,
+        24,
+        26,
+        27,
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "id": "v5",
+      "status": "text-draft-awaiting-user-review",
+      "changed": [
+        15,
+        17,
+        19,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "id": "v6",
+      "status": "text-draft-awaiting-user-review",
+      "changed": [
+        19,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "id": "v7",
+      "status": "text-draft-awaiting-user-review",
+      "changed": [
+        6,
+        7,
+        10,
+        13,
+        14,
+        18,
+        21
+      ]
+    },
+    {
+      "id": "v8",
+      "status": "text-draft-awaiting-user-review",
+      "changed": [
+        5,
+        6,
+        7,
+        10,
+        16,
+        22,
+        23
+      ]
+    }
+  ],
+  "pdfBodyPages": 147,
+  "pdfAllLinesMatch": true,
+  "pdfMismatches": [],
+  "sourceHashes": [
+    {
+      "file": "miniprogram/lib/stories.js",
+      "sha256": "96494da01f3abebd049eb1768e916b15725b4152ac94e7a1e6c3171f71f12d56"
+    },
+    {
+      "file": "content/level1-stories-04-10.json",
+      "sha256": "b6ba56ea5e10de2abab95806a2fe667bc1450bf60f57668d880dfb88d42db945"
+    },
+    {
+      "file": "content/level1-stories-11-20.json",
+      "sha256": "277b7cbf127aede4b2167d5a1f7dcbdebd6bb1923bb329cc47b0c73c60fd9abe"
+    },
+    {
+      "file": "content/level1-stories-21-40.json",
+      "sha256": "5c66458e3773f04779ec4e5c2b835b6c54737eea3f24cd27d729406478435095"
+    },
+    {
+      "file": "miniprogram/lib/family.js",
+      "sha256": "8f5edd5b7ef6ae8208e70904c6efe120f68d0bd33f09b08cedc4612699f6e9da"
+    },
+    {
+      "file": "miniprogram/lib/level1-approved.js",
+      "sha256": "b012613d58c5ca339e6f302cda2876637bb9b777460c2ae3283aa1fc90205d3d"
+    },
+    {
+      "file": "content/level1-stories-balanced-30.json",
+      "sha256": "ebba655faef0bcc1c5a829f22132b2abbc97d7c986313f971c9065c0fea99ede"
+    },
+    {
+      "file": "output/text/manuscript-before-series-v4.json",
+      "sha256": "f98559e81572cbb31f8a0fc5848d3e61eec78e1b1f395bfe16ee936127cc85f3"
+    },
+    {
+      "file": "output/text/manuscript-before-recurrence-v5.json",
+      "sha256": "4abe35527713bb4ee26772c93d0825fa697ad914c23c37e0c9788bef0bc8485e"
+    },
+    {
+      "file": "output/text/manuscript-before-naturalness-v6.json",
+      "sha256": "6ff59d2b5b638aaa68f7c18cd27a0f7c49401c104d344f12130c01015aa56c47"
+    },
+    {
+      "file": "output/text/manuscript-before-remaining-v7.json",
+      "sha256": "bdac6643b03e7f5a981caab2c6c4919b9db86585272e4fb8d85e87cb8c616ace"
+    },
+    {
+      "file": "output/text/manuscript-before-personalization-v8.json",
+      "sha256": "3cb10985a07aa4ca673e09087c1a0ce443fca104432aa040a8d62533a6244932"
+    },
+    {
+      "file": "content/level1-stories-reviewed-30.json",
+      "sha256": "67434c06c38c92803053be354fa159222b767bb987ae11a8df0d04fb608ce4d8"
+    },
+    {
+      "file": "content/level1-reviewed-manuscript-source.json",
+      "sha256": "67434c06c38c92803053be354fa159222b767bb987ae11a8df0d04fb608ce4d8"
+    },
+    {
+      "file": "content/level1-stories-condensed-20.json",
+      "sha256": "b754dbae6fd03211576f71b071f67e0486a5755eb5a3882d91bb5163069dd13f"
+    }
+  ],
+  "files": [
+    "30篇文案版本与问题核对.html",
+    "30篇文案核对-便于阅读.txt",
+    "30篇版本与采用文案-证据.json"
+  ]
+}

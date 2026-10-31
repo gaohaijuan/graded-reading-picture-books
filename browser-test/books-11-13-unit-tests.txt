@@ -1,0 +1,576 @@
+
+> little-story-reader@0.1.0 test
+> node --test tests/*.test.cjs
+
+✔ browser backup preserves original photo bytes, landmark metrics, family and progress without exporting identity or local paths (5.0252ms)
+✔ backup rejects malformed/oversize JSON, incompatible platforms, network images, invalid family and reading pages (3.5436ms)
+✔ structured resolution metadata preserves every current source-pixel field exactly while retaining legacy numbers (2.3088ms)
+✔ structured resolution rejects missing, non-finite, unsupported or inflated pixel evidence and strips unknown properties (4.0246ms)
+✔ native backup round-trip keeps photo/progress and rejects arbitrary stored file paths (0.3962ms)
+✔ native export includes only current data and removes its temporary file after an explicit save/cancel (3.7156ms)
+✔ native restore independently saves photo/progress and preserves guest/other spaces, without importing login state (1.4349ms)
+✔ native bad images, stale confirmation and copy failures preserve current profile and progress (1.8037ms)
+✔ native partial reading restore is reported accurately and can retry without rewriting the child (1.5115ms)
+✔ native chooser validates selected size/platform and cannot continue after account changes (0.841ms)
+✔ confirmed child deletion removes only its owned record/photo and invalidates already-open editors (5.8632ms)
+✔ deletion journal allows a failed photo cleanup to be retried after the profile is removed (0.7649ms)
+✔ retrying an old failed photo cleanup does not delete a newly saved child (0.6633ms)
+✔ retrying a failed record removal requires confirmation again when the child was edited (5.1678ms)
+✔ storage deletion failure preserves the old profile/photo, and confirmed cleanup can run after sign-out (1.3399ms)
+✔ re-registration uses a fresh profile namespace; legacy names and photos are not silently imported (2.454ms)
+✔ a new page can find and finish an already-confirmed deletion without touching a live profile (2.0463ms)
+✔ native login requires consent and navigates only after login has completed (11.5376ms)
+✔ leaving native login prevents a late response from navigating another page (1.3262ms)
+✔ a login completed while service instructions are open waits until the login page is visible (1.2872ms)
+✔ native account exposes profile and login routes and clears identity on logout (12.7469ms)
+✔ native parent nickname edits save/cancel without modifying the child; failed saves keep the draft (4.5661ms)
+✔ native onboarding routes to child setup and completes only after local child data exists (1.9098ms)
+✔ native destructive actions require the typed word and the same confirmed identity (4.0033ms)
+✔ native close failure never deletes child data; successful close can retry a failed local cleanup (2.6434ms)
+✔ account reading records use current child titles, filter removed books, and open only recorded catalog entries (2.2071ms)
+✔ account child card distinguishes saved/empty/unavailable data and does not hide it when guest lookup fails (1.7768ms)
+✔ guest import explains source/replacement, cancellation does not commit, successful import refreshes child summary (1.9751ms)
+✔ late import confirmations cannot write after account changes or page unload; duplicate taps do not open another modal (1.4717ms)
+✔ failed guest copy reports failure and preserves current child summary (1.3168ms)
+✔ avatar display errors preserve the child data and ignore old image callbacks (3.244ms)
+✔ native backup requires explicit export/restore actions and reports a partial reading restore before retry (2.3726ms)
+✔ changing accounts clears a prepared native restore confirmation (1.9587ms)
+✔ offline logout clears local identity and describes unconfirmed revocation without inventing a network result (1.533ms)
+✔ simple password is restricted to explicit local development (714.7606ms)
+✔ admin authorization, CSRF, private paths and session expiry (588.414ms)
+✔ PDF receipt, bytes download, idempotent retries and administrator status (743.2195ms)
+✔ consent, spoofed user identity and anonymous uploads rejected (434.8889ms)
+✔ first touch referral, returning-device identity and unique event counting (540.1658ms)
+✔ signed payments, duplicate delivery, refunds and integer currency accounting (479.3192ms)
+✔ expiry removes personalized files, retains receipt and blocks downloads (547.4849ms)
+✔ cleanup recovers abandoned upload files without touching current receipts (354.787ms)
+✔ pagination and time filters count the same dataset (643.1775ms)
+✔ signed account bridge retains the parent account ID and revokes its operations token (377.8534ms)
+✔ family fallback follows included member IDs and keeps duplicate siblings distinct (16.8855ms)
+✔ an additional sibling uses their own head in the settings thumbnail (0.3788ms)
+✔ intro page 1, placeholder (5.2742ms)
+✔ intro page 1, WeChat photo (5.128ms)
+✔ intro page 2, placeholder (4.3614ms)
+✔ intro page 2, WeChat photo (5.0124ms)
+✔ intro page 3, placeholder (7.6941ms)
+✔ intro page 3, WeChat photo (4.7181ms)
+✔ intro page 4, placeholder (4.6907ms)
+✔ intro page 4, WeChat photo (11.7486ms)
+✔ intro page 5, placeholder (1.9197ms)
+✔ intro page 5, WeChat photo (2.5093ms)
+✔ intro page 6, placeholder (1.3121ms)
+✔ intro page 6, WeChat photo (4.639ms)
+✔ intro portrait cover (2.1952ms)
+✔ flower page 1, placeholder (2.7095ms)
+✔ flower page 1, WeChat photo (2.0036ms)
+✔ flower page 2, placeholder (4.9548ms)
+✔ flower page 2, WeChat photo (8.0623ms)
+✔ flower page 3, placeholder (2.5859ms)
+✔ flower page 3, WeChat photo (1.8555ms)
+✔ flower page 4, placeholder (1.3176ms)
+✔ flower page 4, WeChat photo (29.1953ms)
+✔ flower page 5, placeholder (2.3957ms)
+✔ flower page 5, WeChat photo (2.1817ms)
+✔ flower page 6, placeholder (11.761ms)
+✔ flower page 6, WeChat photo (2.4803ms)
+✔ flower portrait cover (1.5932ms)
+✔ family page 1, placeholder (2.6173ms)
+✔ family page 1, WeChat photo (6.3462ms)
+✔ family page 2, placeholder (6.5211ms)
+✔ family page 2, WeChat photo (1.3479ms)
+✔ family page 3, placeholder (1.6306ms)
+✔ family page 3, WeChat photo (6.0036ms)
+✔ family page 4, placeholder (3.8543ms)
+✔ family page 4, WeChat photo (3.0071ms)
+✔ family page 5, placeholder (1.636ms)
+✔ family page 5, WeChat photo (1.9779ms)
+✔ family page 6, placeholder (6.8493ms)
+✔ family page 6, WeChat photo (7.2187ms)
+✔ family page 7, placeholder (1.7013ms)
+✔ family page 7, WeChat photo (1.5426ms)
+✔ family page 8, placeholder (10.8763ms)
+✔ family page 8, WeChat photo (1.7806ms)
+✔ family portrait cover (1.4066ms)
+✔ avatar framing accepts loaded WeChat images without complete or naturalWidth (0.2719ms)
+✔ browser natural dimensions take precedence over CSS display dimensions (0.2073ms)
+✔ invalid avatar dimensions render the placeholder instead of drawImage (0.2602ms)
+✔ hero framing preserves the right-side figure composition (1.3147ms)
+✔ logical dimensions and pixel ratios are normalized (0.4306ms)
+✔ nested drawing cannot redirect the outer canvas context (13.9636ms)
+✔ missing canvases or unavailable contexts safely skip drawing (0.3059ms)
+✔ transparent heads retain their full silhouette without a cartoon underlay or frame (0.306ms)
+✔ nonstandard transparent heads fit without stretching or cutting off hair (0.4158ms)
+✔ cutout mode reaches every book and cover while preserving adult drawings (82.1654ms)
+✔ cutout mode with a missing or invalid image retains the default doll (0.5108ms)
+✔ transparent padding does not make a real head smaller than the same tight head (8.0362ms)
+✔ head layout covers the full movement and size range without changing the source crop (18.9631ms)
+✔ avatar thumbnails retain the full head regardless of saved body placement (0.788ms)
+✔ face landmarks keep long-haired and short-haired portraits at the same facial scale (3.9522ms)
+✔ long-haired avatar thumbnails center the full hair silhouette above and below the chin (0.3518ms)
+✔ family fallback retains the child photo and always draws cartoon adults (3.1422ms)
+✔ all optional family roles have their own standalone preview without changing story casting (111.8186ms)
+✔ narrow family covers retain complete heads at maximum size and movement (47.2225ms)
+✔ adult saved photo content and adjustments cannot change fallback art or adult thumbnails (134.7514ms)
+✔ login requires current consent, creates stable account, stores only a session hash on server (21.5327ms)
+✔ server ignores supplied identity and rejects missing trusted context and obsolete consent (0.8954ms)
+✔ session is bound to the WeChat user and app, expires and is revoked on logout (1.0875ms)
+✔ restore validates against server; tampered local identity never becomes authenticated (2.8987ms)
+✔ network failure during restore preserves credentials for retry without claiming login (1.6869ms)
+✔ duplicate login is deduplicated and logout invalidates a late login response (7.3636ms)
+✔ storage failure never reports a successful login, and cloud failure still allows local logout (1.0294ms)
+✔ unconfigured project stays a guest and failed login can be retried (0.9515ms)
+✔ timeout ends loading and a late response cannot mark the user as logged in (33.8878ms)
+✔ future picture-book calls require an active session and discard results after logout (13.12ms)
+✔ child stores isolate guest and accounts; copying a guest photo never removes the original (2.0829ms)
+✔ account switch while photo copy is pending rolls back the new photo without overwriting data (3.4111ms)
+✔ nickname and onboarding persist independently of child data and reject invalid Unicode input (8.1428ms)
+✔ closing an account requires confirmation, clears personal metadata and invalidates every old session (2.787ms)
+✔ closing network failure keeps the account usable; late metadata responses cannot undo logout (1.5294ms)
+✔ cancellation still denies old tokens if physical session cleanup fails (0.6488ms)
+✔ legacy accounts retain their existing child namespace and remain editable (0.6486ms)
+✔ session expiry updates subscribers, clears only credentials, and blocks account operations without network calls (1.2332ms)
+✔ a suspended expiry timer is checked on snapshot and a late metadata response cannot restore expired identity (1.7863ms)
+✔ a timed-out login revokes only its own late token and cannot remove a successful retry session (25.9355ms)
+✔ logout after an offline restore revokes the retained token when network returns; unreadable storage does not claim revocation (2.0805ms)
+✔ authenticated downstream cloud calls time out rather than hang indefinitely (26.5549ms)
+✔ an unexpected account identity in a metadata response requires fresh login and never switches child spaces silently (0.7786ms)
+✔ an unconfirmed cancellation response does not clear the local account or permit child cleanup (0.6249ms)
+✔ failed cancellation after the deadline cannot put an expired account back into authenticated state (1.3434ms)
+✔ products start without invented prices; quote snapshots use integer fen and product versions (710.4005ms)
+✔ structural edits invalidate quotes but unchanged forms and internal notes preserve them (558.9759ms)
+✔ payment preparations isolate users, do not charge, lock amount and handle duplicate requests (565.2529ms)
+✔ signed verified payments reconcile exact amount, owner, currency, channel and fulfill only once (493.1903ms)
+✔ late money is recorded for reconciliation without reviving cancelled or expired orders (584.1246ms)
+✔ refund requests reserve money; verified refunds deduplicate event and transaction and prevent overspending (598.5619ms)
+✔ admin price, quote, billing and user details require login/CSRF and omit account secrets (571.7548ms)
+✔ all preparation retry keys recover the same intent even after expiry (580.2554ms)
+✔ file and contact expiry block quoting and clear freeform billing notes while retaining money (550.1758ms)
+✔ one normalized real portrait and one complete composite are reused across placements and books (3.2854ms)
+✔ pose changes retain identical facial size, with a chin fixed to each collar (1.7907ms)
+✔ hair length and width do not alter facial proportions; all original head pixels are composed (1.1785ms)
+✔ scenes cannot pass separate head dimensions or nonuniform character scaling (1.1386ms)
+✔ portrait or body replacement invalidates only the relevant composites (3.4909ms)
+✔ print-density composites preserve character units and the original portrait geometry (0.9425ms)
+✔ initial preparation is deferred, limited to books 1–3, and does not restart (37.3948ms)
+✔ reading book 2 prepares book 4 only, and shared actions are never recomposed (37.035ms)
+✔ a pose reused by multiple books has one body load and one composite (10.6894ms)
+✔ foreground book preempts a stalled background loader and stale work is discarded (52.9563ms)
+✔ background failure does not poison reading and retries only on a new explicit open (46.347ms)
+✔ a pause stops background jobs while demand reading stays available (18.7008ms)
+✔ jumping books and replacing a portrait cannot complete obsolete queued work (2.4954ms)
+✔ window eviction releases the real composer cache while shared retained actors stay reusable (41.0184ms)
+✔ closing an old portrait session discards a late body result without composing it (61.1441ms)
+✔ default crop is centered and uses the head ellipse ratio (1.6111ms)
+✔ zoom reduces the source region without stretching it (0.2391ms)
+✔ every edge and zoom level stays inside tall, wide, and tiny photos (2.6003ms)
+✔ invalid slider values recover safely and numeric limits clamp (1.1675ms)
+✔ custom aspect ratios are preserved and invalid dimensions reject (0.7238ms)
+✔ preparation reads no photograph and overlapping preparation and analysis load one runtime (9.0942ms)
+✔ a shared background preparation failure retries once on the next photo request (2.1057ms)
+✔ finishing an unused preparation performs no inference and exposes no internal runtime (0.2704ms)
+✔ a pinned model is fetched once and a fresh loader reuses its browser cache (68.107ms)
+✔ unavailable, unreadable and full model cache never prevent processing (2.1666ms)
+✔ truncated cached data is replaced, while failed or incomplete downloads are not cached (45.2014ms)
+✔ eye angle correction maps tilted photo back to upright face geometry (3.683ms)
+✔ head mask keeps face and attached hair while rejecting clothes, body and background (17.9526ms)
+✔ detached hair islands and neighbouring faces cannot become part of selected head (16.5733ms)
+✔ the internal hair/forehead boundary stays opaque when confidence is shared between retained classes (13.0809ms)
+✔ external hair edges remain soft and background or clothing cannot borrow head confidence (22.0231ms)
+✔ edge contact expands a truncated curved crown and retains pixels outside the first ROI (58.761ms)
+✔ detached boundary islands do not trigger unnecessary retries (3.0429ms)
+✔ attached long hair requests bottom expansion and preserves tips without neck or clothes (66.2678ms)
+✔ long hair is kept only with hair confidence, connectivity and selected-face ownership (26.6489ms)
+✔ long-hair extraction retries only when needed and returns face bounds independent of hair fit (37.9701ms)
+✔ short hair requires one segmentation and does not expand down toward clothing (10.7812ms)
+✔ long-hair tips cut off by the source photo are rejected with an actionable tip-specific message (67.9231ms)
+✔ hair that still reaches the lower crop stops after two bounded expansions (35.5038ms)
+✔ head extraction retries a boundary crown once, uses bounded masks and caches the result (16.948ms)
+✔ unresolved boundary segmentation has a fixed retry limit instead of exporting a flat head (16.9573ms)
+✔ a crown already clipped by the original photo is rejected rather than invented (10.0734ms)
+✔ failed segmentation is rejected instead of using the whole source photo (2.8019ms)
+✔ segmentation masks are copied before closing and closed on invalid result (0.8336ms)
+✔ proportional fit keeps chin on body anchor and validates adjustment bounds (0.3237ms)
+✔ zoom and movement never cut any side of a complete head silhouette (0.6978ms)
+✔ multiple faces require explicit selection and repeated adjustments share one segmentation (13.5959ms)
+✔ no face, unreadable source and expired analysis fail with actionable errors (0.568ms)
+✔ failed model initialization retries and does not poison subsequent requests (0.7693ms)
+✔ all family pages follow actual selected member IDs, including duplicate sibling roles (31.8091ms)
+✔ one through twelve people keep complete hairstyles separate and outside the text area (24.3648ms)
+✔ original photograph pixels remain whole and isotropic for every size and framing (2.4281ms)
+✔ cover families stay on at most two ground rows at shelf and landscape sizes (7.2567ms)
+✔ missing selected head or body fails before drawing any incomplete person (0.6981ms)
+✔ child photos do not need the unused default child head; adult heads are always required (0.5184ms)
+✔ the same adult and child retain different painted body proportions in a pair (0.4092ms)
+✔ default adult heads use the matching atlas cells and siblings use independent child heads (1.1838ms)
+✔ invalid sprite coordinates safely retain complete fallback art (0.584ms)
+✔ legacy raw photos use a new illustrated head without discarding the saved photo (5.5811ms)
+✔ adult photos, metrics and manual placement never affect any family page or standalone adult preview (9.9854ms)
+✔ family asset loader shares requests, rejects local filename escapes and supports retry (11.7168ms)
+✔ family reading, cover, profile and printing reuse whole actors instead of drawing heads in each scene (13.593ms)
+✔ real portraits retain model proportions; draft replacement cannot overwrite the saved actor (8.7012ms)
+✔ obsolete downloads cannot publish after the three-book window moves (2.8895ms)
+✔ one through twelve people keep whole actors and complete heads within the A5 panel (30.2854ms)
+✔ photographs are allowed only for the child and the four sibling roles (2.3534ms)
+✔ new profiles have three participants and retain all nine independent photo slots (2.0597ms)
+✔ an explicit empty family keeps only the child, without inventing parents (0.2738ms)
+✔ normalization rejects unsafe IDs and role substitution while retaining stable sibling IDs (0.624ms)
+✔ legacy migrations preserve the existing five-person book and photographed siblings (0.7734ms)
+✔ current migrations keep opt-outs and extra sibling photo keys exactly (0.3331ms)
+✔ normalization limits participants without deleting out-of-book photo slots (3.9326ms)
+✔ adding and removing siblings preserves the other photo IDs and uses unambiguous editor labels (0.8821ms)
+✔ adding beyond twelve or using an adult extra role is rejected without mutation (2.8334ms)
+✔ story numbers support every allowed family size (1.3522ms)
+✔ a single-parent sibling story introduces only selected relatives and remembers the child (0.7282ms)
+✔ only-child selection has a short natural story without a nonexistent speaker or zero people (0.3435ms)
+✔ every dynamic page has valid participants and preserves correct counts for one to twelve people (1.7972ms)
+✔ the six pages keep an exact eleven-petal narrative (3.1562ms)
+✔ each scene uses its matching expression head, with a separate flower close-up (5.0447ms)
+✔ every wind page draws eleven raster petals at the correct attached, flying and settled positions (1.5647ms)
+✔ incomplete assets fail before touching the canvas, without exposing a headless person (0.5063ms)
+✔ custom cutouts replace the example entirely and retain their full original source pixels (1.2065ms)
+✔ long hair does not reduce facial size, and old portraits without face landmarks still work (0.4298ms)
+✔ upright photographs follow each body collar and tilt without rotating the painted example again (4.2395ms)
+✔ manual offsets keep screen left/right and up/down semantics after automatic posing (0.7178ms)
+✔ movement and scale remain continuous over the complete advertised slider ranges (0.7225ms)
+✔ narrow covers include complete long hair at the extreme size and movement settings (0.9992ms)
+✔ wide screens extend blank paper and retain the full right-hand reading zone (0.3022ms)
+✔ extreme portrait placement keeps the whole hairstyle on screen and outside the reading area (1.5184ms)
+✔ unrelated books, unavailable contexts and legacy cropped photos retain the old renderer (0.3183ms)
+✔ import requires an actually saved guest; missing or unreadable storage cannot replace the current child with defaults (5.8569ms)
+✔ confirmed import independently copies the avatar, preserves guest data and both reading spaces, and cannot repeat (2.5812ms)
+✔ import without a saved source photo explicitly replaces the target photo with the default appearance (0.5265ms)
+✔ source changes, destination edits queued after confirmation, and newly created profiles require new confirmation (1.3439ms)
+✔ a queued guest edit cannot be copied from an older confirmation (0.4729ms)
+✔ copy or write failures preserve both profiles and photos and permit an explicit retry (3.8589ms)
+✔ account changes during a photo copy roll back the new file and duplicate in-flight commits are rejected (2.7395ms)
+✔ leaving the confirmation page during a photo copy cancels the write even while the same account remains active (0.8398ms)
+✔ automatic fit follows chin and scene angle for round/narrow faces and long/wide hairstyles (4.6446ms)
+✔ real-photo crown and chin fit the painted body across all intro cameras, without taller heads than its illustrated peer style (2.7707ms)
+✔ six pages use three gestures and different camera crops (1.9938ms)
+✔ missing required layer leaves a complete fallback untouched instead of painting a headless body (0.2648ms)
+✔ custom heads stay whole and clear of reading text or hero captions at every manual extreme (13.3104ms)
+✔ a local head can render without downloading the unused default; raw legacy photos use the new default (0.4243ms)
+✔ neck attachment and pose are scene-specific without changing the photograph (0.3316ms)
+✔ unsupported framings and invalid scene geometry safely defer to the established renderer (0.2692ms)
+✔ intro loader requests only the visible scene, shares its head and retries only failed layers (4.9406ms)
+✖ all 64 non-family pages use independent background assets and registered poses without facial overrides (1.9857ms)
+✔ ten shelf covers share one complete standing actor and do not move the initial three-book window (43.2264ms)
+✖ every page renders background, props and cached whole actor; book changes evict old action references (22.822ms)
+✔ wide and long real hairstyles expand the camera without changing model proportions (0.2079ms)
+✔ the complete original umbrella remains inside the illustration safety frame (0.3452ms)
+✔ object closeups retain their source area rather than magnifying a smaller crop (0.2292ms)
+✔ new stories retain their reveal order and share the registered actor in water reflections (0.5606ms)
+✔ body character counts deduplicate within a book and cumulative counts deduplicate across books (1.958ms)
+✔ personalized name slots are excluded without stripping ordinary story characters (2.2368ms)
+✔ the current age, class and selected family control the actual reading-body totals (6.0003ms)
+✔ mobile test entry accepts private LAN addresses only (43.9137ms)
+✔ simple LAN passwords require explicit test mode and a real local network address (51.73ms)
+✔ LAN guard allows local subnet peers only (30.2952ms)
+✔ bookshelf reloads the saved child after returning from profile editing (20.3097ms)
+✔ reader updates the saved child and preserves the current page while rotating (21.3384ms)
+✔ reader respects both page bounds, finishes once, and can restart and swipe (2.1817ms)
+✔ native reader restores a saved position, retains completion during rereading and recovers from storage errors (3.5946ms)
+✔ an older photo load cannot overwrite the current avatar (14.1127ms)
+✔ a detached canvas ignores outstanding photo loads and size queries (1.8791ms)
+✔ operations reuse the verified parent account, deduplicate exchange and send no child profile (6.0641ms)
+✔ unconfigured analytics never calls a network and does not block reading (0.2524ms)
+✔ submission needs consent and account switch while reading PDF prevents upload (7.827ms)
+✔ late account exchange after logout cannot establish an operations identity (0.9481ms)
+✔ native PDF submission uses binary PDF and the original idempotency key (0.526ms)
+✔ payment helpers prepare or read a local intent with the verified account and never call a payment API (0.3893ms)
+✔ recognizes photo signatures independently of MIME and rejects non-photo or AVIF containers (2.0211ms)
+✔ valid bytes with missing or wrong MIME decode locally and disposal releases source exactly once (2.8593ms)
+✔ size and unknown contents are rejected before creating an image URL (14.7198ms)
+✔ HEIC decode failure explains browser compatibility and releases its URL (0.5944ms)
+✔ ordinary decode failure and image factory failure release any allocated URL (0.7893ms)
+✔ abort before reading or during decoding stops processing and releases resources (27.3022ms)
+✔ bounded timeout covers both a stalled file read and a stalled native decode (1.2404ms)
+✔ read rejection is actionable and removes timeout without allocating an image (0.4837ms)
+✔ underexposed facial midtones visibly brighten while black hair, highlights and alpha are protected (2.4008ms)
+✔ well-exposed faces receive only a small exposure change and warm/cool scenes differ (0.3272ms)
+✔ pointwise exposure preserves photo detail and never depends on neighboring pixels (0.5426ms)
+✔ wechat SDK: native code, server verification, share attribution, PDF receipt and revocation (654.132ms)
+✔ douyin SDK: native code, server verification, share attribution, PDF receipt and revocation (477.1283ms)
+✔ WeChat preserves cloud account IDs; equal OpenIDs on Douyin stay separate (442.6734ms)
+✔ raw OpenID, missing consent and code replay cannot establish an SDK identity (440.6422ms)
+✔ provider failure, anonymous Douyin response and unconfigured SDK remain guests (337.4034ms)
+✔ restore verifies saved tokens with server; offline credentials never become authenticated (316.2424ms)
+✔ logout discards and revokes a late platform login response (430.2423ms)
+✔ native login timeout ignores a late callback; storage failure revokes the minted token (456.3736ms)
+✔ platform endpoints stay disabled until real server credentials are configured (354.2019ms)
+✔ the authored body frame is independent of the default expression head asset (2.0881ms)
+✔ the body reference, not the photo margins or hairstyle, determines a portrait facial frame (0.4157ms)
+✔ legacy cutouts fit by crown and chin; missing reference metrics leave existing framing available (0.2105ms)
+✔ native ROI is copied before image disposal and multiple faces share a bounded pixel budget (10.4383ms)
+✔ releasing analysis while head preparation is pending prevents stale inference (1.375ms)
+✔ existing PDF receipts survive the additive order schema without fabricated orders (749.4759ms)
+✔ single/multiple receipts form one idempotent order without changing existing PDF receipts (599.0136ms)
+✔ level collection is one printable book and quantities price the entire volume (3595.2959ms)
+✔ print service saves a canonical story and volume snapshot with the exact received file (3529.0714ms)
+✔ print service rejects unavailable levels, inflated story counts and mismatched volumes (532.7566ms)
+✔ print service schema migration preserves legacy orders without inventing story counts (533.3545ms)
+✔ order validation rejects bad contact, quantities, missing consent, expired or foreign receipts (517.6461ms)
+✔ user data, internal notes and order mutations remain isolated by identity and CSRF (501.5588ms)
+✔ fulfillment requires valid transitions, shipping fields and current version (514.5979ms)
+✔ pickup completion, exceptions and operator edits preserve a readable history (541.2855ms)
+✔ search and CSV cover the same orders and protect spreadsheet formula fields (441.7852ms)
+✔ personal data expiry scrubs contacts and history without pretending unfinished orders are delivered (439.3631ms)
+✖ ten illustrated stories form one edition with one cover, contents, contiguous chapters and ten summaries (9.697ms)
+✔ every original story page appears once and only the single-story edition uses its summary as back cover (1.5707ms)
+✔ long curriculum contents paginate without cover duplication or forced right-page blanks (0.6899ms)
+✔ dynamic family changes recalculate later chapter starts, not static hard-coded offsets (0.8304ms)
+✖ true A5 leaf, 3mm bleed, mirrored binding margins and independent A4 cover (0.8526ms)
+✖ print service lists only actual illustrated content and keeps 10 levels honest (2.9808ms)
+✔ 30 stories become three ordered ten-story volumes without duplication or filler (1.8716ms)
+✔ invalid levels, unfinished and duplicate stories cannot be ordered (0.444ms)
+✔ native account/version change cancels an outstanding photo picker and closes the old editor (39.8297ms)
+✔ changing only the parent nickname does not discard an unsaved child draft (1.8938ms)
+✔ native profile validates before saving and preserves selected age/class (3.2807ms)
+✔ choosing/cropping is only a draft until saved; crop output preserves head ratio (5.3518ms)
+✔ photo cancellation and leaving an edited profile do not commit data (5.9605ms)
+✔ save failure stays editable and never shows success; repeated taps submit once (2.2228ms)
+✔ photo callback after unload does not replace the current page (2.1014ms)
+✔ profile names use Unicode code points, trim whitespace, and reject controls (3.8409ms)
+✔ only supported ages and classes can be saved (0.6169ms)
+✔ new installations return independent defaults (3.6284ms)
+✔ photo is copied to durable storage and survives a new store instance (16.4582ms)
+✔ validation failure leaves both stored profile and avatar untouched (11.0187ms)
+✔ copy failure including a partial file rolls back without deleting the old avatar (11.4761ms)
+✔ storage failure deletes the new copy and preserves the old saved profile (13.0318ms)
+✔ missing photo recovers the default image while retaining name and other details (11.6873ms)
+✔ storage read failure does not overwrite a previously saved profile with defaults (9.4488ms)
+✔ twenty avatar replacements keep only the active owned file (81.1998ms)
+✔ removing an external photo never deletes files that this store does not own (20.3421ms)
+✔ concurrent saves serialize so a following name edit keeps the newly saved photo (15.0728ms)
+✔ a new page store queues behind an in-flight photo save and removes its old avatar (11.2948ms)
+✔ contradictory photo options fail without changing data (16.7021ms)
+✔ reading positions and completion survive restart; rereading preserves completion and resets the active position (36.1331ms)
+✔ guest, two parents, and re-registered account versions have independent reading records (1.3726ms)
+✔ invalid persisted rows and page input are rejected, stale stores cannot write, storage errors are surfaced (1.6051ms)
+✔ four and six people: actual introductions, missed count, total and no added pages (2.8141ms)
+✔ 3–6 years and independently selected classes stay consistent in stories 1 and 21 (12.1637ms)
+✔ one parent and grandparents: never insert a deselected parent; single caregiver does not speak as two people (2.1789ms)
+✔ up to twelve people, including duplicate sibling roles: all people are counted and introduced without adding pages (0.6229ms)
+✔ statistics count actual family/age/class text and exclude personalized names (5.3808ms)
+✔ configuration validation does not silently invent an adult or coerce an invalid age (0.742ms)
+✔ production body poses retain the calibrated photo scale and collar across books and default expression changes (58.0749ms)
+✔ hands crown and its safety margin have painted background above the original scene edge (4.4593ms)
+✔ each approved book selects its own page scene and independent cover (1.7521ms)
+✔ object closeups require no head, neck or face and never insert a saved portrait (0.3275ms)
+✔ incomplete backgrounds, heads and geometry never paint a half scene or resize the canvas (0.5717ms)
+✔ default head assets follow each scene and legacy raw photographs never replace them (0.4848ms)
+✔ original hair is fully inside the viewport and clear of body text at all manual extremes (32.6506ms)
+✔ photo chin and rotation follow each scene pose while source pixels remain unchanged (0.5215ms)
+✔ page crop overrides scene crop and closeups reserve the same accessible text column (0.7075ms)
+✔ loaders are isolated per book and load only requested scenes, sharing repeated scene/head assets (8.6833ms)
+✔ all scene layers must finish before ready, including when a prefetch becomes visible (16.0807ms)
+✔ image errors remain errors until explicit retry and only failed layers are requested again (3.2729ms)
+✔ failed metadata does not retry when another page opens and retries only on request (1.9803ms)
+✔ existing shared heads are reused and malformed asset paths cannot escape local artwork (10.7745ms)
+✔ dedicated art panel uses its full width without a second text column, preserving photo/body proportions (0.4693ms)
+✔ the flower book keeps the approved six-page wording with the simpler second page (2.4532ms)
+✔ native callers without members keep the established five-person eight-page story (3.5746ms)
+✔ browser callers explicitly select the three-person default and receive matching scene metadata (1.3378ms)
+✔ list and lookup use the supplied family while leaving the other books intact (0.6475ms)
+✔ book results are independent and changing families cannot retain an old page or scene (0.9376ms)
+✖ native shelves retain three supported books; the browser explicitly opts into layered books 4–10 (2.0765ms)
+✖ approved generated pages match the single manuscript source through illustrated book 10 (1.6412ms)
+✔ approved page arrays are independent across reads and keep original book numbering (0.2714ms)
+✔ system, audit and backups remain private; all backup mutations require CSRF (874.9965ms)
+✔ explicit fetch transfer returns the same ZIP bytes without forcing an attachment and still requires login (719.438ms)
+✔ diagnostics identify missing files and overdue orders without exposing raw error messages or secrets (367.9762ms)
+✔ audit search, action filters, date and pagination use the same rows (437.5873ms)
+✔ full backup contains a consistent readable database and exact verified PDFs, with no login sessions (686.2153ms)
+✔ metadata-only and missing-PDF backups declare their contents accurately (706.9576ms)
+✔ backup expiry follows source expiry and manual file deletion invalidates all server snapshots (801.1739ms)
+✔ corrupt PDFs fail visibly and leave no partial archive; concurrent entries cannot snapshot simultaneously (605.6801ms)
+✔ isolated restore checks recover snapshot records without replacing current users, contacts or sessions (633.8335ms)
+✔ metadata and missing-file checks report the recovery limits explicitly (878.563ms)
+✔ restore validation rejects corrupt archives, changed databases and unsafe ZIP paths (670.9785ms)
+✔ recovery rehearsal honors original PDF and contact expiries inside the isolated copy (717.656ms)
+✔ verification shares the cross-entry work lock and cannot operate on expired snapshots (682.3094ms)
+✔ restore check bounds ZIP expansion before extraction and checks per-entry CRC (713.253ms)
+ℹ tests 388
+ℹ suites 0
+ℹ pass 381
+ℹ fail 7
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 19309.7967
+
+✖ failing tests:
+
+test at tests\layered-art.test.cjs:14:1
+✖ all 64 non-family pages use independent background assets and registered poses without facial overrides (1.9857ms)
+  AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:
+  
+  86 !== 64
+  
+      at TestContext.<anonymous> (C:\Users\Administrator\Documents\ChatGPT\分级阅读绘本\little-protagonist\tests\layered-art.test.cjs:15:10)
+      at Test.runInAsyncScope (node:async_hooks:227:14)
+      at Test.run (node:internal/test_runner/test:1306:25)
+      at Test.start (node:internal/test_runner/test:1177:17)
+      at startSubtestAfterBootstrap (node:internal/test_runner/harness:385:17) {
+    generatedMessage: true,
+    code: 'ERR_ASSERTION',
+    actual: 86,
+    expected: 64,
+    operator: 'strictEqual',
+    diff: 'simple'
+  }
+
+test at tests\layered-art.test.cjs:36:1
+✖ every page renders background, props and cached whole actor; book changes evict old action references (22.822ms)
+  Error [AbortError]: 人物准备已取消。
+      at cancelled (evalmachine.<anonymous>:53:41)
+      at check (evalmachine.<anonymous>:62:87)
+      at prepare (evalmachine.<anonymous>:85:93)
+      at async TestContext.<anonymous> (C:\Users\Administrator\Documents\ChatGPT\分级阅读绘本\little-protagonist\tests\layered-art.test.cjs:41:75)
+      at async Test.run (node:internal/test_runner/test:1313:7)
+      at async Test.processPendingSubtests (node:internal/test_runner/test:897:7)
+
+test at tests\print-plan.test.cjs:5:1
+✖ ten illustrated stories form one edition with one cover, contents, contiguous chapters and ten summaries (9.697ms)
+  AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:
+  
+  110 !== 84
+  
+      at TestContext.<anonymous> (C:\Users\Administrator\Documents\ChatGPT\分级阅读绘本\little-protagonist\tests\print-plan.test.cjs:5:176)
+      at Test.runInAsyncScope (node:async_hooks:227:14)
+      at Test.run (node:internal/test_runner/test:1306:25)
+      at Test.start (node:internal/test_runner/test:1177:17)
+      at startSubtestAfterBootstrap (node:internal/test_runner/harness:385:17) {
+    generatedMessage: true,
+    code: 'ERR_ASSERTION',
+    actual: 110,
+    expected: 84,
+    operator: 'strictEqual',
+    diff: 'simple'
+  }
+
+test at tests\print-plan.test.cjs:9:1
+✖ true A5 leaf, 3mm bleed, mirrored binding margins and independent A4 cover (0.8526ms)
+  AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:
+  
+  13 !== 10
+  
+      at TestContext.<anonymous> (C:\Users\Administrator\Documents\ChatGPT\分级阅读绘本\little-protagonist\tests\print-plan.test.cjs:9:602)
+      at Test.runInAsyncScope (node:async_hooks:227:14)
+      at Test.run (node:internal/test_runner/test:1306:25)
+      at Test.processPendingSubtests (node:internal/test_runner/test:897:18)
+      at Test.postRun (node:internal/test_runner/test:1447:19)
+      at Test.run (node:internal/test_runner/test:1372:12)
+      at async Test.processPendingSubtests (node:internal/test_runner/test:897:7) {
+    generatedMessage: true,
+    code: 'ERR_ASSERTION',
+    actual: 13,
+    expected: 10,
+    operator: 'strictEqual',
+    diff: 'simple'
+  }
+
+test at tests\print-service.test.cjs:5:1
+✖ print service lists only actual illustrated content and keeps 10 levels honest (2.9808ms)
+  AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:
+  
+  13 !== 10
+  
+      at TestContext.<anonymous> (C:\Users\Administrator\Documents\ChatGPT\分级阅读绘本\little-protagonist\tests\print-service.test.cjs:8:10)
+      at Test.runInAsyncScope (node:async_hooks:227:14)
+      at Test.run (node:internal/test_runner/test:1306:25)
+      at Test.start (node:internal/test_runner/test:1177:17)
+      at startSubtestAfterBootstrap (node:internal/test_runner/harness:385:17) {
+    generatedMessage: true,
+    code: 'ERR_ASSERTION',
+    actual: 13,
+    expected: 10,
+    operator: 'strictEqual',
+    diff: 'simple'
+  }
+
+test at tests\stories.test.cjs:60:1
+✖ native shelves retain three supported books; the browser explicitly opts into layered books 4–10 (2.0765ms)
+  AssertionError [ERR_ASSERTION]: Expected values to be strictly deep-equal:
+  + actual - expected
+  ... Skipped lines
+  
+    [
+      'intro',
+      'flower',
+      'family',
+      'hands',
+  ...
+      'water',
+  +   'tree',
+  +   'calling',
+  +   'catball'
+    ]
+  
+      at TestContext.<anonymous> (C:\Users\Administrator\Documents\ChatGPT\分级阅读绘本\little-protagonist\tests\stories.test.cjs:66:10)
+      at Test.runInAsyncScope (node:async_hooks:227:14)
+      at Test.run (node:internal/test_runner/test:1306:25)
+      at Test.processPendingSubtests (node:internal/test_runner/test:897:18)
+      at Test.postRun (node:internal/test_runner/test:1447:19)
+      at Test.run (node:internal/test_runner/test:1372:12)
+      at async Test.processPendingSubtests (node:internal/test_runner/test:897:7) {
+    generatedMessage: true,
+    code: 'ERR_ASSERTION',
+    actual: [
+      'intro',    'flower',
+      'family',   'hands',
+      'rain',     'stone',
+      'mountain', 'car',
+      'ball',     'water',
+      'tree',     'calling',
+      'catball'
+    ],
+    expected: [
+      'intro',    'flower',
+      'family',   'hands',
+      'rain',     'stone',
+      'mountain', 'car',
+      'ball',     'water'
+    ],
+    operator: 'deepStrictEqual',
+    diff: 'simple'
+  }
+
+test at tests\stories.test.cjs:72:1
+✖ approved generated pages match the single manuscript source through illustrated book 10 (1.6412ms)
+  AssertionError [ERR_ASSERTION]: Expected values to be strictly deep-equal:
+  + actual - expected
+  ... Skipped lines
+  
+    [
+      4,
+      5,
+      6,
+      7,
+  ...
+      10,
+  +   11,
+  +   12,
+  +   13
+    ]
+  
+      at TestContext.<anonymous> (C:\Users\Administrator\Documents\ChatGPT\分级阅读绘本\little-protagonist\tests\stories.test.cjs:75:10)
+      at Test.runInAsyncScope (node:async_hooks:227:14)
+      at Test.run (node:internal/test_runner/test:1306:25)
+      at Test.processPendingSubtests (node:internal/test_runner/test:897:18)
+      at Test.postRun (node:internal/test_runner/test:1447:19)
+      at Test.run (node:internal/test_runner/test:1372:12)
+      at async Test.processPendingSubtests (node:internal/test_runner/test:897:7) {
+    generatedMessage: true,
+    code: 'ERR_ASSERTION',
+    actual: [
+      4,  5,  6,  7,  8,
+      9, 10, 11, 12, 13
+    ],
+    expected: [
+      4, 5,  6, 7,
+      8, 9, 10
+    ],
+    operator: 'deepStrictEqual',
+    diff: 'simple'
+  }

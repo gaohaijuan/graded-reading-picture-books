@@ -1,0 +1,905 @@
+{
+  "scope": "第二级最后三本；22页正文插画框128×131mm；封面和小结因版面不同不套用正文PPI",
+  "panelMm": {
+    "width": 128,
+    "height": 131
+  },
+  "backgroundFormula": "nativeWidth * camera.width / world.width / (128 / 25.4), and equivalent height; take smaller value",
+  "bodyFormula": "(1176 / 640) * camera.width * 25.4 / (registrationScale * sceneScale * 128), and equivalent height; take smaller value",
+  "minimumBackgroundEffectivePpi": 174.14,
+  "maximumBackgroundEffectivePpi": 243.14,
+  "lowestBackgroundPages": [
+    {
+      "id": "level2-jump",
+      "number": 28,
+      "page": 2,
+      "background": "jump-ground-close",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "camera": {
+        "x": 270,
+        "y": 326.89814814814815,
+        "width": 700,
+        "height": 716.2037037037037
+      },
+      "backgroundEffectivePpi": 174.14,
+      "xPpi": 174.19,
+      "yPpi": 174.14
+    }
+  ],
+  "records": [
+    {
+      "id": "level2-jump",
+      "number": 28,
+      "page": 1,
+      "background": "jump-garden-wide",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14,
+      "xPpi": 243.21,
+      "yPpi": 243.14
+    },
+    {
+      "id": "level2-jump",
+      "number": 28,
+      "page": 2,
+      "background": "jump-ground-close",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "camera": {
+        "x": 270,
+        "y": 326.89814814814815,
+        "width": 700,
+        "height": 716.2037037037037
+      },
+      "backgroundEffectivePpi": 174.14,
+      "xPpi": 174.19,
+      "yPpi": 174.14
+    },
+    {
+      "id": "level2-jump",
+      "number": 28,
+      "page": 3,
+      "background": "jump-ground-close",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14,
+      "xPpi": 243.21,
+      "yPpi": 243.14
+    },
+    {
+      "id": "level2-jump",
+      "number": 28,
+      "page": 4,
+      "background": "jump-ground-close",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "camera": {
+        "x": 112.26421768707482,
+        "y": 249.37590765936005,
+        "width": 734.2516194169975,
+        "height": 751.2481846812799
+      },
+      "backgroundEffectivePpi": 182.66,
+      "xPpi": 182.71,
+      "yPpi": 182.66
+    },
+    {
+      "id": "level2-jump",
+      "number": 28,
+      "page": 5,
+      "background": "jump-ground-close",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14,
+      "xPpi": 243.21,
+      "yPpi": 243.14
+    },
+    {
+      "id": "level2-jump",
+      "number": 28,
+      "page": 6,
+      "background": "jump-garden-wide",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14,
+      "xPpi": 243.21,
+      "yPpi": 243.14
+    },
+    {
+      "id": "level2-jump",
+      "number": 28,
+      "page": 7,
+      "background": "jump-garden-wide",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14,
+      "xPpi": 243.21,
+      "yPpi": 243.14
+    },
+    {
+      "id": "level2-jump",
+      "number": 28,
+      "page": 8,
+      "background": "jump-ground-close",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14,
+      "xPpi": 243.21,
+      "yPpi": 243.14
+    },
+    {
+      "id": "level2-train",
+      "number": 29,
+      "page": 1,
+      "background": "studio-floor",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14,
+      "xPpi": 243.21,
+      "yPpi": 243.14
+    },
+    {
+      "id": "level2-train",
+      "number": 29,
+      "page": 2,
+      "background": "studio-floor",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14,
+      "xPpi": 243.21,
+      "yPpi": 243.14
+    },
+    {
+      "id": "level2-train",
+      "number": 29,
+      "page": 3,
+      "background": "studio-floor",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14,
+      "xPpi": 243.21,
+      "yPpi": 243.14
+    },
+    {
+      "id": "level2-train",
+      "number": 29,
+      "page": 4,
+      "background": "studio-floor",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14,
+      "xPpi": 243.21,
+      "yPpi": 243.14
+    },
+    {
+      "id": "level2-train",
+      "number": 29,
+      "page": 5,
+      "background": "studio-floor",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14,
+      "xPpi": 243.21,
+      "yPpi": 243.14
+    },
+    {
+      "id": "level2-train",
+      "number": 29,
+      "page": 6,
+      "background": "studio-floor",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14,
+      "xPpi": 243.21,
+      "yPpi": 243.14
+    },
+    {
+      "id": "level2-train",
+      "number": 29,
+      "page": 7,
+      "background": "studio-floor",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14,
+      "xPpi": 243.21,
+      "yPpi": 243.14
+    },
+    {
+      "id": "level2-fish",
+      "number": 30,
+      "page": 1,
+      "background": "studio-floor",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14,
+      "xPpi": 243.21,
+      "yPpi": 243.14
+    },
+    {
+      "id": "level2-fish",
+      "number": 30,
+      "page": 2,
+      "background": "studio-floor",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14,
+      "xPpi": 243.21,
+      "yPpi": 243.14
+    },
+    {
+      "id": "level2-fish",
+      "number": 30,
+      "page": 3,
+      "background": "studio-floor",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14,
+      "xPpi": 243.21,
+      "yPpi": 243.14
+    },
+    {
+      "id": "level2-fish",
+      "number": 30,
+      "page": 4,
+      "background": "studio-floor",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14,
+      "xPpi": 243.21,
+      "yPpi": 243.14
+    },
+    {
+      "id": "level2-fish",
+      "number": 30,
+      "page": 5,
+      "background": "studio-floor",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14,
+      "xPpi": 243.21,
+      "yPpi": 243.14
+    },
+    {
+      "id": "level2-fish",
+      "number": 30,
+      "page": 6,
+      "background": "studio-floor",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14,
+      "xPpi": 243.21,
+      "yPpi": 243.14
+    },
+    {
+      "id": "level2-fish",
+      "number": 30,
+      "page": 7,
+      "background": "studio-floor",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14,
+      "xPpi": 243.21,
+      "yPpi": 243.14
+    }
+  ],
+  "newPoseNativeResolution": [
+    {
+      "pose": "jump-forward",
+      "nativeSize": [
+        1024,
+        1536
+      ],
+      "registeredRuntimeSize": [
+        1536,
+        2048
+      ],
+      "uniformRegistrationScale": 1.1494252873563218,
+      "sourceCollar": [
+        557,
+        250
+      ],
+      "offset": [
+        127.77011494252872,
+        312.64367816091954
+      ],
+      "basis": "Master standing collar to sweater hem: 500 pixels; generated same anatomical span: 435 pixels. No head geometry or independent limb transforms.",
+      "minimumNativeBodyEffectivePpi": 534.42,
+      "runtimeCanvasIsNativeResolution": false,
+      "note": "透明留白及统一对齐重采样不增加原始细节；有效PPI按原始PNG像素及场景整体缩放计算。"
+    },
+    {
+      "pose": "sit-draw-active",
+      "nativeSize": [
+        1024,
+        1536
+      ],
+      "registeredRuntimeSize": [
+        1536,
+        1920
+      ],
+      "uniformRegistrationScale": 0.9084745762711864,
+      "sourceCollar": [
+        510,
+        298
+      ],
+      "offset": [
+        304.6779661016949,
+        329.27457627118645
+      ],
+      "basis": "Existing sit-draw collar to sweater hem: 536 pixels; generated span: 590 pixels. Original crossed-leg body matched by one uniform scale.",
+      "minimumNativeBodyEffectivePpi": 576.72,
+      "runtimeCanvasIsNativeResolution": false,
+      "note": "透明留白及统一对齐重采样不增加原始细节；有效PPI按原始PNG像素及场景整体缩放计算。"
+    }
+  ],
+  "newPosePageUses": [
+    {
+      "id": "level2-jump",
+      "page": 3,
+      "pose": "jump-forward",
+      "sceneScale": 0.58,
+      "registrationScale": 1.1494252873563218,
+      "nativeBodyEffectivePpi": 534.42
+    },
+    {
+      "id": "level2-jump",
+      "page": 7,
+      "pose": "jump-forward",
+      "sceneScale": 0.58,
+      "registrationScale": 1.1494252873563218,
+      "nativeBodyEffectivePpi": 534.42
+    },
+    {
+      "id": "level2-train",
+      "page": 1,
+      "pose": "sit-draw-active",
+      "sceneScale": 0.68,
+      "registrationScale": 0.9084745762711864,
+      "nativeBodyEffectivePpi": 576.72
+    },
+    {
+      "id": "level2-train",
+      "page": 3,
+      "pose": "sit-draw-active",
+      "sceneScale": 0.68,
+      "registrationScale": 0.9084745762711864,
+      "nativeBodyEffectivePpi": 576.72
+    },
+    {
+      "id": "level2-train",
+      "page": 5,
+      "pose": "sit-draw-active",
+      "sceneScale": 0.68,
+      "registrationScale": 0.9084745762711864,
+      "nativeBodyEffectivePpi": 576.72
+    },
+    {
+      "id": "level2-fish",
+      "page": 3,
+      "pose": "sit-draw-active",
+      "sceneScale": 0.68,
+      "registrationScale": 0.9084745762711864,
+      "nativeBodyEffectivePpi": 576.72
+    },
+    {
+      "id": "level2-fish",
+      "page": 4,
+      "pose": "sit-draw-active",
+      "sceneScale": 0.68,
+      "registrationScale": 0.9084745762711864,
+      "nativeBodyEffectivePpi": 576.72
+    },
+    {
+      "id": "level2-fish",
+      "page": 6,
+      "pose": "sit-draw-active",
+      "sceneScale": 0.68,
+      "registrationScale": 0.9084745762711864,
+      "nativeBodyEffectivePpi": 576.72
+    }
+  ],
+  "encodingVerification": [
+    {
+      "key": "white-rabbit-jump",
+      "runtimePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\level2-last-three\\white-rabbit-jump.webp",
+      "runtimeSize": [
+        1536,
+        1024
+      ],
+      "runtimeSha256": "e2eb93022615a3e9d13963662762ebc4112e89852b2f443d1c1b0fbedb6f8901",
+      "reused": false,
+      "nativePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\art-samples\\level2-last-three-native\\white-rabbit-jump.png",
+      "nativeSize": [
+        1536,
+        1024
+      ],
+      "nativeSha256": "db1b742ed56316bea5813f8e780f0b6c5443d6f0a6508e5de0a203fd204f6f20",
+      "runtimeMatchesNativePixels": true
+    },
+    {
+      "key": "jump-forward",
+      "runtimePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\level2-last-three\\jump-forward.webp",
+      "runtimeSize": [
+        1536,
+        2048
+      ],
+      "runtimeSha256": "9e9d2acee0438cab47b54b336b7bec81f25fae2d9b1c50c2a81ad1aefca5c0b2",
+      "reused": false,
+      "nativePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\art-samples\\level2-last-three-native\\child-jump.png",
+      "nativeSize": [
+        1024,
+        1536
+      ],
+      "nativeSha256": "1b13f7c28f55c1b6743e32c8ed3c2f4a05c9bea34d4302face22d5fd914bdb76",
+      "runtimeMatchesRegisteredResample": true,
+      "uniformRegistrationScale": 1.1494252873563218,
+      "interpolationAddsNativeDetail": false
+    },
+    {
+      "key": "sit-draw-active",
+      "runtimePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\level2-last-three\\sit-draw-active.webp",
+      "runtimeSize": [
+        1536,
+        1920
+      ],
+      "runtimeSha256": "152a09e6d97cb944ca44646aa5ce8154ebd2abcebb38f29dd46c151794a2a2a0",
+      "reused": false,
+      "nativePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\art-samples\\level2-last-three-native\\child-sit-draw-active.png",
+      "nativeSize": [
+        1024,
+        1536
+      ],
+      "nativeSha256": "fae2398c73fdb19cdf580adbf3ec6f230a6e6c64b3b17a0596d85868412a92d4",
+      "runtimeMatchesRegisteredResample": true,
+      "uniformRegistrationScale": 0.9084745762711864,
+      "interpolationAddsNativeDetail": false
+    },
+    {
+      "key": "studio-floor",
+      "runtimePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\level2-last-three\\studio-floor.webp",
+      "runtimeSize": [
+        1254,
+        1254
+      ],
+      "runtimeSha256": "f20fa567c21732e19563662b7bf71bacb81e84848d43292d6d36b7b035154ac0",
+      "reused": false,
+      "nativePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\art-samples\\level2-last-three-native\\studio-floor.png",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "nativeSha256": "8cbf9bdcbe517654940027dea93b351e6176530ed774cb6809811f16653e6c53",
+      "runtimeMatchesNativePixels": true
+    },
+    {
+      "key": "jump-ground-close",
+      "runtimePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\level2-last-three\\jump-ground-close.webp",
+      "runtimeSize": [
+        1254,
+        1254
+      ],
+      "runtimeSha256": "75c885b335c1cb8feb88421d8fc2b94499c0c228c7c287d71c266bdb26209f67",
+      "reused": false,
+      "nativePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\art-samples\\level2-last-three-native\\jump-ground-close.png",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "nativeSha256": "7ca745af8e037fea4ac0f921d453940afebd249fd238abd567b11856adff9e96",
+      "runtimeMatchesNativePixels": true
+    },
+    {
+      "key": "toy-train",
+      "runtimePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\level2-last-three\\toy-train.webp",
+      "runtimeSize": [
+        1536,
+        1024
+      ],
+      "runtimeSha256": "bbcb3a555bb4d1e46d9b6b5b9073b0523f9e1ed87570c77929c6b8a25883f805",
+      "reused": false,
+      "nativePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\art-samples\\level2-last-three-native\\toy-train.png",
+      "nativeSize": [
+        1536,
+        1024
+      ],
+      "nativeSha256": "4cdc80acd4846dc1f6704b09657177c376c2aa3eaf070a58fec5cb85d22f101d",
+      "runtimeMatchesNativePixels": true
+    },
+    {
+      "key": "drawing-fish",
+      "runtimePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\level2-last-three\\drawing-fish.webp",
+      "runtimeSize": [
+        1536,
+        1024
+      ],
+      "runtimeSha256": "af08fa0aa6b2046209f6e11a8e934dc2c40abcc30e9dcd2038abd0803de95383",
+      "reused": false,
+      "nativePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\art-samples\\level2-last-three-native\\drawing-fish.png",
+      "nativeSize": [
+        1536,
+        1024
+      ],
+      "nativeSha256": "a2627b5254c15d4c0416a087383c7166c8fb02134540cd3710e50d46f818e472",
+      "runtimeMatchesNativePixels": true
+    },
+    {
+      "key": "drawing-water",
+      "runtimePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\level2-last-three\\drawing-water.webp",
+      "runtimeSize": [
+        1536,
+        1024
+      ],
+      "runtimeSha256": "79401e824e98907aa0624229eb82a3d36ce5578e12ecafe8d7110024164c4c8b",
+      "reused": false,
+      "nativePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\art-samples\\level2-last-three-native\\drawing-water.png",
+      "nativeSize": [
+        1536,
+        1024
+      ],
+      "nativeSha256": "4f65265f5b49474e5b41dbcc993f5a6c3c4ac91a132c8bf2fd31b3a39e57c8a2",
+      "runtimeMatchesNativePixels": true
+    },
+    {
+      "key": "drawing-habitat",
+      "runtimePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\level2-last-three\\drawing-habitat.webp",
+      "runtimeSize": [
+        1536,
+        1024
+      ],
+      "runtimeSha256": "2659a12f72f9817d073a6aa629347fdc1f95f4656449f99f65cad630571b5057",
+      "reused": false,
+      "nativePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\art-samples\\level2-last-three-native\\drawing-habitat.png",
+      "nativeSize": [
+        1536,
+        1024
+      ],
+      "nativeSha256": "ebae18a0aeb15e8674592b6c6cdb9b2ceceafffbb08af0824991b08977c965b5",
+      "runtimeMatchesNativePixels": true
+    },
+    {
+      "key": "drawing-self",
+      "runtimePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\level2-last-three\\drawing-self.webp",
+      "runtimeSize": [
+        1145,
+        1374
+      ],
+      "runtimeSha256": "a4d07009a9a2134da436377923072cc047b086664b12642bf33f35949b0f096d",
+      "reused": false,
+      "nativePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\art-samples\\level2-last-three-native\\drawing-self.png",
+      "nativeSize": [
+        1145,
+        1374
+      ],
+      "nativeSha256": "5433e3c3156615fb619839a877109920c2e73fed412528371f7b1503b718d1d2",
+      "runtimeMatchesNativePixels": true
+    },
+    {
+      "key": "drawing-trees-flowers",
+      "runtimePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\level2-last-three\\drawing-trees-flowers.webp",
+      "runtimeSize": [
+        1536,
+        1024
+      ],
+      "runtimeSha256": "6947fa57c2a79c3099d38dbc67979a3c5a0bc319a196a5ca8be4526e09ae475f",
+      "reused": false,
+      "nativePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\art-samples\\level2-last-three-native\\drawing-trees-flowers.png",
+      "nativeSize": [
+        1536,
+        1024
+      ],
+      "nativeSha256": "4501298af8956a2db354595c0bfcbcfa43fd7e765dffa9ccfedbefdd406fd763",
+      "runtimeMatchesNativePixels": true
+    },
+    {
+      "key": "jump-garden-wide",
+      "runtimePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\books-16-20-storyboards-v2\\b20-p05.png",
+      "runtimeSize": [
+        1254,
+        1254
+      ],
+      "runtimeSha256": "a7833e9f3e34f32874e111c058b9a5da024b5eb6e67aef01746767bc9cae01ad",
+      "reused": true,
+      "nativeProvenanceNote": "Reused existing asset at its actual available resolution; no new native-resolution claim."
+    },
+    {
+      "key": "white-rabbit-alert",
+      "runtimePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\level2-fourth-three\\white-rabbit-alert.webp",
+      "runtimeSize": [
+        1536,
+        1024
+      ],
+      "runtimeSha256": "a0ebbac5aaba6c5fd74dd9dc676407e5bc6a2fbf898d9eafcbd8988a28f0361a",
+      "reused": true,
+      "nativeProvenanceNote": "Reused existing asset at its actual available resolution; no new native-resolution claim."
+    },
+    {
+      "key": "jump-stone",
+      "runtimePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\books-06-10\\pebble.png",
+      "runtimeSize": [
+        1536,
+        1024
+      ],
+      "runtimeSha256": "8983a19f7a70ebac181d40aa5d4a0537589d297e3e64b08ab2b128739c229e0e",
+      "reused": true,
+      "nativeProvenanceNote": "Reused existing asset at its actual available resolution; no new native-resolution claim."
+    },
+    {
+      "key": "jump-paper",
+      "runtimePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\books-16-20\\red-paper.png",
+      "runtimeSize": [
+        1510,
+        1042
+      ],
+      "runtimeSha256": "221559d3640ca0367b369fba62ef74f342e89fde462f3b19f8c1cc602615913d",
+      "reused": true,
+      "nativeProvenanceNote": "Reused existing asset at its actual available resolution; no new native-resolution claim."
+    }
+  ],
+  "native300PpiClaimed": false,
+  "outputRasterResolutionIsNotSourceResolution": true,
+  "limitations": [
+    "本记录不是300ppi整册证明。",
+    "背景与两个新增动作逐页计算；其他道具及已有动作未作本次全量PPI认证。",
+    "RGB电子校样未经印厂实物打样或色彩确认。"
+  ],
+  "browserRecordSha256": "d745677851bc0c288c08d68f9c1f40380fb6e17fe70280918d61c71c17a0caa9"
+}

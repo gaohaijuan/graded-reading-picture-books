@@ -1,0 +1,319 @@
+{
+  "date": "2026-10-24",
+  "completedBook": {
+    "number": 20,
+    "title": "我还不想睡",
+    "pages": 8
+  },
+  "volumeTwo": {
+    "stories": 10,
+    "pages": 89,
+    "bodyPages": 76,
+    "summaryPages": 10,
+    "tocPages": 1,
+    "blankPages": 0,
+    "interiorPages": 85
+  },
+  "browser": {
+    "default": {
+      "pages": 8,
+      "ready": true,
+      "overflow": 0,
+      "textInside": true,
+      "scales": [
+        "0.26155187445510025"
+      ]
+    },
+    "photo": {
+      "pages": 8,
+      "ready": true,
+      "overflow": 0,
+      "textInside": true,
+      "scales": [
+        "0.42889683837095727"
+      ]
+    },
+    "mobile": {
+      "pages": 8,
+      "ready": true,
+      "overflow": 0,
+      "textInside": true,
+      "scales": [
+        "0.42889683837095727"
+      ]
+    }
+  },
+  "pdf": {
+    "default": {
+      "file": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\output\\pdf\\小小主角-第2册-竖版A5校样.pdf",
+      "pages": 89,
+      "body_pages": 76,
+      "chapters": [
+        {
+          "book": "tree",
+          "title": "小树长高了",
+          "start_folio": 1,
+          "start_pdf_page": 3,
+          "body_pages": 6
+        },
+        {
+          "book": "calling",
+          "title": "谁在叫",
+          "start_folio": 8,
+          "start_pdf_page": 10,
+          "body_pages": 8
+        },
+        {
+          "book": "catball",
+          "title": "小猫要小球吗",
+          "start_folio": 17,
+          "start_pdf_page": 19,
+          "body_pages": 8
+        },
+        {
+          "book": "shoes",
+          "title": "大鞋和小鞋",
+          "start_folio": 26,
+          "start_pdf_page": 28,
+          "body_pages": 6
+        },
+        {
+          "book": "watering",
+          "title": "小花喝水",
+          "start_folio": 33,
+          "start_pdf_page": 35,
+          "body_pages": 8
+        },
+        {
+          "book": "wagon",
+          "title": "小球也要走",
+          "start_folio": 42,
+          "start_pdf_page": 44,
+          "body_pages": 8
+        },
+        {
+          "book": "paper",
+          "title": "小纸片飞了",
+          "start_folio": 51,
+          "start_pdf_page": 53,
+          "body_pages": 8
+        },
+        {
+          "book": "fruit",
+          "title": "大果子和小果子",
+          "start_folio": 60,
+          "start_pdf_page": 62,
+          "body_pages": 8
+        },
+        {
+          "book": "catbed",
+          "title": "小猫的床",
+          "start_folio": 69,
+          "start_pdf_page": 71,
+          "body_pages": 8
+        },
+        {
+          "book": "sleepy",
+          "title": "我还不想睡",
+          "start_folio": 78,
+          "start_pdf_page": 80,
+          "body_pages": 8
+        }
+      ],
+      "fonts": [
+        {
+          "name": "/NotoSerifSC-ExtraLight-5840",
+          "embedded": true
+        }
+      ],
+      "errors": []
+    },
+    "photo": {
+      "file": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\tmp\\pdfs\\第2册十故事-真人长名字-QA.pdf",
+      "pages": 89,
+      "body_pages": 76,
+      "chapters": [
+        {
+          "book": "tree",
+          "title": "小树长高了",
+          "start_folio": 1,
+          "start_pdf_page": 3,
+          "body_pages": 6
+        },
+        {
+          "book": "calling",
+          "title": "谁在叫",
+          "start_folio": 8,
+          "start_pdf_page": 10,
+          "body_pages": 8
+        },
+        {
+          "book": "catball",
+          "title": "小猫要小球吗",
+          "start_folio": 17,
+          "start_pdf_page": 19,
+          "body_pages": 8
+        },
+        {
+          "book": "shoes",
+          "title": "大鞋和小鞋",
+          "start_folio": 26,
+          "start_pdf_page": 28,
+          "body_pages": 6
+        },
+        {
+          "book": "watering",
+          "title": "小花喝水",
+          "start_folio": 33,
+          "start_pdf_page": 35,
+          "body_pages": 8
+        },
+        {
+          "book": "wagon",
+          "title": "小球也要走",
+          "start_folio": 42,
+          "start_pdf_page": 44,
+          "body_pages": 8
+        },
+        {
+          "book": "paper",
+          "title": "小纸片飞了",
+          "start_folio": 51,
+          "start_pdf_page": 53,
+          "body_pages": 8
+        },
+        {
+          "book": "fruit",
+          "title": "大果子和小果子",
+          "start_folio": 60,
+          "start_pdf_page": 62,
+          "body_pages": 8
+        },
+        {
+          "book": "catbed",
+          "title": "小猫的床",
+          "start_folio": 69,
+          "start_pdf_page": 71,
+          "body_pages": 8
+        },
+        {
+          "book": "sleepy",
+          "title": "我还不想睡",
+          "start_folio": 78,
+          "start_pdf_page": 80,
+          "body_pages": 8
+        }
+      ],
+      "fonts": [
+        {
+          "name": "/NotoSerifSC-ExtraLight-5840",
+          "embedded": true
+        }
+      ],
+      "errors": []
+    }
+  },
+  "quality": {
+    "minimumNativePpi": 243,
+    "native300Ppi": false,
+    "completeLayerAudit": true,
+    "pressPdfs": {
+      "outer": {
+        "pages": 2,
+        "size": {
+          "media_mm": [
+            303,
+            216
+          ],
+          "trim_mm": [
+            297,
+            210
+          ],
+          "bleed_each_mm": 3
+        }
+      },
+      "inner": {
+        "pages": 85,
+        "size": {
+          "media_mm": [
+            154,
+            216
+          ],
+          "trim_mm": [
+            148,
+            210
+          ],
+          "bleed_each_mm": 3
+        }
+      }
+    }
+  },
+  "validation": {
+    "unitTestsPassed": 396,
+    "javascriptFilesChecked": 48,
+    "completedAndRestarted": true
+  },
+  "imageGeneration": {
+    "mode": "built-in only",
+    "imageApi": false,
+    "assets": 8,
+    "noAdditionalGenerationAfterReuseDecision": true
+  },
+  "profileRestored": {
+    "name": "小石头",
+    "defaultIllustration": true,
+    "familyMembers": 3
+  },
+  "viewportReset": true,
+  "performance": {
+    "portrait": {
+      "cutoutMs": 755.6000000014901,
+      "photoReadMs": 19.100000001490116,
+      "pngEncodeMs": 17.199999999254942,
+      "recognitionMs": 230.60000000149012
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 10289.900000002235,
+      "bodyDownloadMs": 759.0000000037253,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "sleepy"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "barefoot-stand",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "sleepy"
+          ]
+        }
+      ],
+      "composeMs": 20.600000012665987,
+      "composites": 46,
+      "draws": 411,
+      "pageDrawMs": 15175.400000043212
+    },
+    "limitations": "Local Windows localhost, session-cumulative counters include repeated renders/covers. Draw timing measures JS submission, not GPU completion. PNG encoding measures portrait output. Narrow viewport is a simulation, not physical-device performance."
+  }
+}

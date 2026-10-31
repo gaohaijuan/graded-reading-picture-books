@@ -1,0 +1,1699 @@
+{
+  "version": "第三级76字扩充审阅稿-20261030",
+  "status": "待用户审阅",
+  "basis": "保留原52个必认字；从已使用的辅助字中新增24个正式必认字。前两级字表和文稿不变。按15篇正文逐字计数，不含标题、说明、姓名占位符及重复朗读。",
+  "counts": {
+    "level1Required": 61,
+    "level2Listed": 52,
+    "level2NetNew": 43,
+    "cumulativeLevel2": 104,
+    "originalLevel3": 52,
+    "promoted": 24,
+    "level3Required": 76,
+    "cumulativeLevel3": 180
+  },
+  "requiredOriginal": [
+    "眼",
+    "睛",
+    "耳",
+    "脚",
+    "脸",
+    "雪",
+    "风",
+    "叶",
+    "草",
+    "地",
+    "听",
+    "想",
+    "坐",
+    "学",
+    "住",
+    "做",
+    "找",
+    "摸",
+    "会",
+    "爬",
+    "站",
+    "右",
+    "左",
+    "后",
+    "前",
+    "里",
+    "今",
+    "早",
+    "晚",
+    "明",
+    "快",
+    "热",
+    "长",
+    "真",
+    "白",
+    "绿",
+    "渴",
+    "新",
+    "衣",
+    "服",
+    "果",
+    "菜",
+    "妈",
+    "朵",
+    "们",
+    "它",
+    "只",
+    "对",
+    "用",
+    "能",
+    "己",
+    "自"
+  ],
+  "requiredPromoted": [
+    "人",
+    "面",
+    "进",
+    "往",
+    "追",
+    "吹",
+    "买",
+    "就",
+    "变",
+    "拍",
+    "落",
+    "当",
+    "话",
+    "身",
+    "得",
+    "那",
+    "跟",
+    "慢",
+    "凉",
+    "先",
+    "外",
+    "很",
+    "问",
+    "声"
+  ],
+  "requiredAll": [
+    "眼",
+    "睛",
+    "耳",
+    "脚",
+    "脸",
+    "雪",
+    "风",
+    "叶",
+    "草",
+    "地",
+    "听",
+    "想",
+    "坐",
+    "学",
+    "住",
+    "做",
+    "找",
+    "摸",
+    "会",
+    "爬",
+    "站",
+    "右",
+    "左",
+    "后",
+    "前",
+    "里",
+    "今",
+    "早",
+    "晚",
+    "明",
+    "快",
+    "热",
+    "长",
+    "真",
+    "白",
+    "绿",
+    "渴",
+    "新",
+    "衣",
+    "服",
+    "果",
+    "菜",
+    "妈",
+    "朵",
+    "们",
+    "它",
+    "只",
+    "对",
+    "用",
+    "能",
+    "己",
+    "自",
+    "人",
+    "面",
+    "进",
+    "往",
+    "追",
+    "吹",
+    "买",
+    "就",
+    "变",
+    "拍",
+    "落",
+    "当",
+    "话",
+    "身",
+    "得",
+    "那",
+    "跟",
+    "慢",
+    "凉",
+    "先",
+    "外",
+    "很",
+    "问",
+    "声"
+  ],
+  "minimumOccurrence": 5,
+  "minimumStoryCount": 3,
+  "bodyHanCount": 1401,
+  "previousBodyHanCount": 1356,
+  "frequencies": [
+    {
+      "character": "眼",
+      "count": 6,
+      "storyCount": 4,
+      "storyNumbers": [
+        3,
+        6,
+        9,
+        13
+      ]
+    },
+    {
+      "character": "睛",
+      "count": 6,
+      "storyCount": 4,
+      "storyNumbers": [
+        3,
+        6,
+        9,
+        13
+      ]
+    },
+    {
+      "character": "耳",
+      "count": 8,
+      "storyCount": 5,
+      "storyNumbers": [
+        3,
+        6,
+        7,
+        9,
+        13
+      ]
+    },
+    {
+      "character": "脚",
+      "count": 9,
+      "storyCount": 5,
+      "storyNumbers": [
+        1,
+        2,
+        5,
+        7,
+        10
+      ]
+    },
+    {
+      "character": "脸",
+      "count": 10,
+      "storyCount": 5,
+      "storyNumbers": [
+        6,
+        9,
+        10,
+        13,
+        14
+      ]
+    },
+    {
+      "character": "雪",
+      "count": 10,
+      "storyCount": 3,
+      "storyNumbers": [
+        3,
+        6,
+        7
+      ]
+    },
+    {
+      "character": "风",
+      "count": 5,
+      "storyCount": 3,
+      "storyNumbers": [
+        4,
+        10,
+        12
+      ]
+    },
+    {
+      "character": "叶",
+      "count": 13,
+      "storyCount": 6,
+      "storyNumbers": [
+        3,
+        4,
+        11,
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "character": "草",
+      "count": 5,
+      "storyCount": 3,
+      "storyNumbers": [
+        2,
+        10,
+        12
+      ]
+    },
+    {
+      "character": "地",
+      "count": 9,
+      "storyCount": 6,
+      "storyNumbers": [
+        1,
+        2,
+        6,
+        7,
+        10,
+        12
+      ]
+    },
+    {
+      "character": "听",
+      "count": 6,
+      "storyCount": 5,
+      "storyNumbers": [
+        7,
+        8,
+        9,
+        11,
+        12
+      ]
+    },
+    {
+      "character": "想",
+      "count": 6,
+      "storyCount": 3,
+      "storyNumbers": [
+        6,
+        10,
+        15
+      ]
+    },
+    {
+      "character": "坐",
+      "count": 5,
+      "storyCount": 4,
+      "storyNumbers": [
+        1,
+        7,
+        11,
+        12
+      ]
+    },
+    {
+      "character": "学",
+      "count": 5,
+      "storyCount": 5,
+      "storyNumbers": [
+        1,
+        8,
+        9,
+        10,
+        13
+      ]
+    },
+    {
+      "character": "住",
+      "count": 8,
+      "storyCount": 6,
+      "storyNumbers": [
+        5,
+        6,
+        8,
+        10,
+        12,
+        15
+      ]
+    },
+    {
+      "character": "做",
+      "count": 12,
+      "storyCount": 7,
+      "storyNumbers": [
+        3,
+        6,
+        8,
+        10,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "character": "找",
+      "count": 5,
+      "storyCount": 4,
+      "storyNumbers": [
+        2,
+        3,
+        7,
+        12
+      ]
+    },
+    {
+      "character": "摸",
+      "count": 14,
+      "storyCount": 6,
+      "storyNumbers": [
+        6,
+        8,
+        9,
+        10,
+        12,
+        13
+      ]
+    },
+    {
+      "character": "会",
+      "count": 5,
+      "storyCount": 5,
+      "storyNumbers": [
+        1,
+        5,
+        6,
+        10,
+        12
+      ]
+    },
+    {
+      "character": "爬",
+      "count": 7,
+      "storyCount": 3,
+      "storyNumbers": [
+        8,
+        11,
+        12
+      ]
+    },
+    {
+      "character": "站",
+      "count": 5,
+      "storyCount": 4,
+      "storyNumbers": [
+        2,
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "character": "右",
+      "count": 5,
+      "storyCount": 4,
+      "storyNumbers": [
+        1,
+        2,
+        4,
+        10
+      ]
+    },
+    {
+      "character": "左",
+      "count": 6,
+      "storyCount": 4,
+      "storyNumbers": [
+        1,
+        2,
+        4,
+        10
+      ]
+    },
+    {
+      "character": "后",
+      "count": 7,
+      "storyCount": 5,
+      "storyNumbers": [
+        3,
+        7,
+        10,
+        13,
+        14
+      ]
+    },
+    {
+      "character": "前",
+      "count": 6,
+      "storyCount": 5,
+      "storyNumbers": [
+        6,
+        7,
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "character": "里",
+      "count": 8,
+      "storyCount": 5,
+      "storyNumbers": [
+        5,
+        6,
+        8,
+        12,
+        13
+      ]
+    },
+    {
+      "character": "今",
+      "count": 5,
+      "storyCount": 5,
+      "storyNumbers": [
+        7,
+        9,
+        11,
+        14,
+        15
+      ]
+    },
+    {
+      "character": "早",
+      "count": 5,
+      "storyCount": 4,
+      "storyNumbers": [
+        5,
+        7,
+        14,
+        15
+      ]
+    },
+    {
+      "character": "晚",
+      "count": 5,
+      "storyCount": 4,
+      "storyNumbers": [
+        6,
+        11,
+        13,
+        15
+      ]
+    },
+    {
+      "character": "明",
+      "count": 5,
+      "storyCount": 4,
+      "storyNumbers": [
+        6,
+        11,
+        13,
+        15
+      ]
+    },
+    {
+      "character": "快",
+      "count": 5,
+      "storyCount": 4,
+      "storyNumbers": [
+        5,
+        11,
+        12,
+        14
+      ]
+    },
+    {
+      "character": "热",
+      "count": 5,
+      "storyCount": 4,
+      "storyNumbers": [
+        6,
+        11,
+        12,
+        14
+      ]
+    },
+    {
+      "character": "长",
+      "count": 6,
+      "storyCount": 4,
+      "storyNumbers": [
+        3,
+        7,
+        9,
+        12
+      ]
+    },
+    {
+      "character": "真",
+      "count": 6,
+      "storyCount": 6,
+      "storyNumbers": [
+        8,
+        10,
+        11,
+        12,
+        14,
+        15
+      ]
+    },
+    {
+      "character": "白",
+      "count": 9,
+      "storyCount": 4,
+      "storyNumbers": [
+        6,
+        7,
+        8,
+        13
+      ]
+    },
+    {
+      "character": "绿",
+      "count": 6,
+      "storyCount": 3,
+      "storyNumbers": [
+        10,
+        12,
+        13
+      ]
+    },
+    {
+      "character": "渴",
+      "count": 5,
+      "storyCount": 4,
+      "storyNumbers": [
+        11,
+        12,
+        14,
+        15
+      ]
+    },
+    {
+      "character": "新",
+      "count": 5,
+      "storyCount": 5,
+      "storyNumbers": [
+        6,
+        8,
+        9,
+        12,
+        15
+      ]
+    },
+    {
+      "character": "衣",
+      "count": 7,
+      "storyCount": 4,
+      "storyNumbers": [
+        5,
+        6,
+        8,
+        15
+      ]
+    },
+    {
+      "character": "服",
+      "count": 7,
+      "storyCount": 4,
+      "storyNumbers": [
+        5,
+        6,
+        8,
+        15
+      ]
+    },
+    {
+      "character": "果",
+      "count": 10,
+      "storyCount": 4,
+      "storyNumbers": [
+        4,
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "character": "菜",
+      "count": 9,
+      "storyCount": 4,
+      "storyNumbers": [
+        3,
+        4,
+        13,
+        14
+      ]
+    },
+    {
+      "character": "妈",
+      "count": 52,
+      "storyCount": 10,
+      "storyNumbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        11,
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "character": "朵",
+      "count": 8,
+      "storyCount": 5,
+      "storyNumbers": [
+        3,
+        6,
+        7,
+        9,
+        13
+      ]
+    },
+    {
+      "character": "们",
+      "count": 5,
+      "storyCount": 4,
+      "storyNumbers": [
+        3,
+        6,
+        9,
+        15
+      ]
+    },
+    {
+      "character": "它",
+      "count": 25,
+      "storyCount": 7,
+      "storyNumbers": [
+        1,
+        6,
+        7,
+        8,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "character": "只",
+      "count": 5,
+      "storyCount": 3,
+      "storyNumbers": [
+        2,
+        8,
+        13
+      ]
+    },
+    {
+      "character": "对",
+      "count": 5,
+      "storyCount": 5,
+      "storyNumbers": [
+        5,
+        6,
+        9,
+        11,
+        13
+      ]
+    },
+    {
+      "character": "用",
+      "count": 5,
+      "storyCount": 3,
+      "storyNumbers": [
+        1,
+        7,
+        10
+      ]
+    },
+    {
+      "character": "能",
+      "count": 5,
+      "storyCount": 5,
+      "storyNumbers": [
+        1,
+        4,
+        10,
+        11,
+        15
+      ]
+    },
+    {
+      "character": "己",
+      "count": 5,
+      "storyCount": 5,
+      "storyNumbers": [
+        5,
+        8,
+        10,
+        13,
+        15
+      ]
+    },
+    {
+      "character": "自",
+      "count": 5,
+      "storyCount": 5,
+      "storyNumbers": [
+        5,
+        8,
+        10,
+        13,
+        15
+      ]
+    },
+    {
+      "character": "人",
+      "count": 9,
+      "storyCount": 4,
+      "storyNumbers": [
+        3,
+        6,
+        9,
+        10
+      ]
+    },
+    {
+      "character": "面",
+      "count": 11,
+      "storyCount": 8,
+      "storyNumbers": [
+        6,
+        8,
+        9,
+        10,
+        11,
+        12,
+        14,
+        15
+      ]
+    },
+    {
+      "character": "进",
+      "count": 7,
+      "storyCount": 3,
+      "storyNumbers": [
+        8,
+        12,
+        15
+      ]
+    },
+    {
+      "character": "往",
+      "count": 6,
+      "storyCount": 3,
+      "storyNumbers": [
+        2,
+        7,
+        10
+      ]
+    },
+    {
+      "character": "追",
+      "count": 5,
+      "storyCount": 4,
+      "storyNumbers": [
+        2,
+        4,
+        7,
+        14
+      ]
+    },
+    {
+      "character": "吹",
+      "count": 5,
+      "storyCount": 3,
+      "storyNumbers": [
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "character": "买",
+      "count": 5,
+      "storyCount": 3,
+      "storyNumbers": [
+        4,
+        11,
+        14
+      ]
+    },
+    {
+      "character": "就",
+      "count": 7,
+      "storyCount": 5,
+      "storyNumbers": [
+        2,
+        6,
+        10,
+        11,
+        15
+      ]
+    },
+    {
+      "character": "变",
+      "count": 5,
+      "storyCount": 5,
+      "storyNumbers": [
+        3,
+        6,
+        9,
+        10,
+        13
+      ]
+    },
+    {
+      "character": "拍",
+      "count": 5,
+      "storyCount": 3,
+      "storyNumbers": [
+        1,
+        5,
+        11
+      ]
+    },
+    {
+      "character": "落",
+      "count": 5,
+      "storyCount": 4,
+      "storyNumbers": [
+        1,
+        4,
+        7,
+        14
+      ]
+    },
+    {
+      "character": "当",
+      "count": 5,
+      "storyCount": 3,
+      "storyNumbers": [
+        3,
+        5,
+        13
+      ]
+    },
+    {
+      "character": "话",
+      "count": 5,
+      "storyCount": 4,
+      "storyNumbers": [
+        2,
+        8,
+        9,
+        11
+      ]
+    },
+    {
+      "character": "身",
+      "count": 5,
+      "storyCount": 4,
+      "storyNumbers": [
+        1,
+        5,
+        7,
+        11
+      ]
+    },
+    {
+      "character": "得",
+      "count": 5,
+      "storyCount": 4,
+      "storyNumbers": [
+        5,
+        8,
+        9,
+        14
+      ]
+    },
+    {
+      "character": "那",
+      "count": 5,
+      "storyCount": 5,
+      "storyNumbers": [
+        6,
+        7,
+        8,
+        10,
+        15
+      ]
+    },
+    {
+      "character": "跟",
+      "count": 5,
+      "storyCount": 5,
+      "storyNumbers": [
+        7,
+        8,
+        9,
+        13,
+        14
+      ]
+    },
+    {
+      "character": "慢",
+      "count": 7,
+      "storyCount": 3,
+      "storyNumbers": [
+        8,
+        9,
+        14
+      ]
+    },
+    {
+      "character": "凉",
+      "count": 6,
+      "storyCount": 3,
+      "storyNumbers": [
+        6,
+        11,
+        12
+      ]
+    },
+    {
+      "character": "先",
+      "count": 5,
+      "storyCount": 4,
+      "storyNumbers": [
+        6,
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "character": "外",
+      "count": 5,
+      "storyCount": 4,
+      "storyNumbers": [
+        6,
+        8,
+        10,
+        15
+      ]
+    },
+    {
+      "character": "很",
+      "count": 5,
+      "storyCount": 5,
+      "storyNumbers": [
+        6,
+        7,
+        11,
+        14,
+        15
+      ]
+    },
+    {
+      "character": "问",
+      "count": 5,
+      "storyCount": 5,
+      "storyNumbers": [
+        5,
+        9,
+        11,
+        13,
+        14
+      ]
+    },
+    {
+      "character": "声",
+      "count": 5,
+      "storyCount": 5,
+      "storyNumbers": [
+        1,
+        7,
+        8,
+        9,
+        12
+      ]
+    }
+  ],
+  "auxiliaryCharactersNotIncludedInRequired": [
+    "气",
+    "伸",
+    "顶",
+    "力",
+    "踢",
+    "踩",
+    "影",
+    "抓",
+    "顾",
+    "露",
+    "短",
+    "躲",
+    "咬",
+    "店",
+    "卖",
+    "钱",
+    "捡",
+    "三",
+    "孩",
+    "套",
+    "怎",
+    "么",
+    "什",
+    "张",
+    "抱",
+    "成",
+    "线",
+    "步",
+    "多",
+    "尾",
+    "巴",
+    "拖",
+    "圈",
+    "软",
+    "喵",
+    "像",
+    "箱",
+    "沙",
+    "游",
+    "戏",
+    "猜",
+    "闭",
+    "睁",
+    "戴",
+    "帽",
+    "剪",
+    "倒",
+    "折",
+    "低",
+    "块",
+    "别",
+    "屋",
+    "饭",
+    "葡",
+    "萄",
+    "嘴",
+    "肉",
+    "请",
+    "样",
+    "最",
+    "时",
+    "越",
+    "滚",
+    "掉",
+    "装",
+    "包",
+    "可",
+    "合",
+    "让",
+    "夹"
+  ],
+  "storyDetails": [
+    {
+      "number": 1,
+      "title": "飞起来的是谁",
+      "text": "我用手一拍，气球飞起来了。\n我大声说：“不能落到地上！”\n它飞到左边，我跑到左边。\n它飞到右边，妈妈跑到右边。\n气球落下来了。\n妈妈坐在我身边，一伸脚，又把它顶起来。\n“我也会！”\n我学着妈妈，用力一踢。\n气球没飞，我的鞋飞了！",
+      "bodyHanCount": 85,
+      "requiredCharacters": [
+        "脚",
+        "地",
+        "坐",
+        "学",
+        "会",
+        "右",
+        "左",
+        "妈",
+        "它",
+        "用",
+        "能",
+        "拍",
+        "落",
+        "身",
+        "声"
+      ],
+      "auxiliaryCharacters": [
+        "气",
+        "伸",
+        "顶",
+        "力",
+        "踢"
+      ],
+      "changedFrom52CharacterDraft": true
+    },
+    {
+      "number": 2,
+      "title": "影子藏好了",
+      "text": "我和妈妈玩踩影子。\n“踩到影子，就抓到你！”\n我往左跑，妈妈也往左跑。\n我往右跑，妈妈又追过来。\n我站到树下，草地上找不到我的影子了。\n“抓不到我吧！”\n妈妈笑了：“看看你的小脚。”\n我只顾着说话，一只脚又走到太阳下。\n影子露出来了！",
+      "bodyHanCount": 88,
+      "requiredCharacters": [
+        "脚",
+        "草",
+        "地",
+        "找",
+        "站",
+        "右",
+        "左",
+        "妈",
+        "只",
+        "往",
+        "追",
+        "就",
+        "话"
+      ],
+      "auxiliaryCharacters": [
+        "踩",
+        "影",
+        "抓",
+        "顾",
+        "露"
+      ],
+      "changedFrom52CharacterDraft": false
+    },
+    {
+      "number": 3,
+      "title": "雪人的耳朵呢",
+      "text": "我们做了一个雪人。\n两片菜叶当耳朵，长长的。\n我去找石头做眼睛。\n回来一看，雪人的耳朵变短了！\n妈妈没动，雪人也没动。\n我躲到树后看。\n小兔来了，站起来，咬了一口菜叶。\n“找到你了！”\n我拿来一片菜叶。\n这回，一片给雪人，一片给小兔。",
+      "bodyHanCount": 89,
+      "requiredCharacters": [
+        "眼",
+        "睛",
+        "耳",
+        "雪",
+        "叶",
+        "做",
+        "找",
+        "站",
+        "后",
+        "长",
+        "菜",
+        "妈",
+        "朵",
+        "们",
+        "人",
+        "变",
+        "当"
+      ],
+      "auxiliaryCharacters": [
+        "短",
+        "躲",
+        "咬"
+      ],
+      "changedFrom52CharacterDraft": true
+    },
+    {
+      "number": 4,
+      "title": "风也来买果子",
+      "text": "我开小店，卖果子和菜。\n一片叶子，能买一个果子。\n妈妈买了果子，把叶子给我。\n风来了，钱飞走了！\n我追到左边，又追到右边。\n钱飞到树下。\n我捡起叶子，树上又落下两片。\n我拿着三片叶子跑回去。\n“妈妈，风也来买果子了！”",
+      "bodyHanCount": 83,
+      "requiredCharacters": [
+        "风",
+        "叶",
+        "右",
+        "左",
+        "果",
+        "菜",
+        "妈",
+        "能",
+        "追",
+        "买",
+        "落"
+      ],
+      "auxiliaryCharacters": [
+        "店",
+        "卖",
+        "钱",
+        "捡",
+        "三"
+      ],
+      "changedFrom52CharacterDraft": false
+    },
+    {
+      "number": 5,
+      "title": "今天我当妈妈",
+      "text": "我当妈妈，妈妈当小孩。\n“早上了，快穿衣服！”\n妈妈把衣服套在脚上。\n“不对，穿这里！”\n我拍拍自己身上。\n妈妈又把鞋放在头上。\n我笑得站不住了，问妈妈：“你怎么什么都不会？”\n妈妈张开手：“小孩还要抱抱！”\n我也张开手。\n“你这个小孩，怎么这么大！”",
+      "bodyHanCount": 90,
+      "requiredCharacters": [
+        "脚",
+        "住",
+        "会",
+        "站",
+        "里",
+        "早",
+        "快",
+        "衣",
+        "服",
+        "妈",
+        "对",
+        "己",
+        "自",
+        "拍",
+        "当",
+        "身",
+        "得",
+        "问"
+      ],
+      "auxiliaryCharacters": [
+        "孩",
+        "套",
+        "怎",
+        "么",
+        "什",
+        "张",
+        "抱"
+      ],
+      "changedFrom52CharacterDraft": true
+    },
+    {
+      "number": 6,
+      "title": "雪人住我家",
+      "text": "我做了个小雪人，白白的。\n我摸摸它的脸，凉凉的。\n“来我家住吧！”\n妈妈说：“家里很热，它就会变成水。”\n我想了想，拿来白纸。\n我先画眼睛，再画耳朵和新衣服。\n纸上的雪人做好了！\n晚上，我把画放在床前。\n“这个住家里，那个住外面的雪地上。”\n我对它们说：“明天见！”",
+      "bodyHanCount": 97,
+      "requiredCharacters": [
+        "眼",
+        "睛",
+        "耳",
+        "脸",
+        "雪",
+        "地",
+        "想",
+        "住",
+        "做",
+        "摸",
+        "会",
+        "前",
+        "里",
+        "晚",
+        "明",
+        "热",
+        "白",
+        "新",
+        "衣",
+        "服",
+        "妈",
+        "朵",
+        "们",
+        "它",
+        "对",
+        "人",
+        "面",
+        "就",
+        "变",
+        "那",
+        "凉",
+        "先",
+        "外",
+        "很"
+      ],
+      "auxiliaryCharacters": [
+        "成"
+      ],
+      "changedFrom52CharacterDraft": true
+    },
+    {
+      "number": 7,
+      "title": "谁在雪地画画",
+      "text": "今天一早，雪落了一地。\n地上有一条很长的线。\n谁画的？\n我跟着那条线，找到小猫。\n它坐在树前，耳朵动一动。\n它听见我的脚步声，往前走。\n身后又多了一条线！\n我追上去，看它身后。\n它的尾巴拖在雪上！\n“你用尾巴画，我用小脚画！”\n我在白白的雪地上，走出一个大圈。",
+      "bodyHanCount": 100,
+      "requiredCharacters": [
+        "耳",
+        "脚",
+        "雪",
+        "地",
+        "听",
+        "坐",
+        "找",
+        "后",
+        "前",
+        "今",
+        "早",
+        "长",
+        "白",
+        "朵",
+        "它",
+        "用",
+        "往",
+        "追",
+        "落",
+        "身",
+        "那",
+        "跟",
+        "很",
+        "声"
+      ],
+      "auxiliaryCharacters": [
+        "线",
+        "步",
+        "多",
+        "尾",
+        "巴",
+        "拖",
+        "圈"
+      ],
+      "changedFrom52CharacterDraft": true
+    },
+    {
+      "number": 8,
+      "title": "小猫只要纸箱",
+      "text": "我给小猫做了新家。\n那里面有白白的衣服，真软。\n我摸摸它：“进去住吧！”\n小猫听听，走开了。\n我跟它说话：“喵！”\n学得像吗？它还是不来。\n纸箱里有“沙沙”声。\n小猫自己爬进去了！\n我把衣服放在里面，它又爬到外面。\n我把衣服拿到外面，它又慢慢爬进去。\n“好吧，你只要纸箱！”",
+      "bodyHanCount": 100,
+      "requiredCharacters": [
+        "听",
+        "学",
+        "住",
+        "做",
+        "摸",
+        "爬",
+        "里",
+        "真",
+        "白",
+        "新",
+        "衣",
+        "服",
+        "它",
+        "只",
+        "己",
+        "自",
+        "面",
+        "进",
+        "话",
+        "得",
+        "那",
+        "跟",
+        "慢",
+        "外",
+        "声"
+      ],
+      "auxiliaryCharacters": [
+        "软",
+        "喵",
+        "像",
+        "箱",
+        "沙"
+      ],
+      "changedFrom52CharacterDraft": true
+    },
+    {
+      "number": 9,
+      "title": "爸爸变小兔",
+      "text": "今天，我们跟爸爸学个新游戏，摸摸猜。\n我闭上眼睛，慢慢摸面前的人。\n脸大大的，耳朵大大的。\n我问：“是爸爸！猜得对吗？”\n大家不说话。\n我又摸到长耳朵。\n“爸爸变小兔了？”\n还是没人说话。\n我听见笑声，睁开眼睛。\n爸爸戴着我的小兔帽！\n我拿走帽子：“小兔回家，爸爸回来！”",
+      "bodyHanCount": 100,
+      "requiredCharacters": [
+        "眼",
+        "睛",
+        "耳",
+        "脸",
+        "听",
+        "学",
+        "摸",
+        "前",
+        "今",
+        "长",
+        "新",
+        "朵",
+        "们",
+        "对",
+        "人",
+        "面",
+        "变",
+        "话",
+        "得",
+        "跟",
+        "慢",
+        "问",
+        "声"
+      ],
+      "auxiliaryCharacters": [
+        "游",
+        "戏",
+        "猜",
+        "闭",
+        "睁",
+        "戴",
+        "帽"
+      ],
+      "changedFrom52CharacterDraft": true
+    },
+    {
+      "number": 10,
+      "title": "纸花学走路",
+      "text": "我用绿纸做花，想把它变成一个小人。\n画上小脸，剪出小脚。\n我把它放到外面的草地上。\n风一吹，它就倒了。\n“你不会站吗？”\n我想了想，把左脚往前折，右脚往后折。\n它真能自己站住了！\n我摸摸它：“那就学走路吧！”\n我一推，它又倒了。",
+      "bodyHanCount": 86,
+      "requiredCharacters": [
+        "脚",
+        "脸",
+        "风",
+        "草",
+        "地",
+        "想",
+        "学",
+        "住",
+        "做",
+        "摸",
+        "会",
+        "站",
+        "右",
+        "左",
+        "后",
+        "前",
+        "真",
+        "绿",
+        "它",
+        "用",
+        "能",
+        "己",
+        "自",
+        "人",
+        "面",
+        "往",
+        "吹",
+        "就",
+        "变",
+        "那",
+        "外"
+      ],
+      "auxiliaryCharacters": [
+        "成",
+        "剪",
+        "倒",
+        "折"
+      ],
+      "changedFrom52CharacterDraft": true
+    },
+    {
+      "number": 11,
+      "title": "小猫来买水",
+      "text": "今天晚上，我开小店。\n“快来喝水！”\n妈妈坐下：“我很渴。”\n水太热，还不能喝。\n我对着水吹吹，等一等。\n水凉了，妈妈就喝了：“真好喝！”\n小猫听见我说话，也来买水。\n我问：“你也渴了？”\n我把水放在它面前。\n它低头喝。\n“你的叶子钱呢？”\n我坐下，它爬到我身上，拍拍我的手。\n“明天还来吗？”",
+      "bodyHanCount": 100,
+      "requiredCharacters": [
+        "叶",
+        "听",
+        "坐",
+        "爬",
+        "前",
+        "今",
+        "晚",
+        "明",
+        "快",
+        "热",
+        "真",
+        "渴",
+        "妈",
+        "它",
+        "对",
+        "能",
+        "面",
+        "吹",
+        "买",
+        "就",
+        "拍",
+        "话",
+        "身",
+        "凉",
+        "很",
+        "问"
+      ],
+      "auxiliaryCharacters": [
+        "店",
+        "钱",
+        "低"
+      ],
+      "changedFrom52CharacterDraft": true
+    },
+    {
+      "number": 12,
+      "title": "小虫自己找家",
+      "text": "草地上，我给小虫做新家。\n两块石头，上面放一片绿叶。\n“来住吧！”\n它爬进去，又爬出来。\n我听见风声，叶子飞走了！\n“风，别吹了！小屋吹走了！”\n天真热，我渴了，坐到树下喝水。\n小虫爬进长长的绿草里，不见了。\n我摸摸草地，凉凉的。\n“你也会找凉快的家！”",
+      "bodyHanCount": 92,
+      "requiredCharacters": [
+        "风",
+        "叶",
+        "草",
+        "地",
+        "听",
+        "坐",
+        "住",
+        "做",
+        "找",
+        "摸",
+        "会",
+        "爬",
+        "里",
+        "快",
+        "热",
+        "长",
+        "真",
+        "绿",
+        "渴",
+        "新",
+        "它",
+        "面",
+        "进",
+        "吹",
+        "凉",
+        "声"
+      ],
+      "auxiliaryCharacters": [
+        "块",
+        "别",
+        "屋"
+      ],
+      "changedFrom52CharacterDraft": true
+    },
+    {
+      "number": 13,
+      "title": "小脸吃到哪里了",
+      "text": "晚饭后，我跟妈妈学做小脸。\n两片果子当耳朵，葡萄当眼睛。\n绿菜叶做小嘴，白白的果肉做小脸。\n我对妈妈说：“请吃！”\n妈妈先吃一只耳朵，我先吃一只眼睛。\n小脸变了样。\n最后，我把绿绿的小嘴也吃了。\n妈妈问：“小脸呢？”\n我摸摸自己的脸：“在这里！”\n“明天，做爸爸的大脸！”",
+      "bodyHanCount": 100,
+      "requiredCharacters": [
+        "眼",
+        "睛",
+        "耳",
+        "脸",
+        "叶",
+        "学",
+        "做",
+        "摸",
+        "后",
+        "里",
+        "晚",
+        "明",
+        "白",
+        "绿",
+        "果",
+        "菜",
+        "妈",
+        "朵",
+        "只",
+        "对",
+        "己",
+        "自",
+        "变",
+        "当",
+        "跟",
+        "先",
+        "问"
+      ],
+      "auxiliaryCharacters": [
+        "饭",
+        "葡",
+        "萄",
+        "嘴",
+        "肉",
+        "请",
+        "样",
+        "最"
+      ],
+      "changedFrom52CharacterDraft": true
+    },
+    {
+      "number": 14,
+      "title": "慢车也能到",
+      "text": "今天，我和妈妈早早出门买菜。\n回家时，我推车，跟在妈妈后面。\n我推得越来越快：“小车真快！”\n菜叶落下来了，果子也滚了。\n我先追回果子，再拿回菜叶，跑得脸很热，口也渴了。\n我喝水。\n我问小车：“你也热了吗？”\n再走，我慢慢推。\n菜没掉，果子也没跑。\n“慢车来了！”",
+      "bodyHanCount": 96,
+      "requiredCharacters": [
+        "脸",
+        "叶",
+        "后",
+        "今",
+        "早",
+        "快",
+        "热",
+        "真",
+        "渴",
+        "果",
+        "菜",
+        "妈",
+        "面",
+        "追",
+        "买",
+        "落",
+        "得",
+        "跟",
+        "慢",
+        "先",
+        "很",
+        "问"
+      ],
+      "auxiliaryCharacters": [
+        "时",
+        "越",
+        "滚",
+        "掉"
+      ],
+      "changedFrom52CharacterDraft": true
+    },
+    {
+      "number": 15,
+      "title": "小包也开花",
+      "text": "今天晚上，我来装新包。\n明天一早，我们要去看花。\n衣服放进去，水和果子放进去。\n“玩渴了，就能自己喝！”\n我做的小花，也想去！\n可是，小包合不上了。\n妈妈说：“很晚了，先睡吧。”\n“那就让小花住外面！”\n我把花夹在小包上。\n“小包也开花了！”\n“明天，我们一起看真花！”",
+      "bodyHanCount": 95,
+      "requiredCharacters": [
+        "想",
+        "住",
+        "做",
+        "今",
+        "早",
+        "晚",
+        "明",
+        "真",
+        "渴",
+        "新",
+        "衣",
+        "服",
+        "果",
+        "妈",
+        "们",
+        "能",
+        "己",
+        "自",
+        "面",
+        "进",
+        "就",
+        "那",
+        "先",
+        "外",
+        "很"
+      ],
+      "auxiliaryCharacters": [
+        "装",
+        "包",
+        "可",
+        "合",
+        "让",
+        "夹"
+      ],
+      "changedFrom52CharacterDraft": true
+    }
+  ],
+  "caveat": "≥5次且跨≥3篇是文稿的复现安排，不等同于孩子已掌握；辅助字不计入180字目标。"
+}
+

@@ -1,0 +1,382 @@
+{
+  "stories": [
+    {
+      "hasApprovalStatus": true,
+      "history": true,
+      "id": "story-1",
+      "opinionSections": 2,
+      "textBlocks": 2,
+      "title": "你好，我是CHILD"
+    },
+    {
+      "hasApprovalStatus": true,
+      "history": true,
+      "id": "story-2",
+      "opinionSections": 2,
+      "textBlocks": 2,
+      "title": "我的花"
+    },
+    {
+      "hasApprovalStatus": true,
+      "history": true,
+      "id": "story-3",
+      "opinionSections": 2,
+      "textBlocks": 2,
+      "title": "我家有几口人？"
+    },
+    {
+      "hasApprovalStatus": true,
+      "history": true,
+      "id": "story-4",
+      "opinionSections": 2,
+      "textBlocks": 2,
+      "title": "我的小手"
+    },
+    {
+      "hasApprovalStatus": true,
+      "history": true,
+      "id": "story-5",
+      "opinionSections": 2,
+      "textBlocks": 2,
+      "title": "山不见了"
+    },
+    {
+      "hasApprovalStatus": true,
+      "history": true,
+      "id": "story-6",
+      "opinionSections": 2,
+      "textBlocks": 2,
+      "title": "小石头不见了"
+    },
+    {
+      "hasApprovalStatus": true,
+      "history": true,
+      "id": "story-7",
+      "opinionSections": 2,
+      "textBlocks": 2,
+      "title": "下雨了"
+    },
+    {
+      "hasApprovalStatus": true,
+      "history": true,
+      "id": "story-8",
+      "opinionSections": 2,
+      "textBlocks": 2,
+      "title": "太阳出来了吗"
+    },
+    {
+      "hasApprovalStatus": true,
+      "history": true,
+      "id": "story-9",
+      "opinionSections": 2,
+      "textBlocks": 2,
+      "title": "月亮去哪了"
+    },
+    {
+      "hasApprovalStatus": true,
+      "history": true,
+      "id": "story-10",
+      "opinionSections": 2,
+      "textBlocks": 2,
+      "title": "谁在叫"
+    },
+    {
+      "hasApprovalStatus": true,
+      "history": true,
+      "id": "story-11",
+      "opinionSections": 2,
+      "textBlocks": 2,
+      "title": "小车进不去"
+    },
+    {
+      "hasApprovalStatus": true,
+      "history": true,
+      "id": "story-12",
+      "opinionSections": 2,
+      "textBlocks": 2,
+      "title": "小虫上小山"
+    },
+    {
+      "hasApprovalStatus": true,
+      "history": true,
+      "id": "story-13",
+      "opinionSections": 2,
+      "textBlocks": 2,
+      "title": "我和小树谁高"
+    },
+    {
+      "hasApprovalStatus": true,
+      "history": true,
+      "id": "story-14",
+      "opinionSections": 2,
+      "textBlocks": 2,
+      "title": "两个球回家"
+    },
+    {
+      "hasApprovalStatus": true,
+      "history": true,
+      "id": "story-15",
+      "opinionSections": 2,
+      "textBlocks": 2,
+      "title": "球还在我手里"
+    },
+    {
+      "hasApprovalStatus": true,
+      "history": true,
+      "id": "story-16",
+      "opinionSections": 2,
+      "textBlocks": 2,
+      "title": "小猫也要看书吗"
+    },
+    {
+      "hasApprovalStatus": true,
+      "history": true,
+      "id": "story-17",
+      "opinionSections": 2,
+      "textBlocks": 2,
+      "title": "菜叶走了"
+    },
+    {
+      "hasApprovalStatus": true,
+      "history": true,
+      "id": "story-18",
+      "opinionSections": 2,
+      "textBlocks": 2,
+      "title": "穿上大鞋"
+    },
+    {
+      "hasApprovalStatus": true,
+      "history": true,
+      "id": "story-19",
+      "opinionSections": 2,
+      "textBlocks": 2,
+      "title": "谁在给我洗脚"
+    },
+    {
+      "hasApprovalStatus": true,
+      "history": true,
+      "id": "story-20",
+      "opinionSections": 2,
+      "textBlocks": 2,
+      "title": "小纸片飞了"
+    },
+    {
+      "hasApprovalStatus": true,
+      "history": true,
+      "id": "story-21",
+      "opinionSections": 2,
+      "textBlocks": 2,
+      "title": "爸爸找到我了"
+    },
+    {
+      "hasApprovalStatus": true,
+      "history": true,
+      "id": "story-22",
+      "opinionSections": 2,
+      "textBlocks": 2,
+      "title": "影子学我"
+    },
+    {
+      "hasApprovalStatus": true,
+      "history": true,
+      "id": "story-23",
+      "opinionSections": 2,
+      "textBlocks": 2,
+      "title": "小鱼的新家"
+    },
+    {
+      "hasApprovalStatus": true,
+      "history": true,
+      "id": "story-24",
+      "opinionSections": 2,
+      "textBlocks": 2,
+      "title": "谁来开小火车"
+    },
+    {
+      "hasApprovalStatus": true,
+      "history": true,
+      "id": "story-25",
+      "opinionSections": 2,
+      "textBlocks": 2,
+      "title": "这回我的大"
+    },
+    {
+      "hasApprovalStatus": true,
+      "history": true,
+      "id": "story-26",
+      "opinionSections": 2,
+      "textBlocks": 2,
+      "title": "你的嘴边有米饭"
+    },
+    {
+      "hasApprovalStatus": true,
+      "history": true,
+      "id": "story-27",
+      "opinionSections": 2,
+      "textBlocks": 2,
+      "title": "小鸟的小车"
+    },
+    {
+      "hasApprovalStatus": true,
+      "history": true,
+      "id": "story-28",
+      "opinionSections": 2,
+      "textBlocks": 2,
+      "title": "谁在学娃娃哭"
+    },
+    {
+      "hasApprovalStatus": true,
+      "history": true,
+      "id": "story-29",
+      "opinionSections": 2,
+      "textBlocks": 2,
+      "title": "我睡在哪里"
+    },
+    {
+      "hasApprovalStatus": true,
+      "history": true,
+      "id": "story-30",
+      "opinionSections": 2,
+      "textBlocks": 2,
+      "title": "今天我过生日"
+    }
+  ],
+  "current": [
+    {
+      "findings": 1,
+      "id": "current-1",
+      "pages": 6,
+      "pdfMatch": true
+    },
+    {
+      "findings": 1,
+      "id": "current-2",
+      "pages": 6,
+      "pdfMatch": true
+    },
+    {
+      "findings": 1,
+      "id": "current-3",
+      "pages": 7,
+      "pdfMatch": true
+    },
+    {
+      "findings": 1,
+      "id": "current-4",
+      "pages": 6,
+      "pdfMatch": true
+    },
+    {
+      "findings": 1,
+      "id": "current-5",
+      "pages": 8,
+      "pdfMatch": true
+    },
+    {
+      "findings": 1,
+      "id": "current-6",
+      "pages": 8,
+      "pdfMatch": true
+    },
+    {
+      "findings": 1,
+      "id": "current-7",
+      "pages": 6,
+      "pdfMatch": true
+    },
+    {
+      "findings": 1,
+      "id": "current-8",
+      "pages": 8,
+      "pdfMatch": true
+    },
+    {
+      "findings": 1,
+      "id": "current-9",
+      "pages": 8,
+      "pdfMatch": true
+    },
+    {
+      "findings": 1,
+      "id": "current-10",
+      "pages": 8,
+      "pdfMatch": true
+    },
+    {
+      "findings": 1,
+      "id": "current-11",
+      "pages": 6,
+      "pdfMatch": true
+    },
+    {
+      "findings": 1,
+      "id": "current-12",
+      "pages": 8,
+      "pdfMatch": true
+    },
+    {
+      "findings": 1,
+      "id": "current-13",
+      "pages": 8,
+      "pdfMatch": true
+    },
+    {
+      "findings": 1,
+      "id": "current-14",
+      "pages": 6,
+      "pdfMatch": true
+    },
+    {
+      "findings": 1,
+      "id": "current-15",
+      "pages": 8,
+      "pdfMatch": true
+    },
+    {
+      "findings": 1,
+      "id": "current-16",
+      "pages": 8,
+      "pdfMatch": true
+    },
+    {
+      "findings": 1,
+      "id": "current-17",
+      "pages": 8,
+      "pdfMatch": true
+    },
+    {
+      "findings": 2,
+      "id": "current-18",
+      "pages": 8,
+      "pdfMatch": true
+    },
+    {
+      "findings": 1,
+      "id": "current-19",
+      "pages": 8,
+      "pdfMatch": true
+    },
+    {
+      "findings": 1,
+      "id": "current-20",
+      "pages": 8,
+      "pdfMatch": true
+    }
+  ],
+  "search": {
+    "message": "匹配 4 个条目",
+    "visible": [
+      "current-13",
+      "current-18",
+      "story-14",
+      "story-25"
+    ]
+  },
+  "history": {
+    "fullTexts": 6,
+    "hasCompressed": true,
+    "hasOldSentence": true,
+    "hasRevisedTitle": true,
+    "open": true
+  }
+}

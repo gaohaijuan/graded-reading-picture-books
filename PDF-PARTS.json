@@ -1,0 +1,1308 @@
+{
+  "format": "lossless-pdf-parts-v1",
+  "chunk_bytes": 8388608,
+  "files": [
+    {
+      "sha256": "0ba7651bf9d555dce533fde274d0e6ade1397d12739b87a2cbcd5fcb777b1574",
+      "bytes": 48577521,
+      "paths": [
+        "output/level2-last-three-20261028/第二级-最后三本-A5合订校样.pdf"
+      ],
+      "parts": [
+        {
+          "path": "pdf-parts/0ba7651bf9d555dce533fde274d0e6ade1397d12739b87a2cbcd5fcb777b1574/0001.pdfpart",
+          "sha256": "d92bda83472bc686a294f7f25a8ee6ae0d7e8aa88020c47fe0e9681306ea90a3",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/0ba7651bf9d555dce533fde274d0e6ade1397d12739b87a2cbcd5fcb777b1574/0002.pdfpart",
+          "sha256": "da8f847176bc6ff4322b539ae46903f6c3fcacdf8a1acd5b34cc1a192cb36f75",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/0ba7651bf9d555dce533fde274d0e6ade1397d12739b87a2cbcd5fcb777b1574/0003.pdfpart",
+          "sha256": "18aa01a95380cbcdc0a1cf36a3bfc4f45a9a48dec92b85c6652caed242024d30",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/0ba7651bf9d555dce533fde274d0e6ade1397d12739b87a2cbcd5fcb777b1574/0004.pdfpart",
+          "sha256": "51afb3fdfcf56b8bd48988d2c874858901de46d22083c048ea8dfebfe91dc9a2",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/0ba7651bf9d555dce533fde274d0e6ade1397d12739b87a2cbcd5fcb777b1574/0005.pdfpart",
+          "sha256": "f34a8fae3c59348cd2e13a4078723ce4bf5d453698ace24cfb322b8655cff30c",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/0ba7651bf9d555dce533fde274d0e6ade1397d12739b87a2cbcd5fcb777b1574/0006.pdfpart",
+          "sha256": "97ad32024ccdeeb9b8724b58416b77e822bfb834a18a92b8dba0ada55a1ada07",
+          "bytes": 6634481
+        }
+      ]
+    },
+    {
+      "sha256": "0c91596699d990ca83d8d1d551d8f8fef12c1c91f77c989a79ca9ddd2282b6fa",
+      "bytes": 258200171,
+      "paths": [
+        "output/level2-complete-15-20261028/第二级-完整15本-A5合订校样.pdf"
+      ],
+      "parts": [
+        {
+          "path": "pdf-parts/0c91596699d990ca83d8d1d551d8f8fef12c1c91f77c989a79ca9ddd2282b6fa/0001.pdfpart",
+          "sha256": "4ca9d405cc44d072b48ecfd4afd0ffb4d83b12a1c6e1ea3fe1debebe4f567189",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/0c91596699d990ca83d8d1d551d8f8fef12c1c91f77c989a79ca9ddd2282b6fa/0002.pdfpart",
+          "sha256": "561b0e7cd3ba8a36788e822fa076799b8ddec45fb4fc15fb3a991619740f9e84",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/0c91596699d990ca83d8d1d551d8f8fef12c1c91f77c989a79ca9ddd2282b6fa/0003.pdfpart",
+          "sha256": "9c4bdb135f1b0801572b9fbf01a35c954f6c07d9c0f3e68be976b4388401c07d",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/0c91596699d990ca83d8d1d551d8f8fef12c1c91f77c989a79ca9ddd2282b6fa/0004.pdfpart",
+          "sha256": "2482965a0ce69ddae12ed43963e4cac6e2257d5f758fc1da87509b7aaf082172",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/0c91596699d990ca83d8d1d551d8f8fef12c1c91f77c989a79ca9ddd2282b6fa/0005.pdfpart",
+          "sha256": "248f974cc8c87e0ad0376cb7db448da523af07922a02917f86ff9bae6fc38644",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/0c91596699d990ca83d8d1d551d8f8fef12c1c91f77c989a79ca9ddd2282b6fa/0006.pdfpart",
+          "sha256": "1faa602c8ded45e0cf6287f18e20a5a1e0fd8bb0988d98ff2bb03fec4484cf88",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/0c91596699d990ca83d8d1d551d8f8fef12c1c91f77c989a79ca9ddd2282b6fa/0007.pdfpart",
+          "sha256": "ef842a688b03762403ab8d9cc3f08623f14212e696bd65d93fa7607caa10e0a3",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/0c91596699d990ca83d8d1d551d8f8fef12c1c91f77c989a79ca9ddd2282b6fa/0008.pdfpart",
+          "sha256": "03c5c7731d775f893317f55195dfd299c87ba44db01f1cbdd413de8007492ff5",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/0c91596699d990ca83d8d1d551d8f8fef12c1c91f77c989a79ca9ddd2282b6fa/0009.pdfpart",
+          "sha256": "066816f6aaadf918e3fdc0879b309eecfac798c32f2f24255662a46b1526db8a",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/0c91596699d990ca83d8d1d551d8f8fef12c1c91f77c989a79ca9ddd2282b6fa/0010.pdfpart",
+          "sha256": "e4a9851bb3b11ad26fa7815f4259faf16ba8ee5017728820eefecae42e2304df",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/0c91596699d990ca83d8d1d551d8f8fef12c1c91f77c989a79ca9ddd2282b6fa/0011.pdfpart",
+          "sha256": "255fcaa34c8a535180e24e4560d37c70d35d35b90829bfef5167a9760f098a9f",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/0c91596699d990ca83d8d1d551d8f8fef12c1c91f77c989a79ca9ddd2282b6fa/0012.pdfpart",
+          "sha256": "e762a27db8e36e40403643ce742c0721013876be088bd2ea72362dbdb8a984a2",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/0c91596699d990ca83d8d1d551d8f8fef12c1c91f77c989a79ca9ddd2282b6fa/0013.pdfpart",
+          "sha256": "a9b3730a6d07a5ae993119d76456f143ccc7e2ee542b3d9b49371908964a29c0",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/0c91596699d990ca83d8d1d551d8f8fef12c1c91f77c989a79ca9ddd2282b6fa/0014.pdfpart",
+          "sha256": "c47edc7783e6153609c6a2d93cf4d7b0d9a5ffc2034a4fcb053f3a3982649b95",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/0c91596699d990ca83d8d1d551d8f8fef12c1c91f77c989a79ca9ddd2282b6fa/0015.pdfpart",
+          "sha256": "aad8c98a7d7cdf1427bc82f8569049424ab8ce2bea23bf1654f8cdcea32dbf50",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/0c91596699d990ca83d8d1d551d8f8fef12c1c91f77c989a79ca9ddd2282b6fa/0016.pdfpart",
+          "sha256": "78f97811590c4f9347419939c71255dfdf5c3c92bd9737caa647ccf35a2ea503",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/0c91596699d990ca83d8d1d551d8f8fef12c1c91f77c989a79ca9ddd2282b6fa/0017.pdfpart",
+          "sha256": "bb175acd97f365e7fff6c29a47918f69e846414cbafcd277ec583d61ac2bae6e",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/0c91596699d990ca83d8d1d551d8f8fef12c1c91f77c989a79ca9ddd2282b6fa/0018.pdfpart",
+          "sha256": "500e51cb6aa8b2e9ef96e56d81df966f707e7a455fc387ed7eb9f1a91cfe2d77",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/0c91596699d990ca83d8d1d551d8f8fef12c1c91f77c989a79ca9ddd2282b6fa/0019.pdfpart",
+          "sha256": "4c6a26f1cb5f377b00ce65726be0505968d9814d565ffaf4ba4fc0cb90f18497",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/0c91596699d990ca83d8d1d551d8f8fef12c1c91f77c989a79ca9ddd2282b6fa/0020.pdfpart",
+          "sha256": "327b0adaf84496fd9006b573e708ca3dee400477dbc62e066cabc4625f16b759",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/0c91596699d990ca83d8d1d551d8f8fef12c1c91f77c989a79ca9ddd2282b6fa/0021.pdfpart",
+          "sha256": "9fcd93ff8d170add545374690ae1206ddc5d7097a56eda050f43a0032c219ec6",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/0c91596699d990ca83d8d1d551d8f8fef12c1c91f77c989a79ca9ddd2282b6fa/0022.pdfpart",
+          "sha256": "eca0d2b1605aebb125b9fcb9c42bbe43c4ad973f69f66bdcaa71476a17b126cd",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/0c91596699d990ca83d8d1d551d8f8fef12c1c91f77c989a79ca9ddd2282b6fa/0023.pdfpart",
+          "sha256": "03a449afbe035fa2c532fc887c98429d40d0aefcff0284aa6f248e3c00746231",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/0c91596699d990ca83d8d1d551d8f8fef12c1c91f77c989a79ca9ddd2282b6fa/0024.pdfpart",
+          "sha256": "ca42908bbc64a594ec4f2743f1584f4dd66a1414224b020f743be111317cc52e",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/0c91596699d990ca83d8d1d551d8f8fef12c1c91f77c989a79ca9ddd2282b6fa/0025.pdfpart",
+          "sha256": "e4cb9a8cdee47805df5143886648e65976f9b474ec546ddf47543db19e8d3e0c",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/0c91596699d990ca83d8d1d551d8f8fef12c1c91f77c989a79ca9ddd2282b6fa/0026.pdfpart",
+          "sha256": "796c3187bfc68b92e2acc4ba435bf5c02419f951e2fcb89cab5a9e373825591a",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/0c91596699d990ca83d8d1d551d8f8fef12c1c91f77c989a79ca9ddd2282b6fa/0027.pdfpart",
+          "sha256": "3f5b727a0b4d1f8ebcfe68a6640b9b66a59a9a3c17cdd72cee8cd2296cb4ead4",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/0c91596699d990ca83d8d1d551d8f8fef12c1c91f77c989a79ca9ddd2282b6fa/0028.pdfpart",
+          "sha256": "0e024e00d0611e3d4294ebca86e5f15368dd8f2219d99fd0d74f40f3e37a537c",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/0c91596699d990ca83d8d1d551d8f8fef12c1c91f77c989a79ca9ddd2282b6fa/0029.pdfpart",
+          "sha256": "49fd3edeb4b49e8108d3595a3bd4a9e141738a9cad7db3c58e89d5b5173fc0cd",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/0c91596699d990ca83d8d1d551d8f8fef12c1c91f77c989a79ca9ddd2282b6fa/0030.pdfpart",
+          "sha256": "583694d3f9edcbc26648aec589db00a99868ef74ad1c0a92476960cb6933642a",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/0c91596699d990ca83d8d1d551d8f8fef12c1c91f77c989a79ca9ddd2282b6fa/0031.pdfpart",
+          "sha256": "518916e117a674363ac941b6a4907bed7d92a4cccab8526ae605c0a362e62470",
+          "bytes": 6541931
+        }
+      ]
+    },
+    {
+      "sha256": "0cf205b678b033fabd75918c5d79fd730821e9495d065d7d18b1c4132da77b90",
+      "bytes": 32176543,
+      "paths": [
+        "tmp/pdfs/第2册-真人长名字-QA.pdf"
+      ],
+      "parts": [
+        {
+          "path": "pdf-parts/0cf205b678b033fabd75918c5d79fd730821e9495d065d7d18b1c4132da77b90/0001.pdfpart",
+          "sha256": "7efa6b97ebd2183aaadff30708d07b84488bc6d648bcd10411c137044d169084",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/0cf205b678b033fabd75918c5d79fd730821e9495d065d7d18b1c4132da77b90/0002.pdfpart",
+          "sha256": "ffcee69145567cc1ec38772e94dcf12893db8b407aaa42addf5e56f85ef47510",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/0cf205b678b033fabd75918c5d79fd730821e9495d065d7d18b1c4132da77b90/0003.pdfpart",
+          "sha256": "514fb198a290b9b034ca3a6a6986196b5ced3ffcb9bd623dcd42fa9272a6c041",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/0cf205b678b033fabd75918c5d79fd730821e9495d065d7d18b1c4132da77b90/0004.pdfpart",
+          "sha256": "e6bce9455da894014fa57f1a5e76ef19171be209c4eb9b1d4f53df9e023b13cc",
+          "bytes": 7010719
+        }
+      ]
+    },
+    {
+      "sha256": "0eeba637bea8777a175a65d7d8068ed4a5689a7904336262d157741730cebe89",
+      "bytes": 78637435,
+      "paths": [
+        "tmp/pdfs/first-ten-photo-six-family.pdf"
+      ],
+      "parts": [
+        {
+          "path": "pdf-parts/0eeba637bea8777a175a65d7d8068ed4a5689a7904336262d157741730cebe89/0001.pdfpart",
+          "sha256": "fd8d08f8953a60f34106766fc8cffbae30b81bbda9ce426775f348cfa39a6c67",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/0eeba637bea8777a175a65d7d8068ed4a5689a7904336262d157741730cebe89/0002.pdfpart",
+          "sha256": "01e116ed9f5778a3e3779130d35118ababdcf3456042e5c16eb55ec524e2c1be",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/0eeba637bea8777a175a65d7d8068ed4a5689a7904336262d157741730cebe89/0003.pdfpart",
+          "sha256": "b544e086e21115fd0ae4bac1bbdc192868d7c84e05113a71aea5c9ea0d60b95e",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/0eeba637bea8777a175a65d7d8068ed4a5689a7904336262d157741730cebe89/0004.pdfpart",
+          "sha256": "c60db3098139907e9a1e96c8fcbb34a81645f21c2e076be4ec326c2bd0831424",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/0eeba637bea8777a175a65d7d8068ed4a5689a7904336262d157741730cebe89/0005.pdfpart",
+          "sha256": "0f019891b2b7d0a8b82732acff564923a6e9072f19b7e2838e9388c76b115d18",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/0eeba637bea8777a175a65d7d8068ed4a5689a7904336262d157741730cebe89/0006.pdfpart",
+          "sha256": "1364a659939b9f542fbf3372d0ecb4fb5dff131c2e698343960afd40571a4307",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/0eeba637bea8777a175a65d7d8068ed4a5689a7904336262d157741730cebe89/0007.pdfpart",
+          "sha256": "00d6d52c231b805d000827780773d43c90b4692a3d4b528183c3b4fb8d4bee6d",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/0eeba637bea8777a175a65d7d8068ed4a5689a7904336262d157741730cebe89/0008.pdfpart",
+          "sha256": "4fdb5ab15d6215e727a6a6b42084100be412d9692fec0eae4310ffa24e1feff5",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/0eeba637bea8777a175a65d7d8068ed4a5689a7904336262d157741730cebe89/0009.pdfpart",
+          "sha256": "39c9a23362a0ff408592233b284c65402d1a7e5a2ddabdfd810a585f5c7b6f22",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/0eeba637bea8777a175a65d7d8068ed4a5689a7904336262d157741730cebe89/0010.pdfpart",
+          "sha256": "3d289ec380e63506f3a7e5726b1930ee9dc6c8257bf1dd639d9223b79372f356",
+          "bytes": 3139963
+        }
+      ]
+    },
+    {
+      "sha256": "11aa6c8f88f3aeeed68be40ec12007efd9fa8ceebdbc569f351f7f89e09e4fef",
+      "bytes": 209349885,
+      "paths": [
+        "output/level2-first-twelve-20261028/第二级-前十二本-A5合订校样.pdf"
+      ],
+      "parts": [
+        {
+          "path": "pdf-parts/11aa6c8f88f3aeeed68be40ec12007efd9fa8ceebdbc569f351f7f89e09e4fef/0001.pdfpart",
+          "sha256": "479e76279e509973d2dd025122f5a17984e3ca341a423234dbdf22453f7d71a9",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/11aa6c8f88f3aeeed68be40ec12007efd9fa8ceebdbc569f351f7f89e09e4fef/0002.pdfpart",
+          "sha256": "3d49adb1782b51752e729edd870a5f05f5f8af04cca917af3dc917ba8349f87c",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/11aa6c8f88f3aeeed68be40ec12007efd9fa8ceebdbc569f351f7f89e09e4fef/0003.pdfpart",
+          "sha256": "5285f4dc640bd449254c7a92ef5ba06c6ffd7ecf8c72ef1a3294a1bce174de5f",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/11aa6c8f88f3aeeed68be40ec12007efd9fa8ceebdbc569f351f7f89e09e4fef/0004.pdfpart",
+          "sha256": "ab773e8fca4c620bc1df096a4872787d7f5988f24a59444cc6e4b6993304a261",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/11aa6c8f88f3aeeed68be40ec12007efd9fa8ceebdbc569f351f7f89e09e4fef/0005.pdfpart",
+          "sha256": "94d9108231d9a8a250ff21115fbc0ac157507e7e3b72fb8d427b0015c16e9d87",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/11aa6c8f88f3aeeed68be40ec12007efd9fa8ceebdbc569f351f7f89e09e4fef/0006.pdfpart",
+          "sha256": "52c5e41bafbf941e5859442a67febb9b8eb608ea2240a19f8c33bbbd6bb4c39c",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/11aa6c8f88f3aeeed68be40ec12007efd9fa8ceebdbc569f351f7f89e09e4fef/0007.pdfpart",
+          "sha256": "fee9c7b106e8d08a4c6831ae1669a68fddb6de429bf87f780e1186f5bf73b049",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/11aa6c8f88f3aeeed68be40ec12007efd9fa8ceebdbc569f351f7f89e09e4fef/0008.pdfpart",
+          "sha256": "46960ae1a2efc9fc706ba91b7bb7c372d228ea11d07713a8fb7d6c6e088ae649",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/11aa6c8f88f3aeeed68be40ec12007efd9fa8ceebdbc569f351f7f89e09e4fef/0009.pdfpart",
+          "sha256": "305991fcdff983c7496f7991368cd629d2eb777860c5385d4cf11f52afc8a499",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/11aa6c8f88f3aeeed68be40ec12007efd9fa8ceebdbc569f351f7f89e09e4fef/0010.pdfpart",
+          "sha256": "51313502b1adecb4d23cd02063347f795c08d2ca015302b7809fd87ee0d8ab66",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/11aa6c8f88f3aeeed68be40ec12007efd9fa8ceebdbc569f351f7f89e09e4fef/0011.pdfpart",
+          "sha256": "24b2d0d4d4c5ea4f7445edca36b4547973dd269a67bcd6c607e6d05aefb8c0c0",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/11aa6c8f88f3aeeed68be40ec12007efd9fa8ceebdbc569f351f7f89e09e4fef/0012.pdfpart",
+          "sha256": "4235f41be10c41f7a7984e9c3305fe5cc76118d456e63b6a232e87ef934ebe28",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/11aa6c8f88f3aeeed68be40ec12007efd9fa8ceebdbc569f351f7f89e09e4fef/0013.pdfpart",
+          "sha256": "d1d59c13ceb4c98ffafe4bdb858c4403d0acda88f23cfcd17eecea08f9604e63",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/11aa6c8f88f3aeeed68be40ec12007efd9fa8ceebdbc569f351f7f89e09e4fef/0014.pdfpart",
+          "sha256": "2be8c04d11a2166f86e7b34470450c57ce1ea442dcc67e526d8eb8df8cfccc39",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/11aa6c8f88f3aeeed68be40ec12007efd9fa8ceebdbc569f351f7f89e09e4fef/0015.pdfpart",
+          "sha256": "71a3de731b54cab71a6b81506d5f7976d16328f4b4e80cd4a2ed919cf34f01a0",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/11aa6c8f88f3aeeed68be40ec12007efd9fa8ceebdbc569f351f7f89e09e4fef/0016.pdfpart",
+          "sha256": "e4e1dca7118a5b02e9639cd2202fdea4ee5f8c28a9e843e9a625c902e57d63b2",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/11aa6c8f88f3aeeed68be40ec12007efd9fa8ceebdbc569f351f7f89e09e4fef/0017.pdfpart",
+          "sha256": "c8757c4c53b512c0b5e572b049715174b04d395dbf6be76a022d7ee5f865e44c",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/11aa6c8f88f3aeeed68be40ec12007efd9fa8ceebdbc569f351f7f89e09e4fef/0018.pdfpart",
+          "sha256": "458d03dc20b052d2d85754abb7c11e3205e9a04351e169277f39fa9f53e2a50a",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/11aa6c8f88f3aeeed68be40ec12007efd9fa8ceebdbc569f351f7f89e09e4fef/0019.pdfpart",
+          "sha256": "3bd5beda690bff5acc9c98cca9e11b98c58a0e73f5d89732b6afc6328ce41e69",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/11aa6c8f88f3aeeed68be40ec12007efd9fa8ceebdbc569f351f7f89e09e4fef/0020.pdfpart",
+          "sha256": "e159c33e195d80dd8d630a4a894280ac57076a9cc6c9bfef7ee400d27f8693c5",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/11aa6c8f88f3aeeed68be40ec12007efd9fa8ceebdbc569f351f7f89e09e4fef/0021.pdfpart",
+          "sha256": "d9eeb3ef43277dd7a0c0be6a608b5a28ff97f4a0cb2d6f8fb52510f1476000db",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/11aa6c8f88f3aeeed68be40ec12007efd9fa8ceebdbc569f351f7f89e09e4fef/0022.pdfpart",
+          "sha256": "52a160a840d155894a806997fdacde43bfba7f55dbfb7b0689f054123274a0f8",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/11aa6c8f88f3aeeed68be40ec12007efd9fa8ceebdbc569f351f7f89e09e4fef/0023.pdfpart",
+          "sha256": "3eedb8d940d6b65be4e0f7f4b0cad4f8bde28a8bea385dd5885aae920253292f",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/11aa6c8f88f3aeeed68be40ec12007efd9fa8ceebdbc569f351f7f89e09e4fef/0024.pdfpart",
+          "sha256": "534668a6c7119f9731c1318ec1bc3b23e1e2f69b4e1d3168bd20d5488ba57b18",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/11aa6c8f88f3aeeed68be40ec12007efd9fa8ceebdbc569f351f7f89e09e4fef/0025.pdfpart",
+          "sha256": "3af27404974931574d691ffdc1521808d8b359669734411b661db37ac80bdba5",
+          "bytes": 8023293
+        }
+      ]
+    },
+    {
+      "sha256": "1eea1d4aaa3780fced926c0b64d91a9775ce88cde025683242725398efa7d062",
+      "bytes": 30605545,
+      "paths": [
+        "tmp/pdfs/volume-two-press/inner.pdf"
+      ],
+      "parts": [
+        {
+          "path": "pdf-parts/1eea1d4aaa3780fced926c0b64d91a9775ce88cde025683242725398efa7d062/0001.pdfpart",
+          "sha256": "0ae1419ac55b4be550cb9f4535ea42e7cdaaca18a72ee0d4b15301c72e417ee6",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/1eea1d4aaa3780fced926c0b64d91a9775ce88cde025683242725398efa7d062/0002.pdfpart",
+          "sha256": "58601ede89860f2d8def7322e753484112413c868f292ab441a04c150e4e193a",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/1eea1d4aaa3780fced926c0b64d91a9775ce88cde025683242725398efa7d062/0003.pdfpart",
+          "sha256": "1c3a200e414b16ce2366109d7a28166abe5077ee45a985053b41c9fae78a5073",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/1eea1d4aaa3780fced926c0b64d91a9775ce88cde025683242725398efa7d062/0004.pdfpart",
+          "sha256": "d07cfb3b561ac55a5b2d519e204d39a54b3b042f0a18a99685d25f88ef051e6c",
+          "bytes": 5439721
+        }
+      ]
+    },
+    {
+      "sha256": "26fc6adb89776373a21a86a9d9a62c0c8fa12a138b2dbb6d9f3c9a92272eda5f",
+      "bytes": 257922629,
+      "paths": [
+        "output/level2-review-fixes-20261028/before/第二级-完整15本-A5合订校样.pdf"
+      ],
+      "parts": [
+        {
+          "path": "pdf-parts/26fc6adb89776373a21a86a9d9a62c0c8fa12a138b2dbb6d9f3c9a92272eda5f/0001.pdfpart",
+          "sha256": "81ba112e7dfcc4a8bd42148d709102c3004bae4ca49746d925bcba380e273ecd",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/26fc6adb89776373a21a86a9d9a62c0c8fa12a138b2dbb6d9f3c9a92272eda5f/0002.pdfpart",
+          "sha256": "d2a8805b791c90beb46bd02391d13f07dde77ff77330203274af16cab51cc348",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/26fc6adb89776373a21a86a9d9a62c0c8fa12a138b2dbb6d9f3c9a92272eda5f/0003.pdfpart",
+          "sha256": "7708ee1d844fe26222e788c14d92c3f65eec959fc4f24266f2927f449f61b5ed",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/26fc6adb89776373a21a86a9d9a62c0c8fa12a138b2dbb6d9f3c9a92272eda5f/0004.pdfpart",
+          "sha256": "8f8566189f914e3d902c74c5f331a967b06c7eb9c252676811b9501b864bb0d5",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/26fc6adb89776373a21a86a9d9a62c0c8fa12a138b2dbb6d9f3c9a92272eda5f/0005.pdfpart",
+          "sha256": "41c90036e6e46f1da0fc23e75ef6710c9d806ce2b996c26e5fc294cecae93dfd",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/26fc6adb89776373a21a86a9d9a62c0c8fa12a138b2dbb6d9f3c9a92272eda5f/0006.pdfpart",
+          "sha256": "275f00888bbe11a7a5d89eaf0843482ae5bf42d3bbcc999f8ef5c5a845bf5bb1",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/26fc6adb89776373a21a86a9d9a62c0c8fa12a138b2dbb6d9f3c9a92272eda5f/0007.pdfpart",
+          "sha256": "ac3da1997332ade973715d7cbfd6350ae54827fe90fed8bf2865b4d6cbc41087",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/26fc6adb89776373a21a86a9d9a62c0c8fa12a138b2dbb6d9f3c9a92272eda5f/0008.pdfpart",
+          "sha256": "6c05505c24cca9c3db970372108036e68bbd5e453f2337e4059ea651d690a07a",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/26fc6adb89776373a21a86a9d9a62c0c8fa12a138b2dbb6d9f3c9a92272eda5f/0009.pdfpart",
+          "sha256": "40db50f78c4a315094951bd0a75710260f76bd9a1ca1ec2578bddaf8e549bf35",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/26fc6adb89776373a21a86a9d9a62c0c8fa12a138b2dbb6d9f3c9a92272eda5f/0010.pdfpart",
+          "sha256": "8f10a6a313691798c000cbafccbeeb985c4456fb0d5bb3469866a1052737a6c2",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/26fc6adb89776373a21a86a9d9a62c0c8fa12a138b2dbb6d9f3c9a92272eda5f/0011.pdfpart",
+          "sha256": "20b52eef6f6ddbc05e6b0727954df854766a5ae1cdfdbe0af9d946ccc9df3f53",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/26fc6adb89776373a21a86a9d9a62c0c8fa12a138b2dbb6d9f3c9a92272eda5f/0012.pdfpart",
+          "sha256": "03e8d33802954be15c87f37ec3b430af1e2b5d19b7b41a3639670b94156a1a94",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/26fc6adb89776373a21a86a9d9a62c0c8fa12a138b2dbb6d9f3c9a92272eda5f/0013.pdfpart",
+          "sha256": "45c8af035e3f81f798f66dd13ff15cf00cdb93d2a8bcbac5914ff838d632e88d",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/26fc6adb89776373a21a86a9d9a62c0c8fa12a138b2dbb6d9f3c9a92272eda5f/0014.pdfpart",
+          "sha256": "4592583145b222a398168daf72e992d104109fb838d64afb00f2745a0c105d0b",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/26fc6adb89776373a21a86a9d9a62c0c8fa12a138b2dbb6d9f3c9a92272eda5f/0015.pdfpart",
+          "sha256": "3546bfeb30354c144f369c1f6ed081705de479c4d6e0c7b372c716a350874fa7",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/26fc6adb89776373a21a86a9d9a62c0c8fa12a138b2dbb6d9f3c9a92272eda5f/0016.pdfpart",
+          "sha256": "b2a46179d0ac71e6eac47cbac50047d97f2399eb742b01366c0872914f18b44c",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/26fc6adb89776373a21a86a9d9a62c0c8fa12a138b2dbb6d9f3c9a92272eda5f/0017.pdfpart",
+          "sha256": "d68bf77c34df334fef222eb3ed242b7d0a967119ea3e39693578913b60786532",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/26fc6adb89776373a21a86a9d9a62c0c8fa12a138b2dbb6d9f3c9a92272eda5f/0018.pdfpart",
+          "sha256": "712f4e21172c4ae69c912566006dc25d2878e0c7ce4001059269b95dc62cf917",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/26fc6adb89776373a21a86a9d9a62c0c8fa12a138b2dbb6d9f3c9a92272eda5f/0019.pdfpart",
+          "sha256": "f0377c6fd6dd42f3e265f2562463bba187a0cb4d2c502265ce60bc1bbf92aa7e",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/26fc6adb89776373a21a86a9d9a62c0c8fa12a138b2dbb6d9f3c9a92272eda5f/0020.pdfpart",
+          "sha256": "ac6623741cf4cb68129601a0686093467859dc488e9f8782fdafaf0d9cb180d9",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/26fc6adb89776373a21a86a9d9a62c0c8fa12a138b2dbb6d9f3c9a92272eda5f/0021.pdfpart",
+          "sha256": "7c2653603cead26e7147e2d2b393249b2dddeba57eb2af20f746ce6082ad1274",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/26fc6adb89776373a21a86a9d9a62c0c8fa12a138b2dbb6d9f3c9a92272eda5f/0022.pdfpart",
+          "sha256": "a886077be4b7ee7c4fe89de4322b44a41fb753731ad6ab3671ea148cd678b442",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/26fc6adb89776373a21a86a9d9a62c0c8fa12a138b2dbb6d9f3c9a92272eda5f/0023.pdfpart",
+          "sha256": "e48371fac325c413c7a568a123e44215d93febcc7105942871b3ba87fea18fd8",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/26fc6adb89776373a21a86a9d9a62c0c8fa12a138b2dbb6d9f3c9a92272eda5f/0024.pdfpart",
+          "sha256": "625d79c67c942cafaf0f4b61b44ee3f9ffda1d277cc048836b39a3397182ce82",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/26fc6adb89776373a21a86a9d9a62c0c8fa12a138b2dbb6d9f3c9a92272eda5f/0025.pdfpart",
+          "sha256": "da2251b509716748aaad79f274956efb29f8c9af5db91f3aa8261e19f03fdd6c",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/26fc6adb89776373a21a86a9d9a62c0c8fa12a138b2dbb6d9f3c9a92272eda5f/0026.pdfpart",
+          "sha256": "23590b3eabc388e14e739e3a1dc2e4d8d6d4374a50a58a1072c7205f8cfcbfa6",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/26fc6adb89776373a21a86a9d9a62c0c8fa12a138b2dbb6d9f3c9a92272eda5f/0027.pdfpart",
+          "sha256": "ad79cb609467d5c75da77343a807658504ef1cf11bbf37086b7478841b08e3fc",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/26fc6adb89776373a21a86a9d9a62c0c8fa12a138b2dbb6d9f3c9a92272eda5f/0028.pdfpart",
+          "sha256": "50da9f632c3650fada1ca39ace839a3167eba8a383050e36f09dc681828aa38b",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/26fc6adb89776373a21a86a9d9a62c0c8fa12a138b2dbb6d9f3c9a92272eda5f/0029.pdfpart",
+          "sha256": "2c6a599c3232f79c6c8ea29d542521763344ff8c7cc193d4c41279bd2a721499",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/26fc6adb89776373a21a86a9d9a62c0c8fa12a138b2dbb6d9f3c9a92272eda5f/0030.pdfpart",
+          "sha256": "bb9de31f69cd4f030d1e41234d5e44175678def7346a83ab4bdcc3161b1edea1",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/26fc6adb89776373a21a86a9d9a62c0c8fa12a138b2dbb6d9f3c9a92272eda5f/0031.pdfpart",
+          "sha256": "5ecad9195c19c3c9296a08dbe0bcc73b67ade81829952193ca22508c28c831dd",
+          "bytes": 6264389
+        }
+      ]
+    },
+    {
+      "sha256": "3ca78f2f0cc48ec96da8cc61a72a0653eab485ddc40f289c555f25ba62147b0f",
+      "bytes": 230868568,
+      "paths": [
+        "output/level1-complete-15-20261027/第一级别-15篇绘本合集-审核版.pdf"
+      ],
+      "parts": [
+        {
+          "path": "pdf-parts/3ca78f2f0cc48ec96da8cc61a72a0653eab485ddc40f289c555f25ba62147b0f/0001.pdfpart",
+          "sha256": "9ebbdbb4bd24fef3da932971c0c650dff74c88f6e07e2a7c21b29a9b2987a900",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/3ca78f2f0cc48ec96da8cc61a72a0653eab485ddc40f289c555f25ba62147b0f/0002.pdfpart",
+          "sha256": "81821c80a5e30618b9937e926359a237f99c7ae52688406fba1a28d0f33d1d95",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/3ca78f2f0cc48ec96da8cc61a72a0653eab485ddc40f289c555f25ba62147b0f/0003.pdfpart",
+          "sha256": "f7e119c12bbde52d3179649203b211627840f6f63cbd10c8d91c4a3bf5220ee0",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/3ca78f2f0cc48ec96da8cc61a72a0653eab485ddc40f289c555f25ba62147b0f/0004.pdfpart",
+          "sha256": "adba66adac7e09a7b7df8c7beb6a189c77cf694803a1678b22fbe49c73fb65a4",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/3ca78f2f0cc48ec96da8cc61a72a0653eab485ddc40f289c555f25ba62147b0f/0005.pdfpart",
+          "sha256": "eb760c21f5c3f2626bd1aa911c2ca209f698725b7f7a891af2edc7e4ff868b3d",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/3ca78f2f0cc48ec96da8cc61a72a0653eab485ddc40f289c555f25ba62147b0f/0006.pdfpart",
+          "sha256": "3ffa5b1e9c492478f71a0dcd0c14d1db68c48a5a656f3ff518b220dd4e46cc7a",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/3ca78f2f0cc48ec96da8cc61a72a0653eab485ddc40f289c555f25ba62147b0f/0007.pdfpart",
+          "sha256": "76ed556b107676d55bc94c3b4fc2d20bea042b9979fdbc74e7618bef02bf1115",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/3ca78f2f0cc48ec96da8cc61a72a0653eab485ddc40f289c555f25ba62147b0f/0008.pdfpart",
+          "sha256": "a89bdb0ad4c48a72be8f89832c8b1b2ba010936ffd90d6923facac7118b41ee8",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/3ca78f2f0cc48ec96da8cc61a72a0653eab485ddc40f289c555f25ba62147b0f/0009.pdfpart",
+          "sha256": "0499fdf81cfe5132d8931646b2c7b9ab1acd82f910f6b7dfc6ac9bbc7f1af5ba",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/3ca78f2f0cc48ec96da8cc61a72a0653eab485ddc40f289c555f25ba62147b0f/0010.pdfpart",
+          "sha256": "5ab06129e8661dfc193d561a9c72ccf23abd383fb75b7ca8d088c2935ebce995",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/3ca78f2f0cc48ec96da8cc61a72a0653eab485ddc40f289c555f25ba62147b0f/0011.pdfpart",
+          "sha256": "ca4c3598f6b5a28b349f37b7d0d8c083aea0d64b58c3839bd64b58db1d13fc9d",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/3ca78f2f0cc48ec96da8cc61a72a0653eab485ddc40f289c555f25ba62147b0f/0012.pdfpart",
+          "sha256": "f3fb353aa0ab9dcfda8a30655ec19a19bfac929422d0c6822af5d7fdf4dd7b3c",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/3ca78f2f0cc48ec96da8cc61a72a0653eab485ddc40f289c555f25ba62147b0f/0013.pdfpart",
+          "sha256": "a59e886b59346f1e24082b9eddc36053508e55b34198120ae797edd50f13259e",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/3ca78f2f0cc48ec96da8cc61a72a0653eab485ddc40f289c555f25ba62147b0f/0014.pdfpart",
+          "sha256": "76b480de2c871089980c3b1b3ccec9631b8b2d7b1c2e6054d26c357cdf9e6c83",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/3ca78f2f0cc48ec96da8cc61a72a0653eab485ddc40f289c555f25ba62147b0f/0015.pdfpart",
+          "sha256": "38b149d9c28f88df3b3375f55672d777ec8ef981b6081979072ec8478472c56e",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/3ca78f2f0cc48ec96da8cc61a72a0653eab485ddc40f289c555f25ba62147b0f/0016.pdfpart",
+          "sha256": "bbe4fc666e19933f64065970910b7b41f9bd252b91f75b834f6d2e027e5ffbae",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/3ca78f2f0cc48ec96da8cc61a72a0653eab485ddc40f289c555f25ba62147b0f/0017.pdfpart",
+          "sha256": "f3167c1b13d4ceed5f60f767c4ae38b0baa51fd8c75d66d03566a79e2495ba85",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/3ca78f2f0cc48ec96da8cc61a72a0653eab485ddc40f289c555f25ba62147b0f/0018.pdfpart",
+          "sha256": "ff44e6428471f30b04ce453c46eeb4ed29a7a8abea82745078a6c1ccb12b3dd5",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/3ca78f2f0cc48ec96da8cc61a72a0653eab485ddc40f289c555f25ba62147b0f/0019.pdfpart",
+          "sha256": "06bf05015b2494eee19e69c3de6819115c977ac64361fb3ff976fba3abe2b768",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/3ca78f2f0cc48ec96da8cc61a72a0653eab485ddc40f289c555f25ba62147b0f/0020.pdfpart",
+          "sha256": "b7756dff80755ffe463315e98d0be52ab775ae53f659a713b753fcad9804df39",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/3ca78f2f0cc48ec96da8cc61a72a0653eab485ddc40f289c555f25ba62147b0f/0021.pdfpart",
+          "sha256": "4d9e26dd5709e9bb61f3985e5070cd049ea1136d5df44ff7c4f1831a82fb7ad1",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/3ca78f2f0cc48ec96da8cc61a72a0653eab485ddc40f289c555f25ba62147b0f/0022.pdfpart",
+          "sha256": "464e8b8c6cf587778b6a27ec234faecb06abd123d6fc49b35c7f0ec7c85860e4",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/3ca78f2f0cc48ec96da8cc61a72a0653eab485ddc40f289c555f25ba62147b0f/0023.pdfpart",
+          "sha256": "7d27b4a21232983df7a173919710e872c8de5cfbd8db00fe0ddf012f616024e1",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/3ca78f2f0cc48ec96da8cc61a72a0653eab485ddc40f289c555f25ba62147b0f/0024.pdfpart",
+          "sha256": "db4bb8108678e4595004341fb572af108c1cdc722f9e79059c006af855d292c9",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/3ca78f2f0cc48ec96da8cc61a72a0653eab485ddc40f289c555f25ba62147b0f/0025.pdfpart",
+          "sha256": "2839838e7be9144e8ff6bae201d35847bcdf05a1e61f441245bce803d03c6761",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/3ca78f2f0cc48ec96da8cc61a72a0653eab485ddc40f289c555f25ba62147b0f/0026.pdfpart",
+          "sha256": "e23c09384cc671eb2ac01f8a5df88de2f870d1bdae680ac5b6854b35e6153193",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/3ca78f2f0cc48ec96da8cc61a72a0653eab485ddc40f289c555f25ba62147b0f/0027.pdfpart",
+          "sha256": "e030e56d61e996b320b586ace64633809a2b09e4d8c3fcaf7e83eae68ece9397",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/3ca78f2f0cc48ec96da8cc61a72a0653eab485ddc40f289c555f25ba62147b0f/0028.pdfpart",
+          "sha256": "5c2ded633df332232d97b0d20be2ce821e79b6e78570e8cdfa9a236f28853145",
+          "bytes": 4376152
+        }
+      ]
+    },
+    {
+      "sha256": "3f3c5ce21ac44b186df76426f0e5e85ff56ffc03d593f98520dde1c3700cf68b",
+      "bytes": 38083592,
+      "paths": [
+        "tmp/pdfs/all-layered-press/inner.pdf"
+      ],
+      "parts": [
+        {
+          "path": "pdf-parts/3f3c5ce21ac44b186df76426f0e5e85ff56ffc03d593f98520dde1c3700cf68b/0001.pdfpart",
+          "sha256": "1e9149015081e79085c4aac4b19275d247c5a506520f40b998259681621db4ad",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/3f3c5ce21ac44b186df76426f0e5e85ff56ffc03d593f98520dde1c3700cf68b/0002.pdfpart",
+          "sha256": "3e310fc6096551c3584a6df14b071e3adaef335eb17fc5a930707beacf021b32",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/3f3c5ce21ac44b186df76426f0e5e85ff56ffc03d593f98520dde1c3700cf68b/0003.pdfpart",
+          "sha256": "0bc3369e8bd17fd86b4e4a4c48759140a9f070492e2ace339bbd98ad11b44cc1",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/3f3c5ce21ac44b186df76426f0e5e85ff56ffc03d593f98520dde1c3700cf68b/0004.pdfpart",
+          "sha256": "0040555e6d52334d78105782e1845066f6d5ea8554370cfb9c69c538732a37dc",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/3f3c5ce21ac44b186df76426f0e5e85ff56ffc03d593f98520dde1c3700cf68b/0005.pdfpart",
+          "sha256": "ef3a87c17e33f500f15ebb724edd194f0b7729d9a5894e3ad137ff0314ca5b86",
+          "bytes": 4529160
+        }
+      ]
+    },
+    {
+      "sha256": "577a684f9d2ca79754aabe6425166931964b63466a078bdfb9818b48b9682a90",
+      "bytes": 33045523,
+      "paths": [
+        "output/pdf/小小主角-第1级六故事合集-A5阅读校样.pdf"
+      ],
+      "parts": [
+        {
+          "path": "pdf-parts/577a684f9d2ca79754aabe6425166931964b63466a078bdfb9818b48b9682a90/0001.pdfpart",
+          "sha256": "a70bbc761e3725d6fe901c6cf03ab08dae588f27a6677cca0aee9e0c0da7638a",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/577a684f9d2ca79754aabe6425166931964b63466a078bdfb9818b48b9682a90/0002.pdfpart",
+          "sha256": "4a0a6de0ed3c39acc2b78f5e2041f82e9f8b905c2de10b4c8e68814c718bf7cf",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/577a684f9d2ca79754aabe6425166931964b63466a078bdfb9818b48b9682a90/0003.pdfpart",
+          "sha256": "6b2151b616ee878ecc3c76f9096f421a56c663f65cfed0818ff0d2a92997f5b9",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/577a684f9d2ca79754aabe6425166931964b63466a078bdfb9818b48b9682a90/0004.pdfpart",
+          "sha256": "1b46a917b5654bf74b881010ae1aacf24b3c4532ea12481bb32b279f7cbefad6",
+          "bytes": 7879699
+        }
+      ]
+    },
+    {
+      "sha256": "7cf3b29777caacbcdca911d413b207a4bf547b4d28459830ef90c4c42d644f80",
+      "bytes": 41034166,
+      "paths": [
+        "tmp/pdfs/all-layered-photo-six-family.pdf"
+      ],
+      "parts": [
+        {
+          "path": "pdf-parts/7cf3b29777caacbcdca911d413b207a4bf547b4d28459830ef90c4c42d644f80/0001.pdfpart",
+          "sha256": "c22b3c63032add4ddb865cf41ecd8d0ec74a48c449fc2f6bee3105d10632ed06",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/7cf3b29777caacbcdca911d413b207a4bf547b4d28459830ef90c4c42d644f80/0002.pdfpart",
+          "sha256": "bd4a0d52a5d9a5ea24b16d67ba6e3a7b96eb4b4f669d85ffda3b533df8c6199a",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/7cf3b29777caacbcdca911d413b207a4bf547b4d28459830ef90c4c42d644f80/0003.pdfpart",
+          "sha256": "92cf31cd2cbb6f8a956431ec229ccf31c3573d0f2f5a9f8a3a3729fefb541810",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/7cf3b29777caacbcdca911d413b207a4bf547b4d28459830ef90c4c42d644f80/0004.pdfpart",
+          "sha256": "9eec7f268a852999b807bd8fe522a381533bb6c5cd49ed999eb8726ab79deca3",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/7cf3b29777caacbcdca911d413b207a4bf547b4d28459830ef90c4c42d644f80/0005.pdfpart",
+          "sha256": "543b805464c108cf4c69253b160cc70653b5f6b77682965b1ffd3f1129a45286",
+          "bytes": 7479734
+        }
+      ]
+    },
+    {
+      "sha256": "7d1c3d02d4e68342b1ab48aab3ace3d3ec9ba0f0e6adcd74b7ecbf9b22fa90f9",
+      "bytes": 39406010,
+      "paths": [
+        "output/pdf/小小主角-六本分层合成合集-竖版A5校样.pdf"
+      ],
+      "parts": [
+        {
+          "path": "pdf-parts/7d1c3d02d4e68342b1ab48aab3ace3d3ec9ba0f0e6adcd74b7ecbf9b22fa90f9/0001.pdfpart",
+          "sha256": "8975c1542003c6378f5083b4c83875f26fcd48c55755ce16b8c76fe808645c97",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/7d1c3d02d4e68342b1ab48aab3ace3d3ec9ba0f0e6adcd74b7ecbf9b22fa90f9/0002.pdfpart",
+          "sha256": "0a09f86137d1fa8ebf8b9a4b1a69cd2aad78a33acfbaee6f49353ea30978aeb0",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/7d1c3d02d4e68342b1ab48aab3ace3d3ec9ba0f0e6adcd74b7ecbf9b22fa90f9/0003.pdfpart",
+          "sha256": "07842f263b221a69a3c854a6f5affe32e337812583a1ea76f4780628cd816a1a",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/7d1c3d02d4e68342b1ab48aab3ace3d3ec9ba0f0e6adcd74b7ecbf9b22fa90f9/0004.pdfpart",
+          "sha256": "799d9fe9a6846f4f257501bde973bfc9f313a0e33232288cc3f4165c5aaa4c0a",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/7d1c3d02d4e68342b1ab48aab3ace3d3ec9ba0f0e6adcd74b7ecbf9b22fa90f9/0005.pdfpart",
+          "sha256": "2d42d718ac7998b6ee88afdfd6476b443da15808307166ceb932c3e53742daee",
+          "bytes": 5851578
+        }
+      ]
+    },
+    {
+      "sha256": "86a63c4d30b67e965f7053e5a0c739081e94d77b4059c2bac3f858aebe0b3da0",
+      "bytes": 38483329,
+      "paths": [
+        "output/priority-three-20261026/第一级新版-第2第8第10篇-A5合订校样.pdf"
+      ],
+      "parts": [
+        {
+          "path": "pdf-parts/86a63c4d30b67e965f7053e5a0c739081e94d77b4059c2bac3f858aebe0b3da0/0001.pdfpart",
+          "sha256": "eb6540e84b97290d88872c6af0c081500f3ff800f28e9d9a6f18d0dd4b05319f",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/86a63c4d30b67e965f7053e5a0c739081e94d77b4059c2bac3f858aebe0b3da0/0002.pdfpart",
+          "sha256": "174ac6756351b11321880986f6083758ffdd9f338af2b818ddc7e45ada4ead11",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/86a63c4d30b67e965f7053e5a0c739081e94d77b4059c2bac3f858aebe0b3da0/0003.pdfpart",
+          "sha256": "d4ebe0d36d82db9f055aa1ebe804d439d197cb46a471a0ad26247109a6e3603e",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/86a63c4d30b67e965f7053e5a0c739081e94d77b4059c2bac3f858aebe0b3da0/0004.pdfpart",
+          "sha256": "65c05b29f9a2ef4aec3c377c42bb051993e212d45505bfd0809445e74500ddac",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/86a63c4d30b67e965f7053e5a0c739081e94d77b4059c2bac3f858aebe0b3da0/0005.pdfpart",
+          "sha256": "f115a946adbb94bc38ad145f294781bb13e40ebdb45c2489208a01e8223443e2",
+          "bytes": 4928897
+        }
+      ]
+    },
+    {
+      "sha256": "8ff436e16d094948178213426d736ec8f379b979a120da9ede8c8edfa9d027b8",
+      "bytes": 33092003,
+      "paths": [
+        "output/pdf/小小主角-家庭分层合成后-六故事A5校样.pdf"
+      ],
+      "parts": [
+        {
+          "path": "pdf-parts/8ff436e16d094948178213426d736ec8f379b979a120da9ede8c8edfa9d027b8/0001.pdfpart",
+          "sha256": "1e222e26f937763e54b0c0a0ad2b07d9943f8618235b63e85dbb9f850278e1cc",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/8ff436e16d094948178213426d736ec8f379b979a120da9ede8c8edfa9d027b8/0002.pdfpart",
+          "sha256": "14103e7bde1d40b0609d742ff73c4022337c9cd29ad29bda5113262c5285f755",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/8ff436e16d094948178213426d736ec8f379b979a120da9ede8c8edfa9d027b8/0003.pdfpart",
+          "sha256": "49321cc2d75cbd348912c02d4550dfdf99475590f068ef519159a5d5c7122278",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/8ff436e16d094948178213426d736ec8f379b979a120da9ede8c8edfa9d027b8/0004.pdfpart",
+          "sha256": "0fda33faf1b514de699aaa47ebff2df3808ebd76f3cd678db32873639cd7af28",
+          "bytes": 7926179
+        }
+      ]
+    },
+    {
+      "sha256": "9c085fb1cf8472b611e165b16b05a50fb2d7f61a281ae61b64dd806f45386b43",
+      "bytes": 157915288,
+      "paths": [
+        "output/level2-first-nine-20261028/第二级-前九本-A5合订校样.pdf"
+      ],
+      "parts": [
+        {
+          "path": "pdf-parts/9c085fb1cf8472b611e165b16b05a50fb2d7f61a281ae61b64dd806f45386b43/0001.pdfpart",
+          "sha256": "3b9ade19d611f4c07c3bcfad1918239f9df332b9c2c1a46dcec60797ad6f8535",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/9c085fb1cf8472b611e165b16b05a50fb2d7f61a281ae61b64dd806f45386b43/0002.pdfpart",
+          "sha256": "a316b4df85d950b05fc1981af95a144941852460f1855e6ea640651b9f88e1a5",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/9c085fb1cf8472b611e165b16b05a50fb2d7f61a281ae61b64dd806f45386b43/0003.pdfpart",
+          "sha256": "8184051bf939f4c63a160ce25016b2f286c4073c1017aa2259200b0e5916cb5d",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/9c085fb1cf8472b611e165b16b05a50fb2d7f61a281ae61b64dd806f45386b43/0004.pdfpart",
+          "sha256": "3c7f3358bba90b7789d7120e893144fbdcda03602e9700c190818b1d92c3127b",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/9c085fb1cf8472b611e165b16b05a50fb2d7f61a281ae61b64dd806f45386b43/0005.pdfpart",
+          "sha256": "3bc2ae2357423fd22042a8ebb8fbf4f3fc1ca108e7d6e6e3903fce86665e117b",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/9c085fb1cf8472b611e165b16b05a50fb2d7f61a281ae61b64dd806f45386b43/0006.pdfpart",
+          "sha256": "f92808c4271d055138b3161cb87023f793eb1ffe1be14e80d501519e919cf274",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/9c085fb1cf8472b611e165b16b05a50fb2d7f61a281ae61b64dd806f45386b43/0007.pdfpart",
+          "sha256": "8480072c9fb79ba1734ad7696619a1c762163c1be68ff5776981b96a0c40eb07",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/9c085fb1cf8472b611e165b16b05a50fb2d7f61a281ae61b64dd806f45386b43/0008.pdfpart",
+          "sha256": "fa0151fc0e46c7eca1cce37a1580cf4da8094da2d938151eeda20882dd0def2e",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/9c085fb1cf8472b611e165b16b05a50fb2d7f61a281ae61b64dd806f45386b43/0009.pdfpart",
+          "sha256": "bcb0b572ab8d33545f24b90177a2114500f0527fcda4026e54d19478c2ae7281",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/9c085fb1cf8472b611e165b16b05a50fb2d7f61a281ae61b64dd806f45386b43/0010.pdfpart",
+          "sha256": "3c410aa181450161700ce5d929bd8fe11c276eca15afb2182d9c8bb281523832",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/9c085fb1cf8472b611e165b16b05a50fb2d7f61a281ae61b64dd806f45386b43/0011.pdfpart",
+          "sha256": "2352116f5841bed4f846dd817ed88f535b3e9d52aca251b715e211f3dabe7ff8",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/9c085fb1cf8472b611e165b16b05a50fb2d7f61a281ae61b64dd806f45386b43/0012.pdfpart",
+          "sha256": "c2ec2cd8e91a9ac234b2a3b418fb19c355e1102c49fefc12dfa909f0dcf216ac",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/9c085fb1cf8472b611e165b16b05a50fb2d7f61a281ae61b64dd806f45386b43/0013.pdfpart",
+          "sha256": "d2bba0a9960f2bc4bfaf463fdf2aad8030617694975e2eef29d7fcca3107c229",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/9c085fb1cf8472b611e165b16b05a50fb2d7f61a281ae61b64dd806f45386b43/0014.pdfpart",
+          "sha256": "bb5b63fa02ee7bf763f29072c2933d802f76aa13c168dd3a855fcb21999fb677",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/9c085fb1cf8472b611e165b16b05a50fb2d7f61a281ae61b64dd806f45386b43/0015.pdfpart",
+          "sha256": "366a58251f248ca1e137e49ed9cb67f70c7c7d56cfdb290e6245d1ec24809f54",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/9c085fb1cf8472b611e165b16b05a50fb2d7f61a281ae61b64dd806f45386b43/0016.pdfpart",
+          "sha256": "81107cc04abcb5f731ff3ad2cd55392353b01b99c1853889e4b49dadced67b62",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/9c085fb1cf8472b611e165b16b05a50fb2d7f61a281ae61b64dd806f45386b43/0017.pdfpart",
+          "sha256": "3cd80b8cbbdaab0b67a19fa7fa01f519fffdc1b9678c67499711e3e2ebc85dd6",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/9c085fb1cf8472b611e165b16b05a50fb2d7f61a281ae61b64dd806f45386b43/0018.pdfpart",
+          "sha256": "00115bd55ab3a3c6983066a25d063361ba9ca587148d0ad7b86befe86e7193ba",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/9c085fb1cf8472b611e165b16b05a50fb2d7f61a281ae61b64dd806f45386b43/0019.pdfpart",
+          "sha256": "934515f344844c4e685f9f0bf8895f8805cc1c927f1603c9d45731839eb71224",
+          "bytes": 6920344
+        }
+      ]
+    },
+    {
+      "sha256": "b8c40cc55f9e98bf15f7dd083221017dd46614afb3cbaadc8c87a3dfeccbf7dd",
+      "bytes": 57420404,
+      "paths": [
+        "tmp/pdfs/第2册六故事-真人长名字-QA.pdf"
+      ],
+      "parts": [
+        {
+          "path": "pdf-parts/b8c40cc55f9e98bf15f7dd083221017dd46614afb3cbaadc8c87a3dfeccbf7dd/0001.pdfpart",
+          "sha256": "81f741f3bfc5c1ed15db5b2d698c7e2912527b11374c8faab6b8fd027e7ceca1",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/b8c40cc55f9e98bf15f7dd083221017dd46614afb3cbaadc8c87a3dfeccbf7dd/0002.pdfpart",
+          "sha256": "55e7c488d3e9707ee53d43fe2c50d66c6d539d966c32fce6633c094f169ad188",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/b8c40cc55f9e98bf15f7dd083221017dd46614afb3cbaadc8c87a3dfeccbf7dd/0003.pdfpart",
+          "sha256": "0d15242a3a0c2798721f120f859078b3a455a1459c3c7f0178a8b87ef93d8cca",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/b8c40cc55f9e98bf15f7dd083221017dd46614afb3cbaadc8c87a3dfeccbf7dd/0004.pdfpart",
+          "sha256": "19d8a5b6e06c3cc2fcc8c76965c0b255a4556e4f5224666ae7f738db7f0e108e",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/b8c40cc55f9e98bf15f7dd083221017dd46614afb3cbaadc8c87a3dfeccbf7dd/0005.pdfpart",
+          "sha256": "f140a99cbad6d06acc2cc2f230753061e8dcd9cb4d339985d43f6041c53cf128",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/b8c40cc55f9e98bf15f7dd083221017dd46614afb3cbaadc8c87a3dfeccbf7dd/0006.pdfpart",
+          "sha256": "b822822d20899b7bd2d1dcaa28ffe55671d17c2334929c96a5d5686bd53c8991",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/b8c40cc55f9e98bf15f7dd083221017dd46614afb3cbaadc8c87a3dfeccbf7dd/0007.pdfpart",
+          "sha256": "ebc86a3c259d097a11b381328f39bc3d12e6392dd3268072a447046439127139",
+          "bytes": 7088756
+        }
+      ]
+    },
+    {
+      "sha256": "dfe9c4023b86fae429b160c16e7c5e2d6fa3e3e3ac57b28b448d81108fc461f1",
+      "bytes": 51835173,
+      "paths": [
+        "output/level2-first-three-20261027/第二级-前三本-A5合订校样.pdf"
+      ],
+      "parts": [
+        {
+          "path": "pdf-parts/dfe9c4023b86fae429b160c16e7c5e2d6fa3e3e3ac57b28b448d81108fc461f1/0001.pdfpart",
+          "sha256": "40ff99274b50c454634f43e46c61416849b14b775c863dd81640b617455b45f1",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/dfe9c4023b86fae429b160c16e7c5e2d6fa3e3e3ac57b28b448d81108fc461f1/0002.pdfpart",
+          "sha256": "7780b85b84af036553068adba182412df144a1abcc0e235a744f79cc4cebd4b9",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/dfe9c4023b86fae429b160c16e7c5e2d6fa3e3e3ac57b28b448d81108fc461f1/0003.pdfpart",
+          "sha256": "4c92184c23687018f58343a713a809e39c1f9ece50ad9b01b90f97cc4a6f8938",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/dfe9c4023b86fae429b160c16e7c5e2d6fa3e3e3ac57b28b448d81108fc461f1/0004.pdfpart",
+          "sha256": "f3055c35bab38cc78fca8aac069b4817d682f9846d5bc6113d2a4893cd4fb8a8",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/dfe9c4023b86fae429b160c16e7c5e2d6fa3e3e3ac57b28b448d81108fc461f1/0005.pdfpart",
+          "sha256": "302c4ae35e48148dff88af6c9619a73ee713ce32ec4366c91ba1460718aee5a2",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/dfe9c4023b86fae429b160c16e7c5e2d6fa3e3e3ac57b28b448d81108fc461f1/0006.pdfpart",
+          "sha256": "5396ede1a3a08af0c054ab9c05019a57b26801cf3d92443d08e5d4da84222d29",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/dfe9c4023b86fae429b160c16e7c5e2d6fa3e3e3ac57b28b448d81108fc461f1/0007.pdfpart",
+          "sha256": "7c7a86651ceff2b0ec118e46ff8fd88878a5e4e0b9c5e126dd8ad66a0176cb49",
+          "bytes": 1503525
+        }
+      ]
+    },
+    {
+      "sha256": "fd9aa22e9a8ef981f0218e744b217122431c9c43e124ec9ba58e1c260b30d2ad",
+      "bytes": 230880757,
+      "paths": [
+        "output/level1-complete-15-20261027/第一级别-15篇绘本合集-逐篇封面版.pdf"
+      ],
+      "parts": [
+        {
+          "path": "pdf-parts/fd9aa22e9a8ef981f0218e744b217122431c9c43e124ec9ba58e1c260b30d2ad/0001.pdfpart",
+          "sha256": "bd35e1b8c166ce54bf1f207542d27d35b9ac8dddbc2ba15f024613bfe2ca17b0",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/fd9aa22e9a8ef981f0218e744b217122431c9c43e124ec9ba58e1c260b30d2ad/0002.pdfpart",
+          "sha256": "8ae6d68f3fb8b7bb5eacacfbd1879026380e32bd0775574f2fdb00ecc770b996",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/fd9aa22e9a8ef981f0218e744b217122431c9c43e124ec9ba58e1c260b30d2ad/0003.pdfpart",
+          "sha256": "e4a4b1fea283ca09d4c13c1662cd09bae34798173b510fd538bb3393004c298a",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/fd9aa22e9a8ef981f0218e744b217122431c9c43e124ec9ba58e1c260b30d2ad/0004.pdfpart",
+          "sha256": "8ed3221b686f2295bdbae3bc01961ff44a0ca631863b98230fd928b1def691e5",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/fd9aa22e9a8ef981f0218e744b217122431c9c43e124ec9ba58e1c260b30d2ad/0005.pdfpart",
+          "sha256": "005391d5eca191def540a02ff0fb3e6592cb0019a0cf96511c55f7743f389d93",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/fd9aa22e9a8ef981f0218e744b217122431c9c43e124ec9ba58e1c260b30d2ad/0006.pdfpart",
+          "sha256": "eac1818592f98a9e541886296f7784382752a2335c7a3dba8fbe207a0fe3a5fa",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/fd9aa22e9a8ef981f0218e744b217122431c9c43e124ec9ba58e1c260b30d2ad/0007.pdfpart",
+          "sha256": "1e64d1c0786198f96745848fdde665d8cf1531b700ec47b0e62be2bc2a38ff84",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/fd9aa22e9a8ef981f0218e744b217122431c9c43e124ec9ba58e1c260b30d2ad/0008.pdfpart",
+          "sha256": "4ed5fc5c65533485077a6d2762b99bf2e1c078c0c36cd411c2c9faf593cfe705",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/fd9aa22e9a8ef981f0218e744b217122431c9c43e124ec9ba58e1c260b30d2ad/0009.pdfpart",
+          "sha256": "ede1f1d4122540c48a2695328f55f2acfe97650eb24837dae6fb7ad36600e323",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/fd9aa22e9a8ef981f0218e744b217122431c9c43e124ec9ba58e1c260b30d2ad/0010.pdfpart",
+          "sha256": "a5e0c17136e3ad6f7bf6ed305ad5be8e906a5d8c6d1d1ee0e466c341e89052a2",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/fd9aa22e9a8ef981f0218e744b217122431c9c43e124ec9ba58e1c260b30d2ad/0011.pdfpart",
+          "sha256": "4c439370e4b6c132a966f98cc4ce7047ea42ed5599bd1559e4e132769a43c762",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/fd9aa22e9a8ef981f0218e744b217122431c9c43e124ec9ba58e1c260b30d2ad/0012.pdfpart",
+          "sha256": "adfea342c8e7760494934093f33385fb042be3ba57cec209dcd27446857e98cf",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/fd9aa22e9a8ef981f0218e744b217122431c9c43e124ec9ba58e1c260b30d2ad/0013.pdfpart",
+          "sha256": "11cfe402ec0b7be35299fec67ff79cb6ec4dd41258fd05c74c20380137ed1e9b",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/fd9aa22e9a8ef981f0218e744b217122431c9c43e124ec9ba58e1c260b30d2ad/0014.pdfpart",
+          "sha256": "62190ded64523e916044297200e01ae99fe47ebda51987466ea9279a1e84dcf3",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/fd9aa22e9a8ef981f0218e744b217122431c9c43e124ec9ba58e1c260b30d2ad/0015.pdfpart",
+          "sha256": "663ce42777586326f7134aefac6b5381aac399423b79216e5b9a24ef736648c0",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/fd9aa22e9a8ef981f0218e744b217122431c9c43e124ec9ba58e1c260b30d2ad/0016.pdfpart",
+          "sha256": "b16479049ae6b5036cf931e261eab2f2d915a899eed1061b2b41a5b351041b66",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/fd9aa22e9a8ef981f0218e744b217122431c9c43e124ec9ba58e1c260b30d2ad/0017.pdfpart",
+          "sha256": "7a21fad889a2582bf1936807987b06dc895a92fe19614ea4787aa544f8a25653",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/fd9aa22e9a8ef981f0218e744b217122431c9c43e124ec9ba58e1c260b30d2ad/0018.pdfpart",
+          "sha256": "610c2cf3efa941ecda7c3eccd6a2c3ccbe36ae2602632c52cf523788ac1f623e",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/fd9aa22e9a8ef981f0218e744b217122431c9c43e124ec9ba58e1c260b30d2ad/0019.pdfpart",
+          "sha256": "4cc7e78bea07c28c9e949dbc9dda788ea88be692c9947fb885e77a3621be88be",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/fd9aa22e9a8ef981f0218e744b217122431c9c43e124ec9ba58e1c260b30d2ad/0020.pdfpart",
+          "sha256": "7f15ff8e8693089209441ea61579a959417c1d16289881fd7586eb9341d04266",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/fd9aa22e9a8ef981f0218e744b217122431c9c43e124ec9ba58e1c260b30d2ad/0021.pdfpart",
+          "sha256": "9b9b6c7448fbd87eac9322313fe8de9906e7e0d47fbbe7ef466e59bbb32f257f",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/fd9aa22e9a8ef981f0218e744b217122431c9c43e124ec9ba58e1c260b30d2ad/0022.pdfpart",
+          "sha256": "2a30874f04d985126bad2fe835f4bb60504b147029003cf6c174e0748cc63489",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/fd9aa22e9a8ef981f0218e744b217122431c9c43e124ec9ba58e1c260b30d2ad/0023.pdfpart",
+          "sha256": "d3ee3a61ed9de04b3a0618a56a2531fe25c15b8fe33c9435ae43d66d7c838666",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/fd9aa22e9a8ef981f0218e744b217122431c9c43e124ec9ba58e1c260b30d2ad/0024.pdfpart",
+          "sha256": "a6acab3c4b721aeb3917f36e436de48c770c3643b5719669369d69a0269181a6",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/fd9aa22e9a8ef981f0218e744b217122431c9c43e124ec9ba58e1c260b30d2ad/0025.pdfpart",
+          "sha256": "a7aa5274ba9025f0bf7a605597c402c9a53a1a25e3a414144cff2f036f05aeb6",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/fd9aa22e9a8ef981f0218e744b217122431c9c43e124ec9ba58e1c260b30d2ad/0026.pdfpart",
+          "sha256": "ffae4312cc90c32996eeb62a569609b43a9429b850fdf243c1e0835bba8f4db3",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/fd9aa22e9a8ef981f0218e744b217122431c9c43e124ec9ba58e1c260b30d2ad/0027.pdfpart",
+          "sha256": "107de4e0d9a965bd6da4e8f82955b8c1c3a5f04643fd8d0d54970aa5dd94a288",
+          "bytes": 8388608
+        },
+        {
+          "path": "pdf-parts/fd9aa22e9a8ef981f0218e744b217122431c9c43e124ec9ba58e1c260b30d2ad/0028.pdfpart",
+          "sha256": "9ea8f289aa21795b7b0a8249b802e6ba91cb9498fb281284c302b2bf0f0d3ee2",
+          "bytes": 4388341
+        }
+      ]
+    }
+  ]
+}

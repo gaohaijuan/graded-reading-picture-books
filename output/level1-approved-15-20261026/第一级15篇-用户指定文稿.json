@@ -1,0 +1,250 @@
+{
+  "title": "第一级15篇用户指定文稿",
+  "date": "2026-10-26",
+  "status": "user-specified-level1-text",
+  "level": 1,
+  "bookCount": 15,
+  "basis": "用户本条消息全文，保留词句，仅将直引号统一为中文引号。此15篇是当前第一级文案依据。",
+  "previous30StoryDocument": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\output\\manuscript-level1-complete-review\\第一级30篇完整文案-待确认.json",
+  "previous30Status": "历史参考文稿，不能继续作为当前第一级完整选篇",
+  "productionSynced": false,
+  "illustrationsGenerated": 0,
+  "books": [
+    {
+      "number": 1,
+      "originalNumber": 1,
+      "id": "intro",
+      "title": "你好，我是CHILD",
+      "paragraphs": [
+        "你好！我是CHILD。",
+        "我的名字叫CHILD。",
+        "你的名字是什么呢？",
+        "我五岁了。你几岁呢？",
+        "我上大班了。",
+        "你也有名字吗？"
+      ],
+      "status": "user-specified-level1-text"
+    },
+    {
+      "number": 2,
+      "originalNumber": 2,
+      "id": "flower",
+      "title": "下雪了",
+      "paragraphs": [
+        "下雪了！",
+        "一片两片三四片，",
+        "五片六片七八片，",
+        "九片十片十一片，",
+        "飞入草丛都不见。"
+      ],
+      "status": "user-specified-level1-text"
+    },
+    {
+      "number": 3,
+      "originalNumber": 3,
+      "id": "family",
+      "title": "我家有几口人？",
+      "paragraphs": [
+        "我家有几口人？",
+        "这是爸爸。",
+        "这是妈妈。",
+        "有两口人。",
+        "不对，把我自己忘了！",
+        "有三口人！"
+      ],
+      "status": "user-specified-level1-text"
+    },
+    {
+      "number": 4,
+      "originalNumber": 4,
+      "id": "hands",
+      "title": "我的小手",
+      "paragraphs": [
+        "我有两只小手。",
+        "我用小手学做小花。",
+        "我做了一朵又一朵。",
+        "小手开，小花开。",
+        "小手合上，小花不见了。",
+        "小手又开，小花又开。",
+        "你的小花开了吗？"
+      ],
+      "status": "user-specified-level1-text"
+    },
+    {
+      "number": 5,
+      "originalNumber": 7,
+      "id": "mountain",
+      "title": "山不见了",
+      "paragraphs": [
+        "山上有两朵白云。",
+        "白云来了，山不见了。",
+        "“山呢？”",
+        "风来了，云走了。",
+        "山出来了！",
+        "山没有走，是云走了！"
+      ],
+      "status": "user-specified-level1-text"
+    },
+    {
+      "number": 6,
+      "originalNumber": 5,
+      "id": "rain",
+      "title": "下雨了",
+      "paragraphs": [
+        "下大雨了！下雨啦！",
+        "小伞开了。我坐在伞下，看雨。",
+        "小花在雨中。",
+        "“小花，来！”小花没来。",
+        "“花不来，我去！”",
+        "我在伞下，小花也在伞下。",
+        "雨在伞上，伞下有我，也有花。",
+        "我笑了。"
+      ],
+      "status": "user-specified-level1-text"
+    },
+    {
+      "number": 7,
+      "originalNumber": 6,
+      "id": "stone",
+      "title": "小石头回家",
+      "paragraphs": [
+        "大石头下，地上有小石头。",
+        "这是小石头的家。",
+        "我拿起小石头。",
+        "我走，小石头也走。",
+        "我要回家去了。",
+        "我把小石头拿起来，放回大石头下。",
+        "“小石头，你回家了！”",
+        "我也回家了。"
+      ],
+      "status": "user-specified-level1-text"
+    },
+    {
+      "number": 8,
+      "originalNumber": 27,
+      "id": "insect-new",
+      "title": "小虫在哪",
+      "paragraphs": [
+        "石头上，有一只小虫。",
+        "我走过去看。",
+        "小虫不见了！",
+        "“小虫，你在哪？”",
+        "我低头一看，小虫在我的脚上！",
+        "“你也要和我一起走吗？”"
+      ],
+      "status": "user-specified-level1-text"
+    },
+    {
+      "number": 9,
+      "originalNumber": 8,
+      "id": "car",
+      "title": "小车回家",
+      "paragraphs": [
+        "小车的家，有两个大门。",
+        "一个入口，一个出口。",
+        "我会开小车，从入口进去，从出口出来。",
+        "我不玩了，小车也要回家。",
+        "我把小车开回家，关上门。"
+      ],
+      "status": "user-specified-level1-text"
+    },
+    {
+      "number": 10,
+      "originalNumber": 9,
+      "id": "ball",
+      "title": "小球在哪",
+      "paragraphs": [
+        "我要找小球玩。",
+        "谁看见小球了？小球在哪？",
+        "我看看小车里，没有。",
+        "我看看小车前，也没有。",
+        "我看看小车后，也没有。",
+        "门后呢？小球在这里！",
+        "“找到你了！”"
+      ],
+      "status": "user-specified-level1-text"
+    },
+    {
+      "number": 11,
+      "originalNumber": 11,
+      "id": "tree",
+      "title": "我和小树谁高",
+      "paragraphs": [
+        "小树，你好！",
+        "我和小树，谁高？",
+        "小树比我高一点。",
+        "我站在小石头上。",
+        "“这回，谁高？我高！”",
+        "我下来，小树又高了。",
+        "我看看脚下的小石头，笑了。",
+        "“明年我还要和小树比高高！”"
+      ],
+      "status": "user-specified-level1-text"
+    },
+    {
+      "number": 12,
+      "originalNumber": 10,
+      "id": "water",
+      "title": "水中的我",
+      "paragraphs": [
+        "水中有天，有云，也有我。",
+        "我笑，水中的我也笑。",
+        "我走，水中的我也走。",
+        "我不走，水中的我也不走。",
+        "“你好，水中的我！”"
+      ],
+      "status": "user-specified-level1-text"
+    },
+    {
+      "number": 13,
+      "originalNumber": 12,
+      "id": "calling",
+      "title": "谁在叫",
+      "paragraphs": [
+        "我听见叫声。谁在叫？",
+        "我看看树上，是小鸟在叫。",
+        "“小鸟，下来和我玩，好吗？”",
+        "小鸟不叫了。谁又在叫？",
+        "我看看树下，是小猫在叫。",
+        "“小猫，你也来！”",
+        "小鸟呢？小鸟飞出来了，不在树上了。",
+        "我一看，小鸟在小车上！",
+        "“小鸟，你来了！”"
+      ],
+      "status": "user-specified-level1-text"
+    },
+    {
+      "number": 14,
+      "originalNumber": 13,
+      "id": "catball",
+      "title": "小猫要小球吗",
+      "paragraphs": [
+        "我有一个红红的球。",
+        "我有一个黄球。",
+        "“小猫，你要红球吗？”",
+        "“红球给你。黄球也给你。”",
+        "小猫不来玩。",
+        "我把红球推过去。",
+        "小猫跑来了，我笑了！",
+        "我和小猫一起玩！"
+      ],
+      "status": "user-specified-level1-text"
+    },
+    {
+      "number": 15,
+      "originalNumber": 19,
+      "id": "catbed",
+      "title": "小猫的床",
+      "paragraphs": [
+        "这是小猫的床。",
+        "小猫想睡了。",
+        "床上有小球，我把小球拿下来。",
+        "床上还有小车，我把小车也拿下来。",
+        "小球、小车都拿下来，放好了。",
+        "“小猫，上床睡吧。”",
+        "小猫上了床，睡了。"
+      ],
+      "status": "user-specified-level1-text"
+    }
+  ]
+}

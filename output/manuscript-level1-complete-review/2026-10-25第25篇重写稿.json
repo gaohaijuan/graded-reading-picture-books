@@ -1,0 +1,34 @@
+{
+  "date": "2026-10-25",
+  "round": 4,
+  "changedStories": [
+    25
+  ],
+  "other29TextsPreserved": true,
+  "totalBooks": 30,
+  "illustrationsGenerated": 0,
+  "pdfRegenerated": false,
+  "productionSourcesChanged": [],
+  "book": {
+    "number": 25,
+    "oldNumber": 22,
+    "previousTitle": "看日出",
+    "title": "谁还在睡",
+    "paragraphs": [
+      "我和爸爸来看日出。",
+      "天还黑着。",
+      "“太阳，我都起来了，你还不起来吗？”",
+      "我坐下来，等一等。",
+      "天边红了，太阳出来了！",
+      "爸爸说：“太阳起来了，你又睡了！”"
+    ],
+    "newCharacters": [
+      "日",
+      "黑",
+      "阳",
+      "坐"
+    ]
+  },
+  "review": "孩子天黑时跟爸爸等日出，先催太阳起床，坐着等时自己又睡着。日出后由爸爸的话揭晓，不把日出归因为呼喊。与第18篇爸爸未起床不同，本篇反转落在孩子身上。",
+  "futureArtNote": "末页表现孩子在爸爸身边坐着睡着；后续分镜可以用背影或姿态表达，不为真人头像生成闭眼等新表情。本轮不出图。"
+}

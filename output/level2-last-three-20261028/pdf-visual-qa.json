@@ -1,0 +1,36 @@
+{
+  "pdf": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\output\\level2-last-three-20261028\\第二级-最后三本-A5合订校样.pdf",
+  "sha256": "0ba7651bf9d555dce533fde274d0e6ade1397d12739b87a2cbcd5fcb777b1574",
+  "renderer": "Bundled Poppler pdftoppm",
+  "resolutionDpi": 100,
+  "renderedPages": 31,
+  "contactSheet": "pdf-render/contact-sheet.jpg",
+  "allPagesReviewedInContactSheet": true,
+  "fullSizeTextAndSummaryPagesReviewed": [
+    12,
+    26,
+    27,
+    30
+  ],
+  "clippedTextObserved": false,
+  "overlappingTextObserved": false,
+  "blankPagesObserved": false,
+  "pageNumbersContinuous": true,
+  "chapterStarts": [
+    3,
+    13,
+    22
+  ],
+  "bodyStarts": [
+    4,
+    14,
+    23
+  ],
+  "finalSceneCorrectionsIncluded": [
+    "Jump rabbit kept inside right edge",
+    "Train-side trees and flowers stay outside road",
+    "Fish habitat and rocks contained by water",
+    "Jump cover reframed to preserve the complete rabbit in wide and portrait panels"
+  ],
+  "approvalScope": "Digital A5 layout and wording review; no physical print claim."
+}

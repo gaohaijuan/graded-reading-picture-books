@@ -1,0 +1,40 @@
+{
+  "status": "complete",
+  "books": {
+    "大鞋和小鞋": [
+      3
+    ],
+    "早上好": [
+      6
+    ],
+    "谁先笑": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "大果子和小果子": [
+      5,
+      6,
+      7
+    ],
+    "我和小兔": [
+      5
+    ]
+  },
+  "bodyPageCount": 13,
+  "totalPdfPages": 144,
+  "pdfSha256": "0c91596699d990ca83d8d1d551d8f8fef12c1c91f77c989a79ca9ddd2282b6fa",
+  "browserPreview": "http://127.0.0.1:4176/?view=level2-complete",
+  "wordingUnchanged": true,
+  "unaffectedPdfImagesUnchanged": true,
+  "defaultExpressionsReviewed": true,
+  "realPhotoExpressionsPreserved": true,
+  "realPhotoTeethLimitation": "原照片未露齿时，不重绘牙齿或生成新表情。",
+  "imageGeneration": "Built-in image_gen",
+  "nativeAssets": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\art-samples\\level2-review-fixes-native",
+  "prompts": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\content\\level2-review-fixes-generation.json"
+}

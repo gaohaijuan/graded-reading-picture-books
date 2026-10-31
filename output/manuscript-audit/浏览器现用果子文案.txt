@@ -1,0 +1,23 @@
+Browser tab: 2, Title: "小小主角 · 本地开发版", URL: "http://127.0.0.1:4173/".
+0 AXWebArea 小小主角 · 本地开发版, URL: 127.0.0.1:4173/
+	1 container little-story-preview
+		2 text 小小主角 · 本地开发版
+		5 text 竖版 A5 · 图文同页
+		4 container Description: 小小主角阅读小程序, ID: ls-device
+			6 container
+				7 button 书架
+				8 text 大果子和小果子
+				9 container 竖版A5图文页
+					10 text 大果子和小果子
+					11 image 小主角与伙伴分享大小果子的插画
+					12 container 第4页正文
+						13 text 大果子来，
+						14 text 大果子去。
+					15 text 4
+				16 button 上一页
+				17 text 4 / 8
+				18 progress indicator Description: 本书阅读页数, Value: 4
+				19 button 下一页
+		20 text 大果子和小果子，第4页。大果子来，大果子去。
+
+The focused UI element is 0 AXWebArea 小小主角 · 本地开发版, URL: 127.0.0.1:4173/

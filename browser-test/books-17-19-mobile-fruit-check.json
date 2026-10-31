@@ -1,0 +1,794 @@
+[
+  {
+    "book": "fruit",
+    "dataset": {
+      "actorCacheId": "60",
+      "art": "fruit",
+      "artState": "ready",
+      "camera": "{\"x\":10.736196319018404,\"y\":0,\"width\":978.5276073619632,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "0",
+      "portraitScale": "0.42889683837095727",
+      "pose": "carry-play",
+      "reflectionActor": "",
+      "scene": "fruit-welcome",
+      "sceneGeometry": "{\"paper\":null,\"stone\":null,\"wind\":null,\"small\":{\"at\":\"leftPalm\",\"bitten\":false},\"big\":{\"at\":\"rightPalm\",\"bitten\":false},\"bed\":null,\"cat\":null,\"ball\":null,\"car\":null,\"sleeping\":false}",
+      "storyBeat": "two-apples-one-big-one-small"
+    },
+    "overflow": false,
+    "page": 0,
+    "paper": {
+      "bottom": 682.5417175292969,
+      "height": 523.0833740234375,
+      "left": 10.666666984558104,
+      "right": 379.3229169845581,
+      "top": 159.45834350585938,
+      "width": 368.65625,
+      "x": 10.666666984558104,
+      "y": 159.45834350585938
+    },
+    "photoTiming": {
+      "cutoutMs": 863.5,
+      "photoReadMs": 17.90000000037253,
+      "pngEncodeMs": 18.59999999962747,
+      "recognitionMs": 229.90000000037253
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 8881.299999998882,
+      "bodyDownloadMs": 635.6999999992549,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "fruit",
+                "catbed"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "step-own-shoes",
+                  "status": "ready"
+                },
+                {
+                  "id": "carry-play",
+                  "status": "ready"
+                },
+                {
+                  "id": "eat-fruit",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "fruit",
+            "catbed"
+          ]
+        }
+      ],
+      "composeMs": 41.400000009685755,
+      "composites": 73,
+      "draws": 1081,
+      "pageDrawMs": 15756.000000001864
+    },
+    "text": "我有两个果子。一个大，一个小。",
+    "textRect": {
+      "bottom": 635.2083587646484,
+      "height": 72.22917175292969,
+      "left": 30.59375,
+      "right": 349.4270935058594,
+      "top": 562.9791870117188,
+      "width": 318.8333435058594,
+      "x": 30.59375,
+      "y": 562.9791870117188
+    }
+  },
+  {
+    "book": "fruit",
+    "dataset": {
+      "actorCacheId": "60",
+      "art": "fruit",
+      "artState": "ready",
+      "camera": "{\"x\":10.736196319018404,\"y\":0,\"width\":978.5276073619632,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "1",
+      "portraitScale": "0.42889683837095727",
+      "pose": "carry-play",
+      "reflectionActor": "",
+      "scene": "fruit-share",
+      "sceneGeometry": "{\"paper\":null,\"stone\":null,\"wind\":null,\"small\":{\"at\":\"leftPalm\",\"bitten\":false},\"big\":{\"at\":\"friendPalm\",\"bitten\":false},\"bed\":null,\"cat\":null,\"ball\":null,\"car\":null,\"sleeping\":false}",
+      "storyBeat": "give-big-keep-small"
+    },
+    "overflow": false,
+    "page": 1,
+    "paper": {
+      "bottom": 682.5417175292969,
+      "height": 523.0833740234375,
+      "left": 10.666666984558104,
+      "right": 379.3229169845581,
+      "top": 159.45834350585938,
+      "width": 368.65625,
+      "x": 10.666666984558104,
+      "y": 159.45834350585938
+    },
+    "photoTiming": {
+      "cutoutMs": 863.5,
+      "photoReadMs": 17.90000000037253,
+      "pngEncodeMs": 18.59999999962747,
+      "recognitionMs": 229.90000000037253
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 8881.299999998882,
+      "bodyDownloadMs": 635.6999999992549,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "fruit",
+                "catbed"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "step-own-shoes",
+                  "status": "ready"
+                },
+                {
+                  "id": "carry-play",
+                  "status": "ready"
+                },
+                {
+                  "id": "eat-fruit",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "fruit",
+            "catbed"
+          ]
+        }
+      ],
+      "composeMs": 41.400000009685755,
+      "composites": 73,
+      "draws": 1082,
+      "pageDrawMs": 15757.10000000149
+    },
+    "text": "大的给你，小的给我。",
+    "textRect": {
+      "bottom": 635.2083587646484,
+      "height": 72.22917175292969,
+      "left": 40.55208587646485,
+      "right": 359.3854293823242,
+      "top": 562.9791870117188,
+      "width": 318.8333435058594,
+      "x": 40.55208587646485,
+      "y": 562.9791870117188
+    }
+  },
+  {
+    "book": "fruit",
+    "dataset": {
+      "actorCacheId": "60",
+      "art": "fruit",
+      "artState": "ready",
+      "camera": "{\"x\":10.736196319018404,\"y\":0,\"width\":978.5276073619632,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "2",
+      "portraitScale": "0.42889683837095727",
+      "pose": "carry-play",
+      "reflectionActor": "",
+      "scene": "fruit-share",
+      "sceneGeometry": "{\"paper\":null,\"stone\":null,\"wind\":null,\"small\":{\"at\":\"leftPalm\",\"bitten\":false},\"big\":{\"at\":\"rightPalm\",\"bitten\":false},\"bed\":null,\"cat\":null,\"ball\":null,\"car\":null,\"sleeping\":false}",
+      "storyBeat": "friend-offers-the-big-one-back"
+    },
+    "overflow": false,
+    "page": 2,
+    "paper": {
+      "bottom": 682.5417175292969,
+      "height": 523.0833740234375,
+      "left": 10.666666984558104,
+      "right": 379.3229169845581,
+      "top": 159.45834350585938,
+      "width": 368.65625,
+      "x": 10.666666984558104,
+      "y": 159.45834350585938
+    },
+    "photoTiming": {
+      "cutoutMs": 863.5,
+      "photoReadMs": 17.90000000037253,
+      "pngEncodeMs": 18.59999999962747,
+      "recognitionMs": 229.90000000037253
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 8881.299999998882,
+      "bodyDownloadMs": 635.6999999992549,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "fruit",
+                "catbed"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "step-own-shoes",
+                  "status": "ready"
+                },
+                {
+                  "id": "carry-play",
+                  "status": "ready"
+                },
+                {
+                  "id": "eat-fruit",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "fruit",
+            "catbed"
+          ]
+        }
+      ],
+      "composeMs": 41.400000009685755,
+      "composites": 73,
+      "draws": 1083,
+      "pageDrawMs": 15758.000000001864
+    },
+    "text": "你说：“大的给你！”",
+    "textRect": {
+      "bottom": 635.2083587646484,
+      "height": 72.22917175292969,
+      "left": 30.59375,
+      "right": 349.4270935058594,
+      "top": 562.9791870117188,
+      "width": 318.8333435058594,
+      "x": 30.59375,
+      "y": 562.9791870117188
+    }
+  },
+  {
+    "book": "fruit",
+    "dataset": {
+      "actorCacheId": "60",
+      "art": "fruit",
+      "artState": "ready",
+      "camera": "{\"x\":10.736196319018404,\"y\":0,\"width\":978.5276073619632,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "3",
+      "portraitScale": "0.42889683837095727",
+      "pose": "carry-play",
+      "reflectionActor": "",
+      "scene": "fruit-share",
+      "sceneGeometry": "{\"paper\":null,\"stone\":null,\"wind\":null,\"small\":{\"at\":\"leftPalm\",\"bitten\":false},\"big\":{\"at\":[462,620],\"bitten\":false},\"bed\":null,\"cat\":null,\"ball\":null,\"car\":null,\"sleeping\":false}",
+      "storyBeat": "big-apple-back-and-forth"
+    },
+    "overflow": false,
+    "page": 3,
+    "paper": {
+      "bottom": 682.5417175292969,
+      "height": 523.0833740234375,
+      "left": 10.666666984558104,
+      "right": 379.3229169845581,
+      "top": 159.45834350585938,
+      "width": 368.65625,
+      "x": 10.666666984558104,
+      "y": 159.45834350585938
+    },
+    "photoTiming": {
+      "cutoutMs": 863.5,
+      "photoReadMs": 17.90000000037253,
+      "pngEncodeMs": 18.59999999962747,
+      "recognitionMs": 229.90000000037253
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 8881.299999998882,
+      "bodyDownloadMs": 635.6999999992549,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "fruit",
+                "catbed"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "step-own-shoes",
+                  "status": "ready"
+                },
+                {
+                  "id": "carry-play",
+                  "status": "ready"
+                },
+                {
+                  "id": "eat-fruit",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "fruit",
+            "catbed"
+          ]
+        }
+      ],
+      "composeMs": 41.400000009685755,
+      "composites": 73,
+      "draws": 1084,
+      "pageDrawMs": 15758.400000002235
+    },
+    "text": "大果子来，大果子去。",
+    "textRect": {
+      "bottom": 635.2083587646484,
+      "height": 72.22917175292969,
+      "left": 40.55208587646485,
+      "right": 359.3854293823242,
+      "top": 562.9791870117188,
+      "width": 318.8333435058594,
+      "x": 40.55208587646485,
+      "y": 562.9791870117188
+    }
+  },
+  {
+    "book": "fruit",
+    "dataset": {
+      "actorCacheId": "60",
+      "art": "fruit",
+      "artState": "ready",
+      "camera": "{\"x\":10.736196319018404,\"y\":0,\"width\":978.5276073619632,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "4",
+      "portraitScale": "0.42889683837095727",
+      "pose": "carry-play",
+      "reflectionActor": "",
+      "scene": "fruit-welcome",
+      "sceneGeometry": "{\"paper\":null,\"stone\":null,\"wind\":null,\"small\":{\"at\":\"leftPalm\",\"bitten\":false},\"big\":{\"at\":\"friendPalm\",\"bitten\":false},\"bed\":null,\"cat\":null,\"ball\":null,\"car\":null,\"sleeping\":false}",
+      "storyBeat": "small-apple-still-in-my-hand"
+    },
+    "overflow": false,
+    "page": 4,
+    "paper": {
+      "bottom": 682.5417175292969,
+      "height": 523.0833740234375,
+      "left": 10.666666984558104,
+      "right": 379.3229169845581,
+      "top": 159.45834350585938,
+      "width": 368.65625,
+      "x": 10.666666984558104,
+      "y": 159.45834350585938
+    },
+    "photoTiming": {
+      "cutoutMs": 863.5,
+      "photoReadMs": 17.90000000037253,
+      "pngEncodeMs": 18.59999999962747,
+      "recognitionMs": 229.90000000037253
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 8881.299999998882,
+      "bodyDownloadMs": 635.6999999992549,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "fruit",
+                "catbed"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "step-own-shoes",
+                  "status": "ready"
+                },
+                {
+                  "id": "carry-play",
+                  "status": "ready"
+                },
+                {
+                  "id": "eat-fruit",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "fruit",
+            "catbed"
+          ]
+        }
+      ],
+      "composeMs": 41.400000009685755,
+      "composites": 73,
+      "draws": 1085,
+      "pageDrawMs": 15759.10000000149
+    },
+    "text": "小果子呢？小果子在我手中。",
+    "textRect": {
+      "bottom": 635.2083587646484,
+      "height": 72.22917175292969,
+      "left": 30.59375,
+      "right": 349.4270935058594,
+      "top": 562.9791870117188,
+      "width": 318.8333435058594,
+      "x": 30.59375,
+      "y": 562.9791870117188
+    }
+  },
+  {
+    "book": "fruit",
+    "dataset": {
+      "actorCacheId": "61",
+      "art": "fruit",
+      "artState": "ready",
+      "camera": "{\"x\":10.736196319018404,\"y\":0,\"width\":978.5276073619632,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "5",
+      "portraitScale": "0.42889683837095727",
+      "pose": "eat-fruit",
+      "reflectionActor": "",
+      "scene": "fruit-end",
+      "sceneGeometry": "{\"paper\":null,\"stone\":null,\"wind\":null,\"small\":{\"at\":\"bite\",\"bitten\":true},\"big\":{\"at\":\"friendPalm\",\"bitten\":false},\"bed\":null,\"cat\":null,\"ball\":null,\"car\":null,\"sleeping\":false}",
+      "storyBeat": "taste-my-small-apple"
+    },
+    "overflow": false,
+    "page": 5,
+    "paper": {
+      "bottom": 682.5417175292969,
+      "height": 523.0833740234375,
+      "left": 10.666666984558104,
+      "right": 379.3229169845581,
+      "top": 159.45834350585938,
+      "width": 368.65625,
+      "x": 10.666666984558104,
+      "y": 159.45834350585938
+    },
+    "photoTiming": {
+      "cutoutMs": 863.5,
+      "photoReadMs": 17.90000000037253,
+      "pngEncodeMs": 18.59999999962747,
+      "recognitionMs": 229.90000000037253
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 8881.299999998882,
+      "bodyDownloadMs": 635.6999999992549,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "fruit",
+                "catbed"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "step-own-shoes",
+                  "status": "ready"
+                },
+                {
+                  "id": "carry-play",
+                  "status": "ready"
+                },
+                {
+                  "id": "eat-fruit",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "fruit",
+            "catbed"
+          ]
+        }
+      ],
+      "composeMs": 41.400000009685755,
+      "composites": 73,
+      "draws": 1086,
+      "pageDrawMs": 15759.60000000149
+    },
+    "text": "我吃一口。小果子真好吃！",
+    "textRect": {
+      "bottom": 635.2083587646484,
+      "height": 72.22917175292969,
+      "left": 40.55208587646485,
+      "right": 359.3854293823242,
+      "top": 562.9791870117188,
+      "width": 318.8333435058594,
+      "x": 40.55208587646485,
+      "y": 562.9791870117188
+    }
+  },
+  {
+    "book": "fruit",
+    "dataset": {
+      "actorCacheId": "60",
+      "art": "fruit",
+      "artState": "ready",
+      "camera": "{\"x\":10.736196319018404,\"y\":0,\"width\":978.5276073619632,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "6",
+      "portraitScale": "0.42889683837095727",
+      "pose": "carry-play",
+      "reflectionActor": "",
+      "scene": "fruit-end",
+      "sceneGeometry": "{\"paper\":null,\"stone\":null,\"wind\":null,\"small\":{\"at\":\"leftPalm\",\"bitten\":true},\"big\":{\"at\":\"friendBite\",\"bitten\":true},\"bed\":null,\"cat\":null,\"ball\":null,\"car\":null,\"sleeping\":false}",
+      "storyBeat": "friend-tastes-the-big-apple"
+    },
+    "overflow": false,
+    "page": 6,
+    "paper": {
+      "bottom": 682.5417175292969,
+      "height": 523.0833740234375,
+      "left": 10.666666984558104,
+      "right": 379.3229169845581,
+      "top": 159.45834350585938,
+      "width": 368.65625,
+      "x": 10.666666984558104,
+      "y": 159.45834350585938
+    },
+    "photoTiming": {
+      "cutoutMs": 863.5,
+      "photoReadMs": 17.90000000037253,
+      "pngEncodeMs": 18.59999999962747,
+      "recognitionMs": 229.90000000037253
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 8881.299999998882,
+      "bodyDownloadMs": 635.6999999992549,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "fruit",
+                "catbed"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "step-own-shoes",
+                  "status": "ready"
+                },
+                {
+                  "id": "carry-play",
+                  "status": "ready"
+                },
+                {
+                  "id": "eat-fruit",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "fruit",
+            "catbed"
+          ]
+        }
+      ],
+      "composeMs": 41.400000009685755,
+      "composites": 73,
+      "draws": 1087,
+      "pageDrawMs": 15759.800000000743
+    },
+    "text": "你也吃一口。大果子也好吃！",
+    "textRect": {
+      "bottom": 635.2083587646484,
+      "height": 72.22917175292969,
+      "left": 30.59375,
+      "right": 349.4270935058594,
+      "top": 562.9791870117188,
+      "width": 318.8333435058594,
+      "x": 30.59375,
+      "y": 562.9791870117188
+    }
+  },
+  {
+    "book": "fruit",
+    "dataset": {
+      "actorCacheId": "61",
+      "art": "fruit",
+      "artState": "ready",
+      "camera": "{\"x\":10.736196319018404,\"y\":0,\"width\":978.5276073619632,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "7",
+      "portraitScale": "0.42889683837095727",
+      "pose": "eat-fruit",
+      "reflectionActor": "",
+      "scene": "fruit-welcome",
+      "sceneGeometry": "{\"paper\":null,\"stone\":null,\"wind\":null,\"small\":{\"at\":\"bite\",\"bitten\":true},\"big\":{\"at\":\"friendBite\",\"bitten\":true},\"bed\":null,\"cat\":null,\"ball\":null,\"car\":null,\"sleeping\":false}",
+      "storyBeat": "both-apples-are-good"
+    },
+    "overflow": false,
+    "page": 7,
+    "paper": {
+      "bottom": 682.5417175292969,
+      "height": 523.0833740234375,
+      "left": 10.666666984558104,
+      "right": 379.3229169845581,
+      "top": 159.45834350585938,
+      "width": 368.65625,
+      "x": 10.666666984558104,
+      "y": 159.45834350585938
+    },
+    "photoTiming": {
+      "cutoutMs": 863.5,
+      "photoReadMs": 17.90000000037253,
+      "pngEncodeMs": 18.59999999962747,
+      "recognitionMs": 229.90000000037253
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 8881.299999998882,
+      "bodyDownloadMs": 635.6999999992549,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "fruit",
+                "catbed"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "step-own-shoes",
+                  "status": "ready"
+                },
+                {
+                  "id": "carry-play",
+                  "status": "ready"
+                },
+                {
+                  "id": "eat-fruit",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "fruit",
+            "catbed"
+          ]
+        }
+      ],
+      "composeMs": 41.400000009685755,
+      "composites": 73,
+      "draws": 1088,
+      "pageDrawMs": 15761.10000000149
+    },
+    "text": "大果子小果子，我们都爱吃！",
+    "textRect": {
+      "bottom": 635.2083587646484,
+      "height": 72.22917175292969,
+      "left": 40.55208587646485,
+      "right": 359.3854293823242,
+      "top": 562.9791870117188,
+      "width": 318.8333435058594,
+      "x": 40.55208587646485,
+      "y": 562.9791870117188
+    }
+  }
+]

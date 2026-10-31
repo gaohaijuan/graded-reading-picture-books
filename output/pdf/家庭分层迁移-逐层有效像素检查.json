@@ -1,0 +1,342 @@
+{
+  "sourceQuality": {
+    "pages": [
+      {
+        "kind": "cover",
+        "page": 1,
+        "backgroundEffectivePpi": 245,
+        "portraits": [],
+        "layers": [
+          {
+            "kind": "body",
+            "encodedPixelPpi": 287,
+            "nativeEffectivePpi": 287
+          },
+          {
+            "kind": "head",
+            "encodedPixelPpi": 580,
+            "nativeEffectivePpi": 580
+          },
+          {
+            "kind": "body",
+            "encodedPixelPpi": 273,
+            "nativeEffectivePpi": 273
+          },
+          {
+            "kind": "head",
+            "encodedPixelPpi": 540,
+            "nativeEffectivePpi": 540
+          },
+          {
+            "kind": "body",
+            "encodedPixelPpi": 648,
+            "nativeEffectivePpi": 648
+          },
+          {
+            "kind": "head",
+            "encodedPixelPpi": 1348,
+            "nativeEffectivePpi": 1348
+          }
+        ],
+        "completeLayerAudit": true,
+        "characterPipeline": "composed-actor-v1",
+        "bookId": "family"
+      },
+      {
+        "kind": "story",
+        "page": 1,
+        "backgroundEffectivePpi": 215,
+        "portraits": [],
+        "layers": [
+          {
+            "kind": "body",
+            "encodedPixelPpi": 642,
+            "nativeEffectivePpi": 642
+          },
+          {
+            "kind": "head",
+            "encodedPixelPpi": 1336,
+            "nativeEffectivePpi": 1336
+          },
+          {
+            "kind": "body",
+            "encodedPixelPpi": 284,
+            "nativeEffectivePpi": 284
+          },
+          {
+            "kind": "head",
+            "encodedPixelPpi": 575,
+            "nativeEffectivePpi": 575
+          },
+          {
+            "kind": "body",
+            "encodedPixelPpi": 271,
+            "nativeEffectivePpi": 271
+          },
+          {
+            "kind": "head",
+            "encodedPixelPpi": 536,
+            "nativeEffectivePpi": 536
+          }
+        ],
+        "completeLayerAudit": true,
+        "characterPipeline": "composed-actor-v1",
+        "bookId": "family"
+      },
+      {
+        "kind": "story",
+        "page": 2,
+        "backgroundEffectivePpi": 185,
+        "portraits": [],
+        "layers": [
+          {
+            "kind": "body",
+            "encodedPixelPpi": 260,
+            "nativeEffectivePpi": 260
+          },
+          {
+            "kind": "head",
+            "encodedPixelPpi": 526,
+            "nativeEffectivePpi": 526
+          },
+          {
+            "kind": "body",
+            "encodedPixelPpi": 588,
+            "nativeEffectivePpi": 588
+          },
+          {
+            "kind": "head",
+            "encodedPixelPpi": 1224,
+            "nativeEffectivePpi": 1224
+          }
+        ],
+        "completeLayerAudit": true,
+        "characterPipeline": "composed-actor-v1",
+        "bookId": "family"
+      },
+      {
+        "kind": "story",
+        "page": 3,
+        "backgroundEffectivePpi": 185,
+        "portraits": [],
+        "layers": [
+          {
+            "kind": "body",
+            "encodedPixelPpi": 250,
+            "nativeEffectivePpi": 250
+          },
+          {
+            "kind": "head",
+            "encodedPixelPpi": 494,
+            "nativeEffectivePpi": 494
+          },
+          {
+            "kind": "body",
+            "encodedPixelPpi": 593,
+            "nativeEffectivePpi": 593
+          },
+          {
+            "kind": "head",
+            "encodedPixelPpi": 1233,
+            "nativeEffectivePpi": 1233
+          }
+        ],
+        "completeLayerAudit": true,
+        "characterPipeline": "composed-actor-v1",
+        "bookId": "family"
+      },
+      {
+        "kind": "story",
+        "page": 4,
+        "backgroundEffectivePpi": 215,
+        "portraits": [],
+        "layers": [
+          {
+            "kind": "body",
+            "encodedPixelPpi": 252,
+            "nativeEffectivePpi": 252
+          },
+          {
+            "kind": "head",
+            "encodedPixelPpi": 509,
+            "nativeEffectivePpi": 509
+          },
+          {
+            "kind": "body",
+            "encodedPixelPpi": 240,
+            "nativeEffectivePpi": 240
+          },
+          {
+            "kind": "head",
+            "encodedPixelPpi": 474,
+            "nativeEffectivePpi": 474
+          }
+        ],
+        "completeLayerAudit": true,
+        "characterPipeline": "composed-actor-v1",
+        "bookId": "family"
+      },
+      {
+        "kind": "story",
+        "page": 5,
+        "backgroundEffectivePpi": 215,
+        "portraits": [],
+        "layers": [
+          {
+            "kind": "body",
+            "encodedPixelPpi": 360,
+            "nativeEffectivePpi": 360
+          },
+          {
+            "kind": "head",
+            "encodedPixelPpi": 727,
+            "nativeEffectivePpi": 727
+          },
+          {
+            "kind": "body",
+            "encodedPixelPpi": 343,
+            "nativeEffectivePpi": 343
+          },
+          {
+            "kind": "head",
+            "encodedPixelPpi": 678,
+            "nativeEffectivePpi": 678
+          },
+          {
+            "kind": "body",
+            "encodedPixelPpi": 812,
+            "nativeEffectivePpi": 812
+          },
+          {
+            "kind": "head",
+            "encodedPixelPpi": 1690,
+            "nativeEffectivePpi": 1690
+          }
+        ],
+        "completeLayerAudit": true,
+        "characterPipeline": "composed-actor-v1",
+        "bookId": "family"
+      },
+      {
+        "kind": "story",
+        "page": 6,
+        "backgroundEffectivePpi": 215,
+        "portraits": [],
+        "layers": [
+          {
+            "kind": "body",
+            "encodedPixelPpi": 379,
+            "nativeEffectivePpi": 379
+          },
+          {
+            "kind": "head",
+            "encodedPixelPpi": 765,
+            "nativeEffectivePpi": 765
+          },
+          {
+            "kind": "body",
+            "encodedPixelPpi": 361,
+            "nativeEffectivePpi": 361
+          },
+          {
+            "kind": "head",
+            "encodedPixelPpi": 713,
+            "nativeEffectivePpi": 713
+          },
+          {
+            "kind": "body",
+            "encodedPixelPpi": 855,
+            "nativeEffectivePpi": 855
+          },
+          {
+            "kind": "head",
+            "encodedPixelPpi": 1779,
+            "nativeEffectivePpi": 1779
+          }
+        ],
+        "completeLayerAudit": true,
+        "characterPipeline": "composed-actor-v1",
+        "bookId": "family"
+      },
+      {
+        "kind": "story",
+        "page": 7,
+        "backgroundEffectivePpi": 215,
+        "portraits": [],
+        "layers": [
+          {
+            "kind": "body",
+            "encodedPixelPpi": 676,
+            "nativeEffectivePpi": 676
+          },
+          {
+            "kind": "head",
+            "encodedPixelPpi": 1407,
+            "nativeEffectivePpi": 1407
+          },
+          {
+            "kind": "body",
+            "encodedPixelPpi": 299,
+            "nativeEffectivePpi": 299
+          },
+          {
+            "kind": "head",
+            "encodedPixelPpi": 605,
+            "nativeEffectivePpi": 605
+          },
+          {
+            "kind": "body",
+            "encodedPixelPpi": 285,
+            "nativeEffectivePpi": 285
+          },
+          {
+            "kind": "head",
+            "encodedPixelPpi": 564,
+            "nativeEffectivePpi": 564
+          }
+        ],
+        "completeLayerAudit": true,
+        "characterPipeline": "composed-actor-v1",
+        "bookId": "family"
+      }
+    ],
+    "minimumBackgroundPpi": 185,
+    "minimumMeasuredPpi": 185,
+    "completeLayerAudit": true,
+    "native300Ppi": false
+  },
+  "pdf_sizes_mm": {
+    "封面-外侧与内侧.pdf": [
+      [
+        303.0,
+        216.0
+      ],
+      [
+        303.0,
+        216.0
+      ]
+    ],
+    "书芯-A5按阅读顺序.pdf": [
+      [
+        154.0,
+        216.0
+      ],
+      [
+        154.0,
+        216.0
+      ],
+      [
+        154.0,
+        216.0
+      ],
+      [
+        154.0,
+        216.0
+      ],
+      [
+        154.0,
+        216.0
+      ]
+    ]
+  }
+}

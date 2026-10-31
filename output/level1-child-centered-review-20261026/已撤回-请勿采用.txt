@@ -1,0 +1,4 @@
+已撤回｜2026-10-26
+用户要求全部恢复到补字改稿前。此目录中的正文、试排、方案、字数和复现达标结论均为撤回的历史内容，不得作为当前采用稿或继续出图的依据。
+当前恢复稿：C:\Users\Administrator\Documents\ChatGPT\分级阅读绘本\output\manuscript-level1-complete-review\第一级30篇完整文案-待确认.json
+未经新的明确修改要求，不得重新应用此处改稿或重跑旧脚本覆盖当前稿。

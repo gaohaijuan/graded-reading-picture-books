@@ -1,0 +1,388 @@
+{
+  "date": "2026-10-24",
+  "newBooks": [
+    "小纸片飞了",
+    "大果子和小果子",
+    "小猫的床"
+  ],
+  "newPages": 24,
+  "shelfBooks": 19,
+  "imageGeneration": {
+    "mode": "built-in imagegen",
+    "imageApi": false,
+    "promptManifest": "../little-protagonist/content/books-17-19-art-provenance.json",
+    "newAssets": 10,
+    "reusedAssets": 14,
+    "lossless": true
+  },
+  "browser": {
+    "default": {
+      "pages": 24,
+      "allArtworkReady": true,
+      "overflow": 0,
+      "textInside": true,
+      "portraitScales": [
+        "0.26155187445510025"
+      ],
+      "actorIdsByPose": {
+        "carry-play": [
+          "7"
+        ],
+        "hands-flower-open": [
+          "2"
+        ],
+        "run-left": [
+          "6"
+        ],
+        "run-right": [
+          "5"
+        ],
+        "crouch-touch": [
+          "4"
+        ],
+        "crouch-palm": [
+          "3"
+        ],
+        "eat-fruit": [
+          "8"
+        ],
+        "crouch-book": [
+          "10"
+        ],
+        "step-own-shoes": [
+          "9"
+        ]
+      }
+    },
+    "photo": {
+      "pages": 24,
+      "allArtworkReady": true,
+      "overflow": 0,
+      "textInside": true,
+      "portraitScales": [
+        "0.42889683837095727"
+      ],
+      "actorIdsByPose": {
+        "carry-play": [
+          "39"
+        ],
+        "hands-flower-open": [
+          "34"
+        ],
+        "run-left": [
+          "38"
+        ],
+        "run-right": [
+          "37"
+        ],
+        "crouch-touch": [
+          "36"
+        ],
+        "crouch-palm": [
+          "35"
+        ],
+        "eat-fruit": [
+          "40"
+        ],
+        "crouch-book": [
+          "32"
+        ],
+        "step-own-shoes": [
+          "41"
+        ]
+      }
+    },
+    "mobile": {
+      "pages": 24,
+      "allArtworkReady": true,
+      "overflow": 0,
+      "textInside": true,
+      "portraitScales": [
+        "0.42889683837095727"
+      ],
+      "actorIdsByPose": {
+        "carry-play": [
+          "60"
+        ],
+        "hands-flower-open": [
+          "49"
+        ],
+        "run-left": [
+          "59"
+        ],
+        "run-right": [
+          "58"
+        ],
+        "crouch-touch": [
+          "57"
+        ],
+        "crouch-palm": [
+          "56"
+        ],
+        "eat-fruit": [
+          "61"
+        ],
+        "crouch-book": [
+          "32"
+        ],
+        "step-own-shoes": [
+          "55"
+        ]
+      }
+    }
+  },
+  "pdf": {
+    "default": {
+      "file": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\output\\pdf\\小小主角-第2册-竖版A5校样.pdf",
+      "pages": 80,
+      "body_pages": 68,
+      "chapters": [
+        {
+          "book": "tree",
+          "title": "小树长高了",
+          "start_folio": 1,
+          "start_pdf_page": 3,
+          "body_pages": 6
+        },
+        {
+          "book": "calling",
+          "title": "谁在叫",
+          "start_folio": 8,
+          "start_pdf_page": 10,
+          "body_pages": 8
+        },
+        {
+          "book": "catball",
+          "title": "小猫要小球吗",
+          "start_folio": 17,
+          "start_pdf_page": 19,
+          "body_pages": 8
+        },
+        {
+          "book": "shoes",
+          "title": "大鞋和小鞋",
+          "start_folio": 26,
+          "start_pdf_page": 28,
+          "body_pages": 6
+        },
+        {
+          "book": "watering",
+          "title": "小花喝水",
+          "start_folio": 33,
+          "start_pdf_page": 35,
+          "body_pages": 8
+        },
+        {
+          "book": "wagon",
+          "title": "小球也要走",
+          "start_folio": 42,
+          "start_pdf_page": 44,
+          "body_pages": 8
+        },
+        {
+          "book": "paper",
+          "title": "小纸片飞了",
+          "start_folio": 51,
+          "start_pdf_page": 53,
+          "body_pages": 8
+        },
+        {
+          "book": "fruit",
+          "title": "大果子和小果子",
+          "start_folio": 60,
+          "start_pdf_page": 62,
+          "body_pages": 8
+        },
+        {
+          "book": "catbed",
+          "title": "小猫的床",
+          "start_folio": 69,
+          "start_pdf_page": 71,
+          "body_pages": 8
+        }
+      ],
+      "fonts": [
+        {
+          "name": "/NotoSerifSC-ExtraLight-7697",
+          "embedded": true
+        }
+      ],
+      "errors": []
+    },
+    "photo": {
+      "file": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\tmp\\pdfs\\第2册九故事-真人长名字-QA.pdf",
+      "pages": 80,
+      "body_pages": 68,
+      "chapters": [
+        {
+          "book": "tree",
+          "title": "小树长高了",
+          "start_folio": 1,
+          "start_pdf_page": 3,
+          "body_pages": 6
+        },
+        {
+          "book": "calling",
+          "title": "谁在叫",
+          "start_folio": 8,
+          "start_pdf_page": 10,
+          "body_pages": 8
+        },
+        {
+          "book": "catball",
+          "title": "小猫要小球吗",
+          "start_folio": 17,
+          "start_pdf_page": 19,
+          "body_pages": 8
+        },
+        {
+          "book": "shoes",
+          "title": "大鞋和小鞋",
+          "start_folio": 26,
+          "start_pdf_page": 28,
+          "body_pages": 6
+        },
+        {
+          "book": "watering",
+          "title": "小花喝水",
+          "start_folio": 33,
+          "start_pdf_page": 35,
+          "body_pages": 8
+        },
+        {
+          "book": "wagon",
+          "title": "小球也要走",
+          "start_folio": 42,
+          "start_pdf_page": 44,
+          "body_pages": 8
+        },
+        {
+          "book": "paper",
+          "title": "小纸片飞了",
+          "start_folio": 51,
+          "start_pdf_page": 53,
+          "body_pages": 8
+        },
+        {
+          "book": "fruit",
+          "title": "大果子和小果子",
+          "start_folio": 60,
+          "start_pdf_page": 62,
+          "body_pages": 8
+        },
+        {
+          "book": "catbed",
+          "title": "小猫的床",
+          "start_folio": 69,
+          "start_pdf_page": 71,
+          "body_pages": 8
+        }
+      ],
+      "fonts": [
+        {
+          "name": "/NotoSerifSC-ExtraLight-7697",
+          "embedded": true
+        }
+      ],
+      "errors": []
+    }
+  },
+  "print": {
+    "minimumNativePpi": 243,
+    "native300Ppi": false,
+    "completeLayerAudit": true,
+    "outer": {
+      "pages": 2,
+      "size": {
+        "media_mm": [
+          303,
+          216
+        ],
+        "trim_mm": [
+          297,
+          210
+        ],
+        "bleed_each_mm": 3
+      }
+    },
+    "inner": {
+      "pages": 76,
+      "size": {
+        "media_mm": [
+          154,
+          216
+        ],
+        "trim_mm": [
+          148,
+          210
+        ],
+        "bleed_each_mm": 3
+      }
+    }
+  },
+  "validation": {
+    "fullUnitTestsPassed": 394,
+    "postAdjustmentRelevantTestsPassed": 29,
+    "javascriptFilesChecked": 46,
+    "completionAndRestartBooks": 3
+  },
+  "profileRestored": {
+    "name": "小石头",
+    "head": "default illustrated",
+    "familyMembers": 3,
+    "age": 5,
+    "className": "大班"
+  },
+  "viewportReset": true,
+  "performance": {
+    "portraitProcessing": {
+      "cutoutMs": 863.5,
+      "photoReadMs": 17.90000000037253,
+      "pngEncodeMs": 18.59999999962747,
+      "recognitionMs": 229.90000000037253
+    },
+    "sessionCumulative": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 8881.299999998882,
+      "bodyDownloadMs": 635.6999999992549,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "catbed"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "step-own-shoes",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "catbed"
+          ]
+        }
+      ],
+      "composeMs": 26.10000000335276,
+      "composites": 50,
+      "draws": 738,
+      "pageDrawMs": 10442.400000004098
+    },
+    "limitations": "Local Windows localhost with warm caches, session counters include covers/repeated renders. Draw timing is JavaScript submission, not GPU completion. PNG encoding measures portrait output. Narrow viewport is simulated, not a physical-device benchmark."
+  }
+}

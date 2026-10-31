@@ -1,0 +1,1130 @@
+{
+  "id": "level-1",
+  "scope": "level",
+  "collection": true,
+  "volumeNumber": 1,
+  "volumeCount": 1,
+  "books": [
+    {
+      "id": "intro",
+      "title": "你好，我是小石头",
+      "tag": "认识自己",
+      "group": "第 1 组",
+      "description": "把自己介绍给新朋友。",
+      "tone": "peach",
+      "pages": [
+        [
+          "你好！",
+          "我是小石头。"
+        ],
+        [
+          "我的名字",
+          "叫小石头。"
+        ],
+        [
+          "你的名字",
+          "是什么呢？"
+        ],
+        [
+          "我五岁了。",
+          "你几岁呢？"
+        ],
+        [
+          "我上大班了。"
+        ],
+        [
+          "你也是吗？"
+        ]
+      ]
+    },
+    {
+      "id": "flower",
+      "title": "我的花",
+      "tag": "数数花瓣",
+      "group": "第 2 组",
+      "description": "一阵风来，小花瓣飞呀飞。",
+      "tone": "green",
+      "pages": [
+        [
+          "我的小花。"
+        ],
+        [
+          "我的花",
+          "有好多片。"
+        ],
+        [
+          "一片两片三四片，"
+        ],
+        [
+          "五片六片七八片，"
+        ],
+        [
+          "九片十片十一片，"
+        ],
+        [
+          "飞入草丛都不见。"
+        ]
+      ]
+    },
+    {
+      "id": "family",
+      "title": "我家有几口人？",
+      "tag": "认识家人",
+      "group": "第 3 组",
+      "description": "数一数，谁把自己忘了？",
+      "tone": "yellow",
+      "pages": [
+        [
+          "我家有几口人？",
+          "我来数一数。"
+        ],
+        [
+          "这是爸爸。"
+        ],
+        [
+          "这是妈妈。"
+        ],
+        [
+          "我数好了！",
+          "一共有两口人。"
+        ],
+        [
+          "咦？",
+          "我把谁忘了？"
+        ],
+        [
+          "是我呀！",
+          "还要加上我。"
+        ],
+        [
+          "我家有三口人。",
+          "我们都在家！"
+        ]
+      ],
+      "scenes": [
+        {
+          "kind": "group",
+          "memberIds": [
+            "child",
+            "dad",
+            "mom"
+          ]
+        },
+        {
+          "kind": "member",
+          "memberIds": [
+            "dad",
+            "child"
+          ],
+          "focusId": "dad"
+        },
+        {
+          "kind": "member",
+          "memberIds": [
+            "mom",
+            "child"
+          ],
+          "focusId": "mom"
+        },
+        {
+          "kind": "count",
+          "memberIds": [
+            "dad",
+            "mom"
+          ],
+          "count": 2
+        },
+        {
+          "kind": "remember",
+          "memberIds": [
+            "child",
+            "dad",
+            "mom"
+          ],
+          "focusId": "child"
+        },
+        {
+          "kind": "remember",
+          "memberIds": [
+            "child",
+            "dad",
+            "mom"
+          ],
+          "focusId": "child"
+        },
+        {
+          "kind": "group",
+          "memberIds": [
+            "child",
+            "dad",
+            "mom"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "id": "hands",
+      "tag": "小手游戏",
+      "description": "把小手变成花，玩一个来来去去的游戏。",
+      "tone": "green",
+      "title": "我的小手",
+      "group": "第 1 级",
+      "focus": "手开关来去",
+      "pages": [
+        [
+          "我有两只小手。"
+        ],
+        [
+          "小手开，",
+          "小花来。"
+        ],
+        [
+          "小手关，",
+          "小花去。"
+        ],
+        [
+          "小花，小花，",
+          "你不来了吗？"
+        ],
+        [
+          "小手开，",
+          "小花回来了！"
+        ],
+        [
+          "我的小手，",
+          "是小花的家！"
+        ]
+      ]
+    },
+    {
+      "number": 5,
+      "id": "rain",
+      "tag": "雨中小事",
+      "description": "小花不来，我去。和小花一起躲雨。",
+      "tone": "blue",
+      "title": "下雨了",
+      "group": "第 1 级",
+      "focus": "雨云中",
+      "pages": [
+        [
+          "天上有云。"
+        ],
+        [
+          "风来了。",
+          "下雨了！"
+        ],
+        [
+          "小伞开了。",
+          "我在伞下。"
+        ],
+        [
+          "小花在雨中。"
+        ],
+        [
+          "小花，来！",
+          "小花不来。"
+        ],
+        [
+          "花不来，",
+          "我去！"
+        ],
+        [
+          "我在伞下，",
+          "小花也在伞下。"
+        ],
+        [
+          "雨在伞上，",
+          "伞下有我，也有花。"
+        ]
+      ]
+    },
+    {
+      "number": 6,
+      "id": "stone",
+      "tag": "一起回家",
+      "description": "带小石头散步，再送它回家。",
+      "tone": "yellow",
+      "title": "小石头回家",
+      "group": "第 1 级",
+      "focus": "石走回",
+      "pages": [
+        [
+          "大石头下，",
+          "有小石头。"
+        ],
+        [
+          "这是小石头的家。"
+        ],
+        [
+          "小石头，来！",
+          "你在我的手中。"
+        ],
+        [
+          "我走，",
+          "小石头也走。"
+        ],
+        [
+          "我要回家了。"
+        ],
+        [
+          "小石头，",
+          "你也回家吧。"
+        ],
+        [
+          "大石头下，",
+          "小石头回家了。"
+        ],
+        [
+          "我也回家了！"
+        ]
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "bookId": "intro",
+      "title": "你好，我是小石头",
+      "number": 1,
+      "startPage": 3,
+      "startFolio": 1,
+      "storyPages": 6
+    },
+    {
+      "bookId": "flower",
+      "title": "我的花",
+      "number": 2,
+      "startPage": 10,
+      "startFolio": 8,
+      "storyPages": 6
+    },
+    {
+      "bookId": "family",
+      "title": "我家有几口人？",
+      "number": 3,
+      "startPage": 17,
+      "startFolio": 15,
+      "storyPages": 7
+    },
+    {
+      "bookId": "hands",
+      "title": "我的小手",
+      "number": 4,
+      "startPage": 25,
+      "startFolio": 23,
+      "storyPages": 6
+    },
+    {
+      "bookId": "rain",
+      "title": "下雨了",
+      "number": 5,
+      "startPage": 32,
+      "startFolio": 30,
+      "storyPages": 8
+    },
+    {
+      "bookId": "stone",
+      "title": "小石头回家",
+      "number": 6,
+      "startPage": 41,
+      "startFolio": 39,
+      "storyPages": 8
+    }
+  ],
+  "pages": [
+    {
+      "kind": "front",
+      "bookId": "intro",
+      "number": 1,
+      "folio": null
+    },
+    {
+      "kind": "contents",
+      "part": 0,
+      "number": 2,
+      "folio": null
+    },
+    {
+      "kind": "story",
+      "bookId": "intro",
+      "page": 0,
+      "chapter": 1,
+      "number": 3,
+      "folio": 1
+    },
+    {
+      "kind": "story",
+      "bookId": "intro",
+      "page": 1,
+      "chapter": 1,
+      "number": 4,
+      "folio": 2
+    },
+    {
+      "kind": "story",
+      "bookId": "intro",
+      "page": 2,
+      "chapter": 1,
+      "number": 5,
+      "folio": 3
+    },
+    {
+      "kind": "story",
+      "bookId": "intro",
+      "page": 3,
+      "chapter": 1,
+      "number": 6,
+      "folio": 4
+    },
+    {
+      "kind": "story",
+      "bookId": "intro",
+      "page": 4,
+      "chapter": 1,
+      "number": 7,
+      "folio": 5
+    },
+    {
+      "kind": "story",
+      "bookId": "intro",
+      "page": 5,
+      "chapter": 1,
+      "number": 8,
+      "folio": 6
+    },
+    {
+      "kind": "summary",
+      "bookId": "intro",
+      "chapter": 1,
+      "number": 9,
+      "folio": 7
+    },
+    {
+      "kind": "story",
+      "bookId": "flower",
+      "page": 0,
+      "chapter": 2,
+      "number": 10,
+      "folio": 8
+    },
+    {
+      "kind": "story",
+      "bookId": "flower",
+      "page": 1,
+      "chapter": 2,
+      "number": 11,
+      "folio": 9
+    },
+    {
+      "kind": "story",
+      "bookId": "flower",
+      "page": 2,
+      "chapter": 2,
+      "number": 12,
+      "folio": 10
+    },
+    {
+      "kind": "story",
+      "bookId": "flower",
+      "page": 3,
+      "chapter": 2,
+      "number": 13,
+      "folio": 11
+    },
+    {
+      "kind": "story",
+      "bookId": "flower",
+      "page": 4,
+      "chapter": 2,
+      "number": 14,
+      "folio": 12
+    },
+    {
+      "kind": "story",
+      "bookId": "flower",
+      "page": 5,
+      "chapter": 2,
+      "number": 15,
+      "folio": 13
+    },
+    {
+      "kind": "summary",
+      "bookId": "flower",
+      "chapter": 2,
+      "number": 16,
+      "folio": 14
+    },
+    {
+      "kind": "story",
+      "bookId": "family",
+      "page": 0,
+      "chapter": 3,
+      "number": 17,
+      "folio": 15
+    },
+    {
+      "kind": "story",
+      "bookId": "family",
+      "page": 1,
+      "chapter": 3,
+      "number": 18,
+      "folio": 16
+    },
+    {
+      "kind": "story",
+      "bookId": "family",
+      "page": 2,
+      "chapter": 3,
+      "number": 19,
+      "folio": 17
+    },
+    {
+      "kind": "story",
+      "bookId": "family",
+      "page": 3,
+      "chapter": 3,
+      "number": 20,
+      "folio": 18
+    },
+    {
+      "kind": "story",
+      "bookId": "family",
+      "page": 4,
+      "chapter": 3,
+      "number": 21,
+      "folio": 19
+    },
+    {
+      "kind": "story",
+      "bookId": "family",
+      "page": 5,
+      "chapter": 3,
+      "number": 22,
+      "folio": 20
+    },
+    {
+      "kind": "story",
+      "bookId": "family",
+      "page": 6,
+      "chapter": 3,
+      "number": 23,
+      "folio": 21
+    },
+    {
+      "kind": "summary",
+      "bookId": "family",
+      "chapter": 3,
+      "number": 24,
+      "folio": 22
+    },
+    {
+      "kind": "story",
+      "bookId": "hands",
+      "page": 0,
+      "chapter": 4,
+      "number": 25,
+      "folio": 23
+    },
+    {
+      "kind": "story",
+      "bookId": "hands",
+      "page": 1,
+      "chapter": 4,
+      "number": 26,
+      "folio": 24
+    },
+    {
+      "kind": "story",
+      "bookId": "hands",
+      "page": 2,
+      "chapter": 4,
+      "number": 27,
+      "folio": 25
+    },
+    {
+      "kind": "story",
+      "bookId": "hands",
+      "page": 3,
+      "chapter": 4,
+      "number": 28,
+      "folio": 26
+    },
+    {
+      "kind": "story",
+      "bookId": "hands",
+      "page": 4,
+      "chapter": 4,
+      "number": 29,
+      "folio": 27
+    },
+    {
+      "kind": "story",
+      "bookId": "hands",
+      "page": 5,
+      "chapter": 4,
+      "number": 30,
+      "folio": 28
+    },
+    {
+      "kind": "summary",
+      "bookId": "hands",
+      "chapter": 4,
+      "number": 31,
+      "folio": 29
+    },
+    {
+      "kind": "story",
+      "bookId": "rain",
+      "page": 0,
+      "chapter": 5,
+      "number": 32,
+      "folio": 30
+    },
+    {
+      "kind": "story",
+      "bookId": "rain",
+      "page": 1,
+      "chapter": 5,
+      "number": 33,
+      "folio": 31
+    },
+    {
+      "kind": "story",
+      "bookId": "rain",
+      "page": 2,
+      "chapter": 5,
+      "number": 34,
+      "folio": 32
+    },
+    {
+      "kind": "story",
+      "bookId": "rain",
+      "page": 3,
+      "chapter": 5,
+      "number": 35,
+      "folio": 33
+    },
+    {
+      "kind": "story",
+      "bookId": "rain",
+      "page": 4,
+      "chapter": 5,
+      "number": 36,
+      "folio": 34
+    },
+    {
+      "kind": "story",
+      "bookId": "rain",
+      "page": 5,
+      "chapter": 5,
+      "number": 37,
+      "folio": 35
+    },
+    {
+      "kind": "story",
+      "bookId": "rain",
+      "page": 6,
+      "chapter": 5,
+      "number": 38,
+      "folio": 36
+    },
+    {
+      "kind": "story",
+      "bookId": "rain",
+      "page": 7,
+      "chapter": 5,
+      "number": 39,
+      "folio": 37
+    },
+    {
+      "kind": "summary",
+      "bookId": "rain",
+      "chapter": 5,
+      "number": 40,
+      "folio": 38
+    },
+    {
+      "kind": "story",
+      "bookId": "stone",
+      "page": 0,
+      "chapter": 6,
+      "number": 41,
+      "folio": 39
+    },
+    {
+      "kind": "story",
+      "bookId": "stone",
+      "page": 1,
+      "chapter": 6,
+      "number": 42,
+      "folio": 40
+    },
+    {
+      "kind": "story",
+      "bookId": "stone",
+      "page": 2,
+      "chapter": 6,
+      "number": 43,
+      "folio": 41
+    },
+    {
+      "kind": "story",
+      "bookId": "stone",
+      "page": 3,
+      "chapter": 6,
+      "number": 44,
+      "folio": 42
+    },
+    {
+      "kind": "story",
+      "bookId": "stone",
+      "page": 4,
+      "chapter": 6,
+      "number": 45,
+      "folio": 43
+    },
+    {
+      "kind": "story",
+      "bookId": "stone",
+      "page": 5,
+      "chapter": 6,
+      "number": 46,
+      "folio": 44
+    },
+    {
+      "kind": "story",
+      "bookId": "stone",
+      "page": 6,
+      "chapter": 6,
+      "number": 47,
+      "folio": 45
+    },
+    {
+      "kind": "story",
+      "bookId": "stone",
+      "page": 7,
+      "chapter": 6,
+      "number": 48,
+      "folio": 46
+    },
+    {
+      "kind": "summary",
+      "bookId": "stone",
+      "chapter": 6,
+      "number": 49,
+      "folio": 47
+    },
+    {
+      "kind": "collection-back",
+      "bookId": "stone",
+      "back": true,
+      "number": 50,
+      "folio": null
+    }
+  ],
+  "leaves": [
+    {
+      "kind": "front",
+      "bookId": "intro",
+      "number": 1,
+      "folio": null
+    },
+    {
+      "kind": "contents",
+      "part": 0,
+      "number": 2,
+      "folio": null
+    },
+    {
+      "kind": "story",
+      "bookId": "intro",
+      "page": 0,
+      "chapter": 1,
+      "number": 3,
+      "folio": 1
+    },
+    {
+      "kind": "story",
+      "bookId": "intro",
+      "page": 1,
+      "chapter": 1,
+      "number": 4,
+      "folio": 2
+    },
+    {
+      "kind": "story",
+      "bookId": "intro",
+      "page": 2,
+      "chapter": 1,
+      "number": 5,
+      "folio": 3
+    },
+    {
+      "kind": "story",
+      "bookId": "intro",
+      "page": 3,
+      "chapter": 1,
+      "number": 6,
+      "folio": 4
+    },
+    {
+      "kind": "story",
+      "bookId": "intro",
+      "page": 4,
+      "chapter": 1,
+      "number": 7,
+      "folio": 5
+    },
+    {
+      "kind": "story",
+      "bookId": "intro",
+      "page": 5,
+      "chapter": 1,
+      "number": 8,
+      "folio": 6
+    },
+    {
+      "kind": "summary",
+      "bookId": "intro",
+      "chapter": 1,
+      "number": 9,
+      "folio": 7
+    },
+    {
+      "kind": "story",
+      "bookId": "flower",
+      "page": 0,
+      "chapter": 2,
+      "number": 10,
+      "folio": 8
+    },
+    {
+      "kind": "story",
+      "bookId": "flower",
+      "page": 1,
+      "chapter": 2,
+      "number": 11,
+      "folio": 9
+    },
+    {
+      "kind": "story",
+      "bookId": "flower",
+      "page": 2,
+      "chapter": 2,
+      "number": 12,
+      "folio": 10
+    },
+    {
+      "kind": "story",
+      "bookId": "flower",
+      "page": 3,
+      "chapter": 2,
+      "number": 13,
+      "folio": 11
+    },
+    {
+      "kind": "story",
+      "bookId": "flower",
+      "page": 4,
+      "chapter": 2,
+      "number": 14,
+      "folio": 12
+    },
+    {
+      "kind": "story",
+      "bookId": "flower",
+      "page": 5,
+      "chapter": 2,
+      "number": 15,
+      "folio": 13
+    },
+    {
+      "kind": "summary",
+      "bookId": "flower",
+      "chapter": 2,
+      "number": 16,
+      "folio": 14
+    },
+    {
+      "kind": "story",
+      "bookId": "family",
+      "page": 0,
+      "chapter": 3,
+      "number": 17,
+      "folio": 15
+    },
+    {
+      "kind": "story",
+      "bookId": "family",
+      "page": 1,
+      "chapter": 3,
+      "number": 18,
+      "folio": 16
+    },
+    {
+      "kind": "story",
+      "bookId": "family",
+      "page": 2,
+      "chapter": 3,
+      "number": 19,
+      "folio": 17
+    },
+    {
+      "kind": "story",
+      "bookId": "family",
+      "page": 3,
+      "chapter": 3,
+      "number": 20,
+      "folio": 18
+    },
+    {
+      "kind": "story",
+      "bookId": "family",
+      "page": 4,
+      "chapter": 3,
+      "number": 21,
+      "folio": 19
+    },
+    {
+      "kind": "story",
+      "bookId": "family",
+      "page": 5,
+      "chapter": 3,
+      "number": 22,
+      "folio": 20
+    },
+    {
+      "kind": "story",
+      "bookId": "family",
+      "page": 6,
+      "chapter": 3,
+      "number": 23,
+      "folio": 21
+    },
+    {
+      "kind": "summary",
+      "bookId": "family",
+      "chapter": 3,
+      "number": 24,
+      "folio": 22
+    },
+    {
+      "kind": "story",
+      "bookId": "hands",
+      "page": 0,
+      "chapter": 4,
+      "number": 25,
+      "folio": 23
+    },
+    {
+      "kind": "story",
+      "bookId": "hands",
+      "page": 1,
+      "chapter": 4,
+      "number": 26,
+      "folio": 24
+    },
+    {
+      "kind": "story",
+      "bookId": "hands",
+      "page": 2,
+      "chapter": 4,
+      "number": 27,
+      "folio": 25
+    },
+    {
+      "kind": "story",
+      "bookId": "hands",
+      "page": 3,
+      "chapter": 4,
+      "number": 28,
+      "folio": 26
+    },
+    {
+      "kind": "story",
+      "bookId": "hands",
+      "page": 4,
+      "chapter": 4,
+      "number": 29,
+      "folio": 27
+    },
+    {
+      "kind": "story",
+      "bookId": "hands",
+      "page": 5,
+      "chapter": 4,
+      "number": 30,
+      "folio": 28
+    },
+    {
+      "kind": "summary",
+      "bookId": "hands",
+      "chapter": 4,
+      "number": 31,
+      "folio": 29
+    },
+    {
+      "kind": "story",
+      "bookId": "rain",
+      "page": 0,
+      "chapter": 5,
+      "number": 32,
+      "folio": 30
+    },
+    {
+      "kind": "story",
+      "bookId": "rain",
+      "page": 1,
+      "chapter": 5,
+      "number": 33,
+      "folio": 31
+    },
+    {
+      "kind": "story",
+      "bookId": "rain",
+      "page": 2,
+      "chapter": 5,
+      "number": 34,
+      "folio": 32
+    },
+    {
+      "kind": "story",
+      "bookId": "rain",
+      "page": 3,
+      "chapter": 5,
+      "number": 35,
+      "folio": 33
+    },
+    {
+      "kind": "story",
+      "bookId": "rain",
+      "page": 4,
+      "chapter": 5,
+      "number": 36,
+      "folio": 34
+    },
+    {
+      "kind": "story",
+      "bookId": "rain",
+      "page": 5,
+      "chapter": 5,
+      "number": 37,
+      "folio": 35
+    },
+    {
+      "kind": "story",
+      "bookId": "rain",
+      "page": 6,
+      "chapter": 5,
+      "number": 38,
+      "folio": 36
+    },
+    {
+      "kind": "story",
+      "bookId": "rain",
+      "page": 7,
+      "chapter": 5,
+      "number": 39,
+      "folio": 37
+    },
+    {
+      "kind": "summary",
+      "bookId": "rain",
+      "chapter": 5,
+      "number": 40,
+      "folio": 38
+    },
+    {
+      "kind": "story",
+      "bookId": "stone",
+      "page": 0,
+      "chapter": 6,
+      "number": 41,
+      "folio": 39
+    },
+    {
+      "kind": "story",
+      "bookId": "stone",
+      "page": 1,
+      "chapter": 6,
+      "number": 42,
+      "folio": 40
+    },
+    {
+      "kind": "story",
+      "bookId": "stone",
+      "page": 2,
+      "chapter": 6,
+      "number": 43,
+      "folio": 41
+    },
+    {
+      "kind": "story",
+      "bookId": "stone",
+      "page": 3,
+      "chapter": 6,
+      "number": 44,
+      "folio": 42
+    },
+    {
+      "kind": "story",
+      "bookId": "stone",
+      "page": 4,
+      "chapter": 6,
+      "number": 45,
+      "folio": 43
+    },
+    {
+      "kind": "story",
+      "bookId": "stone",
+      "page": 5,
+      "chapter": 6,
+      "number": 46,
+      "folio": 44
+    },
+    {
+      "kind": "story",
+      "bookId": "stone",
+      "page": 6,
+      "chapter": 6,
+      "number": 47,
+      "folio": 45
+    },
+    {
+      "kind": "story",
+      "bookId": "stone",
+      "page": 7,
+      "chapter": 6,
+      "number": 48,
+      "folio": 46
+    },
+    {
+      "kind": "summary",
+      "bookId": "stone",
+      "chapter": 6,
+      "number": 49,
+      "folio": 47
+    },
+    {
+      "kind": "collection-back",
+      "bookId": "stone",
+      "back": true,
+      "number": 50,
+      "folio": null
+    }
+  ],
+  "pageCount": 50,
+  "readingContentPageCount": 48,
+  "coverFaceCount": 4,
+  "interiorPageCount": 46,
+  "storyCount": 6,
+  "storyPageCount": 41,
+  "summaryCount": 6,
+  "contentsCount": 1,
+  "blankCount": 0,
+  "imposed": false,
+  "title": "第1级阅读故事集",
+  "sample": true,
+  "binding": "printer-imposition-required"
+}

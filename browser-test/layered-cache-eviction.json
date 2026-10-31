@@ -1,0 +1,86 @@
+{
+  "memoryInStone": {
+    "adultComposites": 0,
+    "backgroundDownloadMs": 2622.29999999702,
+    "bodyDownloadMs": 440.69999999925494,
+    "buckets": [
+      {
+        "sessions": [
+          {
+            "books": [
+              "stone"
+            ],
+            "loading": null,
+            "poses": [
+              {
+                "id": "stand-wave",
+                "status": "ready"
+              },
+              {
+                "id": "run-left",
+                "status": "ready"
+              },
+              {
+                "id": "crouch-palm",
+                "status": "ready"
+              },
+              {
+                "id": "carry-play",
+                "status": "ready"
+              }
+            ]
+          }
+        ],
+        "window": [
+          "stone"
+        ]
+      }
+    ],
+    "composeMs": 6.800000000745058,
+    "composites": 5,
+    "draws": 13,
+    "pageDrawMs": 463.5999999977648
+  },
+  "memoryOnShelf": {
+    "adultComposites": 4,
+    "backgroundDownloadMs": 2622.29999999702,
+    "bodyDownloadMs": 440.69999999925494,
+    "buckets": [
+      {
+        "sessions": [
+          {
+            "books": [
+              "stone"
+            ],
+            "loading": null,
+            "poses": [
+              {
+                "id": "stand-wave",
+                "status": "ready"
+              },
+              {
+                "id": "run-left",
+                "status": "ready"
+              },
+              {
+                "id": "crouch-palm",
+                "status": "ready"
+              },
+              {
+                "id": "carry-play",
+                "status": "ready"
+              }
+            ]
+          }
+        ],
+        "window": [
+          "stone"
+        ]
+      }
+    ],
+    "composeMs": 6.800000000745058,
+    "composites": 5,
+    "draws": 96,
+    "pageDrawMs": 521.1000000275671
+  }
+}

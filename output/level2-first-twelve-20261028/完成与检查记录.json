@@ -1,0 +1,115 @@
+{
+  "completedOn": "2026-10-28",
+  "status": "level2-first-twelve-for-review",
+  "level": 2,
+  "newNumbers": [
+    25,
+    26,
+    27
+  ],
+  "newLevelNumbers": [
+    10,
+    11,
+    12
+  ],
+  "newTitles": [
+    "谁还在睡",
+    "水中的月亮",
+    "我和小兔"
+  ],
+  "newBodyPages": 22,
+  "allNumbers": [
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27
+  ],
+  "approvedWordingChanged": false,
+  "imageAPIUsed": false,
+  "acceptedNewAssets": 6,
+  "generatedAttempts": 7,
+  "newCharacterPoses": 1,
+  "facesRepainted": false,
+  "generationPrompts": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\content\\level2-fourth-three-generation-jobs.json",
+  "nativeAssets": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\art-samples\\level2-fourth-three-native",
+  "runtimeAssets": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\level2-fourth-three",
+  "browserURL": "http://127.0.0.1:4173/?view=level2-first-twelve",
+  "browserMCP": {
+    "covers": 12,
+    "newBodyPages": 22,
+    "newSummaryPages": 3,
+    "records": 37
+  },
+  "checks": {
+    "allBodyPagesExactText": 89,
+    "mobileWidth": 390,
+    "mobileBodyPages": 89,
+    "rollingWindowMaxBooks": 3,
+    "rigSessionFamilyAndPrintTestsPassed": 36,
+    "actualUserPhotoTested": false,
+    "oldFirstNinePDFUnchanged": true,
+    "oldFirstNine67BodyImageStreamsAndTextsUnchanged": true,
+    "level1PDFUnchanged": true,
+    "sourceWordUnchanged": true,
+    "actualPDFRenderedPages": 116,
+    "noBlankPages": true,
+    "everyStoryHasCover": true
+  },
+  "pdf": {
+    "path": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\output\\level2-first-twelve-20261028\\第二级-前十二本-A5合订校样.pdf",
+    "bytes": 209349885,
+    "sha256": "11aa6c8f88f3aeeed68be40ec12007efd9fa8ceebdbc569f351f7f89e09e4fef",
+    "pageCount": 116,
+    "bodyPages": 89,
+    "storyCoverPages": 12,
+    "summaryPages": 12,
+    "chapterStarts": [
+      3,
+      12,
+      22,
+      32,
+      42,
+      52,
+      60,
+      70,
+      79,
+      88,
+      97,
+      106
+    ],
+    "bodyStarts": [
+      4,
+      13,
+      23,
+      33,
+      43,
+      53,
+      61,
+      71,
+      80,
+      89,
+      98,
+      107
+    ],
+    "formatMm": [
+      148,
+      210
+    ],
+    "color": "RGB",
+    "embeddedChineseVectorText": true,
+    "physicalPrintingTested": false
+  },
+  "remainingLevel2Numbers": [
+    28,
+    29,
+    30
+  ]
+}

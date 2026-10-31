@@ -1,0 +1,122 @@
+{
+  "completedOn": "2026-10-28",
+  "status": "level2-first-nine-for-review",
+  "level": 2,
+  "newNumbers": [
+    22,
+    23,
+    24
+  ],
+  "newLevelNumbers": [
+    7,
+    8,
+    9
+  ],
+  "newTitles": [
+    "小纸片飞了",
+    "谁先笑",
+    "大果子和小果子"
+  ],
+  "newBodyPages": 22,
+  "allNumbers": [
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24
+  ],
+  "approvedWordingChanged": false,
+  "imageAPIUsed": false,
+  "acceptedNewAssets": 3,
+  "generatedAttempts": 4,
+  "newCharacterPoses": 2,
+  "facesRepainted": false,
+  "generationPrompts": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\content\\level2-third-three-generation-jobs.json",
+  "nativeAssets": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\art-samples\\level2-third-three-native",
+  "runtimeAssets": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\level2-third-three",
+  "browserURL": "http://127.0.0.1:4173/?view=level2-first-nine",
+  "browserMCP": {
+    "covers": 9,
+    "newBodyPages": 22,
+    "newSummaryPages": 3,
+    "records": 34
+  },
+  "checks": {
+    "allBodyPagesExactText": 67,
+    "mobileWidth": 390,
+    "mobileBodyPages": 67,
+    "rollingWindowMaxBooks": 3,
+    "rigSessionFamilyAndPrintTestsPassed": 34,
+    "actualUserPhotoTested": false,
+    "oldFirstSixPDFUnchanged": true,
+    "oldFirstSix45BodyImageStreamsAndTextsUnchanged": true,
+    "level1PDFUnchanged": true,
+    "sourceWordUnchanged": true,
+    "actualPDFRenderedPages": 88,
+    "noBlankPages": true,
+    "everyStoryHasCover": true
+  },
+  "pdf": {
+    "path": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\output\\level2-first-nine-20261028\\第二级-前九本-A5合订校样.pdf",
+    "bytes": 157915288,
+    "sha256": "9c085fb1cf8472b611e165b16b05a50fb2d7f61a281ae61b64dd806f45386b43",
+    "pageCount": 88,
+    "bodyPages": 67,
+    "storyCoverPages": 9,
+    "summaryPages": 9,
+    "chapterStarts": [
+      3,
+      12,
+      22,
+      32,
+      42,
+      52,
+      60,
+      70,
+      79
+    ],
+    "bodyStarts": [
+      4,
+      13,
+      23,
+      33,
+      43,
+      53,
+      61,
+      71,
+      80
+    ],
+    "formatMm": [
+      148,
+      210
+    ],
+    "color": "RGB",
+    "embeddedChineseVectorText": true,
+    "physicalPrintingTested": false
+  },
+  "remainingLevel2Numbers": [
+    25,
+    26,
+    27,
+    28,
+    29,
+    30
+  ],
+  "visualQA": {
+    "allPdfPagesViewedAsContactSheets": 88,
+    "detailPdfPages": [
+      75
+    ],
+    "browserMCPScreenshot": "qa/browser-mcp-cat.png",
+    "rabbitGestureScreenshot": "qa/browser-mcp-rabbit.png",
+    "notes": [
+      "兔耳手势高于头部两侧，猫手贴两颊，保持原头像",
+      "纸片左右追跑方向对应，末三页石头压住纸片",
+      "朋友先吃大果子，主角后吃小果子，前后各保留两颗果子"
+    ]
+  }
+}

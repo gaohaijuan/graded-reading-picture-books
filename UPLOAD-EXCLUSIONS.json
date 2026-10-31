@@ -1,0 +1,73 @@
+{
+  "policy": "Exclude local credentials, operational databases, dependencies and transient runtimes; retain project code, art, book content and documents.",
+  "entries": [
+    {
+      "path": ".github-upload/",
+      "reason": "Local Git metadata, dependencies, runtime or cache"
+    },
+    {
+      "path": "little-protagonist/.git/",
+      "reason": "Local Git metadata, dependencies, runtime or cache"
+    },
+    {
+      "path": "little-protagonist/.local/",
+      "reason": "Local Git metadata, dependencies, runtime or cache"
+    },
+    {
+      "path": "little-protagonist/scripts/__pycache__/",
+      "reason": "Local Git metadata, dependencies, runtime or cache"
+    },
+    {
+      "path": "little-protagonist/tmp/first-ten-geometry.log",
+      "reason": "Runtime log, database, credential material or bytecode"
+    },
+    {
+      "path": "little-protagonist/tmp/first-ten-targeted.log",
+      "reason": "Runtime log, database, credential material or bytecode"
+    },
+    {
+      "path": "little-protagonist/tmp/first-ten-unit-tests.log",
+      "reason": "Runtime log, database, credential material or bytecode"
+    },
+    {
+      "path": "little-protagonist/tmp/layered-unit-tests-final.log",
+      "reason": "Runtime log, database, credential material or bytecode"
+    },
+    {
+      "path": "little-protagonist/tmp/layered-unit-tests.log",
+      "reason": "Runtime log, database, credential material or bytecode"
+    },
+    {
+      "path": "tmp/docx-render-runtime/",
+      "reason": "Local Git metadata, dependencies, runtime or cache"
+    },
+    {
+      "path": "tmp/fifteen-e2e-H6nrKw/",
+      "reason": "Ephemeral test service data and generated downloads"
+    },
+    {
+      "path": "tmp/daily-20261028-unit-tests.log",
+      "reason": "Runtime log, database, credential material or bytecode"
+    },
+    {
+      "path": "tmp/fifteen-final-unit-tests.log",
+      "reason": "Runtime log, database, credential material or bytecode"
+    },
+    {
+      "path": "tmp/fifteen-scene-regression.log",
+      "reason": "Runtime log, database, credential material or bytecode"
+    },
+    {
+      "path": "tmp/fifteen-targeted.log",
+      "reason": "Runtime log, database, credential material or bytecode"
+    },
+    {
+      "path": "tmp/fifteen-unit-tests.log",
+      "reason": "Runtime log, database, credential material or bytecode"
+    },
+    {
+      "path": "tmp/program-status-tests-20261027.log",
+      "reason": "Runtime log, database, credential material or bytecode"
+    }
+  ]
+}

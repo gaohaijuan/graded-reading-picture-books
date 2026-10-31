@@ -1,0 +1,39 @@
+{
+  "date": "2026-10-26",
+  "status": "user-defined-level1-15-stories-production-not-synced",
+  "canonical": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\output\\manuscript-level1-complete-review\\第一级30篇完整文案-待确认.json",
+  "baseline": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\output\\level1-manuscript-implemented-20261026\\baseline\\第一级30篇完整文案-待确认.json",
+  "restoredBooks": 30,
+  "baselineSha256": "1a162eb2644c09199ff44e3bb5c01f44203072c331d2eb9ed4cd30cc467620ca",
+  "restoredSha256": "1a162eb2644c09199ff44e3bb5c01f44203072c331d2eb9ed4cd30cc467620ca",
+  "withdrawnDirectories": [
+    "output/level1-manuscript-implemented-20261026",
+    "output/level1-child-centered-review-20261026",
+    "output/level1-natural-story-plan-20261026"
+  ],
+  "productionChanged": false,
+  "illustrationsGenerated": 0,
+  "pdfsGenerated": 0,
+  "newUserWordingApplied": true,
+  "currentSha256": "cc7a70591514b18a5cb66e2bb3bc7fe3e615eb35200f7055ed507787980e741f",
+  "userAuthorizedChanges": [
+    2,
+    3,
+    8,
+    11,
+    12,
+    19,
+    20,
+    25,
+    29
+  ],
+  "latestChangedStories": [
+    2,
+    12,
+    29
+  ],
+  "currentLevel1Source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\output\\level1-approved-15-20261026\\第一级15篇-用户指定文稿.json",
+  "currentLevel1BookCount": 15,
+  "previous30BookDocument": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\output\\manuscript-level1-complete-review\\第一级30篇完整文案-待确认.json",
+  "previous30BookDocumentStatus": "historical-reference"
+}

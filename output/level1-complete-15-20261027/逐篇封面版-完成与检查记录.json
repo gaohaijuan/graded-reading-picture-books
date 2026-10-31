@@ -1,0 +1,31 @@
+{
+  "completedOn": "2026-10-28",
+  "file": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\output\\level1-complete-15-20261027\\第一级别-15篇绘本合集-逐篇封面版.pdf",
+  "sha256": "fd9aa22e9a8ef981f0218e744b217122431c9c43e124ec9ba58e1c260b30d2ad",
+  "pages": 132,
+  "storyCoverPages": 15,
+  "bodyPages": 99,
+  "summaryPages": 15,
+  "blankPages": 0,
+  "chapterStarts": [
+    3,
+    11,
+    18,
+    26,
+    35,
+    43,
+    53,
+    63,
+    71,
+    78,
+    86,
+    96,
+    103,
+    114,
+    123
+  ],
+  "all99BodyTextsAndImageStreamsUnchanged": true,
+  "runtimePrintPlanPages": 132,
+  "runtimeFirstMiddleLastCoverPainterChecked": true,
+  "physicalPrintingTested": false
+}

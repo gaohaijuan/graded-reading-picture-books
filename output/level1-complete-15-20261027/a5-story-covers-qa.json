@@ -1,0 +1,3111 @@
+{
+  "file": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\output\\level1-complete-15-20261027\\第一级别-15篇绘本合集-逐篇封面版.pdf",
+  "formatMm": [
+    148,
+    210
+  ],
+  "pageCount": 132,
+  "bodyPages": 99,
+  "blankPages": 0,
+  "covers": 1,
+  "contentsPages": 1,
+  "summaryPages": 15,
+  "storyCoverPages": 15,
+  "bodyStarts": [
+    4,
+    12,
+    19,
+    27,
+    36,
+    44,
+    54,
+    64,
+    72,
+    79,
+    87,
+    97,
+    104,
+    115,
+    124
+  ],
+  "chapterStarts": [
+    3,
+    11,
+    18,
+    26,
+    35,
+    43,
+    53,
+    63,
+    71,
+    78,
+    86,
+    96,
+    103,
+    114,
+    123
+  ],
+  "storyNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "embeddedChineseVectorText": true,
+  "defaultIllustratedCharacter": true,
+  "edition": "level1-complete-15-20261027",
+  "records": [
+    {
+      "physicalPage": 1,
+      "kind": "cover",
+      "bookId": null,
+      "bodyPage": null
+    },
+    {
+      "physicalPage": 2,
+      "kind": "contents",
+      "bookId": null,
+      "bodyPage": null
+    },
+    {
+      "physicalPage": 3,
+      "kind": "story-cover",
+      "bookId": "intro-complete",
+      "bodyPage": null
+    },
+    {
+      "physicalPage": 4,
+      "kind": "story",
+      "bookId": "intro-complete",
+      "bodyPage": 0,
+      "text": [
+        "你好！我是小石头。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 5,
+      "kind": "story",
+      "bookId": "intro-complete",
+      "bodyPage": 1,
+      "text": [
+        "我的名字叫小石头。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 6,
+      "kind": "story",
+      "bookId": "intro-complete",
+      "bodyPage": 2,
+      "text": [
+        "你的名字是什么呢？"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 7,
+      "kind": "story",
+      "bookId": "intro-complete",
+      "bodyPage": 3,
+      "text": [
+        "我五岁了。你几岁呢？"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 8,
+      "kind": "story",
+      "bookId": "intro-complete",
+      "bodyPage": 4,
+      "text": [
+        "我上大班了。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 9,
+      "kind": "story",
+      "bookId": "intro-complete",
+      "bodyPage": 5,
+      "text": [
+        "你也有名字吗？"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 10,
+      "kind": "summary",
+      "bookId": "intro-complete",
+      "bodyPage": null
+    },
+    {
+      "physicalPage": 11,
+      "kind": "story-cover",
+      "bookId": "snow-revision",
+      "bodyPage": null
+    },
+    {
+      "physicalPage": 12,
+      "kind": "story",
+      "bookId": "snow-revision",
+      "bodyPage": 0,
+      "text": [
+        "下雪了！"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 13,
+      "kind": "story",
+      "bookId": "snow-revision",
+      "bodyPage": 1,
+      "text": [
+        "一片两片三四片，"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 14,
+      "kind": "story",
+      "bookId": "snow-revision",
+      "bodyPage": 2,
+      "text": [
+        "五片六片七八片，"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 15,
+      "kind": "story",
+      "bookId": "snow-revision",
+      "bodyPage": 3,
+      "text": [
+        "九片十片十一片，"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 16,
+      "kind": "story",
+      "bookId": "snow-revision",
+      "bodyPage": 4,
+      "text": [
+        "飞入草丛都不见。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 17,
+      "kind": "summary",
+      "bookId": "snow-revision",
+      "bodyPage": null
+    },
+    {
+      "physicalPage": 18,
+      "kind": "story-cover",
+      "bookId": "family",
+      "bodyPage": null
+    },
+    {
+      "physicalPage": 19,
+      "kind": "story",
+      "bookId": "family",
+      "bodyPage": 0,
+      "text": [
+        "我家有几口人？"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 20,
+      "kind": "story",
+      "bookId": "family",
+      "bodyPage": 1,
+      "text": [
+        "这是爸爸。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 21,
+      "kind": "story",
+      "bookId": "family",
+      "bodyPage": 2,
+      "text": [
+        "这是妈妈。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 22,
+      "kind": "story",
+      "bookId": "family",
+      "bodyPage": 3,
+      "text": [
+        "有两口人。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 23,
+      "kind": "story",
+      "bookId": "family",
+      "bodyPage": 4,
+      "text": [
+        "不对，把我自己忘了！"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 24,
+      "kind": "story",
+      "bookId": "family",
+      "bodyPage": 5,
+      "text": [
+        "有三口人！"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 25,
+      "kind": "summary",
+      "bookId": "family",
+      "bodyPage": null
+    },
+    {
+      "physicalPage": 26,
+      "kind": "story-cover",
+      "bookId": "hands-revision",
+      "bodyPage": null
+    },
+    {
+      "physicalPage": 27,
+      "kind": "story",
+      "bookId": "hands-revision",
+      "bodyPage": 0,
+      "text": [
+        "我有两只小手。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 28,
+      "kind": "story",
+      "bookId": "hands-revision",
+      "bodyPage": 1,
+      "text": [
+        "我用小手学做小花。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 29,
+      "kind": "story",
+      "bookId": "hands-revision",
+      "bodyPage": 2,
+      "text": [
+        "我做了一朵又一朵。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 30,
+      "kind": "story",
+      "bookId": "hands-revision",
+      "bodyPage": 3,
+      "text": [
+        "小手开，小花开。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 31,
+      "kind": "story",
+      "bookId": "hands-revision",
+      "bodyPage": 4,
+      "text": [
+        "小手合上，小花不见了。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 32,
+      "kind": "story",
+      "bookId": "hands-revision",
+      "bodyPage": 5,
+      "text": [
+        "小手又开，小花又开。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 33,
+      "kind": "story",
+      "bookId": "hands-revision",
+      "bodyPage": 6,
+      "text": [
+        "你的小花开了吗？"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 34,
+      "kind": "summary",
+      "bookId": "hands-revision",
+      "bodyPage": null
+    },
+    {
+      "physicalPage": 35,
+      "kind": "story-cover",
+      "bookId": "mountain-revision",
+      "bodyPage": null
+    },
+    {
+      "physicalPage": 36,
+      "kind": "story",
+      "bookId": "mountain-revision",
+      "bodyPage": 0,
+      "text": [
+        "山上有两朵白云。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 37,
+      "kind": "story",
+      "bookId": "mountain-revision",
+      "bodyPage": 1,
+      "text": [
+        "白云来了，山不见了。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 38,
+      "kind": "story",
+      "bookId": "mountain-revision",
+      "bodyPage": 2,
+      "text": [
+        "“山呢？”"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 39,
+      "kind": "story",
+      "bookId": "mountain-revision",
+      "bodyPage": 3,
+      "text": [
+        "风来了，云走了。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 40,
+      "kind": "story",
+      "bookId": "mountain-revision",
+      "bodyPage": 4,
+      "text": [
+        "山出来了！"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 41,
+      "kind": "story",
+      "bookId": "mountain-revision",
+      "bodyPage": 5,
+      "text": [
+        "山没有走，是云走了！"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 42,
+      "kind": "summary",
+      "bookId": "mountain-revision",
+      "bodyPage": null
+    },
+    {
+      "physicalPage": 43,
+      "kind": "story-cover",
+      "bookId": "rain-revision",
+      "bodyPage": null
+    },
+    {
+      "physicalPage": 44,
+      "kind": "story",
+      "bookId": "rain-revision",
+      "bodyPage": 0,
+      "text": [
+        "下大雨了！下雨啦！"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 45,
+      "kind": "story",
+      "bookId": "rain-revision",
+      "bodyPage": 1,
+      "text": [
+        "小伞开了。我坐在伞下，看雨。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 46,
+      "kind": "story",
+      "bookId": "rain-revision",
+      "bodyPage": 2,
+      "text": [
+        "小花在雨中。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 47,
+      "kind": "story",
+      "bookId": "rain-revision",
+      "bodyPage": 3,
+      "text": [
+        "“小花，来！”小花没来。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 48,
+      "kind": "story",
+      "bookId": "rain-revision",
+      "bodyPage": 4,
+      "text": [
+        "“花不来，我去！”"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 49,
+      "kind": "story",
+      "bookId": "rain-revision",
+      "bodyPage": 5,
+      "text": [
+        "我在伞下，小花也在伞下。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 50,
+      "kind": "story",
+      "bookId": "rain-revision",
+      "bodyPage": 6,
+      "text": [
+        "雨在伞上，伞下有我，也有花。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 51,
+      "kind": "story",
+      "bookId": "rain-revision",
+      "bodyPage": 7,
+      "text": [
+        "我笑了。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 52,
+      "kind": "summary",
+      "bookId": "rain-revision",
+      "bodyPage": null
+    },
+    {
+      "physicalPage": 53,
+      "kind": "story-cover",
+      "bookId": "stone-complete",
+      "bodyPage": null
+    },
+    {
+      "physicalPage": 54,
+      "kind": "story",
+      "bookId": "stone-complete",
+      "bodyPage": 0,
+      "text": [
+        "大石头下，地上有小石头。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 55,
+      "kind": "story",
+      "bookId": "stone-complete",
+      "bodyPage": 1,
+      "text": [
+        "这是小石头的家。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 56,
+      "kind": "story",
+      "bookId": "stone-complete",
+      "bodyPage": 2,
+      "text": [
+        "我拿起小石头。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 57,
+      "kind": "story",
+      "bookId": "stone-complete",
+      "bodyPage": 3,
+      "text": [
+        "我走，小石头也走。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 58,
+      "kind": "story",
+      "bookId": "stone-complete",
+      "bodyPage": 4,
+      "text": [
+        "我要回家去了。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 59,
+      "kind": "story",
+      "bookId": "stone-complete",
+      "bodyPage": 5,
+      "text": [
+        "我把小石头拿起来，放回大石头下。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 60,
+      "kind": "story",
+      "bookId": "stone-complete",
+      "bodyPage": 6,
+      "text": [
+        "“小石头，你回家了！”"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 61,
+      "kind": "story",
+      "bookId": "stone-complete",
+      "bodyPage": 7,
+      "text": [
+        "我也回家了。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 62,
+      "kind": "summary",
+      "bookId": "stone-complete",
+      "bodyPage": null
+    },
+    {
+      "physicalPage": 63,
+      "kind": "story-cover",
+      "bookId": "insect-revision",
+      "bodyPage": null
+    },
+    {
+      "physicalPage": 64,
+      "kind": "story",
+      "bookId": "insect-revision",
+      "bodyPage": 0,
+      "text": [
+        "石头上，有一只小虫。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 65,
+      "kind": "story",
+      "bookId": "insect-revision",
+      "bodyPage": 1,
+      "text": [
+        "我走过去看。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 66,
+      "kind": "story",
+      "bookId": "insect-revision",
+      "bodyPage": 2,
+      "text": [
+        "小虫不见了！"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 67,
+      "kind": "story",
+      "bookId": "insect-revision",
+      "bodyPage": 3,
+      "text": [
+        "“小虫，你在哪？”"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 68,
+      "kind": "story",
+      "bookId": "insect-revision",
+      "bodyPage": 4,
+      "text": [
+        "我低头一看，小虫在我的脚上！"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 69,
+      "kind": "story",
+      "bookId": "insect-revision",
+      "bodyPage": 5,
+      "text": [
+        "“你也要和我一起走吗？”"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 70,
+      "kind": "summary",
+      "bookId": "insect-revision",
+      "bodyPage": null
+    },
+    {
+      "physicalPage": 71,
+      "kind": "story-cover",
+      "bookId": "car-complete",
+      "bodyPage": null
+    },
+    {
+      "physicalPage": 72,
+      "kind": "story",
+      "bookId": "car-complete",
+      "bodyPage": 0,
+      "text": [
+        "小车的家，有两个大门。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 73,
+      "kind": "story",
+      "bookId": "car-complete",
+      "bodyPage": 1,
+      "text": [
+        "一个入口，一个出口。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 74,
+      "kind": "story",
+      "bookId": "car-complete",
+      "bodyPage": 2,
+      "text": [
+        "我会开小车，从入口进去，从出口出来。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 75,
+      "kind": "story",
+      "bookId": "car-complete",
+      "bodyPage": 3,
+      "text": [
+        "我不玩了，小车也要回家。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 76,
+      "kind": "story",
+      "bookId": "car-complete",
+      "bodyPage": 4,
+      "text": [
+        "我把小车开回家，关上门。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 77,
+      "kind": "summary",
+      "bookId": "car-complete",
+      "bodyPage": null
+    },
+    {
+      "physicalPage": 78,
+      "kind": "story-cover",
+      "bookId": "ball-revision",
+      "bodyPage": null
+    },
+    {
+      "physicalPage": 79,
+      "kind": "story",
+      "bookId": "ball-revision",
+      "bodyPage": 0,
+      "text": [
+        "我要找小球玩。",
+        "谁看见小球了？小球在哪？"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 80,
+      "kind": "story",
+      "bookId": "ball-revision",
+      "bodyPage": 1,
+      "text": [
+        "我看看小车里，没有。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 81,
+      "kind": "story",
+      "bookId": "ball-revision",
+      "bodyPage": 2,
+      "text": [
+        "我看看小车前，也没有。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 82,
+      "kind": "story",
+      "bookId": "ball-revision",
+      "bodyPage": 3,
+      "text": [
+        "我看看小车后，也没有。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 83,
+      "kind": "story",
+      "bookId": "ball-revision",
+      "bodyPage": 4,
+      "text": [
+        "门后呢？小球在这里！"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 84,
+      "kind": "story",
+      "bookId": "ball-revision",
+      "bodyPage": 5,
+      "text": [
+        "“找到你了！”"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 85,
+      "kind": "summary",
+      "bookId": "ball-revision",
+      "bodyPage": null
+    },
+    {
+      "physicalPage": 86,
+      "kind": "story-cover",
+      "bookId": "tree-revision",
+      "bodyPage": null
+    },
+    {
+      "physicalPage": 87,
+      "kind": "story",
+      "bookId": "tree-revision",
+      "bodyPage": 0,
+      "text": [
+        "小树，你好！"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 88,
+      "kind": "story",
+      "bookId": "tree-revision",
+      "bodyPage": 1,
+      "text": [
+        "我和小树，谁高？"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 89,
+      "kind": "story",
+      "bookId": "tree-revision",
+      "bodyPage": 2,
+      "text": [
+        "小树比我高一点。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 90,
+      "kind": "story",
+      "bookId": "tree-revision",
+      "bodyPage": 3,
+      "text": [
+        "我站在小石头上。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 91,
+      "kind": "story",
+      "bookId": "tree-revision",
+      "bodyPage": 4,
+      "text": [
+        "“这回，谁高？我高！”"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 92,
+      "kind": "story",
+      "bookId": "tree-revision",
+      "bodyPage": 5,
+      "text": [
+        "我下来，小树又高了。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 93,
+      "kind": "story",
+      "bookId": "tree-revision",
+      "bodyPage": 6,
+      "text": [
+        "我看看脚下的小石头，笑了。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 94,
+      "kind": "story",
+      "bookId": "tree-revision",
+      "bodyPage": 7,
+      "text": [
+        "“明年我还要和小树比高高！”"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 95,
+      "kind": "summary",
+      "bookId": "tree-revision",
+      "bodyPage": null
+    },
+    {
+      "physicalPage": 96,
+      "kind": "story-cover",
+      "bookId": "water-revision",
+      "bodyPage": null
+    },
+    {
+      "physicalPage": 97,
+      "kind": "story",
+      "bookId": "water-revision",
+      "bodyPage": 0,
+      "text": [
+        "水中有天，有云，也有我。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 98,
+      "kind": "story",
+      "bookId": "water-revision",
+      "bodyPage": 1,
+      "text": [
+        "我笑，水中的我也笑。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 99,
+      "kind": "story",
+      "bookId": "water-revision",
+      "bodyPage": 2,
+      "text": [
+        "我走，水中的我也走。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 100,
+      "kind": "story",
+      "bookId": "water-revision",
+      "bodyPage": 3,
+      "text": [
+        "我不走，水中的我也不走。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 101,
+      "kind": "story",
+      "bookId": "water-revision",
+      "bodyPage": 4,
+      "text": [
+        "“你好，水中的我！”"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 102,
+      "kind": "summary",
+      "bookId": "water-revision",
+      "bodyPage": null
+    },
+    {
+      "physicalPage": 103,
+      "kind": "story-cover",
+      "bookId": "calling-revision",
+      "bodyPage": null
+    },
+    {
+      "physicalPage": 104,
+      "kind": "story",
+      "bookId": "calling-revision",
+      "bodyPage": 0,
+      "text": [
+        "我听见叫声。谁在叫？"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 105,
+      "kind": "story",
+      "bookId": "calling-revision",
+      "bodyPage": 1,
+      "text": [
+        "我看看树上，是小鸟在叫。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 106,
+      "kind": "story",
+      "bookId": "calling-revision",
+      "bodyPage": 2,
+      "text": [
+        "“小鸟，下来和我玩，好吗？”"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 107,
+      "kind": "story",
+      "bookId": "calling-revision",
+      "bodyPage": 3,
+      "text": [
+        "小鸟不叫了。谁又在叫？"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 108,
+      "kind": "story",
+      "bookId": "calling-revision",
+      "bodyPage": 4,
+      "text": [
+        "我看看树下，是小猫在叫。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 109,
+      "kind": "story",
+      "bookId": "calling-revision",
+      "bodyPage": 5,
+      "text": [
+        "“小猫，你也来！”"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 110,
+      "kind": "story",
+      "bookId": "calling-revision",
+      "bodyPage": 6,
+      "text": [
+        "小鸟呢？小鸟飞出来了，不在树上了。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 111,
+      "kind": "story",
+      "bookId": "calling-revision",
+      "bodyPage": 7,
+      "text": [
+        "我一看，小鸟在小车上！"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 112,
+      "kind": "story",
+      "bookId": "calling-revision",
+      "bodyPage": 8,
+      "text": [
+        "“小鸟，你来了！”"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 113,
+      "kind": "summary",
+      "bookId": "calling-revision",
+      "bodyPage": null
+    },
+    {
+      "physicalPage": 114,
+      "kind": "story-cover",
+      "bookId": "catball-complete",
+      "bodyPage": null
+    },
+    {
+      "physicalPage": 115,
+      "kind": "story",
+      "bookId": "catball-complete",
+      "bodyPage": 0,
+      "text": [
+        "我有一个红红的球。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 116,
+      "kind": "story",
+      "bookId": "catball-complete",
+      "bodyPage": 1,
+      "text": [
+        "我有一个黄球。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 117,
+      "kind": "story",
+      "bookId": "catball-complete",
+      "bodyPage": 2,
+      "text": [
+        "“小猫，你要红球吗？”"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 118,
+      "kind": "story",
+      "bookId": "catball-complete",
+      "bodyPage": 3,
+      "text": [
+        "“红球给你。黄球也给你。”"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 119,
+      "kind": "story",
+      "bookId": "catball-complete",
+      "bodyPage": 4,
+      "text": [
+        "小猫不来玩。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 120,
+      "kind": "story",
+      "bookId": "catball-complete",
+      "bodyPage": 5,
+      "text": [
+        "我把红球推过去。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 121,
+      "kind": "story",
+      "bookId": "catball-complete",
+      "bodyPage": 6,
+      "text": [
+        "小猫跑来了，我笑了！",
+        "我和小猫一起玩！"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 122,
+      "kind": "summary",
+      "bookId": "catball-complete",
+      "bodyPage": null
+    },
+    {
+      "physicalPage": 123,
+      "kind": "story-cover",
+      "bookId": "catbed-revision",
+      "bodyPage": null
+    },
+    {
+      "physicalPage": 124,
+      "kind": "story",
+      "bookId": "catbed-revision",
+      "bodyPage": 0,
+      "text": [
+        "这是小猫的床。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 125,
+      "kind": "story",
+      "bookId": "catbed-revision",
+      "bodyPage": 1,
+      "text": [
+        "小猫想睡了。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 126,
+      "kind": "story",
+      "bookId": "catbed-revision",
+      "bodyPage": 2,
+      "text": [
+        "床上有小球，我把小球拿下来。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 127,
+      "kind": "story",
+      "bookId": "catbed-revision",
+      "bodyPage": 3,
+      "text": [
+        "床上还有小车，我把小车也拿下来。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 128,
+      "kind": "story",
+      "bookId": "catbed-revision",
+      "bodyPage": 4,
+      "text": [
+        "小球、小车都拿下来，放好了。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 129,
+      "kind": "story",
+      "bookId": "catbed-revision",
+      "bodyPage": 5,
+      "text": [
+        "“小猫，上床睡吧。”"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 130,
+      "kind": "story",
+      "bookId": "catbed-revision",
+      "bodyPage": 6,
+      "text": [
+        "小猫上了床，睡了。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 131,
+      "kind": "summary",
+      "bookId": "catbed-revision",
+      "bodyPage": null
+    },
+    {
+      "physicalPage": 132,
+      "kind": "back",
+      "bookId": null,
+      "bodyPage": null
+    }
+  ],
+  "checks": [
+    {
+      "physicalPage": 1,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 2,
+      "textExtractable": true,
+      "images": 0
+    },
+    {
+      "physicalPage": 3,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 4,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 5,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 6,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 7,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 8,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 9,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 10,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 11,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 12,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 13,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 14,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 15,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 16,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 17,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 18,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 19,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 20,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 21,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 22,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 23,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 24,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 25,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 26,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 27,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 28,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 29,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 30,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 31,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 32,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 33,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 34,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 35,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 36,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 37,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 38,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 39,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 40,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 41,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 42,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 43,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 44,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 45,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 46,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 47,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 48,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 49,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 50,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 51,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 52,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 53,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 54,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 55,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 56,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 57,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 58,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 59,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 60,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 61,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 62,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 63,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 64,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 65,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 66,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 67,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 68,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 69,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 70,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 71,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 72,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 73,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 74,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 75,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 76,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 77,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 78,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 79,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 80,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 81,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 82,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 83,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 84,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 85,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 86,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 87,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 88,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 89,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 90,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 91,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 92,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 93,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 94,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 95,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 96,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 97,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 98,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 99,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 100,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 101,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 102,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 103,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 104,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 105,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 106,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 107,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 108,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 109,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 110,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 111,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 112,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 113,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 114,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 115,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 116,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 117,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 118,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 119,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 120,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 121,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 122,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 123,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 124,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 125,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 126,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 127,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 128,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 129,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 130,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 131,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 132,
+      "textExtractable": true,
+      "images": 1
+    }
+  ],
+  "qualityNote": "PDF-only JPEG encoding (95 for local-eight,97 for priority-three), no image resize; lossless originals preserved. Native effective resolution is separately audited; exporting300ppi does not create detail. RGB reading proof, no physical printing claim."
+}

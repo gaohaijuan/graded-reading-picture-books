@@ -1,0 +1,178 @@
+{
+  "faces": 1,
+  "cutoutSize": [
+    540,
+    570
+  ],
+  "metrics": {
+    "resolution": {
+      "version": 1,
+      "provenance": "original-photo-roi",
+      "sourceWidth": 820,
+      "sourceHeight": 1024,
+      "originalFacePixels": {
+        "width": 191.69938728269597,
+        "height": 245.54547064447036
+      },
+      "retainedFacePixels": {
+        "width": 191.84782608695647,
+        "height": 245.45454545454544
+      },
+      "originalHeadPixels": {
+        "width": 254.52450466034315,
+        "height": 328.7623653050729
+      },
+      "retainedHeadPixels": {
+        "width": 254.72159090909093,
+        "height": 328.640625
+      },
+      "textureSamplingScale": 1,
+      "detectionMaxEdge": 1600,
+      "maskWidth": 352,
+      "maskHeight": 512,
+      "outputFacePixels": {
+        "width": 321.59204094133355,
+        "height": 411.4522944621543
+      },
+      "outputHeadPixels": {
+        "width": 426.98652344983435,
+        "height": 550.8960486322188
+      },
+      "outputScale": 1.6762871255865548,
+      "nativeFacePixels": {
+        "width": 191.69938728269597,
+        "height": 245.45454545454544
+      },
+      "nativeHeadPixels": {
+        "width": 254.52450466034315,
+        "height": 328.640625
+      }
+    },
+    "bounds": {
+      "left": 51.15590338617395,
+      "top": 13.103951367781178,
+      "right": 478.14242683600827,
+      "bottom": 564
+    },
+    "faceBounds": {
+      "left": 105.53419394534487,
+      "top": 143.65165690562685,
+      "right": 427.1262348866784,
+      "bottom": 555.1039513677812
+    },
+    "chin": {
+      "x": 270,
+      "y": 555.1039513677812
+    }
+  },
+  "edges": {
+    "top": 0,
+    "left": 0,
+    "right": 0,
+    "bottom": 0
+  },
+  "opaque": 162558,
+  "rows": [
+    {
+      "id": "stand-wave",
+      "headScale": 0.42889683837095727,
+      "bounds": {
+        "left": -198.69387755102042,
+        "top": -256.46208639705884,
+        "right": 278.1496598639456,
+        "bottom": 666.1768707482994
+      },
+      "cachedActorReused": true,
+      "sceneScale": 0.8
+    },
+    {
+      "id": "jump-forward",
+      "headScale": 0.42889683837095727,
+      "bounds": {
+        "left": -358.6938775510204,
+        "top": -256.46208639705884,
+        "right": 309.7142857142857,
+        "bottom": 667.8095238095239
+      },
+      "cachedActorReused": true,
+      "sceneScale": 0.8
+    },
+    {
+      "id": "sit-draw",
+      "headScale": 0.42889683837095727,
+      "bounds": {
+        "left": -225.3605442176871,
+        "top": -259.8460545200759,
+        "right": 237.8775510204082,
+        "bottom": 497.4693877551021
+      },
+      "cachedActorReused": true,
+      "sceneScale": 0.8
+    },
+    {
+      "id": "sit-draw-active",
+      "headScale": 0.42889683837095727,
+      "bounds": {
+        "left": -250.9387755102041,
+        "top": -259.8460545200759,
+        "right": 270.53061224489795,
+        "bottom": 524.1360544217687
+      },
+      "cachedActorReused": true,
+      "sceneScale": 0.8
+    }
+  ],
+  "cutoutUnchangedAfterComposition": true,
+  "fixture": {
+    "localPath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\browser-test\\portrait.jpg",
+    "documentedSource": "https://storage.googleapis.com/mediapipe-assets/portrait.jpg",
+    "documentedIn": "tests/face.browser.cjs",
+    "userPhoto": false
+  },
+  "localOnly": true,
+  "uploads": 0,
+  "imageGenerationUsed": false,
+  "sameCutoutForAllPoses": true,
+  "requests": [
+    {
+      "url": "https://pose-qa.local/",
+      "method": "GET"
+    },
+    {
+      "url": "https://pose-qa.local/vendor/mediapipe/vision_bundle.mjs",
+      "method": "GET"
+    },
+    {
+      "url": "https://pose-qa.local/models/face_landmarker.task",
+      "method": "GET"
+    },
+    {
+      "url": "https://pose-qa.local/models/selfie_multiclass_256x256.tflite",
+      "method": "GET"
+    },
+    {
+      "url": "https://pose-qa.local/vendor/mediapipe/wasm/vision_wasm_internal.js",
+      "method": "GET"
+    },
+    {
+      "url": "https://pose-qa.local/vendor/mediapipe/wasm/vision_wasm_internal.wasm",
+      "method": "GET"
+    },
+    {
+      "url": "https://pose-qa.local/vendor/mediapipe/wasm/vision_wasm_internal.js",
+      "method": "GET"
+    },
+    {
+      "url": "https://pose-qa.local/vendor/mediapipe/wasm/vision_wasm_internal.wasm",
+      "method": "GET"
+    }
+  ],
+  "visualReview": {
+    "reviewed": true,
+    "hairComplete": true,
+    "chinMeetsCollar": true,
+    "sameFacialFeaturesAndExpressionAcrossAllFourPoses": true,
+    "noRepainting": true,
+    "scope": "Official adult QA fixture; not a real child user test"
+  }
+}

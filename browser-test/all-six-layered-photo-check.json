@@ -1,0 +1,3193 @@
+{
+  "environment": "Windows IAB on localhost; not a physical mobile device",
+  "photoTiming": {
+    "cutoutMs": 966.8000000007452,
+    "photoReadMs": 50.10000000149011,
+    "pngEncodeMs": 17.5,
+    "recognitionMs": 603
+  },
+  "pages": [
+    {
+      "actor": "1",
+      "book": "intro",
+      "overflow": false,
+      "page": 1,
+      "pipeline": "composed-actor-v1",
+      "portraitScale": "0.42889683837095727",
+      "pose": "stand-wave",
+      "preparation": {
+        "backgroundDownloadMs": 2293.1000000052154,
+        "bodyDownloadMs": 330.80000000074506,
+        "buckets": [
+          {
+            "sessions": [
+              {
+                "books": [
+                  "intro",
+                  "flower",
+                  "family"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "crouch-book",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "run-left",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "crouch-palm",
+                    "status": "ready"
+                  }
+                ]
+              },
+              {
+                "books": [
+                  "intro",
+                  "flower",
+                  "family"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  }
+                ]
+              }
+            ],
+            "window": [
+              "intro",
+              "flower",
+              "family"
+            ]
+          }
+        ],
+        "composeMs": 2.299999997019768,
+        "composites": 5,
+        "draws": 13,
+        "pageDrawMs": 515.1000000052154
+      },
+      "text": "你好！\n\n我是小小云朵和小太阳。"
+    },
+    {
+      "actor": "1",
+      "book": "intro",
+      "overflow": false,
+      "page": 2,
+      "pipeline": "composed-actor-v1",
+      "portraitScale": "0.42889683837095727",
+      "pose": "stand-wave",
+      "preparation": {
+        "backgroundDownloadMs": 2363.2000000067055,
+        "bodyDownloadMs": 330.80000000074506,
+        "buckets": [
+          {
+            "sessions": [
+              {
+                "books": [
+                  "intro",
+                  "flower",
+                  "family"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "crouch-book",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "run-left",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "crouch-palm",
+                    "status": "ready"
+                  }
+                ]
+              },
+              {
+                "books": [
+                  "intro",
+                  "flower",
+                  "family"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  }
+                ]
+              }
+            ],
+            "window": [
+              "intro",
+              "flower",
+              "family"
+            ]
+          }
+        ],
+        "composeMs": 2.299999997019768,
+        "composites": 5,
+        "draws": 14,
+        "pageDrawMs": 563.1000000052154
+      },
+      "text": "我的名字\n\n叫小小云朵和小太阳。"
+    },
+    {
+      "actor": "1",
+      "book": "intro",
+      "overflow": false,
+      "page": 3,
+      "pipeline": "composed-actor-v1",
+      "portraitScale": "0.42889683837095727",
+      "pose": "stand-wave",
+      "preparation": {
+        "backgroundDownloadMs": 2363.2000000067055,
+        "bodyDownloadMs": 330.80000000074506,
+        "buckets": [
+          {
+            "sessions": [
+              {
+                "books": [
+                  "intro",
+                  "flower",
+                  "family"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "crouch-book",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "run-left",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "crouch-palm",
+                    "status": "ready"
+                  }
+                ]
+              },
+              {
+                "books": [
+                  "intro",
+                  "flower",
+                  "family"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  }
+                ]
+              }
+            ],
+            "window": [
+              "intro",
+              "flower",
+              "family"
+            ]
+          }
+        ],
+        "composeMs": 2.299999997019768,
+        "composites": 5,
+        "draws": 15,
+        "pageDrawMs": 563.4000000022352
+      },
+      "text": "你的名字\n\n是什么呢？"
+    },
+    {
+      "actor": "1",
+      "book": "intro",
+      "overflow": false,
+      "page": 4,
+      "pipeline": "composed-actor-v1",
+      "portraitScale": "0.42889683837095727",
+      "pose": "stand-wave",
+      "preparation": {
+        "backgroundDownloadMs": 2363.2000000067055,
+        "bodyDownloadMs": 330.80000000074506,
+        "buckets": [
+          {
+            "sessions": [
+              {
+                "books": [
+                  "intro",
+                  "flower",
+                  "family"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "crouch-book",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "run-left",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "crouch-palm",
+                    "status": "ready"
+                  }
+                ]
+              },
+              {
+                "books": [
+                  "intro",
+                  "flower",
+                  "family"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  }
+                ]
+              }
+            ],
+            "window": [
+              "intro",
+              "flower",
+              "family"
+            ]
+          }
+        ],
+        "composeMs": 2.299999997019768,
+        "composites": 5,
+        "draws": 16,
+        "pageDrawMs": 563.7000000029802
+      },
+      "text": "我五岁了。\n\n你几岁呢？"
+    },
+    {
+      "actor": "1",
+      "book": "intro",
+      "overflow": false,
+      "page": 5,
+      "pipeline": "composed-actor-v1",
+      "portraitScale": "0.42889683837095727",
+      "pose": "stand-wave",
+      "preparation": {
+        "backgroundDownloadMs": 2387.7000000067055,
+        "bodyDownloadMs": 330.80000000074506,
+        "buckets": [
+          {
+            "sessions": [
+              {
+                "books": [
+                  "intro",
+                  "flower",
+                  "family"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "crouch-book",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "run-left",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "crouch-palm",
+                    "status": "ready"
+                  }
+                ]
+              },
+              {
+                "books": [
+                  "intro",
+                  "flower",
+                  "family"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  }
+                ]
+              }
+            ],
+            "window": [
+              "intro",
+              "flower",
+              "family"
+            ]
+          }
+        ],
+        "composeMs": 2.299999997019768,
+        "composites": 5,
+        "draws": 17,
+        "pageDrawMs": 616.4000000022352
+      },
+      "text": "我上大班了。"
+    },
+    {
+      "actor": "1",
+      "book": "intro",
+      "overflow": false,
+      "page": 6,
+      "pipeline": "composed-actor-v1",
+      "portraitScale": "0.42889683837095727",
+      "pose": "stand-wave",
+      "preparation": {
+        "backgroundDownloadMs": 2387.7000000067055,
+        "bodyDownloadMs": 330.80000000074506,
+        "buckets": [
+          {
+            "sessions": [
+              {
+                "books": [
+                  "intro",
+                  "flower",
+                  "family"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "crouch-book",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "run-left",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "crouch-palm",
+                    "status": "ready"
+                  }
+                ]
+              },
+              {
+                "books": [
+                  "intro",
+                  "flower",
+                  "family"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  }
+                ]
+              }
+            ],
+            "window": [
+              "intro",
+              "flower",
+              "family"
+            ]
+          }
+        ],
+        "composeMs": 2.299999997019768,
+        "composites": 5,
+        "draws": 18,
+        "pageDrawMs": 616.6000000052154
+      },
+      "text": "你也是吗？"
+    },
+    {
+      "actor": "2",
+      "book": "flower",
+      "overflow": false,
+      "page": 1,
+      "pipeline": "composed-actor-v1",
+      "portraitScale": "0.42889683837095727",
+      "pose": "crouch-book",
+      "preparation": {
+        "backgroundDownloadMs": 2387.7000000067055,
+        "bodyDownloadMs": 342.5999999977648,
+        "buckets": [
+          {
+            "sessions": [
+              {
+                "books": [
+                  "flower",
+                  "family",
+                  "hands"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "crouch-book",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "run-left",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "crouch-palm",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "hands-flower-open",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "hands-flower-closed",
+                    "status": "ready"
+                  }
+                ]
+              },
+              {
+                "books": [
+                  "flower",
+                  "family",
+                  "hands"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  }
+                ]
+              }
+            ],
+            "window": [
+              "flower",
+              "family",
+              "hands"
+            ]
+          }
+        ],
+        "composeMs": 2.5999999940395355,
+        "composites": 7,
+        "draws": 52,
+        "pageDrawMs": 1027.6999999955297
+      },
+      "text": "我的小花。"
+    },
+    {
+      "actor": "",
+      "book": "flower",
+      "overflow": false,
+      "page": 2,
+      "pipeline": "composed-actor-v1",
+      "portraitScale": "",
+      "pose": "none",
+      "preparation": {
+        "backgroundDownloadMs": 2387.7000000067055,
+        "bodyDownloadMs": 342.5999999977648,
+        "buckets": [
+          {
+            "sessions": [
+              {
+                "books": [
+                  "flower",
+                  "family",
+                  "hands"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "crouch-book",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "run-left",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "crouch-palm",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "hands-flower-open",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "hands-flower-closed",
+                    "status": "ready"
+                  }
+                ]
+              },
+              {
+                "books": [
+                  "flower",
+                  "family",
+                  "hands"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  }
+                ]
+              }
+            ],
+            "window": [
+              "flower",
+              "family",
+              "hands"
+            ]
+          }
+        ],
+        "composeMs": 2.5999999940395355,
+        "composites": 7,
+        "draws": 53,
+        "pageDrawMs": 1027.7999999970198
+      },
+      "text": "我的花\n\n有好多片。"
+    },
+    {
+      "actor": "3",
+      "book": "flower",
+      "overflow": false,
+      "page": 3,
+      "pipeline": "composed-actor-v1",
+      "portraitScale": "0.42889683837095727",
+      "pose": "run-left",
+      "preparation": {
+        "backgroundDownloadMs": 2443.6000000052154,
+        "bodyDownloadMs": 342.5999999977648,
+        "buckets": [
+          {
+            "sessions": [
+              {
+                "books": [
+                  "flower",
+                  "family",
+                  "hands"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "crouch-book",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "run-left",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "crouch-palm",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "hands-flower-open",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "hands-flower-closed",
+                    "status": "ready"
+                  }
+                ]
+              },
+              {
+                "books": [
+                  "flower",
+                  "family",
+                  "hands"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  }
+                ]
+              }
+            ],
+            "window": [
+              "flower",
+              "family",
+              "hands"
+            ]
+          }
+        ],
+        "composeMs": 2.5999999940395355,
+        "composites": 7,
+        "draws": 54,
+        "pageDrawMs": 1076.1999999955297
+      },
+      "text": "一片两片三四片，"
+    },
+    {
+      "actor": "3",
+      "book": "flower",
+      "overflow": false,
+      "page": 4,
+      "pipeline": "composed-actor-v1",
+      "portraitScale": "0.42889683837095727",
+      "pose": "run-left",
+      "preparation": {
+        "backgroundDownloadMs": 2443.6000000052154,
+        "bodyDownloadMs": 342.5999999977648,
+        "buckets": [
+          {
+            "sessions": [
+              {
+                "books": [
+                  "flower",
+                  "family",
+                  "hands"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "crouch-book",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "run-left",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "crouch-palm",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "hands-flower-open",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "hands-flower-closed",
+                    "status": "ready"
+                  }
+                ]
+              },
+              {
+                "books": [
+                  "flower",
+                  "family",
+                  "hands"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  }
+                ]
+              }
+            ],
+            "window": [
+              "flower",
+              "family",
+              "hands"
+            ]
+          }
+        ],
+        "composeMs": 2.5999999940395355,
+        "composites": 7,
+        "draws": 55,
+        "pageDrawMs": 1076.5999999977648
+      },
+      "text": "五片六片七八片，"
+    },
+    {
+      "actor": "3",
+      "book": "flower",
+      "overflow": false,
+      "page": 5,
+      "pipeline": "composed-actor-v1",
+      "portraitScale": "0.42889683837095727",
+      "pose": "run-left",
+      "preparation": {
+        "backgroundDownloadMs": 2443.6000000052154,
+        "bodyDownloadMs": 342.5999999977648,
+        "buckets": [
+          {
+            "sessions": [
+              {
+                "books": [
+                  "flower",
+                  "family",
+                  "hands"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "crouch-book",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "run-left",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "crouch-palm",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "hands-flower-open",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "hands-flower-closed",
+                    "status": "ready"
+                  }
+                ]
+              },
+              {
+                "books": [
+                  "flower",
+                  "family",
+                  "hands"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  }
+                ]
+              }
+            ],
+            "window": [
+              "flower",
+              "family",
+              "hands"
+            ]
+          }
+        ],
+        "composeMs": 2.5999999940395355,
+        "composites": 7,
+        "draws": 56,
+        "pageDrawMs": 1077.0999999977648
+      },
+      "text": "九片十片十一片，"
+    },
+    {
+      "actor": "4",
+      "book": "flower",
+      "overflow": false,
+      "page": 6,
+      "pipeline": "composed-actor-v1",
+      "portraitScale": "0.42889683837095727",
+      "pose": "crouch-palm",
+      "preparation": {
+        "backgroundDownloadMs": 2466.3000000044703,
+        "bodyDownloadMs": 342.5999999977648,
+        "buckets": [
+          {
+            "sessions": [
+              {
+                "books": [
+                  "flower",
+                  "family",
+                  "hands"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "crouch-book",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "run-left",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "crouch-palm",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "hands-flower-open",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "hands-flower-closed",
+                    "status": "ready"
+                  }
+                ]
+              },
+              {
+                "books": [
+                  "flower",
+                  "family",
+                  "hands"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  }
+                ]
+              }
+            ],
+            "window": [
+              "flower",
+              "family",
+              "hands"
+            ]
+          }
+        ],
+        "composeMs": 2.5999999940395355,
+        "composites": 7,
+        "draws": 57,
+        "pageDrawMs": 1077.5
+      },
+      "text": "飞入草丛都不见。"
+    },
+    {
+      "book": "family",
+      "overflow": false,
+      "page": 1,
+      "pipeline": "composed-actor-v1",
+      "preparation": {
+        "backgroundDownloadMs": 2466.3000000044703,
+        "bodyDownloadMs": 365.0999999977648,
+        "buckets": [
+          {
+            "sessions": [
+              {
+                "books": [
+                  "family",
+                  "hands",
+                  "rain"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "crouch-book",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "hands-flower-open",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "hands-flower-closed",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "hold-umbrella",
+                    "status": "ready"
+                  }
+                ]
+              },
+              {
+                "books": [
+                  "family",
+                  "hands",
+                  "rain"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  }
+                ]
+              }
+            ],
+            "window": [
+              "family",
+              "hands",
+              "rain"
+            ]
+          }
+        ],
+        "composeMs": 2.7999999932944775,
+        "composites": 8,
+        "draws": 98,
+        "pageDrawMs": 1389.9999999962747
+      },
+      "text": "我家有几口人？\n\n我来数一数。"
+    },
+    {
+      "book": "family",
+      "overflow": false,
+      "page": 2,
+      "pipeline": "composed-actor-v1",
+      "preparation": {
+        "backgroundDownloadMs": 2466.3000000044703,
+        "bodyDownloadMs": 365.0999999977648,
+        "buckets": [
+          {
+            "sessions": [
+              {
+                "books": [
+                  "family",
+                  "hands",
+                  "rain"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "crouch-book",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "hands-flower-open",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "hands-flower-closed",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "hold-umbrella",
+                    "status": "ready"
+                  }
+                ]
+              },
+              {
+                "books": [
+                  "family",
+                  "hands",
+                  "rain"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  }
+                ]
+              }
+            ],
+            "window": [
+              "family",
+              "hands",
+              "rain"
+            ]
+          }
+        ],
+        "composeMs": 2.7999999932944775,
+        "composites": 8,
+        "draws": 99,
+        "pageDrawMs": 1390.4999999962747
+      },
+      "text": "这是爸爸。"
+    },
+    {
+      "book": "family",
+      "overflow": false,
+      "page": 3,
+      "pipeline": "composed-actor-v1",
+      "preparation": {
+        "backgroundDownloadMs": 2466.3000000044703,
+        "bodyDownloadMs": 365.0999999977648,
+        "buckets": [
+          {
+            "sessions": [
+              {
+                "books": [
+                  "family",
+                  "hands",
+                  "rain"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "crouch-book",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "hands-flower-open",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "hands-flower-closed",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "hold-umbrella",
+                    "status": "ready"
+                  }
+                ]
+              },
+              {
+                "books": [
+                  "family",
+                  "hands",
+                  "rain"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  }
+                ]
+              }
+            ],
+            "window": [
+              "family",
+              "hands",
+              "rain"
+            ]
+          }
+        ],
+        "composeMs": 2.7999999932944775,
+        "composites": 8,
+        "draws": 100,
+        "pageDrawMs": 1390.7999999932945
+      },
+      "text": "这是妈妈。"
+    },
+    {
+      "book": "family",
+      "overflow": false,
+      "page": 4,
+      "pipeline": "composed-actor-v1",
+      "preparation": {
+        "backgroundDownloadMs": 2466.3000000044703,
+        "bodyDownloadMs": 365.0999999977648,
+        "buckets": [
+          {
+            "sessions": [
+              {
+                "books": [
+                  "family",
+                  "hands",
+                  "rain"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "crouch-book",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "hands-flower-open",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "hands-flower-closed",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "hold-umbrella",
+                    "status": "ready"
+                  }
+                ]
+              },
+              {
+                "books": [
+                  "family",
+                  "hands",
+                  "rain"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  }
+                ]
+              }
+            ],
+            "window": [
+              "family",
+              "hands",
+              "rain"
+            ]
+          }
+        ],
+        "composeMs": 2.7999999932944775,
+        "composites": 8,
+        "draws": 101,
+        "pageDrawMs": 1391.1999999918044
+      },
+      "text": "这是爷爷。"
+    },
+    {
+      "book": "family",
+      "overflow": false,
+      "page": 5,
+      "pipeline": "composed-actor-v1",
+      "preparation": {
+        "backgroundDownloadMs": 2466.3000000044703,
+        "bodyDownloadMs": 365.0999999977648,
+        "buckets": [
+          {
+            "sessions": [
+              {
+                "books": [
+                  "family",
+                  "hands",
+                  "rain"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "crouch-book",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "hands-flower-open",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "hands-flower-closed",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "hold-umbrella",
+                    "status": "ready"
+                  }
+                ]
+              },
+              {
+                "books": [
+                  "family",
+                  "hands",
+                  "rain"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  }
+                ]
+              }
+            ],
+            "window": [
+              "family",
+              "hands",
+              "rain"
+            ]
+          }
+        ],
+        "composeMs": 2.7999999932944775,
+        "composites": 8,
+        "draws": 102,
+        "pageDrawMs": 1391.4999999925494
+      },
+      "text": "这是奶奶。"
+    },
+    {
+      "book": "family",
+      "overflow": false,
+      "page": 6,
+      "pipeline": "composed-actor-v1",
+      "preparation": {
+        "backgroundDownloadMs": 2466.3000000044703,
+        "bodyDownloadMs": 365.0999999977648,
+        "buckets": [
+          {
+            "sessions": [
+              {
+                "books": [
+                  "family",
+                  "hands",
+                  "rain"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "crouch-book",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "hands-flower-open",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "hands-flower-closed",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "hold-umbrella",
+                    "status": "ready"
+                  }
+                ]
+              },
+              {
+                "books": [
+                  "family",
+                  "hands",
+                  "rain"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  }
+                ]
+              }
+            ],
+            "window": [
+              "family",
+              "hands",
+              "rain"
+            ]
+          }
+        ],
+        "composeMs": 2.7999999932944775,
+        "composites": 8,
+        "draws": 103,
+        "pageDrawMs": 1391.8999999910593
+      },
+      "text": "这是姐姐。"
+    },
+    {
+      "book": "family",
+      "overflow": false,
+      "page": 7,
+      "pipeline": "composed-actor-v1",
+      "preparation": {
+        "backgroundDownloadMs": 2466.3000000044703,
+        "bodyDownloadMs": 365.0999999977648,
+        "buckets": [
+          {
+            "sessions": [
+              {
+                "books": [
+                  "family",
+                  "hands",
+                  "rain"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "crouch-book",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "hands-flower-open",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "hands-flower-closed",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "hold-umbrella",
+                    "status": "ready"
+                  }
+                ]
+              },
+              {
+                "books": [
+                  "family",
+                  "hands",
+                  "rain"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  }
+                ]
+              }
+            ],
+            "window": [
+              "family",
+              "hands",
+              "rain"
+            ]
+          }
+        ],
+        "composeMs": 2.7999999932944775,
+        "composites": 8,
+        "draws": 104,
+        "pageDrawMs": 1392.0999999903142
+      },
+      "text": "我数好了！\n\n一共有五口人。"
+    },
+    {
+      "book": "family",
+      "overflow": false,
+      "page": 8,
+      "pipeline": "composed-actor-v1",
+      "preparation": {
+        "backgroundDownloadMs": 2466.3000000044703,
+        "bodyDownloadMs": 365.0999999977648,
+        "buckets": [
+          {
+            "sessions": [
+              {
+                "books": [
+                  "family",
+                  "hands",
+                  "rain"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "crouch-book",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "hands-flower-open",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "hands-flower-closed",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "hold-umbrella",
+                    "status": "ready"
+                  }
+                ]
+              },
+              {
+                "books": [
+                  "family",
+                  "hands",
+                  "rain"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  }
+                ]
+              }
+            ],
+            "window": [
+              "family",
+              "hands",
+              "rain"
+            ]
+          }
+        ],
+        "composeMs": 2.7999999932944775,
+        "composites": 8,
+        "draws": 105,
+        "pageDrawMs": 1392.499999988824
+      },
+      "text": "咦？\n\n我把谁忘了？"
+    },
+    {
+      "book": "family",
+      "overflow": false,
+      "page": 9,
+      "pipeline": "composed-actor-v1",
+      "preparation": {
+        "backgroundDownloadMs": 2466.3000000044703,
+        "bodyDownloadMs": 365.0999999977648,
+        "buckets": [
+          {
+            "sessions": [
+              {
+                "books": [
+                  "family",
+                  "hands",
+                  "rain"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "crouch-book",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "hands-flower-open",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "hands-flower-closed",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "hold-umbrella",
+                    "status": "ready"
+                  }
+                ]
+              },
+              {
+                "books": [
+                  "family",
+                  "hands",
+                  "rain"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  }
+                ]
+              }
+            ],
+            "window": [
+              "family",
+              "hands",
+              "rain"
+            ]
+          }
+        ],
+        "composeMs": 2.7999999932944775,
+        "composites": 8,
+        "draws": 106,
+        "pageDrawMs": 1393.1999999918044
+      },
+      "text": "是我呀！\n\n还要加上我。"
+    },
+    {
+      "book": "family",
+      "overflow": false,
+      "page": 10,
+      "pipeline": "composed-actor-v1",
+      "preparation": {
+        "backgroundDownloadMs": 2466.3000000044703,
+        "bodyDownloadMs": 365.0999999977648,
+        "buckets": [
+          {
+            "sessions": [
+              {
+                "books": [
+                  "family",
+                  "hands",
+                  "rain"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "crouch-book",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "hands-flower-open",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "hands-flower-closed",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "hold-umbrella",
+                    "status": "ready"
+                  }
+                ]
+              },
+              {
+                "books": [
+                  "family",
+                  "hands",
+                  "rain"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  }
+                ]
+              }
+            ],
+            "window": [
+              "family",
+              "hands",
+              "rain"
+            ]
+          }
+        ],
+        "composeMs": 2.7999999932944775,
+        "composites": 8,
+        "draws": 107,
+        "pageDrawMs": 1393.499999988824
+      },
+      "text": "我家有六口人。\n\n我们都在家！"
+    },
+    {
+      "actor": "1",
+      "book": "hands",
+      "overflow": false,
+      "page": 1,
+      "pipeline": "composed-actor-v1",
+      "portraitScale": "0.42889683837095727",
+      "pose": "stand-wave",
+      "preparation": {
+        "backgroundDownloadMs": 2466.3000000044703,
+        "bodyDownloadMs": 381.4999999962747,
+        "buckets": [
+          {
+            "sessions": [
+              {
+                "books": [
+                  "hands",
+                  "rain",
+                  "stone"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "crouch-book",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "hands-flower-open",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "hands-flower-closed",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "hold-umbrella",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "crouch-palm",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "carry-play",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "run-left",
+                    "status": "ready"
+                  }
+                ]
+              },
+              {
+                "books": [
+                  "hands",
+                  "rain",
+                  "stone"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  }
+                ]
+              }
+            ],
+            "window": [
+              "hands",
+              "rain",
+              "stone"
+            ]
+          }
+        ],
+        "composeMs": 4.0999999940395355,
+        "composites": 11,
+        "draws": 211,
+        "pageDrawMs": 1510.8999999836087
+      },
+      "text": "我有两只小手。"
+    },
+    {
+      "actor": "5",
+      "book": "hands",
+      "overflow": false,
+      "page": 2,
+      "pipeline": "composed-actor-v1",
+      "portraitScale": "0.42889683837095727",
+      "pose": "hands-flower-open",
+      "preparation": {
+        "backgroundDownloadMs": 2466.3000000044703,
+        "bodyDownloadMs": 381.4999999962747,
+        "buckets": [
+          {
+            "sessions": [
+              {
+                "books": [
+                  "hands",
+                  "rain",
+                  "stone"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "crouch-book",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "hands-flower-open",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "hands-flower-closed",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "hold-umbrella",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "crouch-palm",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "carry-play",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "run-left",
+                    "status": "ready"
+                  }
+                ]
+              },
+              {
+                "books": [
+                  "hands",
+                  "rain",
+                  "stone"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  }
+                ]
+              }
+            ],
+            "window": [
+              "hands",
+              "rain",
+              "stone"
+            ]
+          }
+        ],
+        "composeMs": 4.0999999940395355,
+        "composites": 11,
+        "draws": 212,
+        "pageDrawMs": 1511.0999999828637
+      },
+      "text": "小手开，\n\n小花来。"
+    },
+    {
+      "actor": "6",
+      "book": "hands",
+      "overflow": false,
+      "page": 3,
+      "pipeline": "composed-actor-v1",
+      "portraitScale": "0.42889683837095727",
+      "pose": "hands-flower-closed",
+      "preparation": {
+        "backgroundDownloadMs": 2466.3000000044703,
+        "bodyDownloadMs": 381.4999999962747,
+        "buckets": [
+          {
+            "sessions": [
+              {
+                "books": [
+                  "hands",
+                  "rain",
+                  "stone"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "crouch-book",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "hands-flower-open",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "hands-flower-closed",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "hold-umbrella",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "crouch-palm",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "carry-play",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "run-left",
+                    "status": "ready"
+                  }
+                ]
+              },
+              {
+                "books": [
+                  "hands",
+                  "rain",
+                  "stone"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  }
+                ]
+              }
+            ],
+            "window": [
+              "hands",
+              "rain",
+              "stone"
+            ]
+          }
+        ],
+        "composeMs": 4.0999999940395355,
+        "composites": 11,
+        "draws": 213,
+        "pageDrawMs": 1511.5999999828637
+      },
+      "text": "小手关，\n\n小花去。"
+    },
+    {
+      "actor": "6",
+      "book": "hands",
+      "overflow": false,
+      "page": 4,
+      "pipeline": "composed-actor-v1",
+      "portraitScale": "0.42889683837095727",
+      "pose": "hands-flower-closed",
+      "preparation": {
+        "backgroundDownloadMs": 2466.3000000044703,
+        "bodyDownloadMs": 381.4999999962747,
+        "buckets": [
+          {
+            "sessions": [
+              {
+                "books": [
+                  "hands",
+                  "rain",
+                  "stone"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "crouch-book",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "hands-flower-open",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "hands-flower-closed",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "hold-umbrella",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "crouch-palm",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "carry-play",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "run-left",
+                    "status": "ready"
+                  }
+                ]
+              },
+              {
+                "books": [
+                  "hands",
+                  "rain",
+                  "stone"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  }
+                ]
+              }
+            ],
+            "window": [
+              "hands",
+              "rain",
+              "stone"
+            ]
+          }
+        ],
+        "composeMs": 4.0999999940395355,
+        "composites": 11,
+        "draws": 214,
+        "pageDrawMs": 1511.6999999843538
+      },
+      "text": "小花，小花，\n\n你不来了吗？"
+    },
+    {
+      "actor": "5",
+      "book": "hands",
+      "overflow": false,
+      "page": 5,
+      "pipeline": "composed-actor-v1",
+      "portraitScale": "0.42889683837095727",
+      "pose": "hands-flower-open",
+      "preparation": {
+        "backgroundDownloadMs": 2466.3000000044703,
+        "bodyDownloadMs": 381.4999999962747,
+        "buckets": [
+          {
+            "sessions": [
+              {
+                "books": [
+                  "hands",
+                  "rain",
+                  "stone"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "crouch-book",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "hands-flower-open",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "hands-flower-closed",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "hold-umbrella",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "crouch-palm",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "carry-play",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "run-left",
+                    "status": "ready"
+                  }
+                ]
+              },
+              {
+                "books": [
+                  "hands",
+                  "rain",
+                  "stone"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  }
+                ]
+              }
+            ],
+            "window": [
+              "hands",
+              "rain",
+              "stone"
+            ]
+          }
+        ],
+        "composeMs": 4.0999999940395355,
+        "composites": 11,
+        "draws": 215,
+        "pageDrawMs": 1512.299999985844
+      },
+      "text": "小手开，\n\n小花回来了！"
+    },
+    {
+      "actor": "5",
+      "book": "hands",
+      "overflow": false,
+      "page": 6,
+      "pipeline": "composed-actor-v1",
+      "portraitScale": "0.42889683837095727",
+      "pose": "hands-flower-open",
+      "preparation": {
+        "backgroundDownloadMs": 2466.3000000044703,
+        "bodyDownloadMs": 381.4999999962747,
+        "buckets": [
+          {
+            "sessions": [
+              {
+                "books": [
+                  "hands",
+                  "rain",
+                  "stone"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "crouch-book",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "hands-flower-open",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "hands-flower-closed",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "hold-umbrella",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "crouch-palm",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "carry-play",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "run-left",
+                    "status": "ready"
+                  }
+                ]
+              },
+              {
+                "books": [
+                  "hands",
+                  "rain",
+                  "stone"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  }
+                ]
+              }
+            ],
+            "window": [
+              "hands",
+              "rain",
+              "stone"
+            ]
+          }
+        ],
+        "composeMs": 4.0999999940395355,
+        "composites": 11,
+        "draws": 216,
+        "pageDrawMs": 1512.599999986589
+      },
+      "text": "我的小手，\n\n是小花的家！"
+    },
+    {
+      "actor": "",
+      "book": "rain",
+      "overflow": false,
+      "page": 1,
+      "pipeline": "composed-actor-v1",
+      "portraitScale": "",
+      "pose": "none",
+      "preparation": {
+        "backgroundDownloadMs": 2535.8000000044703,
+        "bodyDownloadMs": 381.4999999962747,
+        "buckets": [
+          {
+            "sessions": [
+              {
+                "books": [
+                  "rain",
+                  "stone"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "crouch-book",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "hold-umbrella",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "crouch-palm",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "carry-play",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "run-left",
+                    "status": "ready"
+                  }
+                ]
+              },
+              {
+                "books": [
+                  "rain",
+                  "stone"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  }
+                ]
+              }
+            ],
+            "window": [
+              "rain",
+              "stone"
+            ]
+          }
+        ],
+        "composeMs": 4.0999999940395355,
+        "composites": 11,
+        "draws": 331,
+        "pageDrawMs": 1735.7999999895692
+      },
+      "text": "天上有云。"
+    },
+    {
+      "actor": "",
+      "book": "rain",
+      "overflow": false,
+      "page": 2,
+      "pipeline": "composed-actor-v1",
+      "portraitScale": "",
+      "pose": "none",
+      "preparation": {
+        "backgroundDownloadMs": 2535.8000000044703,
+        "bodyDownloadMs": 381.4999999962747,
+        "buckets": [
+          {
+            "sessions": [
+              {
+                "books": [
+                  "rain",
+                  "stone"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "crouch-book",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "hold-umbrella",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "crouch-palm",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "carry-play",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "run-left",
+                    "status": "ready"
+                  }
+                ]
+              },
+              {
+                "books": [
+                  "rain",
+                  "stone"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  }
+                ]
+              }
+            ],
+            "window": [
+              "rain",
+              "stone"
+            ]
+          }
+        ],
+        "composeMs": 4.0999999940395355,
+        "composites": 11,
+        "draws": 332,
+        "pageDrawMs": 1735.999999988824
+      },
+      "text": "风来了。\n\n下雨了！"
+    },
+    {
+      "actor": "7",
+      "book": "rain",
+      "overflow": false,
+      "page": 3,
+      "pipeline": "composed-actor-v1",
+      "portraitScale": "0.42889683837095727",
+      "pose": "hold-umbrella",
+      "preparation": {
+        "backgroundDownloadMs": 2535.8000000044703,
+        "bodyDownloadMs": 381.4999999962747,
+        "buckets": [
+          {
+            "sessions": [
+              {
+                "books": [
+                  "rain",
+                  "stone"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "crouch-book",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "hold-umbrella",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "crouch-palm",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "carry-play",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "run-left",
+                    "status": "ready"
+                  }
+                ]
+              },
+              {
+                "books": [
+                  "rain",
+                  "stone"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  }
+                ]
+              }
+            ],
+            "window": [
+              "rain",
+              "stone"
+            ]
+          }
+        ],
+        "composeMs": 4.0999999940395355,
+        "composites": 11,
+        "draws": 333,
+        "pageDrawMs": 1736.3999999910593
+      },
+      "text": "小伞开了。\n\n我在伞下。"
+    },
+    {
+      "actor": "",
+      "book": "rain",
+      "overflow": false,
+      "page": 4,
+      "pipeline": "composed-actor-v1",
+      "portraitScale": "",
+      "pose": "none",
+      "preparation": {
+        "backgroundDownloadMs": 2535.8000000044703,
+        "bodyDownloadMs": 381.4999999962747,
+        "buckets": [
+          {
+            "sessions": [
+              {
+                "books": [
+                  "rain",
+                  "stone"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "crouch-book",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "hold-umbrella",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "crouch-palm",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "carry-play",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "run-left",
+                    "status": "ready"
+                  }
+                ]
+              },
+              {
+                "books": [
+                  "rain",
+                  "stone"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  }
+                ]
+              }
+            ],
+            "window": [
+              "rain",
+              "stone"
+            ]
+          }
+        ],
+        "composeMs": 4.0999999940395355,
+        "composites": 11,
+        "draws": 334,
+        "pageDrawMs": 1736.5999999903142
+      },
+      "text": "小花在雨中。"
+    },
+    {
+      "actor": "7",
+      "book": "rain",
+      "overflow": false,
+      "page": 5,
+      "pipeline": "composed-actor-v1",
+      "portraitScale": "0.42889683837095727",
+      "pose": "hold-umbrella",
+      "preparation": {
+        "backgroundDownloadMs": 2535.8000000044703,
+        "bodyDownloadMs": 381.4999999962747,
+        "buckets": [
+          {
+            "sessions": [
+              {
+                "books": [
+                  "rain",
+                  "stone"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "crouch-book",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "hold-umbrella",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "crouch-palm",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "carry-play",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "run-left",
+                    "status": "ready"
+                  }
+                ]
+              },
+              {
+                "books": [
+                  "rain",
+                  "stone"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  }
+                ]
+              }
+            ],
+            "window": [
+              "rain",
+              "stone"
+            ]
+          }
+        ],
+        "composeMs": 4.0999999940395355,
+        "composites": 11,
+        "draws": 335,
+        "pageDrawMs": 1736.9999999925494
+      },
+      "text": "小花，来！\n\n小花不来。"
+    },
+    {
+      "actor": "7",
+      "book": "rain",
+      "overflow": false,
+      "page": 6,
+      "pipeline": "composed-actor-v1",
+      "portraitScale": "0.42889683837095727",
+      "pose": "hold-umbrella",
+      "preparation": {
+        "backgroundDownloadMs": 2535.8000000044703,
+        "bodyDownloadMs": 381.4999999962747,
+        "buckets": [
+          {
+            "sessions": [
+              {
+                "books": [
+                  "rain",
+                  "stone"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "crouch-book",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "hold-umbrella",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "crouch-palm",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "carry-play",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "run-left",
+                    "status": "ready"
+                  }
+                ]
+              },
+              {
+                "books": [
+                  "rain",
+                  "stone"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  }
+                ]
+              }
+            ],
+            "window": [
+              "rain",
+              "stone"
+            ]
+          }
+        ],
+        "composeMs": 4.0999999940395355,
+        "composites": 11,
+        "draws": 336,
+        "pageDrawMs": 1737.6999999955297
+      },
+      "text": "花不来，\n\n我去！"
+    },
+    {
+      "actor": "2",
+      "book": "rain",
+      "overflow": false,
+      "page": 7,
+      "pipeline": "composed-actor-v1",
+      "portraitScale": "0.42889683837095727",
+      "pose": "crouch-book",
+      "preparation": {
+        "backgroundDownloadMs": 2535.8000000044703,
+        "bodyDownloadMs": 381.4999999962747,
+        "buckets": [
+          {
+            "sessions": [
+              {
+                "books": [
+                  "rain",
+                  "stone"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "crouch-book",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "hold-umbrella",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "crouch-palm",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "carry-play",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "run-left",
+                    "status": "ready"
+                  }
+                ]
+              },
+              {
+                "books": [
+                  "rain",
+                  "stone"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  }
+                ]
+              }
+            ],
+            "window": [
+              "rain",
+              "stone"
+            ]
+          }
+        ],
+        "composeMs": 4.0999999940395355,
+        "composites": 11,
+        "draws": 337,
+        "pageDrawMs": 1737.8999999947846
+      },
+      "text": "我在伞下，\n\n小花也在伞下。"
+    },
+    {
+      "actor": "2",
+      "book": "rain",
+      "overflow": false,
+      "page": 8,
+      "pipeline": "composed-actor-v1",
+      "portraitScale": "0.42889683837095727",
+      "pose": "crouch-book",
+      "preparation": {
+        "backgroundDownloadMs": 2535.8000000044703,
+        "bodyDownloadMs": 381.4999999962747,
+        "buckets": [
+          {
+            "sessions": [
+              {
+                "books": [
+                  "rain",
+                  "stone"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "crouch-book",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "hold-umbrella",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "crouch-palm",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "carry-play",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "run-left",
+                    "status": "ready"
+                  }
+                ]
+              },
+              {
+                "books": [
+                  "rain",
+                  "stone"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  }
+                ]
+              }
+            ],
+            "window": [
+              "rain",
+              "stone"
+            ]
+          }
+        ],
+        "composeMs": 4.0999999940395355,
+        "composites": 11,
+        "draws": 338,
+        "pageDrawMs": 1738.1999999955297
+      },
+      "text": "雨在伞上，\n\n伞下有我，也有花。"
+    },
+    {
+      "actor": "8",
+      "book": "stone",
+      "overflow": false,
+      "page": 1,
+      "pipeline": "composed-actor-v1",
+      "portraitScale": "0.42889683837095727",
+      "pose": "crouch-palm",
+      "preparation": {
+        "backgroundDownloadMs": 2535.8000000044703,
+        "bodyDownloadMs": 381.4999999962747,
+        "buckets": [
+          {
+            "sessions": [
+              {
+                "books": [
+                  "stone"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "crouch-palm",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "carry-play",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "run-left",
+                    "status": "ready"
+                  }
+                ]
+              },
+              {
+                "books": [
+                  "stone"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  }
+                ]
+              }
+            ],
+            "window": [
+              "stone"
+            ]
+          }
+        ],
+        "composeMs": 4.0999999940395355,
+        "composites": 11,
+        "draws": 442,
+        "pageDrawMs": 1860.5000000186265
+      },
+      "text": "大石头下，\n\n有小石头。"
+    },
+    {
+      "actor": "",
+      "book": "stone",
+      "overflow": false,
+      "page": 2,
+      "pipeline": "composed-actor-v1",
+      "portraitScale": "",
+      "pose": "none",
+      "preparation": {
+        "backgroundDownloadMs": 2535.8000000044703,
+        "bodyDownloadMs": 381.4999999962747,
+        "buckets": [
+          {
+            "sessions": [
+              {
+                "books": [
+                  "stone"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "crouch-palm",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "carry-play",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "run-left",
+                    "status": "ready"
+                  }
+                ]
+              },
+              {
+                "books": [
+                  "stone"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  }
+                ]
+              }
+            ],
+            "window": [
+              "stone"
+            ]
+          }
+        ],
+        "composeMs": 4.0999999940395355,
+        "composites": 11,
+        "draws": 443,
+        "pageDrawMs": 1861.0000000186265
+      },
+      "text": "这是小石头的家。"
+    },
+    {
+      "actor": "9",
+      "book": "stone",
+      "overflow": false,
+      "page": 3,
+      "pipeline": "composed-actor-v1",
+      "portraitScale": "0.42889683837095727",
+      "pose": "carry-play",
+      "preparation": {
+        "backgroundDownloadMs": 2602.400000002235,
+        "bodyDownloadMs": 381.4999999962747,
+        "buckets": [
+          {
+            "sessions": [
+              {
+                "books": [
+                  "stone"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "crouch-palm",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "carry-play",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "run-left",
+                    "status": "ready"
+                  }
+                ]
+              },
+              {
+                "books": [
+                  "stone"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  }
+                ]
+              }
+            ],
+            "window": [
+              "stone"
+            ]
+          }
+        ],
+        "composeMs": 4.0999999940395355,
+        "composites": 11,
+        "draws": 444,
+        "pageDrawMs": 1917.5000000186265
+      },
+      "text": "小石头，来！\n\n你在我的手中。"
+    },
+    {
+      "actor": "9",
+      "book": "stone",
+      "overflow": false,
+      "page": 4,
+      "pipeline": "composed-actor-v1",
+      "portraitScale": "0.42889683837095727",
+      "pose": "carry-play",
+      "preparation": {
+        "backgroundDownloadMs": 2625.800000000745,
+        "bodyDownloadMs": 381.4999999962747,
+        "buckets": [
+          {
+            "sessions": [
+              {
+                "books": [
+                  "stone"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "crouch-palm",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "carry-play",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "run-left",
+                    "status": "ready"
+                  }
+                ]
+              },
+              {
+                "books": [
+                  "stone"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  }
+                ]
+              }
+            ],
+            "window": [
+              "stone"
+            ]
+          }
+        ],
+        "composeMs": 4.0999999940395355,
+        "composites": 11,
+        "draws": 445,
+        "pageDrawMs": 1960.4000000171363
+      },
+      "text": "我走，\n\n小石头也走。"
+    },
+    {
+      "actor": "9",
+      "book": "stone",
+      "overflow": false,
+      "page": 5,
+      "pipeline": "composed-actor-v1",
+      "portraitScale": "0.42889683837095727",
+      "pose": "carry-play",
+      "preparation": {
+        "backgroundDownloadMs": 2625.800000000745,
+        "bodyDownloadMs": 381.4999999962747,
+        "buckets": [
+          {
+            "sessions": [
+              {
+                "books": [
+                  "stone"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "crouch-palm",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "carry-play",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "run-left",
+                    "status": "ready"
+                  }
+                ]
+              },
+              {
+                "books": [
+                  "stone"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  }
+                ]
+              }
+            ],
+            "window": [
+              "stone"
+            ]
+          }
+        ],
+        "composeMs": 4.0999999940395355,
+        "composites": 11,
+        "draws": 446,
+        "pageDrawMs": 1960.7000000178816
+      },
+      "text": "我要回家了。"
+    },
+    {
+      "actor": "8",
+      "book": "stone",
+      "overflow": false,
+      "page": 6,
+      "pipeline": "composed-actor-v1",
+      "portraitScale": "0.42889683837095727",
+      "pose": "crouch-palm",
+      "preparation": {
+        "backgroundDownloadMs": 2644.400000002235,
+        "bodyDownloadMs": 381.4999999962747,
+        "buckets": [
+          {
+            "sessions": [
+              {
+                "books": [
+                  "stone"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "crouch-palm",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "carry-play",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "run-left",
+                    "status": "ready"
+                  }
+                ]
+              },
+              {
+                "books": [
+                  "stone"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  }
+                ]
+              }
+            ],
+            "window": [
+              "stone"
+            ]
+          }
+        ],
+        "composeMs": 4.0999999940395355,
+        "composites": 11,
+        "draws": 447,
+        "pageDrawMs": 1961.0000000186265
+      },
+      "text": "小石头，\n\n你也回家吧。"
+    },
+    {
+      "actor": "",
+      "book": "stone",
+      "overflow": false,
+      "page": 7,
+      "pipeline": "composed-actor-v1",
+      "portraitScale": "",
+      "pose": "none",
+      "preparation": {
+        "backgroundDownloadMs": 2644.400000002235,
+        "bodyDownloadMs": 381.4999999962747,
+        "buckets": [
+          {
+            "sessions": [
+              {
+                "books": [
+                  "stone"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "crouch-palm",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "carry-play",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "run-left",
+                    "status": "ready"
+                  }
+                ]
+              },
+              {
+                "books": [
+                  "stone"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  }
+                ]
+              }
+            ],
+            "window": [
+              "stone"
+            ]
+          }
+        ],
+        "composeMs": 4.0999999940395355,
+        "composites": 11,
+        "draws": 448,
+        "pageDrawMs": 1961.1000000201168
+      },
+      "text": "大石头下，\n\n小石头回家了。"
+    },
+    {
+      "actor": "10",
+      "book": "stone",
+      "overflow": false,
+      "page": 8,
+      "pipeline": "composed-actor-v1",
+      "portraitScale": "0.42889683837095727",
+      "pose": "run-left",
+      "preparation": {
+        "backgroundDownloadMs": 2663.20000000298,
+        "bodyDownloadMs": 381.4999999962747,
+        "buckets": [
+          {
+            "sessions": [
+              {
+                "books": [
+                  "stone"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "crouch-palm",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "carry-play",
+                    "status": "ready"
+                  },
+                  {
+                    "id": "run-left",
+                    "status": "ready"
+                  }
+                ]
+              },
+              {
+                "books": [
+                  "stone"
+                ],
+                "loading": null,
+                "poses": [
+                  {
+                    "id": "stand-wave",
+                    "status": "ready"
+                  }
+                ]
+              }
+            ],
+            "window": [
+              "stone"
+            ]
+          }
+        ],
+        "composeMs": 4.0999999940395355,
+        "composites": 11,
+        "draws": 449,
+        "pageDrawMs": 2002.1000000201168
+      },
+      "text": "我也回家了！"
+    }
+  ]
+}

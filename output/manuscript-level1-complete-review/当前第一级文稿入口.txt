@@ -1,0 +1,4 @@
+当前第一级改为用户指定15篇。
+正式文案依据：C:\Users\Administrator\Documents\ChatGPT\分级阅读绘本\output\level1-approved-15-20261026\第一级15篇-用户指定文稿.json
+此目录原30篇全文继续保留作历史参考，不能当作当前第一级选篇。
+应用、桌面旧Word和PDF尚未同步此15篇。

@@ -1,0 +1,500 @@
+{
+  "date": "2026-10-25",
+  "round": 2,
+  "firstTwoConfirmedUnchanged": true,
+  "openingContext": "父母领读，不再以独读或单篇首次出现字数要求改写第1、2篇。",
+  "caCharacter": {
+    "inCurrentLevel1WorkingList": false,
+    "usedInStory20": false,
+    "note": "结论仅针对项目当前第一级工作字表，不推定所有分级体系。"
+  },
+  "story23": {
+    "previousParagraphs": 9,
+    "currentParagraphs": 6,
+    "previousHanCount": 91,
+    "currentHanCount": 52
+  },
+  "treeGeometry": {
+    "type": "existing-scene-configuration-check",
+    "treeTop": 270,
+    "standingTop": 354.69387755102036,
+    "raisedTop": 244.69387755102036,
+    "conditionMet": true,
+    "artModified": false,
+    "note": "同一场景坐标下的既有母版配置核对；不是本轮新增插画或实物视觉验收。"
+  },
+  "changedStories": [
+    8,
+    10,
+    11,
+    13,
+    14,
+    15,
+    20,
+    23,
+    25,
+    26,
+    29
+  ],
+  "all30": [
+    {
+      "number": 1,
+      "oldNumber": 1,
+      "title": "你好，我是小石头",
+      "status": "用户确认保留，父母领读开篇",
+      "note": "",
+      "newCharacters": [
+        "你",
+        "好",
+        "我",
+        "是",
+        "的",
+        "名",
+        "字",
+        "叫",
+        "什",
+        "么",
+        "呢",
+        "五",
+        "岁",
+        "了",
+        "几",
+        "上",
+        "大",
+        "班",
+        "也",
+        "吗"
+      ]
+    },
+    {
+      "number": 2,
+      "oldNumber": 2,
+      "title": "我的花",
+      "status": "用户确认保留，父母领读开篇",
+      "note": "",
+      "newCharacters": [
+        "小",
+        "花",
+        "有",
+        "多",
+        "片",
+        "一",
+        "两",
+        "三",
+        "四",
+        "六",
+        "七",
+        "八",
+        "九",
+        "十",
+        "飞",
+        "入",
+        "草",
+        "丛",
+        "都",
+        "不",
+        "见"
+      ]
+    },
+    {
+      "number": 3,
+      "oldNumber": 3,
+      "title": "我家有几口人？",
+      "status": "保留上一轮稿，本轮通读未发现新的明确病句或因果断裂",
+      "note": "",
+      "newCharacters": [
+        "家",
+        "口",
+        "人",
+        "这",
+        "爸",
+        "妈",
+        "还",
+        "们",
+        "在"
+      ]
+    },
+    {
+      "number": 4,
+      "oldNumber": 4,
+      "title": "我的小手",
+      "status": "保留上一轮稿，本轮通读未发现新的明确病句或因果断裂",
+      "note": "",
+      "newCharacters": [
+        "只",
+        "手",
+        "用",
+        "做",
+        "开",
+        "合"
+      ]
+    },
+    {
+      "number": 5,
+      "oldNumber": 7,
+      "title": "山不见了",
+      "status": "保留上一轮稿，本轮通读未发现新的明确病句或因果断裂",
+      "note": "",
+      "newCharacters": [
+        "山",
+        "白",
+        "云",
+        "来",
+        "风",
+        "走",
+        "出",
+        "没"
+      ]
+    },
+    {
+      "number": 6,
+      "oldNumber": 5,
+      "title": "下雨了",
+      "status": "保留上一轮稿，本轮通读未发现新的明确病句或因果断裂",
+      "note": "",
+      "newCharacters": [
+        "下",
+        "雨",
+        "伞",
+        "中",
+        "去"
+      ]
+    },
+    {
+      "number": 7,
+      "oldNumber": 6,
+      "title": "小石头回家",
+      "status": "保留上一轮稿，本轮通读未发现新的明确病句或因果断裂",
+      "note": "",
+      "newCharacters": [
+        "石",
+        "头",
+        "拿",
+        "起",
+        "要",
+        "回",
+        "把",
+        "放"
+      ]
+    },
+    {
+      "number": 8,
+      "oldNumber": 27,
+      "title": "小虫过小山",
+      "status": "已按意见修订并复查",
+      "note": "孩子先过山，在山下等小虫；小虫下来后一起走，删掉原结尾的重复动作。",
+      "newCharacters": [
+        "虫",
+        "过",
+        "坐",
+        "等"
+      ]
+    },
+    {
+      "number": 9,
+      "oldNumber": 8,
+      "title": "小车回家",
+      "status": "保留上一轮稿，本轮通读未发现新的明确病句或因果断裂",
+      "note": "",
+      "newCharacters": [
+        "车",
+        "个",
+        "门",
+        "从",
+        "进",
+        "玩",
+        "关"
+      ]
+    },
+    {
+      "number": 10,
+      "oldNumber": 9,
+      "title": "小球在哪",
+      "status": "已按意见修订并复查",
+      "note": "寻找集中在小车和门后，用看看代替去玩具车里找；结尾直接找到球。",
+      "newCharacters": [
+        "和",
+        "球",
+        "哪",
+        "看",
+        "里",
+        "再",
+        "后",
+        "找",
+        "到"
+      ]
+    },
+    {
+      "number": 11,
+      "oldNumber": 11,
+      "title": "我和小树谁高",
+      "status": "已按意见修订并复查",
+      "note": "正文明确小树比我高一点；已核对既有场景中站上低石阶后可以超过树的配置关系。",
+      "newCharacters": [
+        "树",
+        "谁",
+        "高",
+        "比",
+        "点",
+        "站",
+        "又",
+        "脚",
+        "笑"
+      ]
+    },
+    {
+      "number": 12,
+      "oldNumber": 10,
+      "title": "水中的我",
+      "status": "保留上一轮稿，本轮通读未发现新的明确病句或因果断裂",
+      "note": "",
+      "newCharacters": [
+        "水",
+        "天",
+        "动"
+      ]
+    },
+    {
+      "number": 13,
+      "oldNumber": 12,
+      "title": "谁在叫",
+      "status": "已按意见修订并复查",
+      "note": "结尾小鸟，你也来了改为小鸟，你来了，去掉承接不清的也。",
+      "newCharacters": [
+        "听",
+        "声",
+        "鸟",
+        "猫"
+      ]
+    },
+    {
+      "number": 14,
+      "oldNumber": 13,
+      "title": "小猫要小球吗",
+      "status": "已按意见修订并复查",
+      "note": "我把小球推过去改为我把红球推过去，明确推的是哪一个球。",
+      "newCharacters": [
+        "红",
+        "黄",
+        "给",
+        "推",
+        "跑"
+      ]
+    },
+    {
+      "number": 15,
+      "oldNumber": 19,
+      "title": "小猫的床",
+      "status": "已按意见修订并复查",
+      "note": "从床上拿玩具的两处拿出来都改为拿下来。",
+      "newCharacters": [
+        "床",
+        "想",
+        "睡",
+        "吧"
+      ]
+    },
+    {
+      "number": 16,
+      "oldNumber": 14,
+      "title": "大鞋和小鞋",
+      "status": "保留上一轮稿，本轮通读未发现新的明确病句或因果断裂",
+      "note": "",
+      "newCharacters": [
+        "鞋",
+        "穿"
+      ]
+    },
+    {
+      "number": 17,
+      "oldNumber": 20,
+      "title": "我还不想睡",
+      "status": "保留上一轮稿，本轮通读未发现新的明确病句或因果断裂",
+      "note": "",
+      "newCharacters": [
+        "晚"
+      ]
+    },
+    {
+      "number": 18,
+      "oldNumber": 21,
+      "title": "早上好",
+      "status": "保留上一轮稿，本轮通读未发现新的明确病句或因果断裂",
+      "note": "",
+      "newCharacters": [
+        "今",
+        "早",
+        "衣",
+        "服",
+        "快"
+      ]
+    },
+    {
+      "number": 19,
+      "oldNumber": 24,
+      "title": "这水太热了",
+      "status": "保留上一轮稿，本轮通读未发现新的明确病句或因果断裂",
+      "note": "",
+      "newCharacters": [
+        "喝",
+        "太",
+        "热",
+        "能"
+      ]
+    },
+    {
+      "number": 20,
+      "oldNumber": 15,
+      "title": "小花喝水",
+      "status": "已按意见修订并复查",
+      "note": "不用擦，也不突然去洗脚；放好水后看着湿脚笑了，收在眼前的小意外。",
+      "newCharacters": [
+        "流",
+        "湿",
+        "加"
+      ]
+    },
+    {
+      "number": 21,
+      "oldNumber": 16,
+      "title": "小球也要走",
+      "status": "保留上一轮稿，本轮通读未发现新的明确病句或因果断裂",
+      "note": "",
+      "newCharacters": [
+        "前",
+        "着"
+      ]
+    },
+    {
+      "number": 22,
+      "oldNumber": 17,
+      "title": "小纸片飞了",
+      "status": "保留上一轮稿，本轮通读未发现新的明确病句或因果断裂",
+      "note": "",
+      "newCharacters": [
+        "纸",
+        "左",
+        "边",
+        "右",
+        "它",
+        "压",
+        "住"
+      ]
+    },
+    {
+      "number": 23,
+      "oldNumber": 26,
+      "title": "长纸和短纸",
+      "status": "已按意见修订并复查",
+      "note": "由9段缩成6段，保留短纸画路、接长纸、推车和猫坐路上；尾句小猫，让一让。",
+      "newCharacters": [
+        "短",
+        "画",
+        "条",
+        "路",
+        "接",
+        "长",
+        "让"
+      ]
+    },
+    {
+      "number": 24,
+      "oldNumber": 18,
+      "title": "大果子和小果子",
+      "status": "保留上一轮稿，本轮通读未发现新的明确病句或因果断裂",
+      "note": "",
+      "newCharacters": [
+        "果",
+        "子",
+        "朋",
+        "友",
+        "说",
+        "吃",
+        "真"
+      ]
+    },
+    {
+      "number": 25,
+      "oldNumber": 22,
+      "title": "看日出",
+      "status": "已按意见修订并复查",
+      "note": "我听见小鸟叫，我也笑了改为我听见小鸟叫，笑了。",
+      "newCharacters": [
+        "日",
+        "黑",
+        "阳",
+        "明"
+      ]
+    },
+    {
+      "number": 26,
+      "oldNumber": 23,
+      "title": "水中的月亮",
+      "status": "已按意见修订并复查",
+      "note": "小兔喝水使水面动起来，孩子问是否喝了月亮；停喝后水中的月亮回来，角色有动作，疑问有回应。",
+      "newCharacters": [
+        "月",
+        "亮",
+        "兔"
+      ]
+    },
+    {
+      "number": 27,
+      "oldNumber": 28,
+      "title": "我和小兔",
+      "status": "保留上一轮稿，本轮通读未发现新的明确病句或因果断裂",
+      "note": "",
+      "newCharacters": [
+        "耳",
+        "朵",
+        "眼",
+        "睛",
+        "牙",
+        "菜",
+        "叶"
+      ]
+    },
+    {
+      "number": 28,
+      "oldNumber": 29,
+      "title": "我跳过去了",
+      "status": "保留上一轮稿，本轮通读未发现新的明确病句或因果断裂",
+      "note": "",
+      "newCharacters": [
+        "会",
+        "跳",
+        "学",
+        "地",
+        "先"
+      ]
+    },
+    {
+      "number": 29,
+      "oldNumber": 25,
+      "title": "我画的家",
+      "status": "已按意见修订并复查",
+      "note": "比较整幅画中家的大小，画不下就画更大的家，明确把火车画在家里，不再以门洞代替整个家。",
+      "newCharacters": [
+        "火",
+        "绿"
+      ]
+    },
+    {
+      "number": 30,
+      "oldNumber": 30,
+      "title": "小鱼的新家",
+      "status": "保留上一轮稿，本轮通读未发现新的明确病句或因果断裂",
+      "note": "",
+      "newCharacters": [
+        "鱼",
+        "新",
+        "自",
+        "己"
+      ]
+    }
+  ],
+  "illustrationsGenerated": 0,
+  "pdfRegenerated": false,
+  "productionSourcesChangedThisRound": [],
+  "scope": "本轮仅修订文稿和核对记录；保留此前已同步绘本的第3篇及5—7篇次序。待文稿确认后再按现有插画对应情况同步后续绘本。"
+}

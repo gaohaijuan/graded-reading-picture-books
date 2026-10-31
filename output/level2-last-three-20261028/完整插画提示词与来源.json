@@ -1,0 +1,150 @@
+{
+  "method": "内置 imagegen，共11个新增图层，未调用API；人物头像沿用现有像素。",
+  "jobs": [
+    {
+      "key": "studio-floor",
+      "transparent_background": false,
+      "referenced_image_paths": [
+        "C:/Users/Administrator/Documents/ChatGPT/分级阅读绘本/little-protagonist/preview/art/sequence/layered-v1/hands-room.webp"
+      ],
+      "prompt": "Use case: illustration-story. Create ONE square 1536x1536 story BACKGROUND in exactly this warm detailed watercolor/gouache and layered-paper texture. Same preschool cottage room, viewed from a slightly higher camera looking down toward a large open honey-oak floor. Sage window and low cream wall with small shelf of books only in TOP 25 percent, natural light upper left. LOWER 75 percent is spacious uninterrupted wooden floor, gently visible woodgrain, quiet warm cream honey tones. This is where a separately composited child will sit at upper-left/center and spread a large sheet of drawing paper in lower right. No actual paper, crayons, child, animals or toys in this background; leave the floor open. Full bleed square, rich handcrafted paper texture, soft light, NOT flat vector, NOT 3D plastic. No text, watermark, borders.",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a18133-f2b0-7bb3-b08e-1804f0206ef5\\exec-09f4e383-b525-4e82-bfc1-31900e376209.png",
+      "method": "built-in imagegen",
+      "savedNativePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\art-samples\\level2-last-three-native\\studio-floor.png",
+      "savedWebPath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\level2-last-three\\studio-floor.webp"
+    },
+    {
+      "key": "jump-ground-close",
+      "transparent_background": false,
+      "referenced_image_paths": [
+        "C:/Users/Administrator/Documents/ChatGPT/分级阅读绘本/little-protagonist/preview/art/sequence/books-16-20-storyboards-v2/b20-p05.png"
+      ],
+      "prompt": "Use case: illustration-story. New close low-angle BACKGROUND of this exact sunny cottage garden, looking down slightly across a flat broad honey-colored stone path where a child learns to jump. Same rich watercolor gouache layered-paper texture, honey stone, sage grass, tiny daisies. Ground fills lower85%, distant low garden wall and soft foliage only near top. Keep center path completely free of obstacles; a small separate stone, paper, rabbit and child will be composited later. No people, rabbit, toys, paper, large rocks, furniture, text or watermark. Square1536x1536 full-bleed illustration, clear crisp texture, no blurry depth of field.",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a18133-f2b0-7bb3-b08e-1804f0206ef5\\exec-7095df94-2f22-4446-97fd-59d9cb781c01.png",
+      "method": "built-in imagegen",
+      "savedNativePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\art-samples\\level2-last-three-native\\jump-ground-close.png",
+      "savedWebPath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\level2-last-three\\jump-ground-close.webp"
+    },
+    {
+      "key": "toy-train",
+      "transparent_background": true,
+      "prompt": "Use case: illustration-story. One charming miniature wooden TOY STEAM LOCOMOTIVE, head pointing RIGHT, side view with a slight top-down 3/4 perspective suitable for resting on paper on a floor. Short terracotta red engine, muted teal cab and small brass yellow chimney, THREE ROUND CHARCOAL wheels visible, realistic little wooden toy construction and soft watercolor/gouache paper texture matching premium preschool illustrated picture books. No track, smoke, rails, people or ground; genuinely transparent background, all parts fully in frame, tiny contact shadow only directly below wheels, not a halo. No text, letters, numbers, watermark, borders. Landscape3:2, native crisp rich details.",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a18133-f2b0-7bb3-b08e-1804f0206ef5\\exec-cbe99169-a428-4968-949e-8fafeab99fb9.png",
+      "method": "built-in imagegen",
+      "savedNativePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\art-samples\\level2-last-three-native\\toy-train.png",
+      "savedWebPath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\level2-last-three\\toy-train.webp"
+    },
+    {
+      "key": "drawing-fish",
+      "transparent_background": true,
+      "prompt": "Use case: illustration-story. A drawing MADE BY A FIVE YEAR OLD: exactly ONE small orange-red fish, facing LEFT, chunky uneven orange wax-crayon oval body, triangular tail, two tiny fins, one black crayon dot eye and a little curved mouth. Naive lively childlike hand-drawn markmaking, richly visible broken wax pigment and rough paper grain INSIDE marks, not vector, not realistic fish, not an adult polished illustration. Fish fully visible in center, no water, paper, bubbles, plants, rocks or text. GENUINE transparent background so this can be layered over a child's drawing-paper scene. Landscape3:2, high native detail.",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a18133-f2b0-7bb3-b08e-1804f0206ef5\\exec-e8ca9949-6fe3-4e10-89e4-8c71dd5f82ab.png",
+      "method": "built-in imagegen",
+      "savedNativePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\art-samples\\level2-last-three-native\\drawing-fish.png",
+      "savedWebPath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\level2-last-three\\drawing-fish.webp"
+    },
+    {
+      "key": "drawing-water",
+      "transparent_background": true,
+      "prompt": "Use case: illustration-story. A FIVE YEAR OLD'S WAX-CRAYON DRAWING of a wide little pool of blue water ONLY, for a hand-drawn underwater home. Broad loosely overlapping pale BLUE and TURQUOISE horizontal wavy crayon strokes, an irregular wide roughly oval pond outline, large open center with translucent pale blue broken crayon scumbling, rough paper grain INSIDE the wax marks. Wide landscape3:2. True transparent background outside and in small gaps between marks. NO fish, people, plants, stones, bubbles, paper edge, floor, labels or writing. Naive child artwork, charming imperfect uneven drawing, NOT a photorealistic pond, not gradients or vector clipart. This will be a separate layer on warm ivory paper.",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a18133-f2b0-7bb3-b08e-1804f0206ef5\\exec-49463f80-e593-4d28-9b65-41ff405c1100.png",
+      "method": "built-in imagegen",
+      "savedNativePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\art-samples\\level2-last-three-native\\drawing-water.png",
+      "savedWebPath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\level2-last-three\\drawing-water.webp"
+    },
+    {
+      "key": "drawing-habitat",
+      "transparent_background": true,
+      "prompt": "Use case: illustration-story. A FIVE YEAR OLD'S WAX-CRAYON drawing of underwater GRASS AND STONES as one sparse landscape3:2 transparent layer: two little clumps of wavy GREEN water plants at lower-left and lower-right; TWO SMALL rounded grey-brown pebbles along lower-middle; ONE LARGE rounded grey rock at far lower-right. Open empty CENTER and TOP two thirds reserved for a fish and self-portrait layered later. Thick uneven childlike strokes with rich broken wax pigment, modest scribbled coloring, rough paper grain in marks. Genuine transparent background. No fish, water, child, bubbles, paper edges, background, shadows, text or numbers. Naive warm preschool artwork, not a naturalistic landscape or polished vector.",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a18133-f2b0-7bb3-b08e-1804f0206ef5\\exec-28add71a-0d4d-4c3e-8b30-de0d547c4fe9.png",
+      "method": "built-in imagegen",
+      "savedNativePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\art-samples\\level2-last-three-native\\drawing-habitat.png",
+      "savedWebPath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\level2-last-three\\drawing-habitat.webp"
+    },
+    {
+      "key": "drawing-self",
+      "transparent_background": true,
+      "prompt": "Use case: illustration-story. One preschool child's own naive SELF PORTRAIT DRAWING in wax crayon: a cheerful stick-figure child with round peach circle face, sparse black hair lines, two black dot eyes, simple curved smile, YELLOW roughly rectangular sweater, two simple green shorts shapes, skinny crayon arms stretched sideways and little red shoes. It should look drawn by a five-year-old on paper, absolutely NOT a realistic or generated portrait of the book protagonist. Full body centrally framed, large empty margins. Bold uneven wavering wax marks, visible pigment and rough paper texture within the marks. GENUINE transparent background, no paper, water, fish, bubbles, stars, scenery, text, borders or labels. Warm charming imperfect crayon doodle, not a polished vector illustration.",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a18133-f2b0-7bb3-b08e-1804f0206ef5\\exec-873ddd1e-58c6-42e0-a49c-2d782942b2f6.png",
+      "method": "built-in imagegen",
+      "savedNativePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\art-samples\\level2-last-three-native\\drawing-self.png",
+      "savedWebPath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\level2-last-three\\drawing-self.webp"
+    },
+    {
+      "key": "drawing-trees-flowers",
+      "transparent_background": true,
+      "prompt": "Use case: illustration-story. A five-year-old's naive WAX CRAYON DRAWING, separate transparent layer of THREE SMALL GREEN TREES and FOUR RED FLOWERS along a little roadside. Arrange trees across upper half at x20%,50%,80%, each a scribbly green crown and brown trunk; red flowers as simple little red circles with green stems in a line below, leaving bottom quarter empty. Rich broken wax pigment and rough paper grain visible inside thick uneven marks. Real transparency outside marks, no road, train, paper, floor, people, animals, clouds, lettering, numbers, labels or border. Landscape3:2. Charming very simple child art, NOT grown-up watercolor scenery or smooth clipart.",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a18133-f2b0-7bb3-b08e-1804f0206ef5\\exec-d1f640df-e3a5-4419-994b-aa8c533c6228.png",
+      "method": "built-in imagegen",
+      "savedNativePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\art-samples\\level2-last-three-native\\drawing-trees-flowers.png",
+      "savedWebPath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\level2-last-three\\drawing-trees-flowers.webp"
+    },
+    {
+      "key": "white-rabbit-jump",
+      "source": "C:/Users/Administrator/.codex/generated_images/01a18135-eca2-79c3-9c48-5828792fc9fd/exec-3f696763-e8f7-4de2-87fe-4c8534a7cfba.png",
+      "prompt": "Use case: precise-object-edit. Asset type: isolated transparent rabbit action for the SAME preschool picture book. Edit this exact white albino rabbit into a small graceful LEAP toward the RIGHT, all four feet completely airborne, front paws reaching forward and hind legs gently stretched backward, ears sweeping slightly back. Preserve the same natural small rabbit anatomy, pure white fur, ruby-red eye, pink inner ears and nose, fluffy tail, realistic small paws, delicate layered watercolor and textured paper fur. Entire rabbit visible from nose to tail and both ear tips, with generous transparent margins. A side three-quarter view, not foreshortened. No ground, no rock, no paper, no shadow cloud, no colored halo, no speed marks, no text, no people. Do not change the rabbit into a brown animal, plush toy or cartoon human. Genuine alpha transparency. Landscape composition.",
+      "references": [
+        "preview/art/sequence/level2-fourth-three/white-rabbit-alert.webp"
+      ],
+      "nativePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\art-samples\\level2-last-three-native\\white-rabbit-jump.png",
+      "webPath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\level2-last-three\\white-rabbit-jump.webp",
+      "assetKey": "white-rabbit-jump",
+      "accepted": true,
+      "size": [
+        1536,
+        1024
+      ],
+      "bounds": [
+        54,
+        23,
+        1506,
+        875
+      ]
+    },
+    {
+      "key": "child-jump",
+      "source": "C:/Users/Administrator/.codex/generated_images/01a18135-eca2-79c3-9c48-5828792fc9fd/exec-8d0c4fee-ab48-4a37-a2bc-06239718c498.png",
+      "prompt": "Use case: precise-object-edit. Asset type: same-body transparent CHILD jumping action, without head, for the established layered picture book. Image1 is the exact standing anatomy and clothing MASTER; Image2 is the same child's running body as a pose and limb-length reference. Preserve the SAME torso width and collar-to-hem length, arm lengths, thigh and calf lengths, round toddler anatomy and white chest pocket, yellow textured knit sweater, sage cuffed shorts, white socks, rusty red canvas sneakers. Change pose ONLY: the child makes a small two-foot forward JUMP toward the right. Both shoes are airborne and near the same height, knees gently bent, lower legs tucked slightly backward, arms extended diagonally sideways for balance. Front three-quarter body view, collar near horizontal, chest pocket still visible. The silhouette should read as a modest child jumping over a small paper obstacle, not running, flying, sitting, or split leap. Keep hands with five natural small fingers and both complete shoes; full body including all hands in frame. CRITICAL: NO head, hair, face, eyes, substitute oval, or head-placeholder. Only the short neck meeting the collar exactly as in reference, open blank transparent head space above. Allow generous transparent canvas above the neck for a separately composited head; NEVER shrink torso or limbs to fit a tall headless body canvas. Preserve detailed watercolor/gouache cut-paper fiber texture. No ground, scenery, paper, rock, floor shadow, colored aura or gray/white background. Genuine alpha transparency. Portrait 2:3 canvas, all body inside with margins.",
+      "references": [
+        "preview/art/family/child-body.webp",
+        "preview/art/sequence/books-16-20-storyboards-v2/run-right-v2.png"
+      ],
+      "nativePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\art-samples\\level2-last-three-native\\child-jump.png",
+      "webPath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\level2-last-three\\jump-forward.webp",
+      "assetKey": "jump-forward",
+      "accepted": true,
+      "size": [
+        1536,
+        2048
+      ],
+      "bounds": [
+        153,
+        564,
+        1293,
+        1783
+      ]
+    },
+    {
+      "key": "child-sit-draw-active",
+      "source": "C:/Users/Administrator/.codex/generated_images/01a18135-eca2-79c3-9c48-5828792fc9fd/exec-cc81a0b4-f0e4-4ff3-8fbc-0730aa37df69.png",
+      "prompt": "Use case: precise-object-edit. Edit ONLY the right arm of this exact headless seated child body. Keep the same yellow knit sweater, cream chest pocket, sage cuffed shorts, white socks, red sneakers, crossed legs, torso shape, collar location, arm and leg lengths, detailed watercolor paper texture, and original proportions. The child is DRAWING ON PAPER ON THE FLOOR in front: the RIGHT ARM (on the viewer's RIGHT side) reaches FORWARD and DOWN toward lower-right foreground; its small hand holds ONE short blue wax crayon in a natural tripod drawing grip. Crayon tip points diagonally down and touches the invisible paper surface in front-right of the child's shoes, visibly lower than the knee, so the pose clearly reads as drawing. The left hand rests on the left knee exactly as original. Keep the original crossed legs and both shoes, not kneeling. NO HEAD, hair, face or oval placeholder, blank alpha above the short neck and collar exactly as reference. Include complete crayon tip and all fingers with adequate room; extend transparent canvas to right or below if necessary, do not shrink or stretch torso/limbs. NO paper, painted lines, floor, surface, rug, background, glow, halo or ground shadow. Genuine alpha transparency. No text, extra arms, extra fingers or other objects.",
+      "references": [
+        "preview/art/sequence/books-16-20/child-sit-draw-v2.png"
+      ],
+      "nativePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\art-samples\\level2-last-three-native\\child-sit-draw-active.png",
+      "webPath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\level2-last-three\\sit-draw-active.webp",
+      "assetKey": "sit-draw-active",
+      "accepted": true,
+      "size": [
+        1536,
+        1920
+      ],
+      "bounds": [
+        351,
+        565,
+        1221,
+        1519
+      ]
+    }
+  ]
+}

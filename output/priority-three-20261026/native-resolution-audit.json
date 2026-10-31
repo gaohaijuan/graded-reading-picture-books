@@ -1,0 +1,108 @@
+{
+  "minimumEffectivePpi": 243.1,
+  "note": "Full native close-up replaces the former149ppi crop; encoding300ppi does not create300ppi source detail.",
+  "records": [
+    {
+      "book": "snow-revision",
+      "page": 1,
+      "background": "snow-window",
+      "effectivePpi": 243.1
+    },
+    {
+      "book": "snow-revision",
+      "page": 2,
+      "background": "snow-air",
+      "effectivePpi": 243.1
+    },
+    {
+      "book": "snow-revision",
+      "page": 3,
+      "background": "snow-air",
+      "effectivePpi": 243.1
+    },
+    {
+      "book": "snow-revision",
+      "page": 4,
+      "background": "snow-grass",
+      "effectivePpi": 243.1
+    },
+    {
+      "book": "snow-revision",
+      "page": 5,
+      "background": "snow-grass",
+      "effectivePpi": 243.1
+    },
+    {
+      "book": "insect-revision",
+      "page": 1,
+      "background": "insect-stone",
+      "effectivePpi": 243.1
+    },
+    {
+      "book": "insect-revision",
+      "page": 2,
+      "background": "insect-stone",
+      "effectivePpi": 243.1
+    },
+    {
+      "book": "insect-revision",
+      "page": 3,
+      "background": "insect-ground",
+      "effectivePpi": 243.1
+    },
+    {
+      "book": "insect-revision",
+      "page": 4,
+      "background": "insect-empty-close",
+      "effectivePpi": 243.1
+    },
+    {
+      "book": "insect-revision",
+      "page": 5,
+      "background": "insect-ground",
+      "effectivePpi": 243.1
+    },
+    {
+      "book": "insect-revision",
+      "page": 6,
+      "background": "insect-stone",
+      "effectivePpi": 243.1
+    },
+    {
+      "book": "ball-revision",
+      "page": 1,
+      "background": "revision-room",
+      "effectivePpi": 243.1
+    },
+    {
+      "book": "ball-revision",
+      "page": 2,
+      "background": "revision-wagon-overlook",
+      "effectivePpi": 243.1
+    },
+    {
+      "book": "ball-revision",
+      "page": 3,
+      "background": "revision-wagon-room",
+      "effectivePpi": 244.7
+    },
+    {
+      "book": "ball-revision",
+      "page": 4,
+      "background": "revision-wagon-room",
+      "effectivePpi": 244.8
+    },
+    {
+      "book": "ball-revision",
+      "page": 5,
+      "background": "ball-door",
+      "effectivePpi": 243.1
+    },
+    {
+      "book": "ball-revision",
+      "page": 6,
+      "background": "ball-door",
+      "effectivePpi": 243.1
+    }
+  ]
+}

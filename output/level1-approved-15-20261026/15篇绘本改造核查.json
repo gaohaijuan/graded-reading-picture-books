@@ -1,0 +1,1328 @@
+{
+  "date": "2026-10-26",
+  "basis": "用户指定15篇，对照当前实际20本制作稿、图层分镜和浏览器页面。",
+  "scope": "只做评估及保存用户稿，不更新制作正文、不出图。",
+  "categories": {
+    "仅更新文字": [
+      1,
+      7,
+      9,
+      14
+    ],
+    "题材重做": [
+      2
+    ],
+    "局部调整": [
+      3,
+      4,
+      5,
+      6,
+      11,
+      12,
+      13,
+      15
+    ],
+    "尚未制作需新做": [
+      8
+    ],
+    "分镜大改": [
+      10
+    ]
+  },
+  "audit": [
+    {
+      "number": 1,
+      "title": "你好，我是CHILD",
+      "category": "仅更新文字",
+      "action": "现有介绍自己、姓名、年龄、班级画面可沿用。只将结尾改成“你也有名字吗？”，保持个性化字段。",
+      "reuse": "全部主要场景与人物",
+      "scope": "换文字和统计，不重画插画",
+      "existingId": "intro",
+      "existingShelfNumber": 1,
+      "existingProductionTitle": "你好，我是小石头",
+      "existingPages": [
+        [
+          "你好！",
+          "我是小石头。"
+        ],
+        [
+          "我的名字",
+          "叫小石头。"
+        ],
+        [
+          "你的名字",
+          "是什么呢？"
+        ],
+        [
+          "我五岁了。",
+          "你几岁呢？"
+        ],
+        [
+          "我上大班了。"
+        ],
+        [
+          "你也是吗？"
+        ]
+      ],
+      "targetParagraphs": [
+        "你好！我是CHILD。",
+        "我的名字叫CHILD。",
+        "你的名字是什么呢？",
+        "我五岁了。你几岁呢？",
+        "我上大班了。",
+        "你也有名字吗？"
+      ],
+      "existingScenes": [
+        {
+          "page": 1,
+          "background": "intro-greeting",
+          "pose": "stand-wave",
+          "beat": null
+        },
+        {
+          "page": 2,
+          "background": "intro-play",
+          "pose": "stand-wave",
+          "beat": null
+        },
+        {
+          "page": 3,
+          "background": "intro-greeting",
+          "pose": "stand-wave",
+          "beat": null
+        },
+        {
+          "page": 4,
+          "background": "intro-play",
+          "pose": "stand-wave",
+          "beat": null
+        },
+        {
+          "page": 5,
+          "background": "intro-school",
+          "pose": "stand-wave",
+          "beat": null
+        },
+        {
+          "page": 6,
+          "background": "intro-school",
+          "pose": "stand-wave",
+          "beat": null
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "下雪了",
+      "category": "题材重做",
+      "action": "原画是春日照顾花、花瓣飞走；新稿为下雪。需重新设计雪景、雪花数量和进入草丛的结尾，并适配雪天衣着；不能用旧花瓣改颜色冒充雪。",
+      "reuse": "既有画风、人物母版比例、合成方式",
+      "scope": "重做封面及故事插画，原数片诗四行保留",
+      "existingId": "flower",
+      "existingShelfNumber": 2,
+      "existingProductionTitle": "我的花",
+      "existingPages": [
+        [
+          "我的小花。"
+        ],
+        [
+          "我的花",
+          "有好多片。"
+        ],
+        [
+          "一片两片三四片，"
+        ],
+        [
+          "五片六片七八片，"
+        ],
+        [
+          "九片十片十一片，"
+        ],
+        [
+          "飞入草丛都不见。"
+        ]
+      ],
+      "targetParagraphs": [
+        "下雪了！",
+        "一片两片三四片，",
+        "五片六片七八片，",
+        "九片十片十一片，",
+        "飞入草丛都不见。"
+      ],
+      "existingScenes": [
+        {
+          "page": 1,
+          "background": "flower-care",
+          "pose": "crouch-book",
+          "beat": null
+        },
+        {
+          "page": 2,
+          "background": "flower-care",
+          "pose": null,
+          "beat": null
+        },
+        {
+          "page": 3,
+          "background": "flower-wind",
+          "pose": "run-left",
+          "beat": null
+        },
+        {
+          "page": 4,
+          "background": "flower-wind",
+          "pose": "run-left",
+          "beat": null
+        },
+        {
+          "page": 5,
+          "background": "flower-wind",
+          "pose": "run-left",
+          "beat": null
+        },
+        {
+          "page": 6,
+          "background": "flower-search",
+          "pose": "crouch-palm",
+          "beat": null
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "我家有几口人？",
+      "category": "局部调整",
+      "action": "当前家人介绍后直接到“还有我、三口人”。须补“先只算爸爸妈妈为两口→忘了自己→三口”的视觉转折，错误计数页不能仍以无强调的三人全家福配“两口人”。",
+      "reuse": "庭院、家人素材、全家画面",
+      "scope": "重排人数分镜和人物组合，按真实家庭动态计算，不整本重画",
+      "existingId": "family",
+      "existingShelfNumber": 3,
+      "existingProductionTitle": "我家有几口人？",
+      "existingPages": [
+        [
+          "我家有几口人？"
+        ],
+        [
+          "这是爸爸。"
+        ],
+        [
+          "这是妈妈。"
+        ],
+        [
+          "还有我！"
+        ],
+        [
+          "我家有三口人。"
+        ],
+        [
+          "我们都在家！"
+        ]
+      ],
+      "targetParagraphs": [
+        "我家有几口人？",
+        "这是爸爸。",
+        "这是妈妈。",
+        "有两口人。",
+        "不对，把我自己忘了！",
+        "有三口人！"
+      ],
+      "existingScenes": []
+    },
+    {
+      "number": 4,
+      "title": "我的小手",
+      "category": "局部调整",
+      "action": "现有张手做花与合手藏花动作可保留；把“学做、一朵又一朵、又开”安排成连续动作。保持手势花，不擅自添加纸花手工或新角色。",
+      "reuse": "hands-room、hands-flower-open、hands-flower-closed",
+      "scope": "调整动作节奏、页序与文字，必要时补手部特写",
+      "existingId": "hands",
+      "existingShelfNumber": 4,
+      "existingProductionTitle": "我的小手",
+      "existingPages": [
+        [
+          "我有两只小手。"
+        ],
+        [
+          "小手开，",
+          "小花来。"
+        ],
+        [
+          "小手关，",
+          "小花去。"
+        ],
+        [
+          "小花，小花，",
+          "你不来了吗？"
+        ],
+        [
+          "小手开，",
+          "小花回来了！"
+        ],
+        [
+          "我的小手，",
+          "是小花的家！"
+        ]
+      ],
+      "targetParagraphs": [
+        "我有两只小手。",
+        "我用小手学做小花。",
+        "我做了一朵又一朵。",
+        "小手开，小花开。",
+        "小手合上，小花不见了。",
+        "小手又开，小花又开。",
+        "你的小花开了吗？"
+      ],
+      "existingScenes": [
+        {
+          "page": 1,
+          "background": "hands-room",
+          "pose": "stand-wave",
+          "beat": null
+        },
+        {
+          "page": 2,
+          "background": "hands-room",
+          "pose": "hands-flower-open",
+          "beat": null
+        },
+        {
+          "page": 3,
+          "background": "hands-room",
+          "pose": "hands-flower-closed",
+          "beat": null
+        },
+        {
+          "page": 4,
+          "background": "hands-room",
+          "pose": "hands-flower-closed",
+          "beat": null
+        },
+        {
+          "page": 5,
+          "background": "hands-room",
+          "pose": "hands-flower-open",
+          "beat": null
+        },
+        {
+          "page": 6,
+          "background": "hands-room",
+          "pose": "hands-flower-open",
+          "beat": null
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "山不见了",
+      "category": "局部调整",
+      "action": "云挡山、风带走云的主线与现有图一致。但现有山景天空有多团云，新稿明确“两朵”，需要整理天空和可数云层，让数量清楚。",
+      "reuse": "山、庭院、前景、人物",
+      "scope": "修改云层及个别构图，不重做整本背景",
+      "existingId": "mountain",
+      "existingShelfNumber": 5,
+      "existingProductionTitle": "山不见了",
+      "existingPages": [
+        [
+          "山上有白云。"
+        ],
+        [
+          "白云来，",
+          "山不见了。"
+        ],
+        [
+          "山，",
+          "你也回家了吗？"
+        ],
+        [
+          "风来了，",
+          "云走了。"
+        ],
+        [
+          "山出来了！",
+          "山，你回来了！"
+        ],
+        [
+          "山没有走，",
+          "是云走了！"
+        ]
+      ],
+      "targetParagraphs": [
+        "山上有两朵白云。",
+        "白云来了，山不见了。",
+        "“山呢？”",
+        "风来了，云走了。",
+        "山出来了！",
+        "山没有走，是云走了！"
+      ],
+      "existingScenes": [
+        {
+          "page": 1,
+          "background": "mountain-clear",
+          "pose": "stand-wave",
+          "beat": "white-clouds-above-mountain"
+        },
+        {
+          "page": 2,
+          "background": "mountain-clear",
+          "pose": "stand-wave",
+          "beat": "mountain-hidden"
+        },
+        {
+          "page": 3,
+          "background": "mountain-clear",
+          "pose": "hands-flower-open",
+          "beat": "ask-mountain"
+        },
+        {
+          "page": 4,
+          "background": "mountain-clear",
+          "pose": "stand-wave",
+          "beat": "wind-moves-cloud"
+        },
+        {
+          "page": 5,
+          "background": "mountain-clear",
+          "pose": "hands-flower-open",
+          "beat": "mountain-revealed"
+        },
+        {
+          "page": 6,
+          "background": "mountain-clear",
+          "pose": "stand-wave",
+          "beat": "same-mountain-never-moved"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "下雨了",
+      "category": "局部调整",
+      "action": "原画以站着撑伞、走近花、蹲下共享伞为主。新增“坐在伞下看雨”需有对应坐姿画面；大雨、花仍淋雨、孩子走过去与共同遮雨须连贯。",
+      "reuse": "现有雨景、花、伞及其余动作",
+      "scope": "补或重合成坐着看雨的一处场景，调整开头结尾；不重画整套",
+      "existingId": "rain",
+      "existingShelfNumber": 6,
+      "existingProductionTitle": "下雨了",
+      "existingPages": [
+        [
+          "天上有云。"
+        ],
+        [
+          "风来了。",
+          "下雨了！"
+        ],
+        [
+          "小伞开了。",
+          "我在伞下。"
+        ],
+        [
+          "小花在雨中。"
+        ],
+        [
+          "小花，来！",
+          "小花不来。"
+        ],
+        [
+          "花不来，",
+          "我去！"
+        ],
+        [
+          "我在伞下，",
+          "小花也在伞下。"
+        ],
+        [
+          "雨在伞上，",
+          "伞下有我，也有花。"
+        ]
+      ],
+      "targetParagraphs": [
+        "下大雨了！下雨啦！",
+        "小伞开了。我坐在伞下，看雨。",
+        "小花在雨中。",
+        "“小花，来！”小花没来。",
+        "“花不来，我去！”",
+        "我在伞下，小花也在伞下。",
+        "雨在伞上，伞下有我，也有花。",
+        "我笑了。"
+      ],
+      "existingScenes": [
+        {
+          "page": 1,
+          "background": "rain-sky",
+          "pose": null,
+          "beat": null
+        },
+        {
+          "page": 2,
+          "background": "rain-alone",
+          "pose": null,
+          "beat": null
+        },
+        {
+          "page": 3,
+          "background": "rain-alone",
+          "pose": "hold-umbrella",
+          "beat": null
+        },
+        {
+          "page": 4,
+          "background": "rain-alone",
+          "pose": null,
+          "beat": null
+        },
+        {
+          "page": 5,
+          "background": "rain-alone",
+          "pose": "hold-umbrella",
+          "beat": null
+        },
+        {
+          "page": 6,
+          "background": "rain-walk",
+          "pose": "hold-umbrella",
+          "beat": null
+        },
+        {
+          "page": 7,
+          "background": "rain-shelter",
+          "pose": "crouch-book",
+          "beat": null
+        },
+        {
+          "page": 8,
+          "background": "rain-shelter",
+          "pose": "crouch-book",
+          "beat": null
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "小石头回家",
+      "category": "仅更新文字",
+      "action": "大石下发现、拿起、带着走、送回、自己回家的过程已有对应图。新增“地上、回家去了”等文字可同步，保持同一颗小石头。",
+      "reuse": "全部主要场景与动作",
+      "scope": "换文字和分段；后文重复“拿起来”作为文字待核对点，不自行改稿",
+      "existingId": "stone",
+      "existingShelfNumber": 7,
+      "existingProductionTitle": "小石头回家",
+      "existingPages": [
+        [
+          "大石头下，",
+          "有小石头。"
+        ],
+        [
+          "这是小石头的家。"
+        ],
+        [
+          "小石头，来！",
+          "你在我的手中。"
+        ],
+        [
+          "我走，",
+          "小石头也走。"
+        ],
+        [
+          "我要回家了。"
+        ],
+        [
+          "小石头，",
+          "你也回家吧。"
+        ],
+        [
+          "大石头下，",
+          "小石头回家了。"
+        ],
+        [
+          "我也回家了！"
+        ]
+      ],
+      "targetParagraphs": [
+        "大石头下，地上有小石头。",
+        "这是小石头的家。",
+        "我拿起小石头。",
+        "我走，小石头也走。",
+        "我要回家去了。",
+        "我把小石头拿起来，放回大石头下。",
+        "“小石头，你回家了！”",
+        "我也回家了。"
+      ],
+      "existingScenes": [
+        {
+          "page": 1,
+          "background": "stone-home",
+          "pose": "crouch-palm",
+          "beat": null
+        },
+        {
+          "page": 2,
+          "background": "stone-home",
+          "pose": null,
+          "beat": null
+        },
+        {
+          "page": 3,
+          "background": "stone-hold",
+          "pose": "carry-play",
+          "beat": null
+        },
+        {
+          "page": 4,
+          "background": "stone-walk",
+          "pose": "carry-play",
+          "beat": null
+        },
+        {
+          "page": 5,
+          "background": "stone-walk",
+          "pose": "carry-play",
+          "beat": null
+        },
+        {
+          "page": 6,
+          "background": "stone-return",
+          "pose": "crouch-palm",
+          "beat": null
+        },
+        {
+          "page": 7,
+          "background": "stone-return",
+          "pose": null,
+          "beat": null
+        },
+        {
+          "page": 8,
+          "background": "stone-leave",
+          "pose": "run-left",
+          "beat": null
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "小虫在哪",
+      "category": "尚未制作需新做",
+      "action": "这篇对应旧第27篇，不在现有20本已插画书中。需要石头上发现→走近找不到→低头发现脚上小虫→同行问话的完整分镜，虫的移动在画面上可理解。",
+      "reuse": "人物母版、少量山石庭院和既有行走动作可参考",
+      "scope": "新做故事插画及脚上小虫揭晓特写，避免前页提前揭晓",
+      "existingId": null,
+      "existingShelfNumber": null,
+      "existingProductionTitle": null,
+      "existingPages": [],
+      "targetParagraphs": [
+        "石头上，有一只小虫。",
+        "我走过去看。",
+        "小虫不见了！",
+        "“小虫，你在哪？”",
+        "我低头一看，小虫在我的脚上！",
+        "“你也要和我一起走吗？”"
+      ],
+      "existingScenes": []
+    },
+    {
+      "number": 9,
+      "title": "小车回家",
+      "category": "仅更新文字",
+      "action": "双门玩具车库、入口、出口、进出和关门均已有对应画面。用新文字同步“两个大门、我会开小车”，可删并多余反复进出的页。",
+      "reuse": "车库、车辆、背景与主要动作",
+      "scope": "换字与轻量排页，不重画场景",
+      "existingId": "car",
+      "existingShelfNumber": 8,
+      "existingProductionTitle": "小车回家",
+      "existingPages": [
+        [
+          "小车的家，",
+          "有两个门。"
+        ],
+        [
+          "一个入口，",
+          "一个出口。"
+        ],
+        [
+          "小车开进去。"
+        ],
+        [
+          "小车开出来。"
+        ],
+        [
+          "小车开进去，",
+          "又开出来。"
+        ],
+        [
+          "小车，",
+          "你不回家吗？"
+        ],
+        [
+          "小车开进去了。"
+        ],
+        [
+          "小手关上门。",
+          "回家了！"
+        ]
+      ],
+      "targetParagraphs": [
+        "小车的家，有两个大门。",
+        "一个入口，一个出口。",
+        "我会开小车，从入口进去，从出口出来。",
+        "我不玩了，小车也要回家。",
+        "我把小车开回家，关上门。"
+      ],
+      "existingScenes": [
+        {
+          "page": 1,
+          "background": "car-room-wide",
+          "pose": "stand-wave",
+          "beat": "two-door-home"
+        },
+        {
+          "page": 2,
+          "background": "car-room-floor",
+          "pose": null,
+          "beat": "entrance-and-exit"
+        },
+        {
+          "page": 3,
+          "background": "car-room-floor",
+          "pose": "crouch-book",
+          "beat": "enter-left-door"
+        },
+        {
+          "page": 4,
+          "background": "car-room-floor",
+          "pose": "crouch-book",
+          "beat": "leave-right-door"
+        },
+        {
+          "page": 5,
+          "background": "car-room-wide",
+          "pose": "push-cart",
+          "beat": "in-and-out-again"
+        },
+        {
+          "page": 6,
+          "background": "car-room-wide",
+          "pose": "crouch-book",
+          "beat": "ask-car-to-come-home"
+        },
+        {
+          "page": 7,
+          "background": "car-room-floor",
+          "pose": "crouch-book",
+          "beat": "park-inside"
+        },
+        {
+          "page": 8,
+          "background": "car-room-door",
+          "pose": "reach-water",
+          "beat": "doors-closed"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "小球在哪",
+      "category": "分镜大改",
+      "action": "旧图在庭院寻找小土堆和玩具车，最终在屋内地面发现球；新稿要找车里、车前、车后，最终在门后发现球。车前、车后、门后揭晓是主要缺口，旧屋内球在地中央的图不能直接配门后。",
+      "reuse": "人物、玩具车、球、部分庭院室内背景",
+      "scope": "重排寻找路线，重点重做或重合成3处寻找/揭晓构图；保留可用素材",
+      "existingId": "ball",
+      "existingShelfNumber": 9,
+      "existingProductionTitle": "小球在哪",
+      "existingPages": [
+        [
+          "我要和小球玩。"
+        ],
+        [
+          "我找小球。",
+          "你也来找。"
+        ],
+        [
+          "小球在小山上吗？"
+        ],
+        [
+          "小山上，",
+          "有小石头。"
+        ],
+        [
+          "小球在小车里吗？"
+        ],
+        [
+          "小车里，",
+          "也有小石头。"
+        ],
+        [
+          "回家了！",
+          "小球在家里！"
+        ],
+        [
+          "我出门了，",
+          "小球没有出门！"
+        ]
+      ],
+      "targetParagraphs": [
+        "我要找小球玩。",
+        "谁看见小球了？小球在哪？",
+        "我看看小车里，没有。",
+        "我看看小车前，也没有。",
+        "我看看小车后，也没有。",
+        "门后呢？小球在这里！",
+        "“找到你了！”"
+      ],
+      "existingScenes": [
+        {
+          "page": 1,
+          "background": "ball-yard-wide",
+          "pose": "stand-wave",
+          "beat": "want-to-play-no-ball"
+        },
+        {
+          "page": 2,
+          "background": "ball-yard-wide",
+          "pose": "run-left",
+          "beat": "search-courtyard"
+        },
+        {
+          "page": 3,
+          "background": "ball-mound-detail",
+          "pose": "crouch-book",
+          "beat": "look-at-small-mound"
+        },
+        {
+          "page": 4,
+          "background": "ball-mound-detail",
+          "pose": null,
+          "beat": "only-pebbles-on-mound"
+        },
+        {
+          "page": 5,
+          "background": "ball-cart-detail",
+          "pose": "crouch-book",
+          "beat": "look-inside-toy-cart"
+        },
+        {
+          "page": 6,
+          "background": "ball-cart-detail",
+          "pose": null,
+          "beat": "only-pebbles-in-cart"
+        },
+        {
+          "page": 7,
+          "background": "ball-home-reveal",
+          "pose": "stand-wave",
+          "beat": "ball-found-indoors"
+        },
+        {
+          "page": 8,
+          "background": "ball-home-reveal",
+          "pose": "hands-flower-open",
+          "beat": "ball-never-left-home"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "我和小树谁高",
+      "category": "局部调整",
+      "action": "地面比较、站上低石头、下来小树又高的画面已有。重排其与新短句的对应，结尾加明年比高的约定，可用当下挥手/望树画面，不必生成未来长大的孩子。",
+      "reuse": "小树、低石头、比较场景与人物",
+      "scope": "调整标题与页序，补合适结尾构图；不重做整本",
+      "existingId": "tree",
+      "existingShelfNumber": 11,
+      "existingProductionTitle": "小树长高了",
+      "existingPages": [
+        [
+          "小树，你好！"
+        ],
+        [
+          "你长高了，",
+          "我也长高了。"
+        ],
+        [
+          "我和小树，",
+          "谁高？"
+        ],
+        [
+          "我站在小石头上。",
+          "我高！"
+        ],
+        [
+          "我下来。",
+          "小树高！"
+        ],
+        [
+          "小树，你长吧！",
+          "我也要长高！"
+        ]
+      ],
+      "targetParagraphs": [
+        "小树，你好！",
+        "我和小树，谁高？",
+        "小树比我高一点。",
+        "我站在小石头上。",
+        "“这回，谁高？我高！”",
+        "我下来，小树又高了。",
+        "我看看脚下的小石头，笑了。",
+        "“明年我还要和小树比高高！”"
+      ],
+      "existingScenes": [
+        {
+          "page": 1,
+          "background": "tree-welcome",
+          "pose": "stand-wave",
+          "beat": "greet-the-sapling"
+        },
+        {
+          "page": 2,
+          "background": "tree-growth-detail",
+          "pose": "stand-wave",
+          "beat": "older-height-marks"
+        },
+        {
+          "page": 3,
+          "background": "tree-comparison",
+          "pose": "stand-wave",
+          "beat": "compare-on-the-ground"
+        },
+        {
+          "page": 4,
+          "background": "tree-comparison",
+          "pose": "stand-wave",
+          "beat": "stand-on-the-low-stone"
+        },
+        {
+          "page": 5,
+          "background": "tree-comparison",
+          "pose": "stand-wave",
+          "beat": "back-on-the-ground"
+        },
+        {
+          "page": 6,
+          "background": "tree-welcome",
+          "pose": "hands-flower-open",
+          "beat": "grow-together"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "水中的我",
+      "category": "局部调整",
+      "action": "保留静水倒影、走动跟随、停下和问好的场景，删除手入水、倒影消失和恢复三段。补齐“我笑、水中我也笑”的对应，倒影必须来自同一完整人物，不另造真人表情。",
+      "reuse": "浅水背景、现有人物和倒影合成",
+      "scope": "删页重排与必要的镜像画面调整，不整本重画",
+      "existingId": "water",
+      "existingShelfNumber": 10,
+      "existingProductionTitle": "水中的我",
+      "existingPages": [
+        [
+          "水中有天。",
+          "水中有云。"
+        ],
+        [
+          "水中有花。",
+          "水中有我。"
+        ],
+        [
+          "我走，",
+          "水中的我也走。"
+        ],
+        [
+          "我不走，",
+          "水中的我也不走。"
+        ],
+        [
+          "我的小手来了，",
+          "水中的小手也来了。"
+        ],
+        [
+          "小手入水。",
+          "水中的我不见了！"
+        ],
+        [
+          "小手出水。",
+          "水中的我回来了！"
+        ],
+        [
+          "你好，水中的我！",
+          "你也要回家吗？"
+        ]
+      ],
+      "targetParagraphs": [
+        "水中有天，有云，也有我。",
+        "我笑，水中的我也笑。",
+        "我走，水中的我也走。",
+        "我不走，水中的我也不走。",
+        "“你好，水中的我！”"
+      ],
+      "existingScenes": [
+        {
+          "page": 1,
+          "background": "water-puddle-detail",
+          "pose": null,
+          "beat": "sky-clouds-reflected"
+        },
+        {
+          "page": 2,
+          "background": "water-reflection-bank",
+          "pose": "crouch-book",
+          "beat": "flower-and-me-reflected"
+        },
+        {
+          "page": 3,
+          "background": "water-reflection-bank",
+          "pose": "run-left",
+          "beat": "walk-and-reflection-follows"
+        },
+        {
+          "page": 4,
+          "background": "water-reflection-bank",
+          "pose": "stand-wave",
+          "beat": "stop-and-reflection-stops"
+        },
+        {
+          "page": 5,
+          "background": "water-reflection-bank",
+          "pose": "crouch-palm",
+          "beat": "hand-approaches-water"
+        },
+        {
+          "page": 6,
+          "background": "water-reflection-bank",
+          "pose": "crouch-touch",
+          "beat": "touch-water-break-reflection"
+        },
+        {
+          "page": 7,
+          "background": "water-reflection-bank",
+          "pose": "crouch-book",
+          "beat": "hand-out-water-calm-again"
+        },
+        {
+          "page": 8,
+          "background": "water-reflection-bank",
+          "pose": "stand-wave",
+          "beat": "greet-reflection-and-go-home"
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "谁在叫",
+      "category": "局部调整",
+      "action": "旧图已具备听见声音、看树上鸟、看树下猫、树枝空了、鸟在小车上的揭晓。同步新问句和飞出描述，理顺页序；若表现飞行，优先只补鸟的动作层。",
+      "reuse": "树、鸟、猫、车和绝大多数既有场景",
+      "scope": "轻调页序/鸟的动作，不重画全书",
+      "existingId": "calling",
+      "existingShelfNumber": 12,
+      "existingProductionTitle": "谁在叫",
+      "existingPages": [
+        [
+          "谁在叫？"
+        ],
+        [
+          "我看树上。",
+          "树上有小鸟。"
+        ],
+        [
+          "小鸟，小鸟，",
+          "下来和我玩！"
+        ],
+        [
+          "小鸟不叫了。",
+          "谁又在叫？"
+        ],
+        [
+          "我看树下。",
+          "树下有小猫。"
+        ],
+        [
+          "小猫，你也来！"
+        ],
+        [
+          "小鸟呢？",
+          "小树上没有小鸟。"
+        ],
+        [
+          "小鸟在我的小车上！",
+          "你也来和我玩了！"
+        ]
+      ],
+      "targetParagraphs": [
+        "我听见叫声。谁在叫？",
+        "我看看树上，是小鸟在叫。",
+        "“小鸟，下来和我玩，好吗？”",
+        "小鸟不叫了。谁又在叫？",
+        "我看看树下，是小猫在叫。",
+        "“小猫，你也来！”",
+        "小鸟呢？小鸟飞出来了，不在树上了。",
+        "我一看，小鸟在小车上！",
+        "“小鸟，你来了！”"
+      ],
+      "existingScenes": [
+        {
+          "page": 1,
+          "background": "calling-wide",
+          "pose": "stand-wave",
+          "beat": "listen-before-looking"
+        },
+        {
+          "page": 2,
+          "background": "calling-up",
+          "pose": null,
+          "beat": "bird-singing-in-the-tree"
+        },
+        {
+          "page": 3,
+          "background": "calling-wide",
+          "pose": "hands-flower-open",
+          "beat": "invite-the-bird"
+        },
+        {
+          "page": 4,
+          "background": "calling-wide",
+          "pose": "stand-wave",
+          "beat": "bird-is-quiet-listen-again"
+        },
+        {
+          "page": 5,
+          "background": "calling-down",
+          "pose": null,
+          "beat": "cat-calling-under-the-tree"
+        },
+        {
+          "page": 6,
+          "background": "calling-down",
+          "pose": "crouch-book",
+          "beat": "invite-the-cat"
+        },
+        {
+          "page": 7,
+          "background": "calling-wide",
+          "pose": "stand-wave",
+          "beat": "empty-branch"
+        },
+        {
+          "page": 8,
+          "background": "calling-wide",
+          "pose": "hands-flower-open",
+          "beat": "bird-found-on-my-car"
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "title": "小猫要小球吗",
+      "category": "仅更新文字",
+      "action": "现有红黄球、猫对静止球没反应、孩子推球、猫过来玩的画面吻合。同步“红红的、要红球吗、跑来了我笑了”等文字即可。",
+      "reuse": "全部主要场景、猫、球与动作",
+      "scope": "换字；沿用已确认人物，不重新绘制真人笑脸",
+      "existingId": "catball",
+      "existingShelfNumber": 13,
+      "existingProductionTitle": "小猫要小球吗",
+      "existingPages": [
+        [
+          "我有一个红球。"
+        ],
+        [
+          "我有一个黄球。"
+        ],
+        [
+          "小猫，",
+          "你要小球吗？"
+        ],
+        [
+          "红球给你。"
+        ],
+        [
+          "黄球也给你。"
+        ],
+        [
+          "小猫不要红球，",
+          "也不要黄球。"
+        ],
+        [
+          "小球来，",
+          "小球去。"
+        ],
+        [
+          "小猫来了！",
+          "小猫要和我玩！"
+        ]
+      ],
+      "targetParagraphs": [
+        "我有一个红红的球。",
+        "我有一个黄球。",
+        "“小猫，你要红球吗？”",
+        "“红球给你。黄球也给你。”",
+        "小猫不来玩。",
+        "我把红球推过去。",
+        "小猫跑来了，我笑了！",
+        "我和小猫一起玩！"
+      ],
+      "existingScenes": [
+        {
+          "page": 1,
+          "background": "cat-play-wide",
+          "pose": "carry-play",
+          "beat": "show-red-ball"
+        },
+        {
+          "page": 2,
+          "background": "cat-play-wide",
+          "pose": "carry-play",
+          "beat": "show-yellow-ball"
+        },
+        {
+          "page": 3,
+          "background": "cat-offer-close",
+          "pose": "crouch-book",
+          "beat": "ask-the-cat"
+        },
+        {
+          "page": 4,
+          "background": "cat-offer-close",
+          "pose": "crouch-book",
+          "beat": "offer-red"
+        },
+        {
+          "page": 5,
+          "background": "cat-offer-close",
+          "pose": "crouch-book",
+          "beat": "offer-yellow"
+        },
+        {
+          "page": 6,
+          "background": "cat-offer-close",
+          "pose": "crouch-book",
+          "beat": "cat-waits-beside-still-balls"
+        },
+        {
+          "page": 7,
+          "background": "cat-rolling-side",
+          "pose": "crouch-touch",
+          "beat": "hand-starts-the-ball"
+        },
+        {
+          "page": 8,
+          "background": "cat-rolling-side",
+          "pose": "crouch-book",
+          "beat": "cat-comes-to-play"
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "title": "小猫的床",
+      "category": "局部调整",
+      "action": "对应旧第19本catbed，主要素材齐全。旧稿中有孩子把小车放进床再拿出的桥段，新稿要求拿下两件玩具让猫睡。须让两个玩具一开始都在床上，按先拿球再拿车、放好、猫上床睡重排。",
+      "reuse": "房间、猫床、醒猫/困猫/睡猫、小车小球、拿起动作",
+      "scope": "删除放车上床的旧分镜，局部重合成道具与动作，不整本重画",
+      "existingId": "catbed",
+      "existingShelfNumber": 19,
+      "existingProductionTitle": "小猫的床",
+      "existingPages": [
+        [
+          "这是小猫的床。"
+        ],
+        [
+          "小猫想睡了。"
+        ],
+        [
+          "小床上，",
+          "有小球。"
+        ],
+        [
+          "我把小球拿出来。"
+        ],
+        [
+          "我又把小车开进去。"
+        ],
+        [
+          "小猫看我。",
+          "你要睡了吗？"
+        ],
+        [
+          "小车出来吧！",
+          "小球也不来了。"
+        ],
+        [
+          "小猫，你睡吧。",
+          "我去玩了。"
+        ]
+      ],
+      "targetParagraphs": [
+        "这是小猫的床。",
+        "小猫想睡了。",
+        "床上有小球，我把小球拿下来。",
+        "床上还有小车，我把小车也拿下来。",
+        "小球、小车都拿下来，放好了。",
+        "“小猫，上床睡吧。”",
+        "小猫上了床，睡了。"
+      ],
+      "existingScenes": [
+        {
+          "page": 1,
+          "background": "bed-room-wide",
+          "pose": "hands-flower-open",
+          "beat": "this-is-the-cats-bed"
+        },
+        {
+          "page": 2,
+          "background": "bed-room-low",
+          "pose": null,
+          "beat": "cat-wants-to-sleep"
+        },
+        {
+          "page": 3,
+          "background": "bed-room-low",
+          "pose": null,
+          "beat": "ball-is-on-the-bed"
+        },
+        {
+          "page": 4,
+          "background": "bed-room-low",
+          "pose": "crouch-book",
+          "beat": "child-takes-ball-out"
+        },
+        {
+          "page": 5,
+          "background": "bed-room-wide",
+          "pose": "crouch-book",
+          "beat": "child-puts-car-in"
+        },
+        {
+          "page": 6,
+          "background": "bed-room-low",
+          "pose": "crouch-book",
+          "beat": "cat-looks-at-the-child"
+        },
+        {
+          "page": 7,
+          "background": "bed-room-wide",
+          "pose": "crouch-book",
+          "beat": "child-takes-car-out"
+        },
+        {
+          "page": 8,
+          "background": "bed-room-end",
+          "pose": "step-own-shoes",
+          "beat": "cat-sleeps-child-plays-away"
+        }
+      ]
+    }
+  ],
+  "inputHashes": {
+    "miniprogram/lib/stories.js": "c3353b190ddaf2f6b11625d030580b3a4eb9ebe820c6fbe7d0fea889f49e7d00",
+    "miniprogram/lib/level1-approved.js": "b012613d58c5ca339e6f302cda2876637bb9b777460c2ae3283aa1fc90205d3d",
+    "miniprogram/lib/family.js": "da43a902303139cd22090fb6a0caac9ee53dd23c663e389007649e7f0ce9e0b7",
+    "miniprogram/lib/layered-art.js": "068d55d5d217327e1fe061f15b8befe8ae2540aa0bd6b4c1b0211a91b175bfb8",
+    "miniprogram/lib/first-ten-art.js": "f6a7956eac2cd05bdd960b27829fa0bed55c2b839691764c7547d85c1276049f",
+    "miniprogram/lib/books-eleven-thirteen-art.js": "8d044545b155208a0376749f19c73ff1278d92a0f339525e79c967681dc2b441",
+    "miniprogram/lib/books-seventeen-nineteen-art.js": "1af78a5dc6076ade6c249f6c5166f937e530b4ceba094df50958918bcbb733af",
+    "preview/index.html": "b722c52b24d5c7ff8cc3563758e9dbacd494ebd136eca7c9df450cae98003907"
+  },
+  "visualEvidence": [
+    "浏览器书架仍为旧20本、无小虫在哪；家庭第5页三人同框；找球第7页球在屋内地中央；山景原图天空多团云。"
+  ],
+  "limitations": "属于文案/分镜/素材复用范围评估，不等于已逐页完成新稿排版、全部插画视觉验收或实际PDF打印验收。"
+}

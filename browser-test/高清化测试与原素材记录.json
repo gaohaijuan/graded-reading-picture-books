@@ -1,0 +1,64 @@
+{
+  "audit": {
+    "target_effective_ppi": 300,
+    "physical_art_panel_mm": [
+      128,
+      131
+    ],
+    "measured_assets": 30,
+    "below_300_assets": 20,
+    "minimum_effective_ppi": 81.46,
+    "affected_story_pages": 41,
+    "scope": "Current A5 renderer, six stories, default painted avatar and three-person family; no real user portraits."
+  },
+  "trial": {
+    "tool": "built-in image_gen",
+    "edit_target": "art-samples/my-family-production/courtyard.png",
+    "requested_dimensions": [
+      3840,
+      2160
+    ],
+    "actual_dimensions": [
+      1672,
+      941
+    ],
+    "candidate": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\browser-test\\hires-courtyard-trial.png",
+    "accepted": false,
+    "production_assets_replaced": 0,
+    "reason": "Output remains 1672x941 pixels, below the measured 2705x1523 requirement. No sampling improvement; visual sharpening is not a 300ppi qualification.",
+    "prompt": "Conservation-quality higher-resolution restoration of the same empty courtyard, native 3840x2160 requested; identical normalized geometry, objects, palette, gouache/watercolor paper-collage style; no people, no faces, no objects added or moved, no text. Improve only resolved fine texture and edge detail."
+  },
+  "original_asset_sha256": {
+    "/art/intro/greeting.webp": "43604274a2fbf7849a8e1fc46d96ae51edd5bef26308043e10fdf3742c08c2d8",
+    "/art/family/child-head.webp": "e05dba68581cdc2e2fb25f81507f178b03e18d83ae02ddb6469e626a3e9ce3d8",
+    "/art/intro/play.webp": "641c1a8859a3605de8c75c7a20346b262befa6a78aa382f4145c18ed428d7270",
+    "/art/intro/school.webp": "765f355e9f068d0c6a92f5a6f4687c2fe8813dd3eb95239b245fa2771de8bde2",
+    "/art/flower/care.webp": "9640b1fbfaeeab2017005f75015487ae532e6d3b3a262384fc8e30a7869bae94",
+    "/art/flower/care-head.webp": "c410f0f0b362263218b759a0a02ef5f56a1f02b0e4276263dbe4fcd9d2f2c5bf",
+    "/art/flower/wind.webp": "4e9f59ddae582d278adb4de176965672844e78897e5d859708b2e144896f1776",
+    "/art/flower/petal.webp": "3a0f4352cce9e73040d59519a54c2fe6fbdb773dc903d03abd451c081ef01d66",
+    "/art/flower/wind-head.webp": "c47977e4b2f5056921d8e5db480dc115732379fcf6a0156709b33589a8b035ee",
+    "/art/flower/search.webp": "e75314af9020563df14b1040c6948cd002d7b3c5fc3451527fe9835935800036",
+    "/art/flower/search-head.webp": "5759cafc4fd8750d485fbb0c1f3030590141c3c94037893260516d5f8c5ccda9",
+    "/art/family/courtyard.webp": "e1ff97451b4f176c1d3defd590785552e4c5d978e2d9387cc23fd786e20a797a",
+    "/art/family/bodies.webp": "721e3ca7f351579fd7870a280a59e05bcad6a96a980372c96a90e1502499d887",
+    "/art/family/heads.webp": "b548f651d6491253173ad12be04d64eb1db44d83979534d482a02e8d61e5b11f",
+    "/art/family/child-body.webp": "6bb5328751002b9304dec565c27b91bb4624a1526ae92fd239785f3eec393c12",
+    "/art/sequence/hands/hands-open.webp": "c75552a6b2a4aea07b45fe9d3643b0b1a4f176988b7d92a38028b9d0d73c6441",
+    "/art/sequence/hands/curious-head.webp": "a26554c3acbd2b9b32632e2d5e13aa0378db245c66de0dcac889733fde32cbe3",
+    "/art/sequence/hands/hands-show.webp": "4e17c0c41482f0dcd86934c897667adb735fe9a57ecf32a56a4501ec402d851e",
+    "/art/sequence/hands/hands-closed.webp": "ab6c3c7c2b1db2f782958420cd6b987d7e9e11ab60fada6062093e0d5f9bc8c4",
+    "/art/sequence/rain/rain-shelter.webp": "cdb20b18d4d0d6fc1b1591dd7e05ac1f472cda2253cfd9bcef0e82e24bbd75fa",
+    "/art/sequence/rain/curious-head.webp": "a26554c3acbd2b9b32632e2d5e13aa0378db245c66de0dcac889733fde32cbe3",
+    "/art/sequence/rain/rain-sky.webp": "9d7dcb9284eba4d0b48e51439c5dadd595b23455761ccc59f41d391d8eb16945",
+    "/art/sequence/rain/rain-alone.webp": "03a63556d1c7f6665c55da2c9293cc54deb078db0e8045c81349d69cfdb51706",
+    "/art/sequence/rain/rain-walk.webp": "2e1fcc526bca78ea6118797539e146de8c35bc0828b8241493c6c24e6d9f6c07",
+    "/art/sequence/stone/stone-home.webp": "f6e86ca182c7da1390698a7f53db63c1ded0dbce32c682f236933e01de944873",
+    "/art/sequence/stone/stone-curious-head.webp": "6e6cedfabe9d902702cb51ac61da6030ca2fa90269517f94dde9929c45681ec0",
+    "/art/sequence/stone/stone-hold.webp": "2f9b943ec0e5d85476873465674b993ea805ff5388e2f518668733744865faf5",
+    "/art/sequence/stone/stone-walk.webp": "1a843040736b50c823243771e7689794191e3a1df9500b10c3bee988b246b132",
+    "/art/sequence/stone/stone-return.webp": "2e24389dc18cc645b86920b0169fd2c301fd4f50cc08ead858e6d80f7cee175e",
+    "/art/sequence/stone/stone-leave.webp": "b65d9c6751b2bb61335d4d467866b456e5bef6f158e97a26a771c02ff453bb77"
+  },
+  "status": "NOT_PRINT_READY: original artwork retained; awaiting suitable high-resolution sources."
+}

@@ -1,0 +1,164 @@
+{
+  "count": 12,
+  "pages": [
+    [
+      "我家有几口人？"
+    ],
+    [
+      "这是爸爸。"
+    ],
+    [
+      "这是妈妈。"
+    ],
+    [
+      "这是爷爷。"
+    ],
+    [
+      "这是奶奶。"
+    ],
+    [
+      "这是哥哥。"
+    ],
+    [
+      "这是弟弟。"
+    ],
+    [
+      "这是姐姐。"
+    ],
+    [
+      "这是妹妹。"
+    ],
+    [
+      "这是姐姐。"
+    ],
+    [
+      "这是弟弟。"
+    ],
+    [
+      "这是妹妹。"
+    ],
+    [
+      "有十一口人。"
+    ],
+    [
+      "不对，把我自己忘了！"
+    ],
+    [
+      "有十二口人！"
+    ]
+  ],
+  "scenes": [
+    {
+      "kind": "member",
+      "memberIds": [
+        "child"
+      ]
+    },
+    {
+      "kind": "member",
+      "memberIds": [
+        "dad"
+      ]
+    },
+    {
+      "kind": "member",
+      "memberIds": [
+        "mom"
+      ]
+    },
+    {
+      "kind": "member",
+      "memberIds": [
+        "grandpa"
+      ]
+    },
+    {
+      "kind": "member",
+      "memberIds": [
+        "grandma"
+      ]
+    },
+    {
+      "kind": "member",
+      "memberIds": [
+        "olderBrother"
+      ]
+    },
+    {
+      "kind": "member",
+      "memberIds": [
+        "youngerBrother"
+      ]
+    },
+    {
+      "kind": "member",
+      "memberIds": [
+        "olderSister"
+      ]
+    },
+    {
+      "kind": "member",
+      "memberIds": [
+        "youngerSister"
+      ]
+    },
+    {
+      "kind": "member",
+      "memberIds": [
+        "member-qa-a"
+      ]
+    },
+    {
+      "kind": "member",
+      "memberIds": [
+        "member-qa-b"
+      ]
+    },
+    {
+      "kind": "member",
+      "memberIds": [
+        "member-qa-c"
+      ]
+    },
+    {
+      "kind": "count",
+      "memberIds": [
+        "dad",
+        "mom",
+        "grandpa",
+        "grandma",
+        "olderBrother",
+        "youngerBrother",
+        "olderSister",
+        "youngerSister",
+        "member-qa-a",
+        "member-qa-b",
+        "member-qa-c"
+      ]
+    },
+    {
+      "kind": "remember",
+      "memberIds": [
+        "child"
+      ]
+    },
+    {
+      "kind": "group",
+      "memberIds": [
+        "child",
+        "dad",
+        "mom",
+        "grandpa",
+        "grandma",
+        "olderBrother",
+        "youngerBrother",
+        "olderSister",
+        "youngerSister",
+        "member-qa-a",
+        "member-qa-b",
+        "member-qa-c"
+      ]
+    }
+  ],
+  "longName": true
+}

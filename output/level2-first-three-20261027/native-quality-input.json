@@ -1,0 +1,370 @@
+[
+  {
+    "number": 16,
+    "page": 1,
+    "background": "shoes-bench",
+    "source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\books-16-20-storyboards-v2\\b18-p07.png",
+    "world": {
+      "width": 1000,
+      "height": 1000
+    },
+    "camera": {
+      "x": 11.312217194570167,
+      "y": 0,
+      "width": 977.3755656108597,
+      "height": 1000
+    }
+  },
+  {
+    "number": 16,
+    "page": 2,
+    "background": "shoes-comparison",
+    "source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\books-16-20-storyboards-v2\\b18-p03.png",
+    "world": {
+      "width": 1000,
+      "height": 1000
+    },
+    "camera": {
+      "x": 11.312217194570167,
+      "y": 0,
+      "width": 977.3755656108597,
+      "height": 1000
+    }
+  },
+  {
+    "number": 16,
+    "page": 3,
+    "background": "shoes-try",
+    "source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\books-16-20-storyboards-v2\\b18-p04.png",
+    "world": {
+      "width": 1000,
+      "height": 1000
+    },
+    "camera": {
+      "x": 11.312217194570167,
+      "y": 0,
+      "width": 977.3755656108597,
+      "height": 1000
+    }
+  },
+  {
+    "number": 16,
+    "page": 4,
+    "background": "shoes-try",
+    "source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\books-16-20-storyboards-v2\\b18-p04.png",
+    "world": {
+      "width": 1000,
+      "height": 1000
+    },
+    "camera": {
+      "x": 11.312217194570167,
+      "y": 0,
+      "width": 977.3755656108597,
+      "height": 1000
+    }
+  },
+  {
+    "number": 16,
+    "page": 5,
+    "background": "shoes-try",
+    "source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\books-16-20-storyboards-v2\\b18-p04.png",
+    "world": {
+      "width": 1000,
+      "height": 1000
+    },
+    "camera": {
+      "x": 11.312217194570167,
+      "y": 0,
+      "width": 977.3755656108597,
+      "height": 1000
+    }
+  },
+  {
+    "number": 16,
+    "page": 6,
+    "background": "shoes-bench",
+    "source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\books-16-20-storyboards-v2\\b18-p07.png",
+    "world": {
+      "width": 1000,
+      "height": 1000
+    },
+    "camera": {
+      "x": 11.312217194570167,
+      "y": 0,
+      "width": 977.3755656108597,
+      "height": 1000
+    }
+  },
+  {
+    "number": 16,
+    "page": 7,
+    "background": "shoes-end",
+    "source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\books-16-20-storyboards-v2\\b18-p08.png",
+    "world": {
+      "width": 1000,
+      "height": 1000
+    },
+    "camera": {
+      "x": 11.312217194570167,
+      "y": 0,
+      "width": 977.3755656108597,
+      "height": 1000
+    }
+  },
+  {
+    "number": 17,
+    "page": 1,
+    "background": "sleep-window",
+    "source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\book-20\\sleep-window.png",
+    "world": {
+      "width": 1000,
+      "height": 1000
+    },
+    "camera": {
+      "x": 11.312217194570167,
+      "y": 0,
+      "width": 977.3755656108597,
+      "height": 1000
+    }
+  },
+  {
+    "number": 17,
+    "page": 2,
+    "background": "sleep-window",
+    "source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\book-20\\sleep-window.png",
+    "world": {
+      "width": 1000,
+      "height": 1000
+    },
+    "camera": {
+      "x": 11.312217194570167,
+      "y": 0,
+      "width": 977.3755656108597,
+      "height": 1000
+    }
+  },
+  {
+    "number": 17,
+    "page": 3,
+    "background": "sleep-branch",
+    "source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\book-20\\sleep-branch.png",
+    "world": {
+      "width": 1000,
+      "height": 1000
+    },
+    "camera": {
+      "x": 11.312217194570167,
+      "y": 0,
+      "width": 977.3755656108597,
+      "height": 1000
+    }
+  },
+  {
+    "number": 17,
+    "page": 4,
+    "background": "sleep-catwide",
+    "source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\book-20\\sleep-catwide.png",
+    "world": {
+      "width": 1000,
+      "height": 1000
+    },
+    "camera": {
+      "x": 11.312217194570167,
+      "y": 0,
+      "width": 977.3755656108597,
+      "height": 1000
+    }
+  },
+  {
+    "number": 17,
+    "page": 5,
+    "background": "sleep-catclose",
+    "source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\book-20\\sleep-catclose.png",
+    "world": {
+      "width": 1000,
+      "height": 1000
+    },
+    "camera": {
+      "x": 11.312217194570167,
+      "y": 0,
+      "width": 977.3755656108597,
+      "height": 1000
+    }
+  },
+  {
+    "number": 17,
+    "page": 6,
+    "background": "sleep-toys",
+    "source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\book-20\\sleep-toys.png",
+    "world": {
+      "width": 1000,
+      "height": 1000
+    },
+    "camera": {
+      "x": 11.312217194570167,
+      "y": 0,
+      "width": 977.3755656108597,
+      "height": 1000
+    }
+  },
+  {
+    "number": 17,
+    "page": 7,
+    "background": "sleep-toys",
+    "source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\book-20\\sleep-toys.png",
+    "world": {
+      "width": 1000,
+      "height": 1000
+    },
+    "camera": {
+      "x": 11.312217194570167,
+      "y": 0,
+      "width": 977.3755656108597,
+      "height": 1000
+    }
+  },
+  {
+    "number": 17,
+    "page": 8,
+    "background": "sleep-bedroom",
+    "source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\book-20\\sleep-bedroom.png",
+    "world": {
+      "width": 1000,
+      "height": 1000
+    },
+    "camera": {
+      "x": 11.312217194570167,
+      "y": 0,
+      "width": 977.3755656108597,
+      "height": 1000
+    }
+  },
+  {
+    "number": 18,
+    "page": 1,
+    "background": "morning-child-room",
+    "source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\level2-first-three\\morning-child-room.webp",
+    "world": {
+      "width": 1000,
+      "height": 1000
+    },
+    "camera": {
+      "x": 11.312217194570167,
+      "y": 0,
+      "width": 977.3755656108597,
+      "height": 1000
+    }
+  },
+  {
+    "number": 18,
+    "page": 2,
+    "background": "shoes-bench",
+    "source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\books-16-20-storyboards-v2\\b18-p07.png",
+    "world": {
+      "width": 1000,
+      "height": 1000
+    },
+    "camera": {
+      "x": 11.312217194570167,
+      "y": 0,
+      "width": 977.3755656108597,
+      "height": 1000
+    }
+  },
+  {
+    "number": 18,
+    "page": 3,
+    "background": "shoes-bench",
+    "source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\books-16-20-storyboards-v2\\b18-p07.png",
+    "world": {
+      "width": 1000,
+      "height": 1000
+    },
+    "camera": {
+      "x": 11.312217194570167,
+      "y": 0,
+      "width": 977.3755656108597,
+      "height": 1000
+    }
+  },
+  {
+    "number": 18,
+    "page": 4,
+    "background": "morning-parent-room",
+    "source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\level2-first-three\\morning-parent-room.webp",
+    "world": {
+      "width": 1000,
+      "height": 1000
+    },
+    "camera": {
+      "x": 11.312217194570167,
+      "y": 0,
+      "width": 977.3755656108597,
+      "height": 1000
+    }
+  },
+  {
+    "number": 18,
+    "page": 5,
+    "background": "morning-parent-room",
+    "source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\level2-first-three\\morning-parent-room.webp",
+    "world": {
+      "width": 1000,
+      "height": 1000
+    },
+    "camera": {
+      "x": 11.312217194570167,
+      "y": 0,
+      "width": 977.3755656108597,
+      "height": 1000
+    }
+  },
+  {
+    "number": 18,
+    "page": 6,
+    "background": "morning-parent-room",
+    "source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\level2-first-three\\morning-parent-room.webp",
+    "world": {
+      "width": 1000,
+      "height": 1000
+    },
+    "camera": {
+      "x": 11.312217194570167,
+      "y": 0,
+      "width": 977.3755656108597,
+      "height": 1000
+    }
+  },
+  {
+    "number": 18,
+    "page": 7,
+    "background": "shoes-bench",
+    "source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\books-16-20-storyboards-v2\\b18-p07.png",
+    "world": {
+      "width": 1000,
+      "height": 1000
+    },
+    "camera": {
+      "x": 11.312217194570167,
+      "y": 0,
+      "width": 977.3755656108597,
+      "height": 1000
+    }
+  },
+  {
+    "number": 18,
+    "page": 8,
+    "background": "morning-outside",
+    "source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\level2-first-three\\morning-outside.webp",
+    "world": {
+      "width": 1000,
+      "height": 1000
+    },
+    "camera": {
+      "x": 11.312217194570167,
+      "y": 0,
+      "width": 977.3755656108597,
+      "height": 1000
+    }
+  }
+]

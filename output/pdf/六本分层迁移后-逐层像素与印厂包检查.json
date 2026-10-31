@@ -1,0 +1,1658 @@
+{
+  "quality": {
+    "pages": [
+      {
+        "kind": "cover",
+        "page": 1,
+        "backgroundEffectivePpi": 200,
+        "portraits": [],
+        "layers": [
+          {
+            "kind": "background",
+            "asset": "intro-greeting",
+            "encodedPixelPpi": 200,
+            "nativeEffectivePpi": 200
+          },
+          {
+            "kind": "body",
+            "encodedPixelPpi": 504,
+            "nativeEffectivePpi": 504
+          },
+          {
+            "kind": "head",
+            "encodedPixelPpi": 1048,
+            "nativeEffectivePpi": 1048
+          }
+        ],
+        "completeLayerAudit": true,
+        "characterPipeline": "composed-actor-v1",
+        "bookId": "intro"
+      },
+      {
+        "kind": "story",
+        "page": 1,
+        "backgroundEffectivePpi": 182,
+        "portraits": [],
+        "layers": [
+          {
+            "kind": "background",
+            "asset": "intro-greeting",
+            "encodedPixelPpi": 182,
+            "nativeEffectivePpi": 182
+          },
+          {
+            "kind": "body",
+            "encodedPixelPpi": 479,
+            "nativeEffectivePpi": 479
+          },
+          {
+            "kind": "head",
+            "encodedPixelPpi": 996,
+            "nativeEffectivePpi": 996
+          }
+        ],
+        "completeLayerAudit": true,
+        "characterPipeline": "composed-actor-v1",
+        "bookId": "intro"
+      },
+      {
+        "kind": "story",
+        "page": 2,
+        "backgroundEffectivePpi": 167,
+        "portraits": [],
+        "layers": [
+          {
+            "kind": "background",
+            "asset": "intro-play",
+            "encodedPixelPpi": 167,
+            "nativeEffectivePpi": 167
+          },
+          {
+            "kind": "body",
+            "encodedPixelPpi": 371,
+            "nativeEffectivePpi": 371
+          },
+          {
+            "kind": "head",
+            "encodedPixelPpi": 773,
+            "nativeEffectivePpi": 773
+          }
+        ],
+        "completeLayerAudit": true,
+        "characterPipeline": "composed-actor-v1",
+        "bookId": "intro"
+      },
+      {
+        "kind": "story",
+        "page": 3,
+        "backgroundEffectivePpi": 182,
+        "portraits": [],
+        "layers": [
+          {
+            "kind": "background",
+            "asset": "intro-greeting",
+            "encodedPixelPpi": 182,
+            "nativeEffectivePpi": 182
+          },
+          {
+            "kind": "body",
+            "encodedPixelPpi": 479,
+            "nativeEffectivePpi": 479
+          },
+          {
+            "kind": "head",
+            "encodedPixelPpi": 996,
+            "nativeEffectivePpi": 996
+          }
+        ],
+        "completeLayerAudit": true,
+        "characterPipeline": "composed-actor-v1",
+        "bookId": "intro"
+      },
+      {
+        "kind": "story",
+        "page": 4,
+        "backgroundEffectivePpi": 182,
+        "portraits": [],
+        "layers": [
+          {
+            "kind": "background",
+            "asset": "intro-play",
+            "encodedPixelPpi": 182,
+            "nativeEffectivePpi": 182
+          },
+          {
+            "kind": "body",
+            "encodedPixelPpi": 404,
+            "nativeEffectivePpi": 404
+          },
+          {
+            "kind": "head",
+            "encodedPixelPpi": 840,
+            "nativeEffectivePpi": 840
+          }
+        ],
+        "completeLayerAudit": true,
+        "characterPipeline": "composed-actor-v1",
+        "bookId": "intro"
+      },
+      {
+        "kind": "story",
+        "page": 5,
+        "backgroundEffectivePpi": 182,
+        "portraits": [],
+        "layers": [
+          {
+            "kind": "background",
+            "asset": "intro-school",
+            "encodedPixelPpi": 182,
+            "nativeEffectivePpi": 182
+          },
+          {
+            "kind": "body",
+            "encodedPixelPpi": 404,
+            "nativeEffectivePpi": 404
+          },
+          {
+            "kind": "head",
+            "encodedPixelPpi": 840,
+            "nativeEffectivePpi": 840
+          }
+        ],
+        "completeLayerAudit": true,
+        "characterPipeline": "composed-actor-v1",
+        "bookId": "intro"
+      },
+      {
+        "kind": "story",
+        "page": 6,
+        "backgroundEffectivePpi": 167,
+        "portraits": [],
+        "layers": [
+          {
+            "kind": "background",
+            "asset": "intro-school",
+            "encodedPixelPpi": 167,
+            "nativeEffectivePpi": 167
+          },
+          {
+            "kind": "body",
+            "encodedPixelPpi": 371,
+            "nativeEffectivePpi": 371
+          },
+          {
+            "kind": "head",
+            "encodedPixelPpi": 773,
+            "nativeEffectivePpi": 773
+          }
+        ],
+        "completeLayerAudit": true,
+        "characterPipeline": "composed-actor-v1",
+        "bookId": "intro"
+      },
+      {
+        "kind": "story",
+        "page": 1,
+        "backgroundEffectivePpi": 182,
+        "portraits": [],
+        "layers": [
+          {
+            "kind": "background",
+            "asset": "flower-care",
+            "encodedPixelPpi": 182,
+            "nativeEffectivePpi": 182
+          },
+          {
+            "kind": "body",
+            "encodedPixelPpi": 441,
+            "nativeEffectivePpi": 441
+          },
+          {
+            "kind": "head",
+            "encodedPixelPpi": 918,
+            "nativeEffectivePpi": 918
+          }
+        ],
+        "completeLayerAudit": true,
+        "characterPipeline": "composed-actor-v1",
+        "bookId": "flower"
+      },
+      {
+        "kind": "story",
+        "page": 2,
+        "backgroundEffectivePpi": 93,
+        "portraits": [],
+        "layers": [
+          {
+            "kind": "background",
+            "asset": "flower-care",
+            "encodedPixelPpi": 93,
+            "nativeEffectivePpi": 93
+          }
+        ],
+        "completeLayerAudit": true,
+        "characterPipeline": "composed-actor-v1",
+        "bookId": "flower"
+      },
+      {
+        "kind": "story",
+        "page": 3,
+        "backgroundEffectivePpi": 182,
+        "portraits": [],
+        "layers": [
+          {
+            "kind": "background",
+            "asset": "flower-wind",
+            "encodedPixelPpi": 182,
+            "nativeEffectivePpi": 182
+          },
+          {
+            "kind": "body",
+            "encodedPixelPpi": 429,
+            "nativeEffectivePpi": 429
+          },
+          {
+            "kind": "head",
+            "encodedPixelPpi": 894,
+            "nativeEffectivePpi": 894
+          },
+          {
+            "kind": "prop",
+            "asset": "petal",
+            "encodedPixelPpi": 2450,
+            "nativeEffectivePpi": 2450
+          },
+          {
+            "kind": "prop",
+            "asset": "petal",
+            "encodedPixelPpi": 2450,
+            "nativeEffectivePpi": 2450
+          },
+          {
+            "kind": "prop",
+            "asset": "petal",
+            "encodedPixelPpi": 2450,
+            "nativeEffectivePpi": 2450
+          },
+          {
+            "kind": "prop",
+            "asset": "petal",
+            "encodedPixelPpi": 2450,
+            "nativeEffectivePpi": 2450
+          },
+          {
+            "kind": "prop",
+            "asset": "petal",
+            "encodedPixelPpi": 2328,
+            "nativeEffectivePpi": 2328
+          },
+          {
+            "kind": "prop",
+            "asset": "petal",
+            "encodedPixelPpi": 2328,
+            "nativeEffectivePpi": 2328
+          },
+          {
+            "kind": "prop",
+            "asset": "petal",
+            "encodedPixelPpi": 2328,
+            "nativeEffectivePpi": 2328
+          },
+          {
+            "kind": "prop",
+            "asset": "petal",
+            "encodedPixelPpi": 2328,
+            "nativeEffectivePpi": 2328
+          },
+          {
+            "kind": "prop",
+            "asset": "petal",
+            "encodedPixelPpi": 2328,
+            "nativeEffectivePpi": 2328
+          },
+          {
+            "kind": "prop",
+            "asset": "petal",
+            "encodedPixelPpi": 2328,
+            "nativeEffectivePpi": 2328
+          },
+          {
+            "kind": "prop",
+            "asset": "petal",
+            "encodedPixelPpi": 2328,
+            "nativeEffectivePpi": 2328
+          }
+        ],
+        "completeLayerAudit": true,
+        "characterPipeline": "composed-actor-v1",
+        "bookId": "flower"
+      },
+      {
+        "kind": "story",
+        "page": 4,
+        "backgroundEffectivePpi": 182,
+        "portraits": [],
+        "layers": [
+          {
+            "kind": "background",
+            "asset": "flower-wind",
+            "encodedPixelPpi": 182,
+            "nativeEffectivePpi": 182
+          },
+          {
+            "kind": "body",
+            "encodedPixelPpi": 429,
+            "nativeEffectivePpi": 429
+          },
+          {
+            "kind": "head",
+            "encodedPixelPpi": 894,
+            "nativeEffectivePpi": 894
+          },
+          {
+            "kind": "prop",
+            "asset": "petal",
+            "encodedPixelPpi": 2984,
+            "nativeEffectivePpi": 2984
+          },
+          {
+            "kind": "prop",
+            "asset": "petal",
+            "encodedPixelPpi": 2984,
+            "nativeEffectivePpi": 2984
+          },
+          {
+            "kind": "prop",
+            "asset": "petal",
+            "encodedPixelPpi": 2984,
+            "nativeEffectivePpi": 2984
+          },
+          {
+            "kind": "prop",
+            "asset": "petal",
+            "encodedPixelPpi": 2984,
+            "nativeEffectivePpi": 2984
+          },
+          {
+            "kind": "prop",
+            "asset": "petal",
+            "encodedPixelPpi": 2450,
+            "nativeEffectivePpi": 2450
+          },
+          {
+            "kind": "prop",
+            "asset": "petal",
+            "encodedPixelPpi": 2450,
+            "nativeEffectivePpi": 2450
+          },
+          {
+            "kind": "prop",
+            "asset": "petal",
+            "encodedPixelPpi": 2450,
+            "nativeEffectivePpi": 2450
+          },
+          {
+            "kind": "prop",
+            "asset": "petal",
+            "encodedPixelPpi": 2450,
+            "nativeEffectivePpi": 2450
+          },
+          {
+            "kind": "prop",
+            "asset": "petal",
+            "encodedPixelPpi": 2328,
+            "nativeEffectivePpi": 2328
+          },
+          {
+            "kind": "prop",
+            "asset": "petal",
+            "encodedPixelPpi": 2328,
+            "nativeEffectivePpi": 2328
+          },
+          {
+            "kind": "prop",
+            "asset": "petal",
+            "encodedPixelPpi": 2328,
+            "nativeEffectivePpi": 2328
+          }
+        ],
+        "completeLayerAudit": true,
+        "characterPipeline": "composed-actor-v1",
+        "bookId": "flower"
+      },
+      {
+        "kind": "story",
+        "page": 5,
+        "backgroundEffectivePpi": 182,
+        "portraits": [],
+        "layers": [
+          {
+            "kind": "background",
+            "asset": "flower-wind",
+            "encodedPixelPpi": 182,
+            "nativeEffectivePpi": 182
+          },
+          {
+            "kind": "body",
+            "encodedPixelPpi": 429,
+            "nativeEffectivePpi": 429
+          },
+          {
+            "kind": "head",
+            "encodedPixelPpi": 894,
+            "nativeEffectivePpi": 894
+          },
+          {
+            "kind": "prop",
+            "asset": "petal",
+            "encodedPixelPpi": 2984,
+            "nativeEffectivePpi": 2984
+          },
+          {
+            "kind": "prop",
+            "asset": "petal",
+            "encodedPixelPpi": 2984,
+            "nativeEffectivePpi": 2984
+          },
+          {
+            "kind": "prop",
+            "asset": "petal",
+            "encodedPixelPpi": 2984,
+            "nativeEffectivePpi": 2984
+          },
+          {
+            "kind": "prop",
+            "asset": "petal",
+            "encodedPixelPpi": 2984,
+            "nativeEffectivePpi": 2984
+          },
+          {
+            "kind": "prop",
+            "asset": "petal",
+            "encodedPixelPpi": 2984,
+            "nativeEffectivePpi": 2984
+          },
+          {
+            "kind": "prop",
+            "asset": "petal",
+            "encodedPixelPpi": 2984,
+            "nativeEffectivePpi": 2984
+          },
+          {
+            "kind": "prop",
+            "asset": "petal",
+            "encodedPixelPpi": 2984,
+            "nativeEffectivePpi": 2984
+          },
+          {
+            "kind": "prop",
+            "asset": "petal",
+            "encodedPixelPpi": 2984,
+            "nativeEffectivePpi": 2984
+          },
+          {
+            "kind": "prop",
+            "asset": "petal",
+            "encodedPixelPpi": 2450,
+            "nativeEffectivePpi": 2450
+          },
+          {
+            "kind": "prop",
+            "asset": "petal",
+            "encodedPixelPpi": 2450,
+            "nativeEffectivePpi": 2450
+          },
+          {
+            "kind": "prop",
+            "asset": "petal",
+            "encodedPixelPpi": 2450,
+            "nativeEffectivePpi": 2450
+          }
+        ],
+        "completeLayerAudit": true,
+        "characterPipeline": "composed-actor-v1",
+        "bookId": "flower"
+      },
+      {
+        "kind": "story",
+        "page": 6,
+        "backgroundEffectivePpi": 182,
+        "portraits": [],
+        "layers": [
+          {
+            "kind": "background",
+            "asset": "flower-search",
+            "encodedPixelPpi": 182,
+            "nativeEffectivePpi": 182
+          },
+          {
+            "kind": "body",
+            "encodedPixelPpi": 429,
+            "nativeEffectivePpi": 429
+          },
+          {
+            "kind": "head",
+            "encodedPixelPpi": 894,
+            "nativeEffectivePpi": 894
+          }
+        ],
+        "completeLayerAudit": true,
+        "characterPipeline": "composed-actor-v1",
+        "bookId": "flower"
+      },
+      {
+        "kind": "cover",
+        "page": 1,
+        "backgroundEffectivePpi": 200,
+        "portraits": [],
+        "layers": [
+          {
+            "kind": "background",
+            "asset": "flower-care",
+            "encodedPixelPpi": 200,
+            "nativeEffectivePpi": 200
+          },
+          {
+            "kind": "body",
+            "encodedPixelPpi": 504,
+            "nativeEffectivePpi": 504
+          },
+          {
+            "kind": "head",
+            "encodedPixelPpi": 1048,
+            "nativeEffectivePpi": 1048
+          }
+        ],
+        "completeLayerAudit": true,
+        "characterPipeline": "composed-actor-v1",
+        "bookId": "flower"
+      },
+      {
+        "kind": "story",
+        "page": 1,
+        "backgroundEffectivePpi": 215,
+        "portraits": [],
+        "layers": [
+          {
+            "kind": "background",
+            "asset": "courtyard",
+            "encodedPixelPpi": 215,
+            "nativeEffectivePpi": 215
+          },
+          {
+            "kind": "body",
+            "encodedPixelPpi": 642,
+            "nativeEffectivePpi": 642
+          },
+          {
+            "kind": "head",
+            "encodedPixelPpi": 1336,
+            "nativeEffectivePpi": 1336
+          },
+          {
+            "kind": "body",
+            "encodedPixelPpi": 284,
+            "nativeEffectivePpi": 284
+          },
+          {
+            "kind": "head",
+            "encodedPixelPpi": 575,
+            "nativeEffectivePpi": 575
+          },
+          {
+            "kind": "body",
+            "encodedPixelPpi": 271,
+            "nativeEffectivePpi": 271
+          },
+          {
+            "kind": "head",
+            "encodedPixelPpi": 536,
+            "nativeEffectivePpi": 536
+          }
+        ],
+        "completeLayerAudit": true,
+        "characterPipeline": "composed-actor-v1",
+        "bookId": "family"
+      },
+      {
+        "kind": "story",
+        "page": 2,
+        "backgroundEffectivePpi": 185,
+        "portraits": [],
+        "layers": [
+          {
+            "kind": "background",
+            "asset": "courtyard",
+            "encodedPixelPpi": 185,
+            "nativeEffectivePpi": 185
+          },
+          {
+            "kind": "body",
+            "encodedPixelPpi": 260,
+            "nativeEffectivePpi": 260
+          },
+          {
+            "kind": "head",
+            "encodedPixelPpi": 526,
+            "nativeEffectivePpi": 526
+          },
+          {
+            "kind": "body",
+            "encodedPixelPpi": 588,
+            "nativeEffectivePpi": 588
+          },
+          {
+            "kind": "head",
+            "encodedPixelPpi": 1224,
+            "nativeEffectivePpi": 1224
+          }
+        ],
+        "completeLayerAudit": true,
+        "characterPipeline": "composed-actor-v1",
+        "bookId": "family"
+      },
+      {
+        "kind": "story",
+        "page": 3,
+        "backgroundEffectivePpi": 185,
+        "portraits": [],
+        "layers": [
+          {
+            "kind": "background",
+            "asset": "courtyard",
+            "encodedPixelPpi": 185,
+            "nativeEffectivePpi": 185
+          },
+          {
+            "kind": "body",
+            "encodedPixelPpi": 250,
+            "nativeEffectivePpi": 250
+          },
+          {
+            "kind": "head",
+            "encodedPixelPpi": 494,
+            "nativeEffectivePpi": 494
+          },
+          {
+            "kind": "body",
+            "encodedPixelPpi": 593,
+            "nativeEffectivePpi": 593
+          },
+          {
+            "kind": "head",
+            "encodedPixelPpi": 1233,
+            "nativeEffectivePpi": 1233
+          }
+        ],
+        "completeLayerAudit": true,
+        "characterPipeline": "composed-actor-v1",
+        "bookId": "family"
+      },
+      {
+        "kind": "story",
+        "page": 4,
+        "backgroundEffectivePpi": 215,
+        "portraits": [],
+        "layers": [
+          {
+            "kind": "background",
+            "asset": "courtyard",
+            "encodedPixelPpi": 215,
+            "nativeEffectivePpi": 215
+          },
+          {
+            "kind": "body",
+            "encodedPixelPpi": 252,
+            "nativeEffectivePpi": 252
+          },
+          {
+            "kind": "head",
+            "encodedPixelPpi": 509,
+            "nativeEffectivePpi": 509
+          },
+          {
+            "kind": "body",
+            "encodedPixelPpi": 240,
+            "nativeEffectivePpi": 240
+          },
+          {
+            "kind": "head",
+            "encodedPixelPpi": 474,
+            "nativeEffectivePpi": 474
+          }
+        ],
+        "completeLayerAudit": true,
+        "characterPipeline": "composed-actor-v1",
+        "bookId": "family"
+      },
+      {
+        "kind": "story",
+        "page": 5,
+        "backgroundEffectivePpi": 215,
+        "portraits": [],
+        "layers": [
+          {
+            "kind": "background",
+            "asset": "courtyard",
+            "encodedPixelPpi": 215,
+            "nativeEffectivePpi": 215
+          },
+          {
+            "kind": "body",
+            "encodedPixelPpi": 360,
+            "nativeEffectivePpi": 360
+          },
+          {
+            "kind": "head",
+            "encodedPixelPpi": 727,
+            "nativeEffectivePpi": 727
+          },
+          {
+            "kind": "body",
+            "encodedPixelPpi": 343,
+            "nativeEffectivePpi": 343
+          },
+          {
+            "kind": "head",
+            "encodedPixelPpi": 678,
+            "nativeEffectivePpi": 678
+          },
+          {
+            "kind": "body",
+            "encodedPixelPpi": 812,
+            "nativeEffectivePpi": 812
+          },
+          {
+            "kind": "head",
+            "encodedPixelPpi": 1690,
+            "nativeEffectivePpi": 1690
+          }
+        ],
+        "completeLayerAudit": true,
+        "characterPipeline": "composed-actor-v1",
+        "bookId": "family"
+      },
+      {
+        "kind": "story",
+        "page": 6,
+        "backgroundEffectivePpi": 215,
+        "portraits": [],
+        "layers": [
+          {
+            "kind": "background",
+            "asset": "courtyard",
+            "encodedPixelPpi": 215,
+            "nativeEffectivePpi": 215
+          },
+          {
+            "kind": "body",
+            "encodedPixelPpi": 379,
+            "nativeEffectivePpi": 379
+          },
+          {
+            "kind": "head",
+            "encodedPixelPpi": 765,
+            "nativeEffectivePpi": 765
+          },
+          {
+            "kind": "body",
+            "encodedPixelPpi": 361,
+            "nativeEffectivePpi": 361
+          },
+          {
+            "kind": "head",
+            "encodedPixelPpi": 713,
+            "nativeEffectivePpi": 713
+          },
+          {
+            "kind": "body",
+            "encodedPixelPpi": 855,
+            "nativeEffectivePpi": 855
+          },
+          {
+            "kind": "head",
+            "encodedPixelPpi": 1779,
+            "nativeEffectivePpi": 1779
+          }
+        ],
+        "completeLayerAudit": true,
+        "characterPipeline": "composed-actor-v1",
+        "bookId": "family"
+      },
+      {
+        "kind": "story",
+        "page": 7,
+        "backgroundEffectivePpi": 215,
+        "portraits": [],
+        "layers": [
+          {
+            "kind": "background",
+            "asset": "courtyard",
+            "encodedPixelPpi": 215,
+            "nativeEffectivePpi": 215
+          },
+          {
+            "kind": "body",
+            "encodedPixelPpi": 676,
+            "nativeEffectivePpi": 676
+          },
+          {
+            "kind": "head",
+            "encodedPixelPpi": 1407,
+            "nativeEffectivePpi": 1407
+          },
+          {
+            "kind": "body",
+            "encodedPixelPpi": 299,
+            "nativeEffectivePpi": 299
+          },
+          {
+            "kind": "head",
+            "encodedPixelPpi": 605,
+            "nativeEffectivePpi": 605
+          },
+          {
+            "kind": "body",
+            "encodedPixelPpi": 285,
+            "nativeEffectivePpi": 285
+          },
+          {
+            "kind": "head",
+            "encodedPixelPpi": 564,
+            "nativeEffectivePpi": 564
+          }
+        ],
+        "completeLayerAudit": true,
+        "characterPipeline": "composed-actor-v1",
+        "bookId": "family"
+      },
+      {
+        "kind": "cover",
+        "page": 1,
+        "backgroundEffectivePpi": 245,
+        "portraits": [],
+        "layers": [
+          {
+            "kind": "background",
+            "asset": "courtyard",
+            "encodedPixelPpi": 245,
+            "nativeEffectivePpi": 245
+          },
+          {
+            "kind": "body",
+            "encodedPixelPpi": 287,
+            "nativeEffectivePpi": 287
+          },
+          {
+            "kind": "head",
+            "encodedPixelPpi": 580,
+            "nativeEffectivePpi": 580
+          },
+          {
+            "kind": "body",
+            "encodedPixelPpi": 273,
+            "nativeEffectivePpi": 273
+          },
+          {
+            "kind": "head",
+            "encodedPixelPpi": 540,
+            "nativeEffectivePpi": 540
+          },
+          {
+            "kind": "body",
+            "encodedPixelPpi": 648,
+            "nativeEffectivePpi": 648
+          },
+          {
+            "kind": "head",
+            "encodedPixelPpi": 1348,
+            "nativeEffectivePpi": 1348
+          }
+        ],
+        "completeLayerAudit": true,
+        "characterPipeline": "composed-actor-v1",
+        "bookId": "family"
+      },
+      {
+        "kind": "story",
+        "page": 1,
+        "backgroundEffectivePpi": 177,
+        "portraits": [],
+        "layers": [
+          {
+            "kind": "background",
+            "asset": "hands-room",
+            "encodedPixelPpi": 177,
+            "nativeEffectivePpi": 177
+          },
+          {
+            "kind": "body",
+            "encodedPixelPpi": 371,
+            "nativeEffectivePpi": 371
+          },
+          {
+            "kind": "head",
+            "encodedPixelPpi": 773,
+            "nativeEffectivePpi": 773
+          }
+        ],
+        "completeLayerAudit": true,
+        "characterPipeline": "composed-actor-v1",
+        "bookId": "hands"
+      },
+      {
+        "kind": "story",
+        "page": 2,
+        "backgroundEffectivePpi": 177,
+        "portraits": [],
+        "layers": [
+          {
+            "kind": "background",
+            "asset": "hands-room",
+            "encodedPixelPpi": 177,
+            "nativeEffectivePpi": 177
+          },
+          {
+            "kind": "body",
+            "encodedPixelPpi": 371,
+            "nativeEffectivePpi": 371
+          },
+          {
+            "kind": "head",
+            "encodedPixelPpi": 773,
+            "nativeEffectivePpi": 773
+          }
+        ],
+        "completeLayerAudit": true,
+        "characterPipeline": "composed-actor-v1",
+        "bookId": "hands"
+      },
+      {
+        "kind": "story",
+        "page": 3,
+        "backgroundEffectivePpi": 177,
+        "portraits": [],
+        "layers": [
+          {
+            "kind": "background",
+            "asset": "hands-room",
+            "encodedPixelPpi": 177,
+            "nativeEffectivePpi": 177
+          },
+          {
+            "kind": "body",
+            "encodedPixelPpi": 371,
+            "nativeEffectivePpi": 371
+          },
+          {
+            "kind": "head",
+            "encodedPixelPpi": 773,
+            "nativeEffectivePpi": 773
+          }
+        ],
+        "completeLayerAudit": true,
+        "characterPipeline": "composed-actor-v1",
+        "bookId": "hands"
+      },
+      {
+        "kind": "story",
+        "page": 4,
+        "backgroundEffectivePpi": 176,
+        "portraits": [],
+        "layers": [
+          {
+            "kind": "background",
+            "asset": "hands-room",
+            "encodedPixelPpi": 176,
+            "nativeEffectivePpi": 176
+          },
+          {
+            "kind": "body",
+            "encodedPixelPpi": 369,
+            "nativeEffectivePpi": 369
+          },
+          {
+            "kind": "head",
+            "encodedPixelPpi": 768,
+            "nativeEffectivePpi": 768
+          }
+        ],
+        "completeLayerAudit": true,
+        "characterPipeline": "composed-actor-v1",
+        "bookId": "hands"
+      },
+      {
+        "kind": "story",
+        "page": 5,
+        "backgroundEffectivePpi": 176,
+        "portraits": [],
+        "layers": [
+          {
+            "kind": "background",
+            "asset": "hands-room",
+            "encodedPixelPpi": 176,
+            "nativeEffectivePpi": 176
+          },
+          {
+            "kind": "body",
+            "encodedPixelPpi": 369,
+            "nativeEffectivePpi": 369
+          },
+          {
+            "kind": "head",
+            "encodedPixelPpi": 768,
+            "nativeEffectivePpi": 768
+          }
+        ],
+        "completeLayerAudit": true,
+        "characterPipeline": "composed-actor-v1",
+        "bookId": "hands"
+      },
+      {
+        "kind": "story",
+        "page": 6,
+        "backgroundEffectivePpi": 176,
+        "portraits": [],
+        "layers": [
+          {
+            "kind": "background",
+            "asset": "hands-room",
+            "encodedPixelPpi": 176,
+            "nativeEffectivePpi": 176
+          },
+          {
+            "kind": "body",
+            "encodedPixelPpi": 369,
+            "nativeEffectivePpi": 369
+          },
+          {
+            "kind": "head",
+            "encodedPixelPpi": 768,
+            "nativeEffectivePpi": 768
+          }
+        ],
+        "completeLayerAudit": true,
+        "characterPipeline": "composed-actor-v1",
+        "bookId": "hands"
+      },
+      {
+        "kind": "cover",
+        "page": 1,
+        "backgroundEffectivePpi": 200,
+        "portraits": [],
+        "layers": [
+          {
+            "kind": "background",
+            "asset": "hands-room",
+            "encodedPixelPpi": 200,
+            "nativeEffectivePpi": 200
+          },
+          {
+            "kind": "body",
+            "encodedPixelPpi": 504,
+            "nativeEffectivePpi": 504
+          },
+          {
+            "kind": "head",
+            "encodedPixelPpi": 1048,
+            "nativeEffectivePpi": 1048
+          }
+        ],
+        "completeLayerAudit": true,
+        "characterPipeline": "composed-actor-v1",
+        "bookId": "hands"
+      },
+      {
+        "kind": "story",
+        "page": 1,
+        "backgroundEffectivePpi": 182,
+        "portraits": [],
+        "layers": [
+          {
+            "kind": "background",
+            "asset": "rain-sky",
+            "encodedPixelPpi": 182,
+            "nativeEffectivePpi": 182
+          }
+        ],
+        "completeLayerAudit": true,
+        "characterPipeline": "composed-actor-v1",
+        "bookId": "rain"
+      },
+      {
+        "kind": "story",
+        "page": 2,
+        "backgroundEffectivePpi": 116,
+        "portraits": [],
+        "layers": [
+          {
+            "kind": "background",
+            "asset": "rain-alone",
+            "encodedPixelPpi": 116,
+            "nativeEffectivePpi": 116
+          }
+        ],
+        "completeLayerAudit": true,
+        "characterPipeline": "composed-actor-v1",
+        "bookId": "rain"
+      },
+      {
+        "kind": "story",
+        "page": 3,
+        "backgroundEffectivePpi": 182,
+        "portraits": [],
+        "layers": [
+          {
+            "kind": "background",
+            "asset": "rain-alone",
+            "encodedPixelPpi": 182,
+            "nativeEffectivePpi": 182
+          },
+          {
+            "kind": "prop",
+            "asset": "umbrella",
+            "encodedPixelPpi": 365,
+            "nativeEffectivePpi": 365
+          },
+          {
+            "kind": "body",
+            "encodedPixelPpi": 609,
+            "nativeEffectivePpi": 609
+          },
+          {
+            "kind": "head",
+            "encodedPixelPpi": 1268,
+            "nativeEffectivePpi": 1268
+          }
+        ],
+        "completeLayerAudit": true,
+        "characterPipeline": "composed-actor-v1",
+        "bookId": "rain"
+      },
+      {
+        "kind": "story",
+        "page": 4,
+        "backgroundEffectivePpi": 86,
+        "portraits": [],
+        "layers": [
+          {
+            "kind": "background",
+            "asset": "rain-alone",
+            "encodedPixelPpi": 86,
+            "nativeEffectivePpi": 86
+          }
+        ],
+        "completeLayerAudit": true,
+        "characterPipeline": "composed-actor-v1",
+        "bookId": "rain"
+      },
+      {
+        "kind": "story",
+        "page": 5,
+        "backgroundEffectivePpi": 182,
+        "portraits": [],
+        "layers": [
+          {
+            "kind": "background",
+            "asset": "rain-alone",
+            "encodedPixelPpi": 182,
+            "nativeEffectivePpi": 182
+          },
+          {
+            "kind": "prop",
+            "asset": "umbrella",
+            "encodedPixelPpi": 365,
+            "nativeEffectivePpi": 365
+          },
+          {
+            "kind": "body",
+            "encodedPixelPpi": 609,
+            "nativeEffectivePpi": 609
+          },
+          {
+            "kind": "head",
+            "encodedPixelPpi": 1268,
+            "nativeEffectivePpi": 1268
+          }
+        ],
+        "completeLayerAudit": true,
+        "characterPipeline": "composed-actor-v1",
+        "bookId": "rain"
+      },
+      {
+        "kind": "story",
+        "page": 6,
+        "backgroundEffectivePpi": 182,
+        "portraits": [],
+        "layers": [
+          {
+            "kind": "background",
+            "asset": "rain-walk",
+            "encodedPixelPpi": 182,
+            "nativeEffectivePpi": 182
+          },
+          {
+            "kind": "prop",
+            "asset": "umbrella",
+            "encodedPixelPpi": 365,
+            "nativeEffectivePpi": 365
+          },
+          {
+            "kind": "body",
+            "encodedPixelPpi": 609,
+            "nativeEffectivePpi": 609
+          },
+          {
+            "kind": "head",
+            "encodedPixelPpi": 1268,
+            "nativeEffectivePpi": 1268
+          }
+        ],
+        "completeLayerAudit": true,
+        "characterPipeline": "composed-actor-v1",
+        "bookId": "rain"
+      },
+      {
+        "kind": "story",
+        "page": 7,
+        "backgroundEffectivePpi": 182,
+        "portraits": [],
+        "layers": [
+          {
+            "kind": "background",
+            "asset": "rain-shelter",
+            "encodedPixelPpi": 182,
+            "nativeEffectivePpi": 182
+          },
+          {
+            "kind": "prop",
+            "asset": "umbrella",
+            "encodedPixelPpi": 228,
+            "nativeEffectivePpi": 228
+          },
+          {
+            "kind": "body",
+            "encodedPixelPpi": 559,
+            "nativeEffectivePpi": 559
+          },
+          {
+            "kind": "head",
+            "encodedPixelPpi": 1164,
+            "nativeEffectivePpi": 1164
+          }
+        ],
+        "completeLayerAudit": true,
+        "characterPipeline": "composed-actor-v1",
+        "bookId": "rain"
+      },
+      {
+        "kind": "story",
+        "page": 8,
+        "backgroundEffectivePpi": 182,
+        "portraits": [],
+        "layers": [
+          {
+            "kind": "background",
+            "asset": "rain-shelter",
+            "encodedPixelPpi": 182,
+            "nativeEffectivePpi": 182
+          },
+          {
+            "kind": "prop",
+            "asset": "umbrella",
+            "encodedPixelPpi": 228,
+            "nativeEffectivePpi": 228
+          },
+          {
+            "kind": "body",
+            "encodedPixelPpi": 559,
+            "nativeEffectivePpi": 559
+          },
+          {
+            "kind": "head",
+            "encodedPixelPpi": 1164,
+            "nativeEffectivePpi": 1164
+          }
+        ],
+        "completeLayerAudit": true,
+        "characterPipeline": "composed-actor-v1",
+        "bookId": "rain"
+      },
+      {
+        "kind": "cover",
+        "page": 1,
+        "backgroundEffectivePpi": 221,
+        "portraits": [],
+        "layers": [
+          {
+            "kind": "background",
+            "asset": "rain-alone",
+            "encodedPixelPpi": 221,
+            "nativeEffectivePpi": 221
+          },
+          {
+            "kind": "prop",
+            "asset": "umbrella",
+            "encodedPixelPpi": 277,
+            "nativeEffectivePpi": 277
+          },
+          {
+            "kind": "body",
+            "encodedPixelPpi": 702,
+            "nativeEffectivePpi": 702
+          },
+          {
+            "kind": "head",
+            "encodedPixelPpi": 1461,
+            "nativeEffectivePpi": 1461
+          }
+        ],
+        "completeLayerAudit": true,
+        "characterPipeline": "composed-actor-v1",
+        "bookId": "rain"
+      },
+      {
+        "kind": "story",
+        "page": 1,
+        "backgroundEffectivePpi": 182,
+        "portraits": [],
+        "layers": [
+          {
+            "kind": "background",
+            "asset": "stone-home",
+            "encodedPixelPpi": 182,
+            "nativeEffectivePpi": 182
+          },
+          {
+            "kind": "body",
+            "encodedPixelPpi": 459,
+            "nativeEffectivePpi": 459
+          },
+          {
+            "kind": "head",
+            "encodedPixelPpi": 955,
+            "nativeEffectivePpi": 955
+          }
+        ],
+        "completeLayerAudit": true,
+        "characterPipeline": "composed-actor-v1",
+        "bookId": "stone"
+      },
+      {
+        "kind": "story",
+        "page": 2,
+        "backgroundEffectivePpi": 87,
+        "portraits": [],
+        "layers": [
+          {
+            "kind": "background",
+            "asset": "stone-home",
+            "encodedPixelPpi": 87,
+            "nativeEffectivePpi": 87
+          }
+        ],
+        "completeLayerAudit": true,
+        "characterPipeline": "composed-actor-v1",
+        "bookId": "stone"
+      },
+      {
+        "kind": "story",
+        "page": 3,
+        "backgroundEffectivePpi": 170,
+        "portraits": [],
+        "layers": [
+          {
+            "kind": "background",
+            "asset": "stone-hold",
+            "encodedPixelPpi": 170,
+            "nativeEffectivePpi": 170
+          },
+          {
+            "kind": "body",
+            "encodedPixelPpi": 378,
+            "nativeEffectivePpi": 378
+          },
+          {
+            "kind": "head",
+            "encodedPixelPpi": 787,
+            "nativeEffectivePpi": 787
+          },
+          {
+            "kind": "prop",
+            "asset": "pebble",
+            "encodedPixelPpi": 4100,
+            "nativeEffectivePpi": 4100
+          }
+        ],
+        "completeLayerAudit": true,
+        "characterPipeline": "composed-actor-v1",
+        "bookId": "stone"
+      },
+      {
+        "kind": "story",
+        "page": 4,
+        "backgroundEffectivePpi": 182,
+        "portraits": [],
+        "layers": [
+          {
+            "kind": "background",
+            "asset": "stone-walk",
+            "encodedPixelPpi": 182,
+            "nativeEffectivePpi": 182
+          },
+          {
+            "kind": "body",
+            "encodedPixelPpi": 404,
+            "nativeEffectivePpi": 404
+          },
+          {
+            "kind": "head",
+            "encodedPixelPpi": 840,
+            "nativeEffectivePpi": 840
+          },
+          {
+            "kind": "prop",
+            "asset": "pebble",
+            "encodedPixelPpi": 4380,
+            "nativeEffectivePpi": 4380
+          }
+        ],
+        "completeLayerAudit": true,
+        "characterPipeline": "composed-actor-v1",
+        "bookId": "stone"
+      },
+      {
+        "kind": "story",
+        "page": 5,
+        "backgroundEffectivePpi": 178,
+        "portraits": [],
+        "layers": [
+          {
+            "kind": "background",
+            "asset": "stone-walk",
+            "encodedPixelPpi": 178,
+            "nativeEffectivePpi": 178
+          },
+          {
+            "kind": "body",
+            "encodedPixelPpi": 395,
+            "nativeEffectivePpi": 395
+          },
+          {
+            "kind": "head",
+            "encodedPixelPpi": 823,
+            "nativeEffectivePpi": 823
+          },
+          {
+            "kind": "prop",
+            "asset": "pebble",
+            "encodedPixelPpi": 4290,
+            "nativeEffectivePpi": 4290
+          }
+        ],
+        "completeLayerAudit": true,
+        "characterPipeline": "composed-actor-v1",
+        "bookId": "stone"
+      },
+      {
+        "kind": "story",
+        "page": 6,
+        "backgroundEffectivePpi": 182,
+        "portraits": [],
+        "layers": [
+          {
+            "kind": "background",
+            "asset": "stone-return",
+            "encodedPixelPpi": 182,
+            "nativeEffectivePpi": 182
+          },
+          {
+            "kind": "body",
+            "encodedPixelPpi": 459,
+            "nativeEffectivePpi": 459
+          },
+          {
+            "kind": "head",
+            "encodedPixelPpi": 955,
+            "nativeEffectivePpi": 955
+          }
+        ],
+        "completeLayerAudit": true,
+        "characterPipeline": "composed-actor-v1",
+        "bookId": "stone"
+      },
+      {
+        "kind": "story",
+        "page": 7,
+        "backgroundEffectivePpi": 87,
+        "portraits": [],
+        "layers": [
+          {
+            "kind": "background",
+            "asset": "stone-return",
+            "encodedPixelPpi": 87,
+            "nativeEffectivePpi": 87
+          }
+        ],
+        "completeLayerAudit": true,
+        "characterPipeline": "composed-actor-v1",
+        "bookId": "stone"
+      },
+      {
+        "kind": "story",
+        "page": 8,
+        "backgroundEffectivePpi": 182,
+        "portraits": [],
+        "layers": [
+          {
+            "kind": "background",
+            "asset": "stone-leave",
+            "encodedPixelPpi": 182,
+            "nativeEffectivePpi": 182
+          },
+          {
+            "kind": "body",
+            "encodedPixelPpi": 404,
+            "nativeEffectivePpi": 404
+          },
+          {
+            "kind": "head",
+            "encodedPixelPpi": 840,
+            "nativeEffectivePpi": 840
+          }
+        ],
+        "completeLayerAudit": true,
+        "characterPipeline": "composed-actor-v1",
+        "bookId": "stone"
+      },
+      {
+        "kind": "cover",
+        "page": 1,
+        "backgroundEffectivePpi": 200,
+        "portraits": [],
+        "layers": [
+          {
+            "kind": "background",
+            "asset": "stone-home",
+            "encodedPixelPpi": 200,
+            "nativeEffectivePpi": 200
+          },
+          {
+            "kind": "body",
+            "encodedPixelPpi": 504,
+            "nativeEffectivePpi": 504
+          },
+          {
+            "kind": "head",
+            "encodedPixelPpi": 1048,
+            "nativeEffectivePpi": 1048
+          }
+        ],
+        "completeLayerAudit": true,
+        "characterPipeline": "composed-actor-v1",
+        "bookId": "stone"
+      }
+    ],
+    "minimumBackgroundPpi": 86,
+    "minimumMeasuredPpi": 86,
+    "completeLayerAudit": true,
+    "native300Ppi": false
+  },
+  "books": {
+    "intro": {
+      "layers": 21,
+      "minimum_native_ppi": 167
+    },
+    "flower": {
+      "layers": 52,
+      "minimum_native_ppi": 93
+    },
+    "family": {
+      "layers": 50,
+      "minimum_native_ppi": 185
+    },
+    "hands": {
+      "layers": 21,
+      "minimum_native_ppi": 176
+    },
+    "rain": {
+      "layers": 27,
+      "minimum_native_ppi": 86
+    },
+    "stone": {
+      "layers": 26,
+      "minimum_native_ppi": 87
+    }
+  },
+  "pdfs": {
+    "outer": {
+      "pages": 2,
+      "size": {
+        "media_mm": [
+          303.0,
+          216.0
+        ],
+        "trim_mm": [
+          297.0,
+          210.0
+        ],
+        "bleed_each_mm": 3
+      }
+    },
+    "inner": {
+      "pages": 46,
+      "size": {
+        "media_mm": [
+          154.0,
+          216.0
+        ],
+        "trim_mm": [
+          148.0,
+          210.0
+        ],
+        "bleed_each_mm": 3
+      }
+    }
+  },
+  "reading_pages": 50
+}

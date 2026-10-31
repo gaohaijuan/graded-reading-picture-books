@@ -1,0 +1,915 @@
+{
+  "file": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\output\\level2-last-three-20261028\\第二级-最后三本-A5合订校样.pdf",
+  "sha256": "0ba7651bf9d555dce533fde274d0e6ade1397d12739b87a2cbcd5fcb777b1574",
+  "formatMm": [
+    148,
+    210
+  ],
+  "pageCount": 31,
+  "bodyPages": 22,
+  "blankPages": 0,
+  "covers": 1,
+  "backCovers": 1,
+  "contentsPages": 1,
+  "summaryPages": 3,
+  "storyCoverPages": 3,
+  "bodyStarts": [
+    4,
+    14,
+    23
+  ],
+  "chapterStarts": [
+    3,
+    13,
+    22
+  ],
+  "storyNumbers": [
+    28,
+    29,
+    30
+  ],
+  "embeddedChineseVectorText": true,
+  "defaultIllustratedCharacter": true,
+  "approvedWordingChanged": false,
+  "edition": "level2-last-three-20261028",
+  "cumulativeCharacterCounts": [
+    185,
+    190,
+    192
+  ],
+  "records": [
+    {
+      "physicalPage": 1,
+      "kind": "cover",
+      "bookId": null,
+      "bodyPage": null
+    },
+    {
+      "physicalPage": 2,
+      "kind": "contents",
+      "bookId": null,
+      "bodyPage": null
+    },
+    {
+      "physicalPage": 3,
+      "kind": "story-cover",
+      "bookId": "level2-jump",
+      "bodyPage": null
+    },
+    {
+      "physicalPage": 4,
+      "kind": "story",
+      "bookId": "level2-jump",
+      "bodyPage": 0,
+      "text": [
+        "小兔会跳，我也要学。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 5,
+      "kind": "story",
+      "bookId": "level2-jump",
+      "bodyPage": 1,
+      "text": [
+        "小兔跳过小石头。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 6,
+      "kind": "story",
+      "bookId": "level2-jump",
+      "bodyPage": 2,
+      "text": [
+        "我跳了一下，没有过去。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 7,
+      "kind": "story",
+      "bookId": "level2-jump",
+      "bodyPage": 3,
+      "text": [
+        "小石头太高了。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 8,
+      "kind": "story",
+      "bookId": "level2-jump",
+      "bodyPage": 4,
+      "text": [
+        "我把小纸片放在地上。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 9,
+      "kind": "story",
+      "bookId": "level2-jump",
+      "bodyPage": 5,
+      "text": [
+        "\"我先跳过小纸片吧。\""
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 10,
+      "kind": "story",
+      "bookId": "level2-jump",
+      "bodyPage": 6,
+      "text": [
+        "我跳！这回，我过去了！"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 11,
+      "kind": "story",
+      "bookId": "level2-jump",
+      "bodyPage": 7,
+      "text": [
+        "\"小兔，你看，我跳过去了！\""
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 12,
+      "kind": "summary",
+      "bookId": "level2-jump",
+      "bodyPage": null
+    },
+    {
+      "physicalPage": 13,
+      "kind": "story-cover",
+      "bookId": "level2-train",
+      "bodyPage": null
+    },
+    {
+      "physicalPage": 14,
+      "kind": "story",
+      "bookId": "level2-train",
+      "bodyPage": 0,
+      "text": [
+        "我给小火车画一条路。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 15,
+      "kind": "story",
+      "bookId": "level2-train",
+      "bodyPage": 1,
+      "text": [
+        "这条路太小，火车过不去。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 16,
+      "kind": "story",
+      "bookId": "level2-train",
+      "bodyPage": 2,
+      "text": [
+        "我再画一条大大的路。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 17,
+      "kind": "story",
+      "bookId": "level2-train",
+      "bodyPage": 3,
+      "text": [
+        "这回，小火车开过去了！"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 18,
+      "kind": "story",
+      "bookId": "level2-train",
+      "bodyPage": 4,
+      "text": [
+        "我还画上绿树和红花，画在路边。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 19,
+      "kind": "story",
+      "bookId": "level2-train",
+      "bodyPage": 5,
+      "text": [
+        "\"小火车，从这条路开走吧！\""
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 20,
+      "kind": "story",
+      "bookId": "level2-train",
+      "bodyPage": 6,
+      "text": [
+        "小火车开走了。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 21,
+      "kind": "summary",
+      "bookId": "level2-train",
+      "bodyPage": null
+    },
+    {
+      "physicalPage": 22,
+      "kind": "story-cover",
+      "bookId": "level2-fish",
+      "bodyPage": null
+    },
+    {
+      "physicalPage": 23,
+      "kind": "story",
+      "bookId": "level2-fish",
+      "bodyPage": 0,
+      "text": [
+        "这是我画的一条小鱼。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 24,
+      "kind": "story",
+      "bookId": "level2-fish",
+      "bodyPage": 1,
+      "text": [
+        "\"小鱼，你的家在哪？\""
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 25,
+      "kind": "story",
+      "bookId": "level2-fish",
+      "bodyPage": 2,
+      "text": [
+        "我给小鱼画水，画一个家。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 26,
+      "kind": "story",
+      "bookId": "level2-fish",
+      "bodyPage": 3,
+      "text": [
+        "我再画水中的草和小石头，还有大石头。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 27,
+      "kind": "story",
+      "bookId": "level2-fish",
+      "bodyPage": 4,
+      "text": [
+        "\"小鱼，这是你的新家！你的家在水里！\""
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 28,
+      "kind": "story",
+      "bookId": "level2-fish",
+      "bodyPage": 5,
+      "text": [
+        "我把自己画在水中。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 29,
+      "kind": "story",
+      "bookId": "level2-fish",
+      "bodyPage": 6,
+      "text": [
+        "\"小鱼，我要来和你玩！\""
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 30,
+      "kind": "summary",
+      "bookId": "level2-fish",
+      "bodyPage": null
+    },
+    {
+      "physicalPage": 31,
+      "kind": "back",
+      "bookId": null,
+      "bodyPage": null
+    }
+  ],
+  "checks": [
+    {
+      "physicalPage": 1,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 2,
+      "textExtractable": true,
+      "images": 0
+    },
+    {
+      "physicalPage": 3,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 4,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 5,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 6,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 7,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 8,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 9,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 10,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 11,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 12,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 13,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 14,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 15,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 16,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 17,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 18,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 19,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 20,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 21,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 22,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 23,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 24,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 25,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 26,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 27,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 28,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 29,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 30,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 31,
+      "textExtractable": true,
+      "images": 1
+    }
+  ],
+  "images": {
+    "level2-jump-cover.png": {
+      "sourcePixels": [
+        1512,
+        1547
+      ],
+      "resizedForPDF": false
+    },
+    "level2-jump-01.png": {
+      "sourcePixels": [
+        1512,
+        1547
+      ],
+      "resizedForPDF": false
+    },
+    "level2-jump-02.png": {
+      "sourcePixels": [
+        1512,
+        1547
+      ],
+      "resizedForPDF": false
+    },
+    "level2-jump-03.png": {
+      "sourcePixels": [
+        1512,
+        1547
+      ],
+      "resizedForPDF": false
+    },
+    "level2-jump-04.png": {
+      "sourcePixels": [
+        1512,
+        1547
+      ],
+      "resizedForPDF": false
+    },
+    "level2-jump-05.png": {
+      "sourcePixels": [
+        1512,
+        1547
+      ],
+      "resizedForPDF": false
+    },
+    "level2-jump-06.png": {
+      "sourcePixels": [
+        1512,
+        1547
+      ],
+      "resizedForPDF": false
+    },
+    "level2-jump-07.png": {
+      "sourcePixels": [
+        1512,
+        1547
+      ],
+      "resizedForPDF": false
+    },
+    "level2-jump-08.png": {
+      "sourcePixels": [
+        1512,
+        1547
+      ],
+      "resizedForPDF": false
+    },
+    "level2-train-cover.png": {
+      "sourcePixels": [
+        1512,
+        1547
+      ],
+      "resizedForPDF": false
+    },
+    "level2-train-01.png": {
+      "sourcePixels": [
+        1512,
+        1547
+      ],
+      "resizedForPDF": false
+    },
+    "level2-train-02.png": {
+      "sourcePixels": [
+        1512,
+        1547
+      ],
+      "resizedForPDF": false
+    },
+    "level2-train-03.png": {
+      "sourcePixels": [
+        1512,
+        1547
+      ],
+      "resizedForPDF": false
+    },
+    "level2-train-04.png": {
+      "sourcePixels": [
+        1512,
+        1547
+      ],
+      "resizedForPDF": false
+    },
+    "level2-train-05.png": {
+      "sourcePixels": [
+        1512,
+        1547
+      ],
+      "resizedForPDF": false
+    },
+    "level2-train-06.png": {
+      "sourcePixels": [
+        1512,
+        1547
+      ],
+      "resizedForPDF": false
+    },
+    "level2-train-07.png": {
+      "sourcePixels": [
+        1512,
+        1547
+      ],
+      "resizedForPDF": false
+    },
+    "level2-fish-cover.png": {
+      "sourcePixels": [
+        1512,
+        1547
+      ],
+      "resizedForPDF": false
+    },
+    "level2-fish-01.png": {
+      "sourcePixels": [
+        1512,
+        1547
+      ],
+      "resizedForPDF": false
+    },
+    "level2-fish-02.png": {
+      "sourcePixels": [
+        1512,
+        1547
+      ],
+      "resizedForPDF": false
+    },
+    "level2-fish-03.png": {
+      "sourcePixels": [
+        1512,
+        1547
+      ],
+      "resizedForPDF": false
+    },
+    "level2-fish-04.png": {
+      "sourcePixels": [
+        1512,
+        1547
+      ],
+      "resizedForPDF": false
+    },
+    "level2-fish-05.png": {
+      "sourcePixels": [
+        1512,
+        1547
+      ],
+      "resizedForPDF": false
+    },
+    "level2-fish-06.png": {
+      "sourcePixels": [
+        1512,
+        1547
+      ],
+      "resizedForPDF": false
+    },
+    "level2-fish-07.png": {
+      "sourcePixels": [
+        1512,
+        1547
+      ],
+      "resizedForPDF": false
+    }
+  },
+  "qualityNote": "PDF-only JPEG quality 97, no image resize; original PNG compositions preserved. Native asset resolution requires a separate audit. RGB reading proof; no physical printing or prepress certification claim."
+}

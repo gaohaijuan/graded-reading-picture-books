@@ -1,0 +1,497 @@
+[
+  {
+    "id": "intro-complete",
+    "page": 0,
+    "text": "你好！我是小石头。"
+  },
+  {
+    "id": "intro-complete",
+    "page": 1,
+    "text": "我的名字叫小石头。"
+  },
+  {
+    "id": "intro-complete",
+    "page": 2,
+    "text": "你的名字是什么呢？"
+  },
+  {
+    "id": "intro-complete",
+    "page": 3,
+    "text": "我五岁了。你几岁呢？"
+  },
+  {
+    "id": "intro-complete",
+    "page": 4,
+    "text": "我上大班了。"
+  },
+  {
+    "id": "intro-complete",
+    "page": 5,
+    "text": "你也有名字吗？"
+  },
+  {
+    "id": "snow-revision",
+    "page": 0,
+    "text": "下雪了！"
+  },
+  {
+    "id": "snow-revision",
+    "page": 1,
+    "text": "一片两片三四片，"
+  },
+  {
+    "id": "snow-revision",
+    "page": 2,
+    "text": "五片六片七八片，"
+  },
+  {
+    "id": "snow-revision",
+    "page": 3,
+    "text": "九片十片十一片，"
+  },
+  {
+    "id": "snow-revision",
+    "page": 4,
+    "text": "飞入草丛都不见。"
+  },
+  {
+    "id": "family",
+    "page": 0,
+    "text": "我家有几口人？"
+  },
+  {
+    "id": "family",
+    "page": 1,
+    "text": "这是爸爸。"
+  },
+  {
+    "id": "family",
+    "page": 2,
+    "text": "这是妈妈。"
+  },
+  {
+    "id": "family",
+    "page": 3,
+    "text": "有两口人。"
+  },
+  {
+    "id": "family",
+    "page": 4,
+    "text": "不对，把我自己忘了！"
+  },
+  {
+    "id": "family",
+    "page": 5,
+    "text": "有三口人！"
+  },
+  {
+    "id": "hands-revision",
+    "page": 0,
+    "text": "我有两只小手。"
+  },
+  {
+    "id": "hands-revision",
+    "page": 1,
+    "text": "我用小手学做小花。"
+  },
+  {
+    "id": "hands-revision",
+    "page": 2,
+    "text": "我做了一朵又一朵。"
+  },
+  {
+    "id": "hands-revision",
+    "page": 3,
+    "text": "小手开，小花开。"
+  },
+  {
+    "id": "hands-revision",
+    "page": 4,
+    "text": "小手合上，小花不见了。"
+  },
+  {
+    "id": "hands-revision",
+    "page": 5,
+    "text": "小手又开，小花又开。"
+  },
+  {
+    "id": "hands-revision",
+    "page": 6,
+    "text": "你的小花开了吗？"
+  },
+  {
+    "id": "mountain-revision",
+    "page": 0,
+    "text": "山上有两朵白云。"
+  },
+  {
+    "id": "mountain-revision",
+    "page": 1,
+    "text": "白云来了，山不见了。"
+  },
+  {
+    "id": "mountain-revision",
+    "page": 2,
+    "text": "“山呢？”"
+  },
+  {
+    "id": "mountain-revision",
+    "page": 3,
+    "text": "风来了，云走了。"
+  },
+  {
+    "id": "mountain-revision",
+    "page": 4,
+    "text": "山出来了！"
+  },
+  {
+    "id": "mountain-revision",
+    "page": 5,
+    "text": "山没有走，是云走了！"
+  },
+  {
+    "id": "rain-revision",
+    "page": 0,
+    "text": "下大雨了！下雨啦！"
+  },
+  {
+    "id": "rain-revision",
+    "page": 1,
+    "text": "小伞开了。我坐在伞下，看雨。"
+  },
+  {
+    "id": "rain-revision",
+    "page": 2,
+    "text": "小花在雨中。"
+  },
+  {
+    "id": "rain-revision",
+    "page": 3,
+    "text": "“小花，来！”小花没来。"
+  },
+  {
+    "id": "rain-revision",
+    "page": 4,
+    "text": "“花不来，我去！”"
+  },
+  {
+    "id": "rain-revision",
+    "page": 5,
+    "text": "我在伞下，小花也在伞下。"
+  },
+  {
+    "id": "rain-revision",
+    "page": 6,
+    "text": "雨在伞上，伞下有我，也有花。"
+  },
+  {
+    "id": "rain-revision",
+    "page": 7,
+    "text": "我笑了。"
+  },
+  {
+    "id": "stone-complete",
+    "page": 0,
+    "text": "大石头下，地上有小石头。"
+  },
+  {
+    "id": "stone-complete",
+    "page": 1,
+    "text": "这是小石头的家。"
+  },
+  {
+    "id": "stone-complete",
+    "page": 2,
+    "text": "我拿起小石头。"
+  },
+  {
+    "id": "stone-complete",
+    "page": 3,
+    "text": "我走，小石头也走。"
+  },
+  {
+    "id": "stone-complete",
+    "page": 4,
+    "text": "我要回家去了。"
+  },
+  {
+    "id": "stone-complete",
+    "page": 5,
+    "text": "我把小石头拿起来，放回大石头下。"
+  },
+  {
+    "id": "stone-complete",
+    "page": 6,
+    "text": "“小石头，你回家了！”"
+  },
+  {
+    "id": "stone-complete",
+    "page": 7,
+    "text": "我也回家了。"
+  },
+  {
+    "id": "insect-revision",
+    "page": 0,
+    "text": "石头上，有一只小虫。"
+  },
+  {
+    "id": "insect-revision",
+    "page": 1,
+    "text": "我走过去看。"
+  },
+  {
+    "id": "insect-revision",
+    "page": 2,
+    "text": "小虫不见了！"
+  },
+  {
+    "id": "insect-revision",
+    "page": 3,
+    "text": "“小虫，你在哪？”"
+  },
+  {
+    "id": "insect-revision",
+    "page": 4,
+    "text": "我低头一看，小虫在我的脚上！"
+  },
+  {
+    "id": "insect-revision",
+    "page": 5,
+    "text": "“你也要和我一起走吗？”"
+  },
+  {
+    "id": "car-complete",
+    "page": 0,
+    "text": "小车的家，有两个大门。"
+  },
+  {
+    "id": "car-complete",
+    "page": 1,
+    "text": "一个入口，一个出口。"
+  },
+  {
+    "id": "car-complete",
+    "page": 2,
+    "text": "我会开小车，从入口进去，从出口出来。"
+  },
+  {
+    "id": "car-complete",
+    "page": 3,
+    "text": "我不玩了，小车也要回家。"
+  },
+  {
+    "id": "car-complete",
+    "page": 4,
+    "text": "我把小车开回家，关上门。"
+  },
+  {
+    "id": "ball-revision",
+    "page": 0,
+    "text": "我要找小球玩。\n\n谁看见小球了？小球在哪？"
+  },
+  {
+    "id": "ball-revision",
+    "page": 1,
+    "text": "我看看小车里，没有。"
+  },
+  {
+    "id": "ball-revision",
+    "page": 2,
+    "text": "我看看小车前，也没有。"
+  },
+  {
+    "id": "ball-revision",
+    "page": 3,
+    "text": "我看看小车后，也没有。"
+  },
+  {
+    "id": "ball-revision",
+    "page": 4,
+    "text": "门后呢？小球在这里！"
+  },
+  {
+    "id": "ball-revision",
+    "page": 5,
+    "text": "“找到你了！”"
+  },
+  {
+    "id": "tree-revision",
+    "page": 0,
+    "text": "小树，你好！"
+  },
+  {
+    "id": "tree-revision",
+    "page": 1,
+    "text": "我和小树，谁高？"
+  },
+  {
+    "id": "tree-revision",
+    "page": 2,
+    "text": "小树比我高一点。"
+  },
+  {
+    "id": "tree-revision",
+    "page": 3,
+    "text": "我站在小石头上。"
+  },
+  {
+    "id": "tree-revision",
+    "page": 4,
+    "text": "“这回，谁高？我高！”"
+  },
+  {
+    "id": "tree-revision",
+    "page": 5,
+    "text": "我下来，小树又高了。"
+  },
+  {
+    "id": "tree-revision",
+    "page": 6,
+    "text": "我看看脚下的小石头，笑了。"
+  },
+  {
+    "id": "tree-revision",
+    "page": 7,
+    "text": "“明年我还要和小树比高高！”"
+  },
+  {
+    "id": "water-revision",
+    "page": 0,
+    "text": "水中有天，有云，也有我。"
+  },
+  {
+    "id": "water-revision",
+    "page": 1,
+    "text": "我笑，水中的我也笑。"
+  },
+  {
+    "id": "water-revision",
+    "page": 2,
+    "text": "我走，水中的我也走。"
+  },
+  {
+    "id": "water-revision",
+    "page": 3,
+    "text": "我不走，水中的我也不走。"
+  },
+  {
+    "id": "water-revision",
+    "page": 4,
+    "text": "“你好，水中的我！”"
+  },
+  {
+    "id": "calling-revision",
+    "page": 0,
+    "text": "我听见叫声。谁在叫？"
+  },
+  {
+    "id": "calling-revision",
+    "page": 1,
+    "text": "我看看树上，是小鸟在叫。"
+  },
+  {
+    "id": "calling-revision",
+    "page": 2,
+    "text": "“小鸟，下来和我玩，好吗？”"
+  },
+  {
+    "id": "calling-revision",
+    "page": 3,
+    "text": "小鸟不叫了。谁又在叫？"
+  },
+  {
+    "id": "calling-revision",
+    "page": 4,
+    "text": "我看看树下，是小猫在叫。"
+  },
+  {
+    "id": "calling-revision",
+    "page": 5,
+    "text": "“小猫，你也来！”"
+  },
+  {
+    "id": "calling-revision",
+    "page": 6,
+    "text": "小鸟呢？小鸟飞出来了，不在树上了。"
+  },
+  {
+    "id": "calling-revision",
+    "page": 7,
+    "text": "我一看，小鸟在小车上！"
+  },
+  {
+    "id": "calling-revision",
+    "page": 8,
+    "text": "“小鸟，你来了！”"
+  },
+  {
+    "id": "catball-complete",
+    "page": 0,
+    "text": "我有一个红红的球。"
+  },
+  {
+    "id": "catball-complete",
+    "page": 1,
+    "text": "我有一个黄球。"
+  },
+  {
+    "id": "catball-complete",
+    "page": 2,
+    "text": "“小猫，你要红球吗？”"
+  },
+  {
+    "id": "catball-complete",
+    "page": 3,
+    "text": "“红球给你。黄球也给你。”"
+  },
+  {
+    "id": "catball-complete",
+    "page": 4,
+    "text": "小猫不来玩。"
+  },
+  {
+    "id": "catball-complete",
+    "page": 5,
+    "text": "我把红球推过去。"
+  },
+  {
+    "id": "catball-complete",
+    "page": 6,
+    "text": "小猫跑来了，我笑了！\n\n我和小猫一起玩！"
+  },
+  {
+    "id": "catbed-revision",
+    "page": 0,
+    "text": "这是小猫的床。"
+  },
+  {
+    "id": "catbed-revision",
+    "page": 1,
+    "text": "小猫想睡了。"
+  },
+  {
+    "id": "catbed-revision",
+    "page": 2,
+    "text": "床上有小球，我把小球拿下来。"
+  },
+  {
+    "id": "catbed-revision",
+    "page": 3,
+    "text": "床上还有小车，我把小车也拿下来。"
+  },
+  {
+    "id": "catbed-revision",
+    "page": 4,
+    "text": "小球、小车都拿下来，放好了。"
+  },
+  {
+    "id": "catbed-revision",
+    "page": 5,
+    "text": "“小猫，上床睡吧。”"
+  },
+  {
+    "id": "catbed-revision",
+    "page": 6,
+    "text": "小猫上了床，睡了。"
+  }
+]

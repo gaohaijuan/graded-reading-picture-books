@@ -1,0 +1,938 @@
+[
+  {
+    "book": "paper",
+    "dataset": {
+      "actorCacheId": "60",
+      "art": "paper",
+      "artState": "ready",
+      "camera": "{\"x\":10.736196319018404,\"y\":0,\"width\":978.5276073619632,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "0",
+      "portraitScale": "0.42889683837095727",
+      "pose": "carry-play",
+      "reflectionActor": "",
+      "scene": "paper-welcome",
+      "sceneGeometry": "{\"paper\":{\"at\":\"hands\",\"width\":145},\"stone\":null,\"wind\":null,\"small\":null,\"big\":null,\"bed\":null,\"cat\":null,\"ball\":null,\"car\":null,\"sleeping\":false}",
+      "storyBeat": "show-my-red-paper"
+    },
+    "overflow": false,
+    "page": 0,
+    "paper": {
+      "bottom": 682.5417175292969,
+      "height": 523.0833740234375,
+      "left": 10.666666984558104,
+      "right": 379.3229169845581,
+      "top": 159.45834350585938,
+      "width": 368.65625,
+      "x": 10.666666984558104,
+      "y": 159.45834350585938
+    },
+    "photoTiming": {
+      "cutoutMs": 863.5,
+      "photoReadMs": 17.90000000037253,
+      "pngEncodeMs": 18.59999999962747,
+      "recognitionMs": 229.90000000037253
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 8881.299999998882,
+      "bodyDownloadMs": 635.6999999992549,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "paper",
+                "fruit",
+                "catbed"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "step-own-shoes",
+                  "status": "ready"
+                },
+                {
+                  "id": "carry-play",
+                  "status": "ready"
+                },
+                {
+                  "id": "run-left",
+                  "status": "ready"
+                },
+                {
+                  "id": "run-right",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-palm",
+                  "status": "ready"
+                },
+                {
+                  "id": "eat-fruit",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "paper",
+            "fruit",
+            "catbed"
+          ]
+        }
+      ],
+      "composeMs": 41.20000001043081,
+      "composites": 72,
+      "draws": 1004,
+      "pageDrawMs": 15502.900000011548
+    },
+    "text": "我有小纸片。红红的小纸片。",
+    "textRect": {
+      "bottom": 635.2083587646484,
+      "height": 72.22917175292969,
+      "left": 30.59375,
+      "right": 349.4270935058594,
+      "top": 562.9791870117188,
+      "width": 318.8333435058594,
+      "x": 30.59375,
+      "y": 562.9791870117188
+    }
+  },
+  {
+    "book": "paper",
+    "dataset": {
+      "actorCacheId": "49",
+      "art": "paper",
+      "artState": "ready",
+      "camera": "{\"x\":10.736196319018404,\"y\":0,\"width\":978.5276073619632,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "1",
+      "portraitScale": "0.42889683837095727",
+      "pose": "hands-flower-open",
+      "reflectionActor": "",
+      "scene": "paper-wind",
+      "sceneGeometry": "{\"paper\":{\"x\":690,\"ground\":520,\"width\":180,\"rotation\":-0.2,\"flat\":false},\"stone\":null,\"wind\":\"right\",\"small\":null,\"big\":null,\"bed\":null,\"cat\":null,\"ball\":null,\"car\":null,\"sleeping\":false}",
+      "storyBeat": "wind-lifts-paper"
+    },
+    "overflow": false,
+    "page": 1,
+    "paper": {
+      "bottom": 682.5417175292969,
+      "height": 523.0833740234375,
+      "left": 10.666666984558104,
+      "right": 379.3229169845581,
+      "top": 159.45834350585938,
+      "width": 368.65625,
+      "x": 10.666666984558104,
+      "y": 159.45834350585938
+    },
+    "photoTiming": {
+      "cutoutMs": 863.5,
+      "photoReadMs": 17.90000000037253,
+      "pngEncodeMs": 18.59999999962747,
+      "recognitionMs": 229.90000000037253
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 8881.299999998882,
+      "bodyDownloadMs": 635.6999999992549,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "paper",
+                "fruit",
+                "catbed"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "step-own-shoes",
+                  "status": "ready"
+                },
+                {
+                  "id": "carry-play",
+                  "status": "ready"
+                },
+                {
+                  "id": "run-left",
+                  "status": "ready"
+                },
+                {
+                  "id": "run-right",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-palm",
+                  "status": "ready"
+                },
+                {
+                  "id": "eat-fruit",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "paper",
+            "fruit",
+            "catbed"
+          ]
+        }
+      ],
+      "composeMs": 41.20000001043081,
+      "composites": 72,
+      "draws": 1005,
+      "pageDrawMs": 15503.800000010058
+    },
+    "text": "风来了，小纸片飞了！",
+    "textRect": {
+      "bottom": 635.2083587646484,
+      "height": 72.22917175292969,
+      "left": 40.55208587646485,
+      "right": 359.3854293823242,
+      "top": 562.9791870117188,
+      "width": 318.8333435058594,
+      "x": 40.55208587646485,
+      "y": 562.9791870117188
+    }
+  },
+  {
+    "book": "paper",
+    "dataset": {
+      "actorCacheId": "59",
+      "art": "paper",
+      "artState": "ready",
+      "camera": "{\"x\":10.736196319018404,\"y\":0,\"width\":978.5276073619632,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "2",
+      "portraitScale": "0.42889683837095727",
+      "pose": "run-left",
+      "reflectionActor": "",
+      "scene": "paper-wind",
+      "sceneGeometry": "{\"paper\":{\"x\":145,\"ground\":520,\"width\":180,\"rotation\":-0.22,\"flat\":false},\"stone\":null,\"wind\":\"left\",\"small\":null,\"big\":null,\"bed\":null,\"cat\":null,\"ball\":null,\"car\":null,\"sleeping\":false}",
+      "storyBeat": "paper-and-child-go-left"
+    },
+    "overflow": false,
+    "page": 2,
+    "paper": {
+      "bottom": 682.5417175292969,
+      "height": 523.0833740234375,
+      "left": 10.666666984558104,
+      "right": 379.3229169845581,
+      "top": 159.45834350585938,
+      "width": 368.65625,
+      "x": 10.666666984558104,
+      "y": 159.45834350585938
+    },
+    "photoTiming": {
+      "cutoutMs": 863.5,
+      "photoReadMs": 17.90000000037253,
+      "pngEncodeMs": 18.59999999962747,
+      "recognitionMs": 229.90000000037253
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 8881.299999998882,
+      "bodyDownloadMs": 635.6999999992549,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "paper",
+                "fruit",
+                "catbed"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "step-own-shoes",
+                  "status": "ready"
+                },
+                {
+                  "id": "carry-play",
+                  "status": "ready"
+                },
+                {
+                  "id": "run-left",
+                  "status": "ready"
+                },
+                {
+                  "id": "run-right",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-palm",
+                  "status": "ready"
+                },
+                {
+                  "id": "eat-fruit",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "paper",
+            "fruit",
+            "catbed"
+          ]
+        }
+      ],
+      "composeMs": 41.20000001043081,
+      "composites": 72,
+      "draws": 1006,
+      "pageDrawMs": 15504.10000000894
+    },
+    "text": "小纸片飞到左边，我也跑到左边。",
+    "textRect": {
+      "bottom": 635.2083587646484,
+      "height": 72.22917175292969,
+      "left": 30.59375,
+      "right": 349.4270935058594,
+      "top": 562.9791870117188,
+      "width": 318.8333435058594,
+      "x": 30.59375,
+      "y": 562.9791870117188
+    }
+  },
+  {
+    "book": "paper",
+    "dataset": {
+      "actorCacheId": "58",
+      "art": "paper",
+      "artState": "ready",
+      "camera": "{\"x\":10.736196319018404,\"y\":0,\"width\":978.5276073619632,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "3",
+      "portraitScale": "0.42889683837095727",
+      "pose": "run-right",
+      "reflectionActor": "",
+      "scene": "paper-wind",
+      "sceneGeometry": "{\"paper\":{\"x\":735,\"ground\":520,\"width\":180,\"rotation\":0.2,\"flat\":false},\"stone\":null,\"wind\":\"right\",\"small\":null,\"big\":null,\"bed\":null,\"cat\":null,\"ball\":null,\"car\":null,\"sleeping\":false}",
+      "storyBeat": "paper-and-child-go-right"
+    },
+    "overflow": false,
+    "page": 3,
+    "paper": {
+      "bottom": 682.5417175292969,
+      "height": 523.0833740234375,
+      "left": 10.666666984558104,
+      "right": 379.3229169845581,
+      "top": 159.45834350585938,
+      "width": 368.65625,
+      "x": 10.666666984558104,
+      "y": 159.45834350585938
+    },
+    "photoTiming": {
+      "cutoutMs": 863.5,
+      "photoReadMs": 17.90000000037253,
+      "pngEncodeMs": 18.59999999962747,
+      "recognitionMs": 229.90000000037253
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 8881.299999998882,
+      "bodyDownloadMs": 635.6999999992549,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "paper",
+                "fruit",
+                "catbed"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "step-own-shoes",
+                  "status": "ready"
+                },
+                {
+                  "id": "carry-play",
+                  "status": "ready"
+                },
+                {
+                  "id": "run-left",
+                  "status": "ready"
+                },
+                {
+                  "id": "run-right",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-palm",
+                  "status": "ready"
+                },
+                {
+                  "id": "eat-fruit",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "paper",
+            "fruit",
+            "catbed"
+          ]
+        }
+      ],
+      "composeMs": 41.20000001043081,
+      "composites": 72,
+      "draws": 1007,
+      "pageDrawMs": 15505.000000009311
+    },
+    "text": "小纸片飞到右边，我也跑到右边。",
+    "textRect": {
+      "bottom": 635.2083587646484,
+      "height": 72.22917175292969,
+      "left": 40.55208587646485,
+      "right": 359.3854293823242,
+      "top": 562.9791870117188,
+      "width": 318.8333435058594,
+      "x": 40.55208587646485,
+      "y": 562.9791870117188
+    }
+  },
+  {
+    "book": "paper",
+    "dataset": {
+      "actorCacheId": "57",
+      "art": "paper",
+      "artState": "ready",
+      "camera": "{\"x\":10.736196319018404,\"y\":0,\"width\":978.5276073619632,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "4",
+      "portraitScale": "0.42889683837095727",
+      "pose": "crouch-touch",
+      "reflectionActor": "",
+      "scene": "paper-land",
+      "sceneGeometry": "{\"paper\":{\"x\":450,\"ground\":925,\"width\":240,\"rotation\":0,\"flat\":true},\"stone\":null,\"wind\":null,\"small\":null,\"big\":null,\"bed\":null,\"cat\":null,\"ball\":null,\"car\":null,\"sleeping\":false}",
+      "storyBeat": "paper-comes-down"
+    },
+    "overflow": false,
+    "page": 4,
+    "paper": {
+      "bottom": 682.5417175292969,
+      "height": 523.0833740234375,
+      "left": 10.666666984558104,
+      "right": 379.3229169845581,
+      "top": 159.45834350585938,
+      "width": 368.65625,
+      "x": 10.666666984558104,
+      "y": 159.45834350585938
+    },
+    "photoTiming": {
+      "cutoutMs": 863.5,
+      "photoReadMs": 17.90000000037253,
+      "pngEncodeMs": 18.59999999962747,
+      "recognitionMs": 229.90000000037253
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 8881.299999998882,
+      "bodyDownloadMs": 635.6999999992549,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "paper",
+                "fruit",
+                "catbed"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "step-own-shoes",
+                  "status": "ready"
+                },
+                {
+                  "id": "carry-play",
+                  "status": "ready"
+                },
+                {
+                  "id": "run-left",
+                  "status": "ready"
+                },
+                {
+                  "id": "run-right",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-palm",
+                  "status": "ready"
+                },
+                {
+                  "id": "eat-fruit",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "paper",
+            "fruit",
+            "catbed"
+          ]
+        }
+      ],
+      "composeMs": 41.20000001043081,
+      "composites": 72,
+      "draws": 1008,
+      "pageDrawMs": 15505.400000009686
+    },
+    "text": "风走了。小纸片下来了。",
+    "textRect": {
+      "bottom": 635.2083587646484,
+      "height": 72.22917175292969,
+      "left": 30.59375,
+      "right": 349.4270935058594,
+      "top": 562.9791870117188,
+      "width": 318.8333435058594,
+      "x": 30.59375,
+      "y": 562.9791870117188
+    }
+  },
+  {
+    "book": "paper",
+    "dataset": {
+      "actorCacheId": "57",
+      "art": "paper",
+      "artState": "ready",
+      "camera": "{\"x\":10.736196319018404,\"y\":0,\"width\":978.5276073619632,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "5",
+      "portraitScale": "0.42889683837095727",
+      "pose": "crouch-touch",
+      "reflectionActor": "",
+      "scene": "paper-again",
+      "sceneGeometry": "{\"paper\":{\"x\":450,\"ground\":925,\"width\":240,\"rotation\":0.04,\"flat\":true},\"stone\":null,\"wind\":\"right\",\"small\":null,\"big\":null,\"bed\":null,\"cat\":null,\"ball\":null,\"car\":null,\"sleeping\":false}",
+      "storyBeat": "put-it-down-wind-returns"
+    },
+    "overflow": false,
+    "page": 5,
+    "paper": {
+      "bottom": 682.5417175292969,
+      "height": 523.0833740234375,
+      "left": 10.666666984558104,
+      "right": 379.3229169845581,
+      "top": 159.45834350585938,
+      "width": 368.65625,
+      "x": 10.666666984558104,
+      "y": 159.45834350585938
+    },
+    "photoTiming": {
+      "cutoutMs": 863.5,
+      "photoReadMs": 17.90000000037253,
+      "pngEncodeMs": 18.59999999962747,
+      "recognitionMs": 229.90000000037253
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 8881.299999998882,
+      "bodyDownloadMs": 635.6999999992549,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "paper",
+                "fruit",
+                "catbed"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "step-own-shoes",
+                  "status": "ready"
+                },
+                {
+                  "id": "carry-play",
+                  "status": "ready"
+                },
+                {
+                  "id": "run-left",
+                  "status": "ready"
+                },
+                {
+                  "id": "run-right",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-palm",
+                  "status": "ready"
+                },
+                {
+                  "id": "eat-fruit",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "paper",
+            "fruit",
+            "catbed"
+          ]
+        }
+      ],
+      "composeMs": 41.20000001043081,
+      "composites": 72,
+      "draws": 1009,
+      "pageDrawMs": 15505.70000001043
+    },
+    "text": "我把小纸片放好。风又来了！",
+    "textRect": {
+      "bottom": 635.2083587646484,
+      "height": 72.22917175292969,
+      "left": 40.55208587646485,
+      "right": 359.3854293823242,
+      "top": 562.9791870117188,
+      "width": 318.8333435058594,
+      "x": 40.55208587646485,
+      "y": 562.9791870117188
+    }
+  },
+  {
+    "book": "paper",
+    "dataset": {
+      "actorCacheId": "56",
+      "art": "paper",
+      "artState": "ready",
+      "camera": "{\"x\":10.736196319018404,\"y\":0,\"width\":978.5276073619632,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "6",
+      "portraitScale": "0.42889683837095727",
+      "pose": "crouch-palm",
+      "reflectionActor": "",
+      "scene": "paper-again",
+      "sceneGeometry": "{\"paper\":{\"x\":450,\"ground\":925,\"width\":240,\"rotation\":0,\"flat\":true},\"stone\":{\"x\":485,\"ground\":910,\"width\":85},\"wind\":null,\"small\":null,\"big\":null,\"bed\":null,\"cat\":null,\"ball\":null,\"car\":null,\"sleeping\":false}",
+      "storyBeat": "place-the-stone-on-paper"
+    },
+    "overflow": false,
+    "page": 6,
+    "paper": {
+      "bottom": 682.5417175292969,
+      "height": 523.0833740234375,
+      "left": 10.666666984558104,
+      "right": 379.3229169845581,
+      "top": 159.45834350585938,
+      "width": 368.65625,
+      "x": 10.666666984558104,
+      "y": 159.45834350585938
+    },
+    "photoTiming": {
+      "cutoutMs": 863.5,
+      "photoReadMs": 17.90000000037253,
+      "pngEncodeMs": 18.59999999962747,
+      "recognitionMs": 229.90000000037253
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 8881.299999998882,
+      "bodyDownloadMs": 635.6999999992549,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "paper",
+                "fruit",
+                "catbed"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "step-own-shoes",
+                  "status": "ready"
+                },
+                {
+                  "id": "carry-play",
+                  "status": "ready"
+                },
+                {
+                  "id": "run-left",
+                  "status": "ready"
+                },
+                {
+                  "id": "run-right",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-palm",
+                  "status": "ready"
+                },
+                {
+                  "id": "eat-fruit",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "paper",
+            "fruit",
+            "catbed"
+          ]
+        }
+      ],
+      "composeMs": 41.20000001043081,
+      "composites": 72,
+      "draws": 1010,
+      "pageDrawMs": 15506.100000010803
+    },
+    "text": "小石头，来！你在小纸片上。",
+    "textRect": {
+      "bottom": 635.2083587646484,
+      "height": 72.22917175292969,
+      "left": 30.59375,
+      "right": 349.4270935058594,
+      "top": 562.9791870117188,
+      "width": 318.8333435058594,
+      "x": 30.59375,
+      "y": 562.9791870117188
+    }
+  },
+  {
+    "book": "paper",
+    "dataset": {
+      "actorCacheId": "49",
+      "art": "paper",
+      "artState": "ready",
+      "camera": "{\"x\":10.736196319018404,\"y\":0,\"width\":978.5276073619632,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "7",
+      "portraitScale": "0.42889683837095727",
+      "pose": "hands-flower-open",
+      "reflectionActor": "",
+      "scene": "paper-end",
+      "sceneGeometry": "{\"paper\":{\"x\":570,\"ground\":925,\"width\":240,\"rotation\":0,\"flat\":true},\"stone\":{\"x\":605,\"ground\":910,\"width\":85},\"wind\":null,\"small\":null,\"big\":null,\"bed\":null,\"cat\":null,\"ball\":null,\"car\":null,\"sleeping\":false}",
+      "storyBeat": "paper-stays-child-rests"
+    },
+    "overflow": false,
+    "page": 7,
+    "paper": {
+      "bottom": 682.5417175292969,
+      "height": 523.0833740234375,
+      "left": 10.666666984558104,
+      "right": 379.3229169845581,
+      "top": 159.45834350585938,
+      "width": 368.65625,
+      "x": 10.666666984558104,
+      "y": 159.45834350585938
+    },
+    "photoTiming": {
+      "cutoutMs": 863.5,
+      "photoReadMs": 17.90000000037253,
+      "pngEncodeMs": 18.59999999962747,
+      "recognitionMs": 229.90000000037253
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 8881.299999998882,
+      "bodyDownloadMs": 635.6999999992549,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "paper",
+                "fruit",
+                "catbed"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "step-own-shoes",
+                  "status": "ready"
+                },
+                {
+                  "id": "carry-play",
+                  "status": "ready"
+                },
+                {
+                  "id": "run-left",
+                  "status": "ready"
+                },
+                {
+                  "id": "run-right",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-palm",
+                  "status": "ready"
+                },
+                {
+                  "id": "eat-fruit",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "paper",
+            "fruit",
+            "catbed"
+          ]
+        }
+      ],
+      "composeMs": 41.20000001043081,
+      "composites": 72,
+      "draws": 1011,
+      "pageDrawMs": 15507.20000001043
+    },
+    "text": "小纸片不飞了。我也不跑了！",
+    "textRect": {
+      "bottom": 635.2083587646484,
+      "height": 72.22917175292969,
+      "left": 40.55208587646485,
+      "right": 359.3854293823242,
+      "top": 562.9791870117188,
+      "width": 318.8333435058594,
+      "x": 40.55208587646485,
+      "y": 562.9791870117188
+    }
+  }
+]

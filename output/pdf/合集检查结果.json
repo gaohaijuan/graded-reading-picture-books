@@ -1,0 +1,929 @@
+{
+  "summary": {
+    "file": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\output\\pdf\\小小主角-第1级六故事合集-A5阅读校样.pdf",
+    "bytes": 33045523,
+    "pages": 50,
+    "expected_pages": 50,
+    "story_pages": 41,
+    "blank_pages": [],
+    "non_a5_pages": [],
+    "missing_art": [],
+    "missing_story_text": [],
+    "text_outside_page": [],
+    "chapters": [
+      {
+        "bookId": "intro",
+        "title": "你好，我是小石头",
+        "number": 1,
+        "startPage": 3,
+        "startFolio": 1,
+        "storyPages": 6
+      },
+      {
+        "bookId": "flower",
+        "title": "我的花",
+        "number": 2,
+        "startPage": 10,
+        "startFolio": 8,
+        "storyPages": 6
+      },
+      {
+        "bookId": "family",
+        "title": "我家有几口人？",
+        "number": 3,
+        "startPage": 17,
+        "startFolio": 15,
+        "storyPages": 7
+      },
+      {
+        "bookId": "hands",
+        "title": "我的小手",
+        "number": 4,
+        "startPage": 25,
+        "startFolio": 23,
+        "storyPages": 6
+      },
+      {
+        "bookId": "rain",
+        "title": "下雨了",
+        "number": 5,
+        "startPage": 32,
+        "startFolio": 30,
+        "storyPages": 8
+      },
+      {
+        "bookId": "stone",
+        "title": "小石头回家",
+        "number": 6,
+        "startPage": 41,
+        "startFolio": 39,
+        "storyPages": 8
+      }
+    ]
+  },
+  "pages": [
+    {
+      "page": 1,
+      "kind": "front",
+      "book": "intro",
+      "width_mm": 148.0,
+      "height_mm": 210.0,
+      "ink_ratio": 0.2237,
+      "blank": false,
+      "text": "小小主角 · 第1级\n第1级\n阅读故事集\n小石头的专属故事集\n现有 6 个故事 · 合集样册",
+      "words_inside_page": true
+    },
+    {
+      "page": 2,
+      "kind": "contents",
+      "book": null,
+      "width_mm": 148.0,
+      "height_mm": 210.0,
+      "ink_ratio": 0.017,
+      "blank": false,
+      "text": "故事目录\n第1级合集样册 · 现有 6 个故事\n01 你好，我是小石头 1\n02 我的花 8\n03 我家有几口人？ 15\n04 我的小手 23\n05 下雨了 30\n06 小石头回家 39\n每个故事后都有识字小结。\n这是现有故事样册，完整第1级仍在陆续制作。",
+      "words_inside_page": true
+    },
+    {
+      "page": 3,
+      "kind": "story",
+      "book": "intro",
+      "width_mm": 148.0,
+      "height_mm": 210.0,
+      "ink_ratio": 0.2756,
+      "blank": false,
+      "text": "01 · 你好，我是小石头\n你好！\n我是小石头。\n1",
+      "words_inside_page": true,
+      "expected_text": [
+        "你好！",
+        "我是小石头。"
+      ],
+      "all_story_text_present": true,
+      "art_ink_ratio": 0.5122,
+      "art_present": true,
+      "body_text_in_lower_panel": true
+    },
+    {
+      "page": 4,
+      "kind": "story",
+      "book": "intro",
+      "width_mm": 148.0,
+      "height_mm": 210.0,
+      "ink_ratio": 0.4387,
+      "blank": false,
+      "text": "你好，我是小石头\n我的名字\n叫小石头。\n2",
+      "words_inside_page": true,
+      "expected_text": [
+        "我的名字",
+        "叫小石头。"
+      ],
+      "all_story_text_present": true,
+      "art_ink_ratio": 0.7991,
+      "art_present": true,
+      "body_text_in_lower_panel": true
+    },
+    {
+      "page": 5,
+      "kind": "story",
+      "book": "intro",
+      "width_mm": 148.0,
+      "height_mm": 210.0,
+      "ink_ratio": 0.4543,
+      "blank": false,
+      "text": "你好，我是小石头\n你的名字\n是什么呢？\n3",
+      "words_inside_page": true,
+      "expected_text": [
+        "你的名字",
+        "是什么呢？"
+      ],
+      "all_story_text_present": true,
+      "art_ink_ratio": 0.8359,
+      "art_present": true,
+      "body_text_in_lower_panel": true
+    },
+    {
+      "page": 6,
+      "kind": "story",
+      "book": "intro",
+      "width_mm": 148.0,
+      "height_mm": 210.0,
+      "ink_ratio": 0.4324,
+      "blank": false,
+      "text": "你好，我是小石头\n我五岁了。\n你几岁呢？\n4",
+      "words_inside_page": true,
+      "expected_text": [
+        "我五岁了。",
+        "你几岁呢？"
+      ],
+      "all_story_text_present": true,
+      "art_ink_ratio": 0.7869,
+      "art_present": true,
+      "body_text_in_lower_panel": true
+    },
+    {
+      "page": 7,
+      "kind": "story",
+      "book": "intro",
+      "width_mm": 148.0,
+      "height_mm": 210.0,
+      "ink_ratio": 0.3334,
+      "blank": false,
+      "text": "你好，我是小石头\n我上大班了。\n5",
+      "words_inside_page": true,
+      "expected_text": [
+        "我上大班了。"
+      ],
+      "all_story_text_present": true,
+      "art_ink_ratio": 0.6282,
+      "art_present": true,
+      "body_text_in_lower_panel": true
+    },
+    {
+      "page": 8,
+      "kind": "story",
+      "book": "intro",
+      "width_mm": 148.0,
+      "height_mm": 210.0,
+      "ink_ratio": 0.4323,
+      "blank": false,
+      "text": "你好，我是小石头\n你也是吗？\n6",
+      "words_inside_page": true,
+      "expected_text": [
+        "你也是吗？"
+      ],
+      "all_story_text_present": true,
+      "art_ink_ratio": 0.7906,
+      "art_present": true,
+      "body_text_in_lower_panel": true
+    },
+    {
+      "page": 9,
+      "kind": "summary",
+      "book": "intro",
+      "width_mm": 148.0,
+      "height_mm": 210.0,
+      "ink_ratio": 0.0571,
+      "blank": false,
+      "text": "你好，我是小石头\n识字小结\n小石头的阅读足迹\n故事读完了，这些字我见过啦。\n本书用字 新出现 累计接触\n20 字 20 字 20 字\n本书汉字\n下划线为本册新字，可圈出还想练习的字\n你 好 我 是 的 名 字 叫 什 么 呢\n五 岁 了 几 上 大 班 也 吗\n姓名汉字另计：小、石、头\n阅读日期：________ 能独立认读：____ / 20 字\n正文去重，含辅助字，不计书名与姓名；从第1本累计。\n重读不叠加。读过不代表掌握。\n7",
+      "words_inside_page": true
+    },
+    {
+      "page": 10,
+      "kind": "story",
+      "book": "flower",
+      "width_mm": 148.0,
+      "height_mm": 210.0,
+      "ink_ratio": 0.4399,
+      "blank": false,
+      "text": "02 · 我的花\n我的小花。\n8",
+      "words_inside_page": true,
+      "expected_text": [
+        "我的小花。"
+      ],
+      "all_story_text_present": true,
+      "art_ink_ratio": 0.8061,
+      "art_present": true,
+      "body_text_in_lower_panel": true
+    },
+    {
+      "page": 11,
+      "kind": "story",
+      "book": "flower",
+      "width_mm": 148.0,
+      "height_mm": 210.0,
+      "ink_ratio": 0.4594,
+      "blank": false,
+      "text": "我的花\n我的花\n有好多片。\n9",
+      "words_inside_page": true,
+      "expected_text": [
+        "我的花",
+        "有好多片。"
+      ],
+      "all_story_text_present": true,
+      "art_ink_ratio": 0.8415,
+      "art_present": true,
+      "body_text_in_lower_panel": true
+    },
+    {
+      "page": 12,
+      "kind": "story",
+      "book": "flower",
+      "width_mm": 148.0,
+      "height_mm": 210.0,
+      "ink_ratio": 0.4252,
+      "blank": false,
+      "text": "我的花\n一片两片三四片，\n10",
+      "words_inside_page": true,
+      "expected_text": [
+        "一片两片三四片，"
+      ],
+      "all_story_text_present": true,
+      "art_ink_ratio": 0.7774,
+      "art_present": true,
+      "body_text_in_lower_panel": true
+    },
+    {
+      "page": 13,
+      "kind": "story",
+      "book": "flower",
+      "width_mm": 148.0,
+      "height_mm": 210.0,
+      "ink_ratio": 0.4266,
+      "blank": false,
+      "text": "我的花\n五片六片七八片，\n11",
+      "words_inside_page": true,
+      "expected_text": [
+        "五片六片七八片，"
+      ],
+      "all_story_text_present": true,
+      "art_ink_ratio": 0.7905,
+      "art_present": true,
+      "body_text_in_lower_panel": true
+    },
+    {
+      "page": 14,
+      "kind": "story",
+      "book": "flower",
+      "width_mm": 148.0,
+      "height_mm": 210.0,
+      "ink_ratio": 0.4251,
+      "blank": false,
+      "text": "我的花\n九片十片十一片，\n12",
+      "words_inside_page": true,
+      "expected_text": [
+        "九片十片十一片，"
+      ],
+      "all_story_text_present": true,
+      "art_ink_ratio": 0.7789,
+      "art_present": true,
+      "body_text_in_lower_panel": true
+    },
+    {
+      "page": 15,
+      "kind": "story",
+      "book": "flower",
+      "width_mm": 148.0,
+      "height_mm": 210.0,
+      "ink_ratio": 0.4486,
+      "blank": false,
+      "text": "我的花\n飞入草丛都不见。\n13",
+      "words_inside_page": true,
+      "expected_text": [
+        "飞入草丛都不见。"
+      ],
+      "all_story_text_present": true,
+      "art_ink_ratio": 0.8253,
+      "art_present": true,
+      "body_text_in_lower_panel": true
+    },
+    {
+      "page": 16,
+      "kind": "summary",
+      "book": "flower",
+      "width_mm": 148.0,
+      "height_mm": 210.0,
+      "ink_ratio": 0.0671,
+      "blank": false,
+      "text": "我的花\n识字小结\n小石头的阅读足迹\n故事读完了，这些字我见过啦。\n本书用字 新出现 累计接触\n25 字 21 字 41 字\n本书汉字\n下划线为本册新字，可圈出还想练习的字\n我 的 小 花 有 好 多 片 一 两 三\n四 五 六 七 八 九 十 飞 入 草 丛\n都 不 见\n阅读日期：________ 能独立认读：____ / 25 字\n正文去重，含辅助字，不计书名与姓名；从第1本累计。\n重读不叠加。读过不代表掌握。\n14",
+      "words_inside_page": true
+    },
+    {
+      "page": 17,
+      "kind": "story",
+      "book": "family",
+      "width_mm": 148.0,
+      "height_mm": 210.0,
+      "ink_ratio": 0.3843,
+      "blank": false,
+      "text": "03 · 我家有几口人？\n我家有几口人？\n我来数一数。\n15",
+      "words_inside_page": true,
+      "expected_text": [
+        "我家有几口人？",
+        "我来数一数。"
+      ],
+      "all_story_text_present": true,
+      "art_ink_ratio": 0.7125,
+      "art_present": true,
+      "body_text_in_lower_panel": true
+    },
+    {
+      "page": 18,
+      "kind": "story",
+      "book": "family",
+      "width_mm": 148.0,
+      "height_mm": 210.0,
+      "ink_ratio": 0.3411,
+      "blank": false,
+      "text": "我家有几口人？\n这是爸爸。\n16",
+      "words_inside_page": true,
+      "expected_text": [
+        "这是爸爸。"
+      ],
+      "all_story_text_present": true,
+      "art_ink_ratio": 0.6173,
+      "art_present": true,
+      "body_text_in_lower_panel": true
+    },
+    {
+      "page": 19,
+      "kind": "story",
+      "book": "family",
+      "width_mm": 148.0,
+      "height_mm": 210.0,
+      "ink_ratio": 0.341,
+      "blank": false,
+      "text": "我家有几口人？\n这是妈妈。\n17",
+      "words_inside_page": true,
+      "expected_text": [
+        "这是妈妈。"
+      ],
+      "all_story_text_present": true,
+      "art_ink_ratio": 0.6406,
+      "art_present": true,
+      "body_text_in_lower_panel": true
+    },
+    {
+      "page": 20,
+      "kind": "story",
+      "book": "family",
+      "width_mm": 148.0,
+      "height_mm": 210.0,
+      "ink_ratio": 0.3711,
+      "blank": false,
+      "text": "我家有几口人？\n我数好了！\n一共有两口人。\n18",
+      "words_inside_page": true,
+      "expected_text": [
+        "我数好了！",
+        "一共有两口人。"
+      ],
+      "all_story_text_present": true,
+      "art_ink_ratio": 0.6718,
+      "art_present": true,
+      "body_text_in_lower_panel": true
+    },
+    {
+      "page": 21,
+      "kind": "story",
+      "book": "family",
+      "width_mm": 148.0,
+      "height_mm": 210.0,
+      "ink_ratio": 0.3587,
+      "blank": false,
+      "text": "我家有几口人？\n咦？\n我把谁忘了？\n19",
+      "words_inside_page": true,
+      "expected_text": [
+        "咦？",
+        "我把谁忘了？"
+      ],
+      "all_story_text_present": true,
+      "art_ink_ratio": 0.6698,
+      "art_present": true,
+      "body_text_in_lower_panel": true
+    },
+    {
+      "page": 22,
+      "kind": "story",
+      "book": "family",
+      "width_mm": 148.0,
+      "height_mm": 210.0,
+      "ink_ratio": 0.3533,
+      "blank": false,
+      "text": "我家有几口人？\n是我呀！\n还要加上我。\n20",
+      "words_inside_page": true,
+      "expected_text": [
+        "是我呀！",
+        "还要加上我。"
+      ],
+      "all_story_text_present": true,
+      "art_ink_ratio": 0.6376,
+      "art_present": true,
+      "body_text_in_lower_panel": true
+    },
+    {
+      "page": 23,
+      "kind": "story",
+      "book": "family",
+      "width_mm": 148.0,
+      "height_mm": 210.0,
+      "ink_ratio": 0.3752,
+      "blank": false,
+      "text": "我家有几口人？\n我家有三口人。\n我们都在家！\n21",
+      "words_inside_page": true,
+      "expected_text": [
+        "我家有三口人。",
+        "我们都在家！"
+      ],
+      "all_story_text_present": true,
+      "art_ink_ratio": 0.696,
+      "art_present": true,
+      "body_text_in_lower_panel": true
+    },
+    {
+      "page": 24,
+      "kind": "summary",
+      "book": "family",
+      "width_mm": 148.0,
+      "height_mm": 210.0,
+      "ink_ratio": 0.073,
+      "blank": false,
+      "text": "我家有几口人？\n识字小结\n小石头的阅读足迹\n故事读完了，这些字我见过啦。\n本书用字 新出现 累计接触\n30 字 19 字 60 字\n本书汉字\n下划线为本册新字，可圈出还想练习的字\n我 家 有 几 口 人 来 数 一 这 是\n爸 妈 好 了 共 两 咦 把 谁 忘 呀\n还 要 加 上 三 们 都 在\n阅读日期：________ 能独立认读：____ / 30 字\n正文去重，含辅助字，不计书名与姓名；从第1本累计。\n重读不叠加。读过不代表掌握。\n22",
+      "words_inside_page": true
+    },
+    {
+      "page": 25,
+      "kind": "story",
+      "book": "hands",
+      "width_mm": 148.0,
+      "height_mm": 210.0,
+      "ink_ratio": 0.4744,
+      "blank": false,
+      "text": "04 · 我的小手\n我有两只小手。\n23",
+      "words_inside_page": true,
+      "expected_text": [
+        "我有两只小手。"
+      ],
+      "all_story_text_present": true,
+      "art_ink_ratio": 0.8956,
+      "art_present": true,
+      "body_text_in_lower_panel": true
+    },
+    {
+      "page": 26,
+      "kind": "story",
+      "book": "hands",
+      "width_mm": 148.0,
+      "height_mm": 210.0,
+      "ink_ratio": 0.4687,
+      "blank": false,
+      "text": "我的小手\n小手开，\n小花来。\n24",
+      "words_inside_page": true,
+      "expected_text": [
+        "小手开，",
+        "小花来。"
+      ],
+      "all_story_text_present": true,
+      "art_ink_ratio": 0.8864,
+      "art_present": true,
+      "body_text_in_lower_panel": true
+    },
+    {
+      "page": 27,
+      "kind": "story",
+      "book": "hands",
+      "width_mm": 148.0,
+      "height_mm": 210.0,
+      "ink_ratio": 0.4718,
+      "blank": false,
+      "text": "我的小手\n小手关，\n小花去。\n25",
+      "words_inside_page": true,
+      "expected_text": [
+        "小手关，",
+        "小花去。"
+      ],
+      "all_story_text_present": true,
+      "art_ink_ratio": 0.8926,
+      "art_present": true,
+      "body_text_in_lower_panel": true
+    },
+    {
+      "page": 28,
+      "kind": "story",
+      "book": "hands",
+      "width_mm": 148.0,
+      "height_mm": 210.0,
+      "ink_ratio": 0.4609,
+      "blank": false,
+      "text": "我的小手\n小花，小花，\n你不来了吗？\n26",
+      "words_inside_page": true,
+      "expected_text": [
+        "小花，小花，",
+        "你不来了吗？"
+      ],
+      "all_story_text_present": true,
+      "art_ink_ratio": 0.8429,
+      "art_present": true,
+      "body_text_in_lower_panel": true
+    },
+    {
+      "page": 29,
+      "kind": "story",
+      "book": "hands",
+      "width_mm": 148.0,
+      "height_mm": 210.0,
+      "ink_ratio": 0.4925,
+      "blank": false,
+      "text": "我的小手\n小手开，\n小花回来了！\n27",
+      "words_inside_page": true,
+      "expected_text": [
+        "小手开，",
+        "小花回来了！"
+      ],
+      "all_story_text_present": true,
+      "art_ink_ratio": 0.9281,
+      "art_present": true,
+      "body_text_in_lower_panel": true
+    },
+    {
+      "page": 30,
+      "kind": "story",
+      "book": "hands",
+      "width_mm": 148.0,
+      "height_mm": 210.0,
+      "ink_ratio": 0.4569,
+      "blank": false,
+      "text": "我的小手\n我的小手，\n是小花的家！\n28",
+      "words_inside_page": true,
+      "expected_text": [
+        "我的小手，",
+        "是小花的家！"
+      ],
+      "all_story_text_present": true,
+      "art_ink_ratio": 0.8342,
+      "art_present": true,
+      "body_text_in_lower_panel": true
+    },
+    {
+      "page": 31,
+      "kind": "summary",
+      "book": "hands",
+      "width_mm": 148.0,
+      "height_mm": 210.0,
+      "ink_ratio": 0.0504,
+      "blank": false,
+      "text": "我的小手\n识字小结\n小石头的阅读足迹\n故事读完了，这些字我见过啦。\n本书用字 新出现 累计接触\n19 字 6 字 66 字\n本书汉字\n下划线为本册新字，可圈出还想练习的字\n我 有 两 只 小 手 开 花 来 关 去\n你 不 了 吗 回 的 是 家\n阅读日期：________ 能独立认读：____ / 19 字\n正文去重，含辅助字，不计书名与姓名；从第1本累计。\n重读不叠加。读过不代表掌握。\n29",
+      "words_inside_page": true
+    },
+    {
+      "page": 32,
+      "kind": "story",
+      "book": "rain",
+      "width_mm": 148.0,
+      "height_mm": 210.0,
+      "ink_ratio": 0.4067,
+      "blank": false,
+      "text": "05 · 下雨了\n天上有云。\n30",
+      "words_inside_page": true,
+      "expected_text": [
+        "天上有云。"
+      ],
+      "all_story_text_present": true,
+      "art_ink_ratio": 0.7447,
+      "art_present": true,
+      "body_text_in_lower_panel": true
+    },
+    {
+      "page": 33,
+      "kind": "story",
+      "book": "rain",
+      "width_mm": 148.0,
+      "height_mm": 210.0,
+      "ink_ratio": 0.2935,
+      "blank": false,
+      "text": "下雨了\n风来了。\n下雨了！\n31",
+      "words_inside_page": true,
+      "expected_text": [
+        "风来了。",
+        "下雨了！"
+      ],
+      "all_story_text_present": true,
+      "art_ink_ratio": 0.5524,
+      "art_present": true,
+      "body_text_in_lower_panel": true
+    },
+    {
+      "page": 34,
+      "kind": "story",
+      "book": "rain",
+      "width_mm": 148.0,
+      "height_mm": 210.0,
+      "ink_ratio": 0.4861,
+      "blank": false,
+      "text": "下雨了\n小伞开了。\n我在伞下。\n32",
+      "words_inside_page": true,
+      "expected_text": [
+        "小伞开了。",
+        "我在伞下。"
+      ],
+      "all_story_text_present": true,
+      "art_ink_ratio": 0.8897,
+      "art_present": true,
+      "body_text_in_lower_panel": true
+    },
+    {
+      "page": 35,
+      "kind": "story",
+      "book": "rain",
+      "width_mm": 148.0,
+      "height_mm": 210.0,
+      "ink_ratio": 0.3712,
+      "blank": false,
+      "text": "下雨了\n小花在雨中。\n33",
+      "words_inside_page": true,
+      "expected_text": [
+        "小花在雨中。"
+      ],
+      "all_story_text_present": true,
+      "art_ink_ratio": 0.7012,
+      "art_present": true,
+      "body_text_in_lower_panel": true
+    },
+    {
+      "page": 36,
+      "kind": "story",
+      "book": "rain",
+      "width_mm": 148.0,
+      "height_mm": 210.0,
+      "ink_ratio": 0.4963,
+      "blank": false,
+      "text": "下雨了\n小花，来！\n小花不来。\n34",
+      "words_inside_page": true,
+      "expected_text": [
+        "小花，来！",
+        "小花不来。"
+      ],
+      "all_story_text_present": true,
+      "art_ink_ratio": 0.9082,
+      "art_present": true,
+      "body_text_in_lower_panel": true
+    },
+    {
+      "page": 37,
+      "kind": "story",
+      "book": "rain",
+      "width_mm": 148.0,
+      "height_mm": 210.0,
+      "ink_ratio": 0.5056,
+      "blank": false,
+      "text": "下雨了\n花不来，\n我去！\n35",
+      "words_inside_page": true,
+      "expected_text": [
+        "花不来，",
+        "我去！"
+      ],
+      "all_story_text_present": true,
+      "art_ink_ratio": 0.942,
+      "art_present": true,
+      "body_text_in_lower_panel": true
+    },
+    {
+      "page": 38,
+      "kind": "story",
+      "book": "rain",
+      "width_mm": 148.0,
+      "height_mm": 210.0,
+      "ink_ratio": 0.5092,
+      "blank": false,
+      "text": "下雨了\n我在伞下，\n小花也在伞下。\n36",
+      "words_inside_page": true,
+      "expected_text": [
+        "我在伞下，",
+        "小花也在伞下。"
+      ],
+      "all_story_text_present": true,
+      "art_ink_ratio": 0.9295,
+      "art_present": true,
+      "body_text_in_lower_panel": true
+    },
+    {
+      "page": 39,
+      "kind": "story",
+      "book": "rain",
+      "width_mm": 148.0,
+      "height_mm": 210.0,
+      "ink_ratio": 0.5359,
+      "blank": false,
+      "text": "下雨了\n雨在伞上，\n伞下有我，也有花。\n37",
+      "words_inside_page": true,
+      "expected_text": [
+        "雨在伞上，",
+        "伞下有我，也有花。"
+      ],
+      "all_story_text_present": true,
+      "art_ink_ratio": 0.9857,
+      "art_present": true,
+      "body_text_in_lower_panel": true
+    },
+    {
+      "page": 40,
+      "kind": "summary",
+      "book": "rain",
+      "width_mm": 148.0,
+      "height_mm": 210.0,
+      "ink_ratio": 0.0564,
+      "blank": false,
+      "text": "下雨了\n识字小结\n小石头的阅读足迹\n故事读完了，这些字我见过啦。\n本书用字 新出现 累计接触\n19 字 7 字 73 字\n本书汉字\n下划线为本册新字，可圈出还想练习的字\n天 上 有 云 风 来 了 下 雨 小 伞\n开 我 在 花 中 不 去 也\n阅读日期：________ 能独立认读：____ / 19 字\n正文去重，含辅助字，不计书名与姓名；从第1本累计。\n重读不叠加。读过不代表掌握。\n38",
+      "words_inside_page": true
+    },
+    {
+      "page": 41,
+      "kind": "story",
+      "book": "stone",
+      "width_mm": 148.0,
+      "height_mm": 210.0,
+      "ink_ratio": 0.423,
+      "blank": false,
+      "text": "06 · 小石头回家\n大石头下，\n有小石头。\n39",
+      "words_inside_page": true,
+      "expected_text": [
+        "大石头下，",
+        "有小石头。"
+      ],
+      "all_story_text_present": true,
+      "art_ink_ratio": 0.7953,
+      "art_present": true,
+      "body_text_in_lower_panel": true
+    },
+    {
+      "page": 42,
+      "kind": "story",
+      "book": "stone",
+      "width_mm": 148.0,
+      "height_mm": 210.0,
+      "ink_ratio": 0.472,
+      "blank": false,
+      "text": "小石头回家\n这是小石头的家。\n40",
+      "words_inside_page": true,
+      "expected_text": [
+        "这是小石头的家。"
+      ],
+      "all_story_text_present": true,
+      "art_ink_ratio": 0.8634,
+      "art_present": true,
+      "body_text_in_lower_panel": true
+    },
+    {
+      "page": 43,
+      "kind": "story",
+      "book": "stone",
+      "width_mm": 148.0,
+      "height_mm": 210.0,
+      "ink_ratio": 0.4543,
+      "blank": false,
+      "text": "小石头回家\n小石头，来！\n你在我的手中。\n41",
+      "words_inside_page": true,
+      "expected_text": [
+        "小石头，来！",
+        "你在我的手中。"
+      ],
+      "all_story_text_present": true,
+      "art_ink_ratio": 0.8531,
+      "art_present": true,
+      "body_text_in_lower_panel": true
+    },
+    {
+      "page": 44,
+      "kind": "story",
+      "book": "stone",
+      "width_mm": 148.0,
+      "height_mm": 210.0,
+      "ink_ratio": 0.4341,
+      "blank": false,
+      "text": "小石头回家\n我走，\n小石头也走。\n42",
+      "words_inside_page": true,
+      "expected_text": [
+        "我走，",
+        "小石头也走。"
+      ],
+      "all_story_text_present": true,
+      "art_ink_ratio": 0.7915,
+      "art_present": true,
+      "body_text_in_lower_panel": true
+    },
+    {
+      "page": 45,
+      "kind": "story",
+      "book": "stone",
+      "width_mm": 148.0,
+      "height_mm": 210.0,
+      "ink_ratio": 0.4633,
+      "blank": false,
+      "text": "小石头回家\n我要回家了。\n43",
+      "words_inside_page": true,
+      "expected_text": [
+        "我要回家了。"
+      ],
+      "all_story_text_present": true,
+      "art_ink_ratio": 0.8767,
+      "art_present": true,
+      "body_text_in_lower_panel": true
+    },
+    {
+      "page": 46,
+      "kind": "story",
+      "book": "stone",
+      "width_mm": 148.0,
+      "height_mm": 210.0,
+      "ink_ratio": 0.4274,
+      "blank": false,
+      "text": "小石头回家\n小石头，\n你也回家吧。\n44",
+      "words_inside_page": true,
+      "expected_text": [
+        "小石头，",
+        "你也回家吧。"
+      ],
+      "all_story_text_present": true,
+      "art_ink_ratio": 0.7772,
+      "art_present": true,
+      "body_text_in_lower_panel": true
+    },
+    {
+      "page": 47,
+      "kind": "story",
+      "book": "stone",
+      "width_mm": 148.0,
+      "height_mm": 210.0,
+      "ink_ratio": 0.4736,
+      "blank": false,
+      "text": "小石头回家\n大石头下，\n小石头回家了。\n45",
+      "words_inside_page": true,
+      "expected_text": [
+        "大石头下，",
+        "小石头回家了。"
+      ],
+      "all_story_text_present": true,
+      "art_ink_ratio": 0.8628,
+      "art_present": true,
+      "body_text_in_lower_panel": true
+    },
+    {
+      "page": 48,
+      "kind": "story",
+      "book": "stone",
+      "width_mm": 148.0,
+      "height_mm": 210.0,
+      "ink_ratio": 0.4313,
+      "blank": false,
+      "text": "小石头回家\n我也回家了！\n46",
+      "words_inside_page": true,
+      "expected_text": [
+        "我也回家了！"
+      ],
+      "all_story_text_present": true,
+      "art_ink_ratio": 0.7885,
+      "art_present": true,
+      "body_text_in_lower_panel": true
+    },
+    {
+      "page": 49,
+      "kind": "summary",
+      "book": "stone",
+      "width_mm": 148.0,
+      "height_mm": 210.0,
+      "ink_ratio": 0.0597,
+      "blank": false,
+      "text": "小石头回家\n识字小结\n小石头的阅读足迹\n故事读完了，这些字我见过啦。\n本书用字 新出现 累计接触\n22 字 4 字 77 字\n本书汉字\n下划线为本册新字，可圈出还想练习的字\n大 石 头 下 有 小 这 是 的 家 来\n你 在 我 手 中 走 也 要 回 了 吧\n阅读日期：________ 能独立认读：____ / 22 字\n正文去重，含辅助字，不计书名与姓名；从第1本累计。\n重读不叠加。读过不代表掌握。\n47",
+      "words_inside_page": true
+    },
+    {
+      "page": 50,
+      "kind": "collection-back",
+      "book": "stone",
+      "width_mm": 148.0,
+      "height_mm": 210.0,
+      "ink_ratio": 0.1223,
+      "blank": false,
+      "text": "故事读完啦\n小石头的阅读足迹\n6 个 77 字 41 页\n小故事 累计接触 故事正文\n每一页，都有故事里的你。\n统计按正文汉字去重，姓名另计；重读不叠加。\n读过不代表掌握，各故事小结可记录实际认读情况。\n第1级合集样册 · 现有6个故事",
+      "words_inside_page": true
+    }
+  ]
+}

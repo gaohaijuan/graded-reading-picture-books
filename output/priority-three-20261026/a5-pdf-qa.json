@@ -1,0 +1,552 @@
+{
+  "file": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\output\\priority-three-20261026\\第一级新版-第2第8第10篇-A5合订校样.pdf",
+  "formatMm": [
+    148,
+    210
+  ],
+  "pageCount": 23,
+  "bodyPages": 17,
+  "blankPages": 0,
+  "covers": 1,
+  "contentsPages": 1,
+  "summaryPages": 3,
+  "chapterStarts": [
+    3,
+    9,
+    16
+  ],
+  "embeddedChineseVectorText": true,
+  "defaultIllustratedCharacter": true,
+  "edition": "level1-15-priority-three-20261026",
+  "records": [
+    {
+      "physicalPage": 1,
+      "kind": "cover",
+      "bookId": null,
+      "bodyPage": null
+    },
+    {
+      "physicalPage": 2,
+      "kind": "contents",
+      "bookId": null,
+      "bodyPage": null
+    },
+    {
+      "physicalPage": 3,
+      "kind": "story",
+      "bookId": "snow-revision",
+      "bodyPage": 0,
+      "text": [
+        "下雪了！"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 4,
+      "kind": "story",
+      "bookId": "snow-revision",
+      "bodyPage": 1,
+      "text": [
+        "一片两片三四片，"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 5,
+      "kind": "story",
+      "bookId": "snow-revision",
+      "bodyPage": 2,
+      "text": [
+        "五片六片七八片，"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 6,
+      "kind": "story",
+      "bookId": "snow-revision",
+      "bodyPage": 3,
+      "text": [
+        "九片十片十一片，"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 7,
+      "kind": "story",
+      "bookId": "snow-revision",
+      "bodyPage": 4,
+      "text": [
+        "飞入草丛都不见。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 8,
+      "kind": "summary",
+      "bookId": "snow-revision",
+      "bodyPage": null
+    },
+    {
+      "physicalPage": 9,
+      "kind": "story",
+      "bookId": "insect-revision",
+      "bodyPage": 0,
+      "text": [
+        "石头上，有一只小虫。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 10,
+      "kind": "story",
+      "bookId": "insect-revision",
+      "bodyPage": 1,
+      "text": [
+        "我走过去看。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 11,
+      "kind": "story",
+      "bookId": "insect-revision",
+      "bodyPage": 2,
+      "text": [
+        "小虫不见了！"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 12,
+      "kind": "story",
+      "bookId": "insect-revision",
+      "bodyPage": 3,
+      "text": [
+        "“小虫，你在哪？”"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 13,
+      "kind": "story",
+      "bookId": "insect-revision",
+      "bodyPage": 4,
+      "text": [
+        "我低头一看，小虫在我的脚上！"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 14,
+      "kind": "story",
+      "bookId": "insect-revision",
+      "bodyPage": 5,
+      "text": [
+        "“你也要和我一起走吗？”"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 15,
+      "kind": "summary",
+      "bookId": "insect-revision",
+      "bodyPage": null
+    },
+    {
+      "physicalPage": 16,
+      "kind": "story",
+      "bookId": "ball-revision",
+      "bodyPage": 0,
+      "text": [
+        "我要找小球玩。",
+        "谁看见小球了？小球在哪？"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 17,
+      "kind": "story",
+      "bookId": "ball-revision",
+      "bodyPage": 1,
+      "text": [
+        "我看看小车里，没有。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 18,
+      "kind": "story",
+      "bookId": "ball-revision",
+      "bodyPage": 2,
+      "text": [
+        "我看看小车前，也没有。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 19,
+      "kind": "story",
+      "bookId": "ball-revision",
+      "bodyPage": 3,
+      "text": [
+        "我看看小车后，也没有。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 20,
+      "kind": "story",
+      "bookId": "ball-revision",
+      "bodyPage": 4,
+      "text": [
+        "门后呢？小球在这里！"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 21,
+      "kind": "story",
+      "bookId": "ball-revision",
+      "bodyPage": 5,
+      "text": [
+        "“找到你了！”"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 22,
+      "kind": "summary",
+      "bookId": "ball-revision",
+      "bodyPage": null
+    },
+    {
+      "physicalPage": 23,
+      "kind": "back",
+      "bookId": null,
+      "bodyPage": null
+    }
+  ],
+  "checks": [
+    {
+      "physicalPage": 1,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 2,
+      "textExtractable": true,
+      "images": 0
+    },
+    {
+      "physicalPage": 3,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 4,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 5,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 6,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 7,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 8,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 9,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 10,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 11,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 12,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 13,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 14,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 15,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 16,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 17,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 18,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 19,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 20,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 21,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 22,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 23,
+      "textExtractable": true,
+      "images": 1
+    }
+  ],
+  "qualityNote": "原生背景1254x1254，A5插图128x131mm下约243ppi；PDF采用JPEG97编码，无插值放大，原始无损素材保留。RGB电子校样，未经实物打印。"
+}

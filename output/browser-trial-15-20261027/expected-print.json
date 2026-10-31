@@ -1,0 +1,2705 @@
+{
+  "edition": "level1-complete-15-20261027",
+  "completeLevel": true,
+  "id": "level-1-fifteen-v1",
+  "scope": "level",
+  "collection": true,
+  "volumeNumber": 1,
+  "volumeCount": 1,
+  "books": [
+    {
+      "number": 1,
+      "originalNumber": 1,
+      "id": "intro-complete",
+      "title": "你好，我是欧阳小星星",
+      "paragraphs": [
+        "你好！我是CHILD。",
+        "我的名字叫CHILD。",
+        "你的名字是什么呢？",
+        "我五岁了。你几岁呢？",
+        "我上大班了。",
+        "你也有名字吗？"
+      ],
+      "status": "user-specified-level1-text",
+      "sourceId": "intro",
+      "pages": [
+        [
+          "你好！我是欧阳小星星。"
+        ],
+        [
+          "我的名字叫欧阳小星星。"
+        ],
+        [
+          "你的名字是什么呢？"
+        ],
+        [
+          "我四岁了。你几岁呢？"
+        ],
+        [
+          "我上中班了。"
+        ],
+        [
+          "你也有名字吗？"
+        ]
+      ],
+      "tag": "起步阅读",
+      "group": "第 1 篇",
+      "description": "第一级 · 第1篇，和小主角一起读故事。",
+      "edition": "level1-complete-15-20261027",
+      "tone": "green"
+    },
+    {
+      "number": 2,
+      "originalNumber": 2,
+      "id": "snow-revision",
+      "title": "下雪了",
+      "paragraphs": [
+        "下雪了！",
+        "一片两片三四片，",
+        "五片六片七八片，",
+        "九片十片十一片，",
+        "飞入草丛都不见。"
+      ],
+      "status": "user-specified-level1-text",
+      "sourceId": "flower",
+      "pages": [
+        [
+          "下雪了！"
+        ],
+        [
+          "一片两片三四片，"
+        ],
+        [
+          "五片六片七八片，"
+        ],
+        [
+          "九片十片十一片，"
+        ],
+        [
+          "飞入草丛都不见。"
+        ]
+      ],
+      "tag": "起步阅读",
+      "group": "第 2 篇",
+      "description": "第一级 · 第2篇，和小主角一起读故事。",
+      "edition": "level1-complete-15-20261027",
+      "tone": "green"
+    },
+    {
+      "number": 3,
+      "originalNumber": 3,
+      "id": "family",
+      "title": "我家有几口人？",
+      "paragraphs": [
+        "我家有几口人？",
+        "这是爸爸。",
+        "这是妈妈。",
+        "有两口人。",
+        "不对，把我自己忘了！",
+        "有三口人！"
+      ],
+      "status": "user-specified-level1-text",
+      "sourceId": "family",
+      "pages": [
+        [
+          "我家有几口人？"
+        ],
+        [
+          "这是爸爸。"
+        ],
+        [
+          "这是妈妈。"
+        ],
+        [
+          "这是奶奶。"
+        ],
+        [
+          "有三口人。"
+        ],
+        [
+          "不对，把我自己忘了！"
+        ],
+        [
+          "有四口人！"
+        ]
+      ],
+      "tag": "起步阅读",
+      "group": "第 3 篇",
+      "description": "第一级 · 第3篇，和小主角一起读故事。",
+      "scenes": [
+        {
+          "kind": "member",
+          "memberIds": [
+            "child"
+          ]
+        },
+        {
+          "kind": "member",
+          "memberIds": [
+            "dad"
+          ]
+        },
+        {
+          "kind": "member",
+          "memberIds": [
+            "mom"
+          ]
+        },
+        {
+          "kind": "member",
+          "memberIds": [
+            "grandma"
+          ]
+        },
+        {
+          "kind": "count",
+          "memberIds": [
+            "dad",
+            "mom",
+            "grandma"
+          ]
+        },
+        {
+          "kind": "remember",
+          "memberIds": [
+            "child"
+          ]
+        },
+        {
+          "kind": "group",
+          "memberIds": [
+            "child",
+            "dad",
+            "mom",
+            "grandma"
+          ]
+        }
+      ],
+      "edition": "level1-complete-15-20261027",
+      "tone": "green"
+    },
+    {
+      "number": 4,
+      "originalNumber": 4,
+      "id": "hands-revision",
+      "title": "我的小手",
+      "paragraphs": [
+        "我有两只小手。",
+        "我用小手学做小花。",
+        "我做了一朵又一朵。",
+        "小手开，小花开。",
+        "小手合上，小花不见了。",
+        "小手又开，小花又开。",
+        "你的小花开了吗？"
+      ],
+      "status": "user-specified-level1-text",
+      "sourceId": "hands",
+      "pages": [
+        [
+          "我有两只小手。"
+        ],
+        [
+          "我用小手学做小花。"
+        ],
+        [
+          "我做了一朵又一朵。"
+        ],
+        [
+          "小手开，小花开。"
+        ],
+        [
+          "小手合上，小花不见了。"
+        ],
+        [
+          "小手又开，小花又开。"
+        ],
+        [
+          "你的小花开了吗？"
+        ]
+      ],
+      "tag": "起步阅读",
+      "group": "第 4 篇",
+      "description": "第一级 · 第4篇，和小主角一起读故事。",
+      "edition": "level1-complete-15-20261027",
+      "tone": "green"
+    },
+    {
+      "number": 5,
+      "originalNumber": 7,
+      "id": "mountain-revision",
+      "title": "山不见了",
+      "paragraphs": [
+        "山上有两朵白云。",
+        "白云来了，山不见了。",
+        "“山呢？”",
+        "风来了，云走了。",
+        "山出来了！",
+        "山没有走，是云走了！"
+      ],
+      "status": "user-specified-level1-text",
+      "sourceId": "mountain",
+      "pages": [
+        [
+          "山上有两朵白云。"
+        ],
+        [
+          "白云来了，山不见了。"
+        ],
+        [
+          "“山呢？”"
+        ],
+        [
+          "风来了，云走了。"
+        ],
+        [
+          "山出来了！"
+        ],
+        [
+          "山没有走，是云走了！"
+        ]
+      ],
+      "tag": "起步阅读",
+      "group": "第 5 篇",
+      "description": "第一级 · 第5篇，和小主角一起读故事。",
+      "edition": "level1-complete-15-20261027",
+      "tone": "green"
+    },
+    {
+      "number": 6,
+      "originalNumber": 5,
+      "id": "rain-revision",
+      "title": "下雨了",
+      "paragraphs": [
+        "下大雨了！下雨啦！",
+        "小伞开了。我坐在伞下，看雨。",
+        "小花在雨中。",
+        "“小花，来！”小花没来。",
+        "“花不来，我去！”",
+        "我在伞下，小花也在伞下。",
+        "雨在伞上，伞下有我，也有花。",
+        "我笑了。"
+      ],
+      "status": "user-specified-level1-text",
+      "sourceId": "rain",
+      "pages": [
+        [
+          "下大雨了！下雨啦！"
+        ],
+        [
+          "小伞开了。我坐在伞下，看雨。"
+        ],
+        [
+          "小花在雨中。"
+        ],
+        [
+          "“小花，来！”小花没来。"
+        ],
+        [
+          "“花不来，我去！”"
+        ],
+        [
+          "我在伞下，小花也在伞下。"
+        ],
+        [
+          "雨在伞上，伞下有我，也有花。"
+        ],
+        [
+          "我笑了。"
+        ]
+      ],
+      "tag": "起步阅读",
+      "group": "第 6 篇",
+      "description": "第一级 · 第6篇，和小主角一起读故事。",
+      "edition": "level1-complete-15-20261027",
+      "tone": "green"
+    },
+    {
+      "number": 7,
+      "originalNumber": 6,
+      "id": "stone-complete",
+      "title": "小石头回家",
+      "paragraphs": [
+        "大石头下，地上有小石头。",
+        "这是小石头的家。",
+        "我拿起小石头。",
+        "我走，小石头也走。",
+        "我要回家去了。",
+        "我把小石头拿起来，放回大石头下。",
+        "“小石头，你回家了！”",
+        "我也回家了。"
+      ],
+      "status": "user-specified-level1-text",
+      "sourceId": "stone",
+      "pages": [
+        [
+          "大石头下，地上有小石头。"
+        ],
+        [
+          "这是小石头的家。"
+        ],
+        [
+          "我拿起小石头。"
+        ],
+        [
+          "我走，小石头也走。"
+        ],
+        [
+          "我要回家去了。"
+        ],
+        [
+          "我把小石头拿起来，放回大石头下。"
+        ],
+        [
+          "“小石头，你回家了！”"
+        ],
+        [
+          "我也回家了。"
+        ]
+      ],
+      "tag": "起步阅读",
+      "group": "第 7 篇",
+      "description": "第一级 · 第7篇，和小主角一起读故事。",
+      "edition": "level1-complete-15-20261027",
+      "tone": "green"
+    },
+    {
+      "number": 8,
+      "originalNumber": 27,
+      "id": "insect-revision",
+      "title": "小虫在哪",
+      "paragraphs": [
+        "石头上，有一只小虫。",
+        "我走过去看。",
+        "小虫不见了！",
+        "“小虫，你在哪？”",
+        "我低头一看，小虫在我的脚上！",
+        "“你也要和我一起走吗？”"
+      ],
+      "status": "user-specified-level1-text",
+      "sourceId": "insect-new",
+      "pages": [
+        [
+          "石头上，有一只小虫。"
+        ],
+        [
+          "我走过去看。"
+        ],
+        [
+          "小虫不见了！"
+        ],
+        [
+          "“小虫，你在哪？”"
+        ],
+        [
+          "我低头一看，小虫在我的脚上！"
+        ],
+        [
+          "“你也要和我一起走吗？”"
+        ]
+      ],
+      "tag": "起步阅读",
+      "group": "第 8 篇",
+      "description": "第一级 · 第8篇，和小主角一起读故事。",
+      "edition": "level1-complete-15-20261027",
+      "tone": "green"
+    },
+    {
+      "number": 9,
+      "originalNumber": 8,
+      "id": "car-complete",
+      "title": "小车回家",
+      "paragraphs": [
+        "小车的家，有两个大门。",
+        "一个入口，一个出口。",
+        "我会开小车，从入口进去，从出口出来。",
+        "我不玩了，小车也要回家。",
+        "我把小车开回家，关上门。"
+      ],
+      "status": "user-specified-level1-text",
+      "sourceId": "car",
+      "pages": [
+        [
+          "小车的家，有两个大门。"
+        ],
+        [
+          "一个入口，一个出口。"
+        ],
+        [
+          "我会开小车，从入口进去，从出口出来。"
+        ],
+        [
+          "我不玩了，小车也要回家。"
+        ],
+        [
+          "我把小车开回家，关上门。"
+        ]
+      ],
+      "tag": "起步阅读",
+      "group": "第 9 篇",
+      "description": "第一级 · 第9篇，和小主角一起读故事。",
+      "edition": "level1-complete-15-20261027",
+      "tone": "green"
+    },
+    {
+      "number": 10,
+      "originalNumber": 9,
+      "id": "ball-revision",
+      "title": "小球在哪",
+      "paragraphs": [
+        "我要找小球玩。",
+        "谁看见小球了？小球在哪？",
+        "我看看小车里，没有。",
+        "我看看小车前，也没有。",
+        "我看看小车后，也没有。",
+        "门后呢？小球在这里！",
+        "“找到你了！”"
+      ],
+      "status": "user-specified-level1-text",
+      "sourceId": "ball",
+      "pages": [
+        [
+          "我要找小球玩。",
+          "谁看见小球了？小球在哪？"
+        ],
+        [
+          "我看看小车里，没有。"
+        ],
+        [
+          "我看看小车前，也没有。"
+        ],
+        [
+          "我看看小车后，也没有。"
+        ],
+        [
+          "门后呢？小球在这里！"
+        ],
+        [
+          "“找到你了！”"
+        ]
+      ],
+      "tag": "起步阅读",
+      "group": "第 10 篇",
+      "description": "第一级 · 第10篇，和小主角一起读故事。",
+      "edition": "level1-complete-15-20261027",
+      "tone": "green"
+    },
+    {
+      "number": 11,
+      "originalNumber": 11,
+      "id": "tree-revision",
+      "title": "我和小树谁高",
+      "paragraphs": [
+        "小树，你好！",
+        "我和小树，谁高？",
+        "小树比我高一点。",
+        "我站在小石头上。",
+        "“这回，谁高？我高！”",
+        "我下来，小树又高了。",
+        "我看看脚下的小石头，笑了。",
+        "“明年我还要和小树比高高！”"
+      ],
+      "status": "user-specified-level1-text",
+      "sourceId": "tree",
+      "pages": [
+        [
+          "小树，你好！"
+        ],
+        [
+          "我和小树，谁高？"
+        ],
+        [
+          "小树比我高一点。"
+        ],
+        [
+          "我站在小石头上。"
+        ],
+        [
+          "“这回，谁高？我高！”"
+        ],
+        [
+          "我下来，小树又高了。"
+        ],
+        [
+          "我看看脚下的小石头，笑了。"
+        ],
+        [
+          "“明年我还要和小树比高高！”"
+        ]
+      ],
+      "tag": "起步阅读",
+      "group": "第 11 篇",
+      "description": "第一级 · 第11篇，和小主角一起读故事。",
+      "edition": "level1-complete-15-20261027",
+      "tone": "green"
+    },
+    {
+      "number": 12,
+      "originalNumber": 10,
+      "id": "water-revision",
+      "title": "水中的我",
+      "paragraphs": [
+        "水中有天，有云，也有我。",
+        "我笑，水中的我也笑。",
+        "我走，水中的我也走。",
+        "我不走，水中的我也不走。",
+        "“你好，水中的我！”"
+      ],
+      "status": "user-specified-level1-text",
+      "sourceId": "water",
+      "pages": [
+        [
+          "水中有天，有云，也有我。"
+        ],
+        [
+          "我笑，水中的我也笑。"
+        ],
+        [
+          "我走，水中的我也走。"
+        ],
+        [
+          "我不走，水中的我也不走。"
+        ],
+        [
+          "“你好，水中的我！”"
+        ]
+      ],
+      "tag": "起步阅读",
+      "group": "第 12 篇",
+      "description": "第一级 · 第12篇，和小主角一起读故事。",
+      "edition": "level1-complete-15-20261027",
+      "tone": "green"
+    },
+    {
+      "number": 13,
+      "originalNumber": 12,
+      "id": "calling-revision",
+      "title": "谁在叫",
+      "paragraphs": [
+        "我听见叫声。谁在叫？",
+        "我看看树上，是小鸟在叫。",
+        "“小鸟，下来和我玩，好吗？”",
+        "小鸟不叫了。谁又在叫？",
+        "我看看树下，是小猫在叫。",
+        "“小猫，你也来！”",
+        "小鸟呢？小鸟飞出来了，不在树上了。",
+        "我一看，小鸟在小车上！",
+        "“小鸟，你来了！”"
+      ],
+      "status": "user-specified-level1-text",
+      "sourceId": "calling",
+      "pages": [
+        [
+          "我听见叫声。谁在叫？"
+        ],
+        [
+          "我看看树上，是小鸟在叫。"
+        ],
+        [
+          "“小鸟，下来和我玩，好吗？”"
+        ],
+        [
+          "小鸟不叫了。谁又在叫？"
+        ],
+        [
+          "我看看树下，是小猫在叫。"
+        ],
+        [
+          "“小猫，你也来！”"
+        ],
+        [
+          "小鸟呢？小鸟飞出来了，不在树上了。"
+        ],
+        [
+          "我一看，小鸟在小车上！"
+        ],
+        [
+          "“小鸟，你来了！”"
+        ]
+      ],
+      "tag": "起步阅读",
+      "group": "第 13 篇",
+      "description": "第一级 · 第13篇，和小主角一起读故事。",
+      "edition": "level1-complete-15-20261027",
+      "tone": "green"
+    },
+    {
+      "number": 14,
+      "originalNumber": 13,
+      "id": "catball-complete",
+      "title": "小猫要小球吗",
+      "paragraphs": [
+        "我有一个红红的球。",
+        "我有一个黄球。",
+        "“小猫，你要红球吗？”",
+        "“红球给你。黄球也给你。”",
+        "小猫不来玩。",
+        "我把红球推过去。",
+        "小猫跑来了，我笑了！",
+        "我和小猫一起玩！"
+      ],
+      "status": "user-specified-level1-text",
+      "sourceId": "catball",
+      "pages": [
+        [
+          "我有一个红红的球。"
+        ],
+        [
+          "我有一个黄球。"
+        ],
+        [
+          "“小猫，你要红球吗？”"
+        ],
+        [
+          "“红球给你。黄球也给你。”"
+        ],
+        [
+          "小猫不来玩。"
+        ],
+        [
+          "我把红球推过去。"
+        ],
+        [
+          "小猫跑来了，我笑了！",
+          "我和小猫一起玩！"
+        ]
+      ],
+      "tag": "起步阅读",
+      "group": "第 14 篇",
+      "description": "第一级 · 第14篇，和小主角一起读故事。",
+      "edition": "level1-complete-15-20261027",
+      "tone": "green"
+    },
+    {
+      "number": 15,
+      "originalNumber": 19,
+      "id": "catbed-revision",
+      "title": "小猫的床",
+      "paragraphs": [
+        "这是小猫的床。",
+        "小猫想睡了。",
+        "床上有小球，我把小球拿下来。",
+        "床上还有小车，我把小车也拿下来。",
+        "小球、小车都拿下来，放好了。",
+        "“小猫，上床睡吧。”",
+        "小猫上了床，睡了。"
+      ],
+      "status": "user-specified-level1-text",
+      "sourceId": "catbed",
+      "pages": [
+        [
+          "这是小猫的床。"
+        ],
+        [
+          "小猫想睡了。"
+        ],
+        [
+          "床上有小球，我把小球拿下来。"
+        ],
+        [
+          "床上还有小车，我把小车也拿下来。"
+        ],
+        [
+          "小球、小车都拿下来，放好了。"
+        ],
+        [
+          "“小猫，上床睡吧。”"
+        ],
+        [
+          "小猫上了床，睡了。"
+        ]
+      ],
+      "tag": "起步阅读",
+      "group": "第 15 篇",
+      "description": "第一级 · 第15篇，和小主角一起读故事。",
+      "edition": "level1-complete-15-20261027",
+      "tone": "green"
+    }
+  ],
+  "chapters": [
+    {
+      "bookId": "intro-complete",
+      "title": "你好，我是欧阳小星星",
+      "number": 1,
+      "startPage": 3,
+      "startFolio": 1,
+      "storyPages": 6
+    },
+    {
+      "bookId": "snow-revision",
+      "title": "下雪了",
+      "number": 2,
+      "startPage": 10,
+      "startFolio": 8,
+      "storyPages": 5
+    },
+    {
+      "bookId": "family",
+      "title": "我家有几口人？",
+      "number": 3,
+      "startPage": 16,
+      "startFolio": 14,
+      "storyPages": 7
+    },
+    {
+      "bookId": "hands-revision",
+      "title": "我的小手",
+      "number": 4,
+      "startPage": 24,
+      "startFolio": 22,
+      "storyPages": 7
+    },
+    {
+      "bookId": "mountain-revision",
+      "title": "山不见了",
+      "number": 5,
+      "startPage": 32,
+      "startFolio": 30,
+      "storyPages": 6
+    },
+    {
+      "bookId": "rain-revision",
+      "title": "下雨了",
+      "number": 6,
+      "startPage": 39,
+      "startFolio": 37,
+      "storyPages": 8
+    },
+    {
+      "bookId": "stone-complete",
+      "title": "小石头回家",
+      "number": 7,
+      "startPage": 48,
+      "startFolio": 46,
+      "storyPages": 8
+    },
+    {
+      "bookId": "insect-revision",
+      "title": "小虫在哪",
+      "number": 8,
+      "startPage": 57,
+      "startFolio": 55,
+      "storyPages": 6
+    },
+    {
+      "bookId": "car-complete",
+      "title": "小车回家",
+      "number": 9,
+      "startPage": 64,
+      "startFolio": 62,
+      "storyPages": 5
+    },
+    {
+      "bookId": "ball-revision",
+      "title": "小球在哪",
+      "number": 10,
+      "startPage": 70,
+      "startFolio": 68,
+      "storyPages": 6
+    },
+    {
+      "bookId": "tree-revision",
+      "title": "我和小树谁高",
+      "number": 11,
+      "startPage": 77,
+      "startFolio": 75,
+      "storyPages": 8
+    },
+    {
+      "bookId": "water-revision",
+      "title": "水中的我",
+      "number": 12,
+      "startPage": 86,
+      "startFolio": 84,
+      "storyPages": 5
+    },
+    {
+      "bookId": "calling-revision",
+      "title": "谁在叫",
+      "number": 13,
+      "startPage": 92,
+      "startFolio": 90,
+      "storyPages": 9
+    },
+    {
+      "bookId": "catball-complete",
+      "title": "小猫要小球吗",
+      "number": 14,
+      "startPage": 102,
+      "startFolio": 100,
+      "storyPages": 7
+    },
+    {
+      "bookId": "catbed-revision",
+      "title": "小猫的床",
+      "number": 15,
+      "startPage": 110,
+      "startFolio": 108,
+      "storyPages": 7
+    }
+  ],
+  "pages": [
+    {
+      "kind": "front",
+      "bookId": "intro-complete",
+      "number": 1,
+      "folio": null
+    },
+    {
+      "kind": "contents",
+      "part": 0,
+      "number": 2,
+      "folio": null
+    },
+    {
+      "kind": "story",
+      "bookId": "intro-complete",
+      "page": 0,
+      "chapter": 1,
+      "number": 3,
+      "folio": 1
+    },
+    {
+      "kind": "story",
+      "bookId": "intro-complete",
+      "page": 1,
+      "chapter": 1,
+      "number": 4,
+      "folio": 2
+    },
+    {
+      "kind": "story",
+      "bookId": "intro-complete",
+      "page": 2,
+      "chapter": 1,
+      "number": 5,
+      "folio": 3
+    },
+    {
+      "kind": "story",
+      "bookId": "intro-complete",
+      "page": 3,
+      "chapter": 1,
+      "number": 6,
+      "folio": 4
+    },
+    {
+      "kind": "story",
+      "bookId": "intro-complete",
+      "page": 4,
+      "chapter": 1,
+      "number": 7,
+      "folio": 5
+    },
+    {
+      "kind": "story",
+      "bookId": "intro-complete",
+      "page": 5,
+      "chapter": 1,
+      "number": 8,
+      "folio": 6
+    },
+    {
+      "kind": "summary",
+      "bookId": "intro-complete",
+      "chapter": 1,
+      "number": 9,
+      "folio": 7
+    },
+    {
+      "kind": "story",
+      "bookId": "snow-revision",
+      "page": 0,
+      "chapter": 2,
+      "number": 10,
+      "folio": 8
+    },
+    {
+      "kind": "story",
+      "bookId": "snow-revision",
+      "page": 1,
+      "chapter": 2,
+      "number": 11,
+      "folio": 9
+    },
+    {
+      "kind": "story",
+      "bookId": "snow-revision",
+      "page": 2,
+      "chapter": 2,
+      "number": 12,
+      "folio": 10
+    },
+    {
+      "kind": "story",
+      "bookId": "snow-revision",
+      "page": 3,
+      "chapter": 2,
+      "number": 13,
+      "folio": 11
+    },
+    {
+      "kind": "story",
+      "bookId": "snow-revision",
+      "page": 4,
+      "chapter": 2,
+      "number": 14,
+      "folio": 12
+    },
+    {
+      "kind": "summary",
+      "bookId": "snow-revision",
+      "chapter": 2,
+      "number": 15,
+      "folio": 13
+    },
+    {
+      "kind": "story",
+      "bookId": "family",
+      "page": 0,
+      "chapter": 3,
+      "number": 16,
+      "folio": 14
+    },
+    {
+      "kind": "story",
+      "bookId": "family",
+      "page": 1,
+      "chapter": 3,
+      "number": 17,
+      "folio": 15
+    },
+    {
+      "kind": "story",
+      "bookId": "family",
+      "page": 2,
+      "chapter": 3,
+      "number": 18,
+      "folio": 16
+    },
+    {
+      "kind": "story",
+      "bookId": "family",
+      "page": 3,
+      "chapter": 3,
+      "number": 19,
+      "folio": 17
+    },
+    {
+      "kind": "story",
+      "bookId": "family",
+      "page": 4,
+      "chapter": 3,
+      "number": 20,
+      "folio": 18
+    },
+    {
+      "kind": "story",
+      "bookId": "family",
+      "page": 5,
+      "chapter": 3,
+      "number": 21,
+      "folio": 19
+    },
+    {
+      "kind": "story",
+      "bookId": "family",
+      "page": 6,
+      "chapter": 3,
+      "number": 22,
+      "folio": 20
+    },
+    {
+      "kind": "summary",
+      "bookId": "family",
+      "chapter": 3,
+      "number": 23,
+      "folio": 21
+    },
+    {
+      "kind": "story",
+      "bookId": "hands-revision",
+      "page": 0,
+      "chapter": 4,
+      "number": 24,
+      "folio": 22
+    },
+    {
+      "kind": "story",
+      "bookId": "hands-revision",
+      "page": 1,
+      "chapter": 4,
+      "number": 25,
+      "folio": 23
+    },
+    {
+      "kind": "story",
+      "bookId": "hands-revision",
+      "page": 2,
+      "chapter": 4,
+      "number": 26,
+      "folio": 24
+    },
+    {
+      "kind": "story",
+      "bookId": "hands-revision",
+      "page": 3,
+      "chapter": 4,
+      "number": 27,
+      "folio": 25
+    },
+    {
+      "kind": "story",
+      "bookId": "hands-revision",
+      "page": 4,
+      "chapter": 4,
+      "number": 28,
+      "folio": 26
+    },
+    {
+      "kind": "story",
+      "bookId": "hands-revision",
+      "page": 5,
+      "chapter": 4,
+      "number": 29,
+      "folio": 27
+    },
+    {
+      "kind": "story",
+      "bookId": "hands-revision",
+      "page": 6,
+      "chapter": 4,
+      "number": 30,
+      "folio": 28
+    },
+    {
+      "kind": "summary",
+      "bookId": "hands-revision",
+      "chapter": 4,
+      "number": 31,
+      "folio": 29
+    },
+    {
+      "kind": "story",
+      "bookId": "mountain-revision",
+      "page": 0,
+      "chapter": 5,
+      "number": 32,
+      "folio": 30
+    },
+    {
+      "kind": "story",
+      "bookId": "mountain-revision",
+      "page": 1,
+      "chapter": 5,
+      "number": 33,
+      "folio": 31
+    },
+    {
+      "kind": "story",
+      "bookId": "mountain-revision",
+      "page": 2,
+      "chapter": 5,
+      "number": 34,
+      "folio": 32
+    },
+    {
+      "kind": "story",
+      "bookId": "mountain-revision",
+      "page": 3,
+      "chapter": 5,
+      "number": 35,
+      "folio": 33
+    },
+    {
+      "kind": "story",
+      "bookId": "mountain-revision",
+      "page": 4,
+      "chapter": 5,
+      "number": 36,
+      "folio": 34
+    },
+    {
+      "kind": "story",
+      "bookId": "mountain-revision",
+      "page": 5,
+      "chapter": 5,
+      "number": 37,
+      "folio": 35
+    },
+    {
+      "kind": "summary",
+      "bookId": "mountain-revision",
+      "chapter": 5,
+      "number": 38,
+      "folio": 36
+    },
+    {
+      "kind": "story",
+      "bookId": "rain-revision",
+      "page": 0,
+      "chapter": 6,
+      "number": 39,
+      "folio": 37
+    },
+    {
+      "kind": "story",
+      "bookId": "rain-revision",
+      "page": 1,
+      "chapter": 6,
+      "number": 40,
+      "folio": 38
+    },
+    {
+      "kind": "story",
+      "bookId": "rain-revision",
+      "page": 2,
+      "chapter": 6,
+      "number": 41,
+      "folio": 39
+    },
+    {
+      "kind": "story",
+      "bookId": "rain-revision",
+      "page": 3,
+      "chapter": 6,
+      "number": 42,
+      "folio": 40
+    },
+    {
+      "kind": "story",
+      "bookId": "rain-revision",
+      "page": 4,
+      "chapter": 6,
+      "number": 43,
+      "folio": 41
+    },
+    {
+      "kind": "story",
+      "bookId": "rain-revision",
+      "page": 5,
+      "chapter": 6,
+      "number": 44,
+      "folio": 42
+    },
+    {
+      "kind": "story",
+      "bookId": "rain-revision",
+      "page": 6,
+      "chapter": 6,
+      "number": 45,
+      "folio": 43
+    },
+    {
+      "kind": "story",
+      "bookId": "rain-revision",
+      "page": 7,
+      "chapter": 6,
+      "number": 46,
+      "folio": 44
+    },
+    {
+      "kind": "summary",
+      "bookId": "rain-revision",
+      "chapter": 6,
+      "number": 47,
+      "folio": 45
+    },
+    {
+      "kind": "story",
+      "bookId": "stone-complete",
+      "page": 0,
+      "chapter": 7,
+      "number": 48,
+      "folio": 46
+    },
+    {
+      "kind": "story",
+      "bookId": "stone-complete",
+      "page": 1,
+      "chapter": 7,
+      "number": 49,
+      "folio": 47
+    },
+    {
+      "kind": "story",
+      "bookId": "stone-complete",
+      "page": 2,
+      "chapter": 7,
+      "number": 50,
+      "folio": 48
+    },
+    {
+      "kind": "story",
+      "bookId": "stone-complete",
+      "page": 3,
+      "chapter": 7,
+      "number": 51,
+      "folio": 49
+    },
+    {
+      "kind": "story",
+      "bookId": "stone-complete",
+      "page": 4,
+      "chapter": 7,
+      "number": 52,
+      "folio": 50
+    },
+    {
+      "kind": "story",
+      "bookId": "stone-complete",
+      "page": 5,
+      "chapter": 7,
+      "number": 53,
+      "folio": 51
+    },
+    {
+      "kind": "story",
+      "bookId": "stone-complete",
+      "page": 6,
+      "chapter": 7,
+      "number": 54,
+      "folio": 52
+    },
+    {
+      "kind": "story",
+      "bookId": "stone-complete",
+      "page": 7,
+      "chapter": 7,
+      "number": 55,
+      "folio": 53
+    },
+    {
+      "kind": "summary",
+      "bookId": "stone-complete",
+      "chapter": 7,
+      "number": 56,
+      "folio": 54
+    },
+    {
+      "kind": "story",
+      "bookId": "insect-revision",
+      "page": 0,
+      "chapter": 8,
+      "number": 57,
+      "folio": 55
+    },
+    {
+      "kind": "story",
+      "bookId": "insect-revision",
+      "page": 1,
+      "chapter": 8,
+      "number": 58,
+      "folio": 56
+    },
+    {
+      "kind": "story",
+      "bookId": "insect-revision",
+      "page": 2,
+      "chapter": 8,
+      "number": 59,
+      "folio": 57
+    },
+    {
+      "kind": "story",
+      "bookId": "insect-revision",
+      "page": 3,
+      "chapter": 8,
+      "number": 60,
+      "folio": 58
+    },
+    {
+      "kind": "story",
+      "bookId": "insect-revision",
+      "page": 4,
+      "chapter": 8,
+      "number": 61,
+      "folio": 59
+    },
+    {
+      "kind": "story",
+      "bookId": "insect-revision",
+      "page": 5,
+      "chapter": 8,
+      "number": 62,
+      "folio": 60
+    },
+    {
+      "kind": "summary",
+      "bookId": "insect-revision",
+      "chapter": 8,
+      "number": 63,
+      "folio": 61
+    },
+    {
+      "kind": "story",
+      "bookId": "car-complete",
+      "page": 0,
+      "chapter": 9,
+      "number": 64,
+      "folio": 62
+    },
+    {
+      "kind": "story",
+      "bookId": "car-complete",
+      "page": 1,
+      "chapter": 9,
+      "number": 65,
+      "folio": 63
+    },
+    {
+      "kind": "story",
+      "bookId": "car-complete",
+      "page": 2,
+      "chapter": 9,
+      "number": 66,
+      "folio": 64
+    },
+    {
+      "kind": "story",
+      "bookId": "car-complete",
+      "page": 3,
+      "chapter": 9,
+      "number": 67,
+      "folio": 65
+    },
+    {
+      "kind": "story",
+      "bookId": "car-complete",
+      "page": 4,
+      "chapter": 9,
+      "number": 68,
+      "folio": 66
+    },
+    {
+      "kind": "summary",
+      "bookId": "car-complete",
+      "chapter": 9,
+      "number": 69,
+      "folio": 67
+    },
+    {
+      "kind": "story",
+      "bookId": "ball-revision",
+      "page": 0,
+      "chapter": 10,
+      "number": 70,
+      "folio": 68
+    },
+    {
+      "kind": "story",
+      "bookId": "ball-revision",
+      "page": 1,
+      "chapter": 10,
+      "number": 71,
+      "folio": 69
+    },
+    {
+      "kind": "story",
+      "bookId": "ball-revision",
+      "page": 2,
+      "chapter": 10,
+      "number": 72,
+      "folio": 70
+    },
+    {
+      "kind": "story",
+      "bookId": "ball-revision",
+      "page": 3,
+      "chapter": 10,
+      "number": 73,
+      "folio": 71
+    },
+    {
+      "kind": "story",
+      "bookId": "ball-revision",
+      "page": 4,
+      "chapter": 10,
+      "number": 74,
+      "folio": 72
+    },
+    {
+      "kind": "story",
+      "bookId": "ball-revision",
+      "page": 5,
+      "chapter": 10,
+      "number": 75,
+      "folio": 73
+    },
+    {
+      "kind": "summary",
+      "bookId": "ball-revision",
+      "chapter": 10,
+      "number": 76,
+      "folio": 74
+    },
+    {
+      "kind": "story",
+      "bookId": "tree-revision",
+      "page": 0,
+      "chapter": 11,
+      "number": 77,
+      "folio": 75
+    },
+    {
+      "kind": "story",
+      "bookId": "tree-revision",
+      "page": 1,
+      "chapter": 11,
+      "number": 78,
+      "folio": 76
+    },
+    {
+      "kind": "story",
+      "bookId": "tree-revision",
+      "page": 2,
+      "chapter": 11,
+      "number": 79,
+      "folio": 77
+    },
+    {
+      "kind": "story",
+      "bookId": "tree-revision",
+      "page": 3,
+      "chapter": 11,
+      "number": 80,
+      "folio": 78
+    },
+    {
+      "kind": "story",
+      "bookId": "tree-revision",
+      "page": 4,
+      "chapter": 11,
+      "number": 81,
+      "folio": 79
+    },
+    {
+      "kind": "story",
+      "bookId": "tree-revision",
+      "page": 5,
+      "chapter": 11,
+      "number": 82,
+      "folio": 80
+    },
+    {
+      "kind": "story",
+      "bookId": "tree-revision",
+      "page": 6,
+      "chapter": 11,
+      "number": 83,
+      "folio": 81
+    },
+    {
+      "kind": "story",
+      "bookId": "tree-revision",
+      "page": 7,
+      "chapter": 11,
+      "number": 84,
+      "folio": 82
+    },
+    {
+      "kind": "summary",
+      "bookId": "tree-revision",
+      "chapter": 11,
+      "number": 85,
+      "folio": 83
+    },
+    {
+      "kind": "story",
+      "bookId": "water-revision",
+      "page": 0,
+      "chapter": 12,
+      "number": 86,
+      "folio": 84
+    },
+    {
+      "kind": "story",
+      "bookId": "water-revision",
+      "page": 1,
+      "chapter": 12,
+      "number": 87,
+      "folio": 85
+    },
+    {
+      "kind": "story",
+      "bookId": "water-revision",
+      "page": 2,
+      "chapter": 12,
+      "number": 88,
+      "folio": 86
+    },
+    {
+      "kind": "story",
+      "bookId": "water-revision",
+      "page": 3,
+      "chapter": 12,
+      "number": 89,
+      "folio": 87
+    },
+    {
+      "kind": "story",
+      "bookId": "water-revision",
+      "page": 4,
+      "chapter": 12,
+      "number": 90,
+      "folio": 88
+    },
+    {
+      "kind": "summary",
+      "bookId": "water-revision",
+      "chapter": 12,
+      "number": 91,
+      "folio": 89
+    },
+    {
+      "kind": "story",
+      "bookId": "calling-revision",
+      "page": 0,
+      "chapter": 13,
+      "number": 92,
+      "folio": 90
+    },
+    {
+      "kind": "story",
+      "bookId": "calling-revision",
+      "page": 1,
+      "chapter": 13,
+      "number": 93,
+      "folio": 91
+    },
+    {
+      "kind": "story",
+      "bookId": "calling-revision",
+      "page": 2,
+      "chapter": 13,
+      "number": 94,
+      "folio": 92
+    },
+    {
+      "kind": "story",
+      "bookId": "calling-revision",
+      "page": 3,
+      "chapter": 13,
+      "number": 95,
+      "folio": 93
+    },
+    {
+      "kind": "story",
+      "bookId": "calling-revision",
+      "page": 4,
+      "chapter": 13,
+      "number": 96,
+      "folio": 94
+    },
+    {
+      "kind": "story",
+      "bookId": "calling-revision",
+      "page": 5,
+      "chapter": 13,
+      "number": 97,
+      "folio": 95
+    },
+    {
+      "kind": "story",
+      "bookId": "calling-revision",
+      "page": 6,
+      "chapter": 13,
+      "number": 98,
+      "folio": 96
+    },
+    {
+      "kind": "story",
+      "bookId": "calling-revision",
+      "page": 7,
+      "chapter": 13,
+      "number": 99,
+      "folio": 97
+    },
+    {
+      "kind": "story",
+      "bookId": "calling-revision",
+      "page": 8,
+      "chapter": 13,
+      "number": 100,
+      "folio": 98
+    },
+    {
+      "kind": "summary",
+      "bookId": "calling-revision",
+      "chapter": 13,
+      "number": 101,
+      "folio": 99
+    },
+    {
+      "kind": "story",
+      "bookId": "catball-complete",
+      "page": 0,
+      "chapter": 14,
+      "number": 102,
+      "folio": 100
+    },
+    {
+      "kind": "story",
+      "bookId": "catball-complete",
+      "page": 1,
+      "chapter": 14,
+      "number": 103,
+      "folio": 101
+    },
+    {
+      "kind": "story",
+      "bookId": "catball-complete",
+      "page": 2,
+      "chapter": 14,
+      "number": 104,
+      "folio": 102
+    },
+    {
+      "kind": "story",
+      "bookId": "catball-complete",
+      "page": 3,
+      "chapter": 14,
+      "number": 105,
+      "folio": 103
+    },
+    {
+      "kind": "story",
+      "bookId": "catball-complete",
+      "page": 4,
+      "chapter": 14,
+      "number": 106,
+      "folio": 104
+    },
+    {
+      "kind": "story",
+      "bookId": "catball-complete",
+      "page": 5,
+      "chapter": 14,
+      "number": 107,
+      "folio": 105
+    },
+    {
+      "kind": "story",
+      "bookId": "catball-complete",
+      "page": 6,
+      "chapter": 14,
+      "number": 108,
+      "folio": 106
+    },
+    {
+      "kind": "summary",
+      "bookId": "catball-complete",
+      "chapter": 14,
+      "number": 109,
+      "folio": 107
+    },
+    {
+      "kind": "story",
+      "bookId": "catbed-revision",
+      "page": 0,
+      "chapter": 15,
+      "number": 110,
+      "folio": 108
+    },
+    {
+      "kind": "story",
+      "bookId": "catbed-revision",
+      "page": 1,
+      "chapter": 15,
+      "number": 111,
+      "folio": 109
+    },
+    {
+      "kind": "story",
+      "bookId": "catbed-revision",
+      "page": 2,
+      "chapter": 15,
+      "number": 112,
+      "folio": 110
+    },
+    {
+      "kind": "story",
+      "bookId": "catbed-revision",
+      "page": 3,
+      "chapter": 15,
+      "number": 113,
+      "folio": 111
+    },
+    {
+      "kind": "story",
+      "bookId": "catbed-revision",
+      "page": 4,
+      "chapter": 15,
+      "number": 114,
+      "folio": 112
+    },
+    {
+      "kind": "story",
+      "bookId": "catbed-revision",
+      "page": 5,
+      "chapter": 15,
+      "number": 115,
+      "folio": 113
+    },
+    {
+      "kind": "story",
+      "bookId": "catbed-revision",
+      "page": 6,
+      "chapter": 15,
+      "number": 116,
+      "folio": 114
+    },
+    {
+      "kind": "summary",
+      "bookId": "catbed-revision",
+      "chapter": 15,
+      "number": 117,
+      "folio": 115
+    },
+    {
+      "kind": "collection-back",
+      "bookId": "catbed-revision",
+      "back": true,
+      "number": 118,
+      "folio": null
+    }
+  ],
+  "leaves": [
+    {
+      "kind": "front",
+      "bookId": "intro-complete",
+      "number": 1,
+      "folio": null
+    },
+    {
+      "kind": "contents",
+      "part": 0,
+      "number": 2,
+      "folio": null
+    },
+    {
+      "kind": "story",
+      "bookId": "intro-complete",
+      "page": 0,
+      "chapter": 1,
+      "number": 3,
+      "folio": 1
+    },
+    {
+      "kind": "story",
+      "bookId": "intro-complete",
+      "page": 1,
+      "chapter": 1,
+      "number": 4,
+      "folio": 2
+    },
+    {
+      "kind": "story",
+      "bookId": "intro-complete",
+      "page": 2,
+      "chapter": 1,
+      "number": 5,
+      "folio": 3
+    },
+    {
+      "kind": "story",
+      "bookId": "intro-complete",
+      "page": 3,
+      "chapter": 1,
+      "number": 6,
+      "folio": 4
+    },
+    {
+      "kind": "story",
+      "bookId": "intro-complete",
+      "page": 4,
+      "chapter": 1,
+      "number": 7,
+      "folio": 5
+    },
+    {
+      "kind": "story",
+      "bookId": "intro-complete",
+      "page": 5,
+      "chapter": 1,
+      "number": 8,
+      "folio": 6
+    },
+    {
+      "kind": "summary",
+      "bookId": "intro-complete",
+      "chapter": 1,
+      "number": 9,
+      "folio": 7
+    },
+    {
+      "kind": "story",
+      "bookId": "snow-revision",
+      "page": 0,
+      "chapter": 2,
+      "number": 10,
+      "folio": 8
+    },
+    {
+      "kind": "story",
+      "bookId": "snow-revision",
+      "page": 1,
+      "chapter": 2,
+      "number": 11,
+      "folio": 9
+    },
+    {
+      "kind": "story",
+      "bookId": "snow-revision",
+      "page": 2,
+      "chapter": 2,
+      "number": 12,
+      "folio": 10
+    },
+    {
+      "kind": "story",
+      "bookId": "snow-revision",
+      "page": 3,
+      "chapter": 2,
+      "number": 13,
+      "folio": 11
+    },
+    {
+      "kind": "story",
+      "bookId": "snow-revision",
+      "page": 4,
+      "chapter": 2,
+      "number": 14,
+      "folio": 12
+    },
+    {
+      "kind": "summary",
+      "bookId": "snow-revision",
+      "chapter": 2,
+      "number": 15,
+      "folio": 13
+    },
+    {
+      "kind": "story",
+      "bookId": "family",
+      "page": 0,
+      "chapter": 3,
+      "number": 16,
+      "folio": 14
+    },
+    {
+      "kind": "story",
+      "bookId": "family",
+      "page": 1,
+      "chapter": 3,
+      "number": 17,
+      "folio": 15
+    },
+    {
+      "kind": "story",
+      "bookId": "family",
+      "page": 2,
+      "chapter": 3,
+      "number": 18,
+      "folio": 16
+    },
+    {
+      "kind": "story",
+      "bookId": "family",
+      "page": 3,
+      "chapter": 3,
+      "number": 19,
+      "folio": 17
+    },
+    {
+      "kind": "story",
+      "bookId": "family",
+      "page": 4,
+      "chapter": 3,
+      "number": 20,
+      "folio": 18
+    },
+    {
+      "kind": "story",
+      "bookId": "family",
+      "page": 5,
+      "chapter": 3,
+      "number": 21,
+      "folio": 19
+    },
+    {
+      "kind": "story",
+      "bookId": "family",
+      "page": 6,
+      "chapter": 3,
+      "number": 22,
+      "folio": 20
+    },
+    {
+      "kind": "summary",
+      "bookId": "family",
+      "chapter": 3,
+      "number": 23,
+      "folio": 21
+    },
+    {
+      "kind": "story",
+      "bookId": "hands-revision",
+      "page": 0,
+      "chapter": 4,
+      "number": 24,
+      "folio": 22
+    },
+    {
+      "kind": "story",
+      "bookId": "hands-revision",
+      "page": 1,
+      "chapter": 4,
+      "number": 25,
+      "folio": 23
+    },
+    {
+      "kind": "story",
+      "bookId": "hands-revision",
+      "page": 2,
+      "chapter": 4,
+      "number": 26,
+      "folio": 24
+    },
+    {
+      "kind": "story",
+      "bookId": "hands-revision",
+      "page": 3,
+      "chapter": 4,
+      "number": 27,
+      "folio": 25
+    },
+    {
+      "kind": "story",
+      "bookId": "hands-revision",
+      "page": 4,
+      "chapter": 4,
+      "number": 28,
+      "folio": 26
+    },
+    {
+      "kind": "story",
+      "bookId": "hands-revision",
+      "page": 5,
+      "chapter": 4,
+      "number": 29,
+      "folio": 27
+    },
+    {
+      "kind": "story",
+      "bookId": "hands-revision",
+      "page": 6,
+      "chapter": 4,
+      "number": 30,
+      "folio": 28
+    },
+    {
+      "kind": "summary",
+      "bookId": "hands-revision",
+      "chapter": 4,
+      "number": 31,
+      "folio": 29
+    },
+    {
+      "kind": "story",
+      "bookId": "mountain-revision",
+      "page": 0,
+      "chapter": 5,
+      "number": 32,
+      "folio": 30
+    },
+    {
+      "kind": "story",
+      "bookId": "mountain-revision",
+      "page": 1,
+      "chapter": 5,
+      "number": 33,
+      "folio": 31
+    },
+    {
+      "kind": "story",
+      "bookId": "mountain-revision",
+      "page": 2,
+      "chapter": 5,
+      "number": 34,
+      "folio": 32
+    },
+    {
+      "kind": "story",
+      "bookId": "mountain-revision",
+      "page": 3,
+      "chapter": 5,
+      "number": 35,
+      "folio": 33
+    },
+    {
+      "kind": "story",
+      "bookId": "mountain-revision",
+      "page": 4,
+      "chapter": 5,
+      "number": 36,
+      "folio": 34
+    },
+    {
+      "kind": "story",
+      "bookId": "mountain-revision",
+      "page": 5,
+      "chapter": 5,
+      "number": 37,
+      "folio": 35
+    },
+    {
+      "kind": "summary",
+      "bookId": "mountain-revision",
+      "chapter": 5,
+      "number": 38,
+      "folio": 36
+    },
+    {
+      "kind": "story",
+      "bookId": "rain-revision",
+      "page": 0,
+      "chapter": 6,
+      "number": 39,
+      "folio": 37
+    },
+    {
+      "kind": "story",
+      "bookId": "rain-revision",
+      "page": 1,
+      "chapter": 6,
+      "number": 40,
+      "folio": 38
+    },
+    {
+      "kind": "story",
+      "bookId": "rain-revision",
+      "page": 2,
+      "chapter": 6,
+      "number": 41,
+      "folio": 39
+    },
+    {
+      "kind": "story",
+      "bookId": "rain-revision",
+      "page": 3,
+      "chapter": 6,
+      "number": 42,
+      "folio": 40
+    },
+    {
+      "kind": "story",
+      "bookId": "rain-revision",
+      "page": 4,
+      "chapter": 6,
+      "number": 43,
+      "folio": 41
+    },
+    {
+      "kind": "story",
+      "bookId": "rain-revision",
+      "page": 5,
+      "chapter": 6,
+      "number": 44,
+      "folio": 42
+    },
+    {
+      "kind": "story",
+      "bookId": "rain-revision",
+      "page": 6,
+      "chapter": 6,
+      "number": 45,
+      "folio": 43
+    },
+    {
+      "kind": "story",
+      "bookId": "rain-revision",
+      "page": 7,
+      "chapter": 6,
+      "number": 46,
+      "folio": 44
+    },
+    {
+      "kind": "summary",
+      "bookId": "rain-revision",
+      "chapter": 6,
+      "number": 47,
+      "folio": 45
+    },
+    {
+      "kind": "story",
+      "bookId": "stone-complete",
+      "page": 0,
+      "chapter": 7,
+      "number": 48,
+      "folio": 46
+    },
+    {
+      "kind": "story",
+      "bookId": "stone-complete",
+      "page": 1,
+      "chapter": 7,
+      "number": 49,
+      "folio": 47
+    },
+    {
+      "kind": "story",
+      "bookId": "stone-complete",
+      "page": 2,
+      "chapter": 7,
+      "number": 50,
+      "folio": 48
+    },
+    {
+      "kind": "story",
+      "bookId": "stone-complete",
+      "page": 3,
+      "chapter": 7,
+      "number": 51,
+      "folio": 49
+    },
+    {
+      "kind": "story",
+      "bookId": "stone-complete",
+      "page": 4,
+      "chapter": 7,
+      "number": 52,
+      "folio": 50
+    },
+    {
+      "kind": "story",
+      "bookId": "stone-complete",
+      "page": 5,
+      "chapter": 7,
+      "number": 53,
+      "folio": 51
+    },
+    {
+      "kind": "story",
+      "bookId": "stone-complete",
+      "page": 6,
+      "chapter": 7,
+      "number": 54,
+      "folio": 52
+    },
+    {
+      "kind": "story",
+      "bookId": "stone-complete",
+      "page": 7,
+      "chapter": 7,
+      "number": 55,
+      "folio": 53
+    },
+    {
+      "kind": "summary",
+      "bookId": "stone-complete",
+      "chapter": 7,
+      "number": 56,
+      "folio": 54
+    },
+    {
+      "kind": "story",
+      "bookId": "insect-revision",
+      "page": 0,
+      "chapter": 8,
+      "number": 57,
+      "folio": 55
+    },
+    {
+      "kind": "story",
+      "bookId": "insect-revision",
+      "page": 1,
+      "chapter": 8,
+      "number": 58,
+      "folio": 56
+    },
+    {
+      "kind": "story",
+      "bookId": "insect-revision",
+      "page": 2,
+      "chapter": 8,
+      "number": 59,
+      "folio": 57
+    },
+    {
+      "kind": "story",
+      "bookId": "insect-revision",
+      "page": 3,
+      "chapter": 8,
+      "number": 60,
+      "folio": 58
+    },
+    {
+      "kind": "story",
+      "bookId": "insect-revision",
+      "page": 4,
+      "chapter": 8,
+      "number": 61,
+      "folio": 59
+    },
+    {
+      "kind": "story",
+      "bookId": "insect-revision",
+      "page": 5,
+      "chapter": 8,
+      "number": 62,
+      "folio": 60
+    },
+    {
+      "kind": "summary",
+      "bookId": "insect-revision",
+      "chapter": 8,
+      "number": 63,
+      "folio": 61
+    },
+    {
+      "kind": "story",
+      "bookId": "car-complete",
+      "page": 0,
+      "chapter": 9,
+      "number": 64,
+      "folio": 62
+    },
+    {
+      "kind": "story",
+      "bookId": "car-complete",
+      "page": 1,
+      "chapter": 9,
+      "number": 65,
+      "folio": 63
+    },
+    {
+      "kind": "story",
+      "bookId": "car-complete",
+      "page": 2,
+      "chapter": 9,
+      "number": 66,
+      "folio": 64
+    },
+    {
+      "kind": "story",
+      "bookId": "car-complete",
+      "page": 3,
+      "chapter": 9,
+      "number": 67,
+      "folio": 65
+    },
+    {
+      "kind": "story",
+      "bookId": "car-complete",
+      "page": 4,
+      "chapter": 9,
+      "number": 68,
+      "folio": 66
+    },
+    {
+      "kind": "summary",
+      "bookId": "car-complete",
+      "chapter": 9,
+      "number": 69,
+      "folio": 67
+    },
+    {
+      "kind": "story",
+      "bookId": "ball-revision",
+      "page": 0,
+      "chapter": 10,
+      "number": 70,
+      "folio": 68
+    },
+    {
+      "kind": "story",
+      "bookId": "ball-revision",
+      "page": 1,
+      "chapter": 10,
+      "number": 71,
+      "folio": 69
+    },
+    {
+      "kind": "story",
+      "bookId": "ball-revision",
+      "page": 2,
+      "chapter": 10,
+      "number": 72,
+      "folio": 70
+    },
+    {
+      "kind": "story",
+      "bookId": "ball-revision",
+      "page": 3,
+      "chapter": 10,
+      "number": 73,
+      "folio": 71
+    },
+    {
+      "kind": "story",
+      "bookId": "ball-revision",
+      "page": 4,
+      "chapter": 10,
+      "number": 74,
+      "folio": 72
+    },
+    {
+      "kind": "story",
+      "bookId": "ball-revision",
+      "page": 5,
+      "chapter": 10,
+      "number": 75,
+      "folio": 73
+    },
+    {
+      "kind": "summary",
+      "bookId": "ball-revision",
+      "chapter": 10,
+      "number": 76,
+      "folio": 74
+    },
+    {
+      "kind": "story",
+      "bookId": "tree-revision",
+      "page": 0,
+      "chapter": 11,
+      "number": 77,
+      "folio": 75
+    },
+    {
+      "kind": "story",
+      "bookId": "tree-revision",
+      "page": 1,
+      "chapter": 11,
+      "number": 78,
+      "folio": 76
+    },
+    {
+      "kind": "story",
+      "bookId": "tree-revision",
+      "page": 2,
+      "chapter": 11,
+      "number": 79,
+      "folio": 77
+    },
+    {
+      "kind": "story",
+      "bookId": "tree-revision",
+      "page": 3,
+      "chapter": 11,
+      "number": 80,
+      "folio": 78
+    },
+    {
+      "kind": "story",
+      "bookId": "tree-revision",
+      "page": 4,
+      "chapter": 11,
+      "number": 81,
+      "folio": 79
+    },
+    {
+      "kind": "story",
+      "bookId": "tree-revision",
+      "page": 5,
+      "chapter": 11,
+      "number": 82,
+      "folio": 80
+    },
+    {
+      "kind": "story",
+      "bookId": "tree-revision",
+      "page": 6,
+      "chapter": 11,
+      "number": 83,
+      "folio": 81
+    },
+    {
+      "kind": "story",
+      "bookId": "tree-revision",
+      "page": 7,
+      "chapter": 11,
+      "number": 84,
+      "folio": 82
+    },
+    {
+      "kind": "summary",
+      "bookId": "tree-revision",
+      "chapter": 11,
+      "number": 85,
+      "folio": 83
+    },
+    {
+      "kind": "story",
+      "bookId": "water-revision",
+      "page": 0,
+      "chapter": 12,
+      "number": 86,
+      "folio": 84
+    },
+    {
+      "kind": "story",
+      "bookId": "water-revision",
+      "page": 1,
+      "chapter": 12,
+      "number": 87,
+      "folio": 85
+    },
+    {
+      "kind": "story",
+      "bookId": "water-revision",
+      "page": 2,
+      "chapter": 12,
+      "number": 88,
+      "folio": 86
+    },
+    {
+      "kind": "story",
+      "bookId": "water-revision",
+      "page": 3,
+      "chapter": 12,
+      "number": 89,
+      "folio": 87
+    },
+    {
+      "kind": "story",
+      "bookId": "water-revision",
+      "page": 4,
+      "chapter": 12,
+      "number": 90,
+      "folio": 88
+    },
+    {
+      "kind": "summary",
+      "bookId": "water-revision",
+      "chapter": 12,
+      "number": 91,
+      "folio": 89
+    },
+    {
+      "kind": "story",
+      "bookId": "calling-revision",
+      "page": 0,
+      "chapter": 13,
+      "number": 92,
+      "folio": 90
+    },
+    {
+      "kind": "story",
+      "bookId": "calling-revision",
+      "page": 1,
+      "chapter": 13,
+      "number": 93,
+      "folio": 91
+    },
+    {
+      "kind": "story",
+      "bookId": "calling-revision",
+      "page": 2,
+      "chapter": 13,
+      "number": 94,
+      "folio": 92
+    },
+    {
+      "kind": "story",
+      "bookId": "calling-revision",
+      "page": 3,
+      "chapter": 13,
+      "number": 95,
+      "folio": 93
+    },
+    {
+      "kind": "story",
+      "bookId": "calling-revision",
+      "page": 4,
+      "chapter": 13,
+      "number": 96,
+      "folio": 94
+    },
+    {
+      "kind": "story",
+      "bookId": "calling-revision",
+      "page": 5,
+      "chapter": 13,
+      "number": 97,
+      "folio": 95
+    },
+    {
+      "kind": "story",
+      "bookId": "calling-revision",
+      "page": 6,
+      "chapter": 13,
+      "number": 98,
+      "folio": 96
+    },
+    {
+      "kind": "story",
+      "bookId": "calling-revision",
+      "page": 7,
+      "chapter": 13,
+      "number": 99,
+      "folio": 97
+    },
+    {
+      "kind": "story",
+      "bookId": "calling-revision",
+      "page": 8,
+      "chapter": 13,
+      "number": 100,
+      "folio": 98
+    },
+    {
+      "kind": "summary",
+      "bookId": "calling-revision",
+      "chapter": 13,
+      "number": 101,
+      "folio": 99
+    },
+    {
+      "kind": "story",
+      "bookId": "catball-complete",
+      "page": 0,
+      "chapter": 14,
+      "number": 102,
+      "folio": 100
+    },
+    {
+      "kind": "story",
+      "bookId": "catball-complete",
+      "page": 1,
+      "chapter": 14,
+      "number": 103,
+      "folio": 101
+    },
+    {
+      "kind": "story",
+      "bookId": "catball-complete",
+      "page": 2,
+      "chapter": 14,
+      "number": 104,
+      "folio": 102
+    },
+    {
+      "kind": "story",
+      "bookId": "catball-complete",
+      "page": 3,
+      "chapter": 14,
+      "number": 105,
+      "folio": 103
+    },
+    {
+      "kind": "story",
+      "bookId": "catball-complete",
+      "page": 4,
+      "chapter": 14,
+      "number": 106,
+      "folio": 104
+    },
+    {
+      "kind": "story",
+      "bookId": "catball-complete",
+      "page": 5,
+      "chapter": 14,
+      "number": 107,
+      "folio": 105
+    },
+    {
+      "kind": "story",
+      "bookId": "catball-complete",
+      "page": 6,
+      "chapter": 14,
+      "number": 108,
+      "folio": 106
+    },
+    {
+      "kind": "summary",
+      "bookId": "catball-complete",
+      "chapter": 14,
+      "number": 109,
+      "folio": 107
+    },
+    {
+      "kind": "story",
+      "bookId": "catbed-revision",
+      "page": 0,
+      "chapter": 15,
+      "number": 110,
+      "folio": 108
+    },
+    {
+      "kind": "story",
+      "bookId": "catbed-revision",
+      "page": 1,
+      "chapter": 15,
+      "number": 111,
+      "folio": 109
+    },
+    {
+      "kind": "story",
+      "bookId": "catbed-revision",
+      "page": 2,
+      "chapter": 15,
+      "number": 112,
+      "folio": 110
+    },
+    {
+      "kind": "story",
+      "bookId": "catbed-revision",
+      "page": 3,
+      "chapter": 15,
+      "number": 113,
+      "folio": 111
+    },
+    {
+      "kind": "story",
+      "bookId": "catbed-revision",
+      "page": 4,
+      "chapter": 15,
+      "number": 114,
+      "folio": 112
+    },
+    {
+      "kind": "story",
+      "bookId": "catbed-revision",
+      "page": 5,
+      "chapter": 15,
+      "number": 115,
+      "folio": 113
+    },
+    {
+      "kind": "story",
+      "bookId": "catbed-revision",
+      "page": 6,
+      "chapter": 15,
+      "number": 116,
+      "folio": 114
+    },
+    {
+      "kind": "summary",
+      "bookId": "catbed-revision",
+      "chapter": 15,
+      "number": 117,
+      "folio": 115
+    },
+    {
+      "kind": "collection-back",
+      "bookId": "catbed-revision",
+      "back": true,
+      "number": 118,
+      "folio": null
+    }
+  ],
+  "pageCount": 118,
+  "readingContentPageCount": 116,
+  "coverFaceCount": 4,
+  "interiorPageCount": 114,
+  "storyCount": 15,
+  "storyPageCount": 100,
+  "summaryCount": 15,
+  "contentsCount": 1,
+  "blankCount": 0,
+  "imposed": false,
+  "title": "第1级阅读故事集",
+  "sample": false,
+  "binding": "printer-imposition-required"
+}

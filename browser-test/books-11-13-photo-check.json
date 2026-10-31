@@ -1,0 +1,2034 @@
+[
+  {
+    "book": "tree",
+    "dataset": {
+      "actorCacheId": "8",
+      "art": "tree",
+      "artState": "ready",
+      "camera": "{\"x\":11.363636363636374,\"y\":0,\"width\":977.2727272727273,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "0",
+      "portraitScale": "0.42889683837095727",
+      "pose": "stand-wave",
+      "reflectionActor": "",
+      "scene": "tree-welcome",
+      "storyBeat": "greet-the-sapling"
+    },
+    "overflow": false,
+    "page": 0,
+    "paper": {
+      "bottom": 641.3229217529297,
+      "height": 564.65625,
+      "left": 441.0208435058594,
+      "right": 838.9687805175781,
+      "top": 76.66667175292969,
+      "width": 397.9479370117187,
+      "x": 441.0208435058594,
+      "y": 76.66667175292969
+    },
+    "photoTiming": {
+      "cutoutMs": 1069.8000000000466,
+      "photoReadMs": 214.90000000002328,
+      "pngEncodeMs": 17.800000000046566,
+      "recognitionMs": 383.89999999990687
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 4966.699999999255,
+      "bodyDownloadMs": 1114.3000000000466,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "tree",
+                "calling",
+                "catball"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "carry-play",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "tree",
+            "calling",
+            "catball"
+          ]
+        }
+      ],
+      "composeMs": 7.899999999906868,
+      "composites": 20,
+      "draws": 654,
+      "pageDrawMs": 5923.099999998696
+    },
+    "text": "小树，你好！",
+    "textRect": {
+      "bottom": 590.21875,
+      "height": 77.96875,
+      "left": 462.53125,
+      "right": 806.6979370117188,
+      "top": 512.25,
+      "width": 344.16668701171875,
+      "x": 462.53125,
+      "y": 512.25
+    }
+  },
+  {
+    "book": "tree",
+    "dataset": {
+      "actorCacheId": "8",
+      "art": "tree",
+      "artState": "ready",
+      "camera": "{\"x\":11.363636363636374,\"y\":0,\"width\":977.2727272727273,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "1",
+      "portraitScale": "0.42889683837095727",
+      "pose": "stand-wave",
+      "reflectionActor": "",
+      "scene": "tree-growth-detail",
+      "storyBeat": "older-height-marks"
+    },
+    "overflow": false,
+    "page": 1,
+    "paper": {
+      "bottom": 641.3229217529297,
+      "height": 564.65625,
+      "left": 441.0208435058594,
+      "right": 838.9687805175781,
+      "top": 76.66667175292969,
+      "width": 397.9479370117187,
+      "x": 441.0208435058594,
+      "y": 76.66667175292969
+    },
+    "photoTiming": {
+      "cutoutMs": 1069.8000000000466,
+      "photoReadMs": 214.90000000002328,
+      "pngEncodeMs": 17.800000000046566,
+      "recognitionMs": 383.89999999990687
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 4966.699999999255,
+      "bodyDownloadMs": 1114.3000000000466,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "tree",
+                "calling",
+                "catball"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "carry-play",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "tree",
+            "calling",
+            "catball"
+          ]
+        }
+      ],
+      "composeMs": 7.899999999906868,
+      "composites": 20,
+      "draws": 655,
+      "pageDrawMs": 5923.29999999865
+    },
+    "text": "你长高了，我也长高了。",
+    "textRect": {
+      "bottom": 590.21875,
+      "height": 77.96875,
+      "left": 473.28125,
+      "right": 817.4479370117188,
+      "top": 512.25,
+      "width": 344.16668701171875,
+      "x": 473.28125,
+      "y": 512.25
+    }
+  },
+  {
+    "book": "tree",
+    "dataset": {
+      "actorCacheId": "8",
+      "art": "tree",
+      "artState": "ready",
+      "camera": "{\"x\":11.363636363636374,\"y\":0,\"width\":977.2727272727273,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "2",
+      "portraitScale": "0.42889683837095727",
+      "pose": "stand-wave",
+      "reflectionActor": "",
+      "scene": "tree-comparison",
+      "storyBeat": "compare-on-the-ground"
+    },
+    "overflow": false,
+    "page": 2,
+    "paper": {
+      "bottom": 641.3229217529297,
+      "height": 564.65625,
+      "left": 441.0208435058594,
+      "right": 838.9687805175781,
+      "top": 76.66667175292969,
+      "width": 397.9479370117187,
+      "x": 441.0208435058594,
+      "y": 76.66667175292969
+    },
+    "photoTiming": {
+      "cutoutMs": 1069.8000000000466,
+      "photoReadMs": 214.90000000002328,
+      "pngEncodeMs": 17.800000000046566,
+      "recognitionMs": 383.89999999990687
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 4966.699999999255,
+      "bodyDownloadMs": 1114.3000000000466,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "tree",
+                "calling",
+                "catball"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "carry-play",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "tree",
+            "calling",
+            "catball"
+          ]
+        }
+      ],
+      "composeMs": 7.899999999906868,
+      "composites": 20,
+      "draws": 656,
+      "pageDrawMs": 5923.699999998556
+    },
+    "text": "我和小树，谁高？",
+    "textRect": {
+      "bottom": 590.21875,
+      "height": 77.96875,
+      "left": 462.53125,
+      "right": 806.6979370117188,
+      "top": 512.25,
+      "width": 344.16668701171875,
+      "x": 462.53125,
+      "y": 512.25
+    }
+  },
+  {
+    "book": "tree",
+    "dataset": {
+      "actorCacheId": "8",
+      "art": "tree",
+      "artState": "ready",
+      "camera": "{\"x\":11.363636363636374,\"y\":0,\"width\":977.2727272727273,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "3",
+      "portraitScale": "0.42889683837095727",
+      "pose": "stand-wave",
+      "reflectionActor": "",
+      "scene": "tree-comparison",
+      "storyBeat": "stand-on-the-low-stone"
+    },
+    "overflow": false,
+    "page": 3,
+    "paper": {
+      "bottom": 641.3229217529297,
+      "height": 564.65625,
+      "left": 441.0208435058594,
+      "right": 838.9687805175781,
+      "top": 76.66667175292969,
+      "width": 397.9479370117187,
+      "x": 441.0208435058594,
+      "y": 76.66667175292969
+    },
+    "photoTiming": {
+      "cutoutMs": 1069.8000000000466,
+      "photoReadMs": 214.90000000002328,
+      "pngEncodeMs": 17.800000000046566,
+      "recognitionMs": 383.89999999990687
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 4966.699999999255,
+      "bodyDownloadMs": 1114.3000000000466,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "tree",
+                "calling",
+                "catball"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "carry-play",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "tree",
+            "calling",
+            "catball"
+          ]
+        }
+      ],
+      "composeMs": 7.899999999906868,
+      "composites": 20,
+      "draws": 657,
+      "pageDrawMs": 5946.499999998487
+    },
+    "text": "我站在小石头上。我高！",
+    "textRect": {
+      "bottom": 590.21875,
+      "height": 77.96875,
+      "left": 473.28125,
+      "right": 817.4479370117188,
+      "top": 512.25,
+      "width": 344.16668701171875,
+      "x": 473.28125,
+      "y": 512.25
+    }
+  },
+  {
+    "book": "tree",
+    "dataset": {
+      "actorCacheId": "8",
+      "art": "tree",
+      "artState": "ready",
+      "camera": "{\"x\":11.363636363636374,\"y\":0,\"width\":977.2727272727273,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "4",
+      "portraitScale": "0.42889683837095727",
+      "pose": "stand-wave",
+      "reflectionActor": "",
+      "scene": "tree-comparison",
+      "storyBeat": "back-on-the-ground"
+    },
+    "overflow": false,
+    "page": 4,
+    "paper": {
+      "bottom": 641.3229217529297,
+      "height": 564.65625,
+      "left": 441.0208435058594,
+      "right": 838.9687805175781,
+      "top": 76.66667175292969,
+      "width": 397.9479370117187,
+      "x": 441.0208435058594,
+      "y": 76.66667175292969
+    },
+    "photoTiming": {
+      "cutoutMs": 1069.8000000000466,
+      "photoReadMs": 214.90000000002328,
+      "pngEncodeMs": 17.800000000046566,
+      "recognitionMs": 383.89999999990687
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 4966.699999999255,
+      "bodyDownloadMs": 1114.3000000000466,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "tree",
+                "calling",
+                "catball"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "carry-play",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "tree",
+            "calling",
+            "catball"
+          ]
+        }
+      ],
+      "composeMs": 7.899999999906868,
+      "composites": 20,
+      "draws": 658,
+      "pageDrawMs": 5946.799999998533
+    },
+    "text": "我下来。小树高！",
+    "textRect": {
+      "bottom": 590.21875,
+      "height": 77.96875,
+      "left": 462.53125,
+      "right": 806.6979370117188,
+      "top": 512.25,
+      "width": 344.16668701171875,
+      "x": 462.53125,
+      "y": 512.25
+    }
+  },
+  {
+    "book": "tree",
+    "dataset": {
+      "actorCacheId": "9",
+      "art": "tree",
+      "artState": "ready",
+      "camera": "{\"x\":11.363636363636374,\"y\":0,\"width\":977.2727272727273,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "5",
+      "portraitScale": "0.42889683837095727",
+      "pose": "hands-flower-open",
+      "reflectionActor": "",
+      "scene": "tree-welcome",
+      "storyBeat": "grow-together"
+    },
+    "overflow": false,
+    "page": 5,
+    "paper": {
+      "bottom": 641.3229217529297,
+      "height": 564.65625,
+      "left": 441.0208435058594,
+      "right": 838.9687805175781,
+      "top": 76.66667175292969,
+      "width": 397.9479370117187,
+      "x": 441.0208435058594,
+      "y": 76.66667175292969
+    },
+    "photoTiming": {
+      "cutoutMs": 1069.8000000000466,
+      "photoReadMs": 214.90000000002328,
+      "pngEncodeMs": 17.800000000046566,
+      "recognitionMs": 383.89999999990687
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 4966.699999999255,
+      "bodyDownloadMs": 1114.3000000000466,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "tree",
+                "calling",
+                "catball"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "carry-play",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "tree",
+            "calling",
+            "catball"
+          ]
+        }
+      ],
+      "composeMs": 7.899999999906868,
+      "composites": 20,
+      "draws": 659,
+      "pageDrawMs": 6005.299999998533
+    },
+    "text": "小树，你长吧！我也要长高！",
+    "textRect": {
+      "bottom": 590.21875,
+      "height": 77.96875,
+      "left": 473.28125,
+      "right": 817.4479370117188,
+      "top": 512.25,
+      "width": 344.16668701171875,
+      "x": 473.28125,
+      "y": 512.25
+    }
+  },
+  {
+    "book": "calling",
+    "dataset": {
+      "actorCacheId": "8",
+      "art": "calling",
+      "artState": "ready",
+      "camera": "{\"x\":11.363636363636374,\"y\":0,\"width\":977.2727272727273,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "0",
+      "portraitScale": "0.42889683837095727",
+      "pose": "stand-wave",
+      "reflectionActor": "",
+      "scene": "calling-wide",
+      "storyBeat": "listen-before-looking"
+    },
+    "overflow": false,
+    "page": 0,
+    "paper": {
+      "bottom": 641.3229217529297,
+      "height": 564.65625,
+      "left": 441.0208435058594,
+      "right": 838.9687805175781,
+      "top": 76.66667175292969,
+      "width": 397.9479370117187,
+      "x": 441.0208435058594,
+      "y": 76.66667175292969
+    },
+    "photoTiming": {
+      "cutoutMs": 1069.8000000000466,
+      "photoReadMs": 214.90000000002328,
+      "pngEncodeMs": 17.800000000046566,
+      "recognitionMs": 383.89999999990687
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 4966.699999999255,
+      "bodyDownloadMs": 1114.3000000000466,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "calling",
+                "catball"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "carry-play",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "calling",
+            "catball"
+          ]
+        }
+      ],
+      "composeMs": 8,
+      "composites": 21,
+      "draws": 725,
+      "pageDrawMs": 7294.3999999983935
+    },
+    "text": "谁在叫？",
+    "textRect": {
+      "bottom": 590.21875,
+      "height": 77.96875,
+      "left": 462.53125,
+      "right": 806.6979370117188,
+      "top": 512.25,
+      "width": 344.16668701171875,
+      "x": 462.53125,
+      "y": 512.25
+    }
+  },
+  {
+    "book": "calling",
+    "dataset": {
+      "actorCacheId": "",
+      "art": "calling",
+      "artState": "ready",
+      "camera": "{\"x\":11.363636363636374,\"y\":0,\"width\":977.2727272727273,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "1",
+      "portraitScale": "",
+      "pose": "none",
+      "reflectionActor": "",
+      "scene": "calling-up",
+      "storyBeat": "bird-singing-in-the-tree"
+    },
+    "overflow": false,
+    "page": 1,
+    "paper": {
+      "bottom": 641.3229217529297,
+      "height": 564.65625,
+      "left": 441.0208435058594,
+      "right": 838.9687805175781,
+      "top": 76.66667175292969,
+      "width": 397.9479370117187,
+      "x": 441.0208435058594,
+      "y": 76.66667175292969
+    },
+    "photoTiming": {
+      "cutoutMs": 1069.8000000000466,
+      "photoReadMs": 214.90000000002328,
+      "pngEncodeMs": 17.800000000046566,
+      "recognitionMs": 383.89999999990687
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 4966.699999999255,
+      "bodyDownloadMs": 1114.3000000000466,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "calling",
+                "catball"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "carry-play",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "calling",
+            "catball"
+          ]
+        }
+      ],
+      "composeMs": 8,
+      "composites": 21,
+      "draws": 726,
+      "pageDrawMs": 7294.599999998347
+    },
+    "text": "我看树上。树上有小鸟。",
+    "textRect": {
+      "bottom": 590.21875,
+      "height": 77.96875,
+      "left": 473.28125,
+      "right": 817.4479370117188,
+      "top": 512.25,
+      "width": 344.16668701171875,
+      "x": 473.28125,
+      "y": 512.25
+    }
+  },
+  {
+    "book": "calling",
+    "dataset": {
+      "actorCacheId": "9",
+      "art": "calling",
+      "artState": "ready",
+      "camera": "{\"x\":11.363636363636374,\"y\":0,\"width\":977.2727272727273,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "2",
+      "portraitScale": "0.42889683837095727",
+      "pose": "hands-flower-open",
+      "reflectionActor": "",
+      "scene": "calling-wide",
+      "storyBeat": "invite-the-bird"
+    },
+    "overflow": false,
+    "page": 2,
+    "paper": {
+      "bottom": 641.3229217529297,
+      "height": 564.65625,
+      "left": 441.0208435058594,
+      "right": 838.9687805175781,
+      "top": 76.66667175292969,
+      "width": 397.9479370117187,
+      "x": 441.0208435058594,
+      "y": 76.66667175292969
+    },
+    "photoTiming": {
+      "cutoutMs": 1069.8000000000466,
+      "photoReadMs": 214.90000000002328,
+      "pngEncodeMs": 17.800000000046566,
+      "recognitionMs": 383.89999999990687
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 4966.699999999255,
+      "bodyDownloadMs": 1114.3000000000466,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "calling",
+                "catball"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "carry-play",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "calling",
+            "catball"
+          ]
+        }
+      ],
+      "composeMs": 8,
+      "composites": 21,
+      "draws": 727,
+      "pageDrawMs": 7295.799999998417
+    },
+    "text": "小鸟，小鸟，下来和我玩！",
+    "textRect": {
+      "bottom": 590.21875,
+      "height": 77.96875,
+      "left": 462.53125,
+      "right": 806.6979370117188,
+      "top": 512.25,
+      "width": 344.16668701171875,
+      "x": 462.53125,
+      "y": 512.25
+    }
+  },
+  {
+    "book": "calling",
+    "dataset": {
+      "actorCacheId": "8",
+      "art": "calling",
+      "artState": "ready",
+      "camera": "{\"x\":11.363636363636374,\"y\":0,\"width\":977.2727272727273,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "3",
+      "portraitScale": "0.42889683837095727",
+      "pose": "stand-wave",
+      "reflectionActor": "",
+      "scene": "calling-wide",
+      "storyBeat": "bird-is-quiet-listen-again"
+    },
+    "overflow": false,
+    "page": 3,
+    "paper": {
+      "bottom": 641.3229217529297,
+      "height": 564.65625,
+      "left": 441.0208435058594,
+      "right": 838.9687805175781,
+      "top": 76.66667175292969,
+      "width": 397.9479370117187,
+      "x": 441.0208435058594,
+      "y": 76.66667175292969
+    },
+    "photoTiming": {
+      "cutoutMs": 1069.8000000000466,
+      "photoReadMs": 214.90000000002328,
+      "pngEncodeMs": 17.800000000046566,
+      "recognitionMs": 383.89999999990687
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 4966.699999999255,
+      "bodyDownloadMs": 1114.3000000000466,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "calling",
+                "catball"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "carry-play",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "calling",
+            "catball"
+          ]
+        }
+      ],
+      "composeMs": 8,
+      "composites": 21,
+      "draws": 728,
+      "pageDrawMs": 7296.099999998347
+    },
+    "text": "小鸟不叫了。谁又在叫？",
+    "textRect": {
+      "bottom": 590.21875,
+      "height": 77.96875,
+      "left": 473.28125,
+      "right": 817.4479370117188,
+      "top": 512.25,
+      "width": 344.16668701171875,
+      "x": 473.28125,
+      "y": 512.25
+    }
+  },
+  {
+    "book": "calling",
+    "dataset": {
+      "actorCacheId": "",
+      "art": "calling",
+      "artState": "ready",
+      "camera": "{\"x\":11.363636363636374,\"y\":0,\"width\":977.2727272727273,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "4",
+      "portraitScale": "",
+      "pose": "none",
+      "reflectionActor": "",
+      "scene": "calling-down",
+      "storyBeat": "cat-calling-under-the-tree"
+    },
+    "overflow": false,
+    "page": 4,
+    "paper": {
+      "bottom": 641.3229217529297,
+      "height": 564.65625,
+      "left": 441.0208435058594,
+      "right": 838.9687805175781,
+      "top": 76.66667175292969,
+      "width": 397.9479370117187,
+      "x": 441.0208435058594,
+      "y": 76.66667175292969
+    },
+    "photoTiming": {
+      "cutoutMs": 1069.8000000000466,
+      "photoReadMs": 214.90000000002328,
+      "pngEncodeMs": 17.800000000046566,
+      "recognitionMs": 383.89999999990687
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 4966.699999999255,
+      "bodyDownloadMs": 1114.3000000000466,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "calling",
+                "catball"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "carry-play",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "calling",
+            "catball"
+          ]
+        }
+      ],
+      "composeMs": 8,
+      "composites": 21,
+      "draws": 729,
+      "pageDrawMs": 7297.19999999844
+    },
+    "text": "我看树下。树下有小猫。",
+    "textRect": {
+      "bottom": 590.21875,
+      "height": 77.96875,
+      "left": 462.53125,
+      "right": 806.6979370117188,
+      "top": 512.25,
+      "width": 344.16668701171875,
+      "x": 462.53125,
+      "y": 512.25
+    }
+  },
+  {
+    "book": "calling",
+    "dataset": {
+      "actorCacheId": "7",
+      "art": "calling",
+      "artState": "ready",
+      "camera": "{\"x\":11.363636363636374,\"y\":0,\"width\":977.2727272727273,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "5",
+      "portraitScale": "0.42889683837095727",
+      "pose": "crouch-book",
+      "reflectionActor": "",
+      "scene": "calling-down",
+      "storyBeat": "invite-the-cat"
+    },
+    "overflow": false,
+    "page": 5,
+    "paper": {
+      "bottom": 641.3229217529297,
+      "height": 564.65625,
+      "left": 441.0208435058594,
+      "right": 838.9687805175781,
+      "top": 76.66667175292969,
+      "width": 397.9479370117187,
+      "x": 441.0208435058594,
+      "y": 76.66667175292969
+    },
+    "photoTiming": {
+      "cutoutMs": 1069.8000000000466,
+      "photoReadMs": 214.90000000002328,
+      "pngEncodeMs": 17.800000000046566,
+      "recognitionMs": 383.89999999990687
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 4966.699999999255,
+      "bodyDownloadMs": 1114.3000000000466,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "calling",
+                "catball"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "carry-play",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "calling",
+            "catball"
+          ]
+        }
+      ],
+      "composeMs": 8,
+      "composites": 21,
+      "draws": 730,
+      "pageDrawMs": 7298.099999998463
+    },
+    "text": "小猫，你也来！",
+    "textRect": {
+      "bottom": 590.21875,
+      "height": 77.96875,
+      "left": 473.28125,
+      "right": 817.4479370117188,
+      "top": 512.25,
+      "width": 344.16668701171875,
+      "x": 473.28125,
+      "y": 512.25
+    }
+  },
+  {
+    "book": "calling",
+    "dataset": {
+      "actorCacheId": "8",
+      "art": "calling",
+      "artState": "ready",
+      "camera": "{\"x\":11.363636363636374,\"y\":0,\"width\":977.2727272727273,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "6",
+      "portraitScale": "0.42889683837095727",
+      "pose": "stand-wave",
+      "reflectionActor": "",
+      "scene": "calling-wide",
+      "storyBeat": "empty-branch"
+    },
+    "overflow": false,
+    "page": 6,
+    "paper": {
+      "bottom": 641.3229217529297,
+      "height": 564.65625,
+      "left": 441.0208435058594,
+      "right": 838.9687805175781,
+      "top": 76.66667175292969,
+      "width": 397.9479370117187,
+      "x": 441.0208435058594,
+      "y": 76.66667175292969
+    },
+    "photoTiming": {
+      "cutoutMs": 1069.8000000000466,
+      "photoReadMs": 214.90000000002328,
+      "pngEncodeMs": 17.800000000046566,
+      "recognitionMs": 383.89999999990687
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 4966.699999999255,
+      "bodyDownloadMs": 1114.3000000000466,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "calling",
+                "catball"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "carry-play",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "calling",
+            "catball"
+          ]
+        }
+      ],
+      "composeMs": 8,
+      "composites": 21,
+      "draws": 731,
+      "pageDrawMs": 7298.39999999851
+    },
+    "text": "小鸟呢？小树上没有小鸟。",
+    "textRect": {
+      "bottom": 590.21875,
+      "height": 77.96875,
+      "left": 462.53125,
+      "right": 806.6979370117188,
+      "top": 512.25,
+      "width": 344.16668701171875,
+      "x": 462.53125,
+      "y": 512.25
+    }
+  },
+  {
+    "book": "calling",
+    "dataset": {
+      "actorCacheId": "9",
+      "art": "calling",
+      "artState": "ready",
+      "camera": "{\"x\":11.363636363636374,\"y\":0,\"width\":977.2727272727273,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "7",
+      "portraitScale": "0.42889683837095727",
+      "pose": "hands-flower-open",
+      "reflectionActor": "",
+      "scene": "calling-wide",
+      "storyBeat": "bird-found-on-my-car"
+    },
+    "overflow": false,
+    "page": 7,
+    "paper": {
+      "bottom": 641.3229217529297,
+      "height": 564.65625,
+      "left": 441.0208435058594,
+      "right": 838.9687805175781,
+      "top": 76.66667175292969,
+      "width": 397.9479370117187,
+      "x": 441.0208435058594,
+      "y": 76.66667175292969
+    },
+    "photoTiming": {
+      "cutoutMs": 1069.8000000000466,
+      "photoReadMs": 214.90000000002328,
+      "pngEncodeMs": 17.800000000046566,
+      "recognitionMs": 383.89999999990687
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 4966.699999999255,
+      "bodyDownloadMs": 1114.3000000000466,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "calling",
+                "catball"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "carry-play",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "calling",
+            "catball"
+          ]
+        }
+      ],
+      "composeMs": 8,
+      "composites": 21,
+      "draws": 732,
+      "pageDrawMs": 7299.19999999844
+    },
+    "text": "小鸟在我的小车上！你也来和我玩了！",
+    "textRect": {
+      "bottom": 590.21875,
+      "height": 77.96875,
+      "left": 473.28125,
+      "right": 817.4479370117188,
+      "top": 512.25,
+      "width": 344.16668701171875,
+      "x": 473.28125,
+      "y": 512.25
+    }
+  },
+  {
+    "book": "catball",
+    "dataset": {
+      "actorCacheId": "11",
+      "art": "catball",
+      "artState": "ready",
+      "camera": "{\"x\":11.363636363636374,\"y\":0,\"width\":977.2727272727273,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "0",
+      "portraitScale": "0.42889683837095727",
+      "pose": "carry-play",
+      "reflectionActor": "",
+      "scene": "cat-play-wide",
+      "storyBeat": "show-red-ball"
+    },
+    "overflow": false,
+    "page": 0,
+    "paper": {
+      "bottom": 641.3229217529297,
+      "height": 564.65625,
+      "left": 441.0208435058594,
+      "right": 838.9687805175781,
+      "top": 76.66667175292969,
+      "width": 397.9479370117187,
+      "x": 441.0208435058594,
+      "y": 76.66667175292969
+    },
+    "photoTiming": {
+      "cutoutMs": 1069.8000000000466,
+      "photoReadMs": 214.90000000002328,
+      "pngEncodeMs": 17.800000000046566,
+      "recognitionMs": 383.89999999990687
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 4966.699999999255,
+      "bodyDownloadMs": 1114.3000000000466,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "catball"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "carry-play",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "catball"
+          ]
+        }
+      ],
+      "composeMs": 8.199999999953434,
+      "composites": 22,
+      "draws": 798,
+      "pageDrawMs": 8274.099999998347
+    },
+    "text": "我有一个红球。",
+    "textRect": {
+      "bottom": 590.21875,
+      "height": 77.96875,
+      "left": 462.53125,
+      "right": 806.6979370117188,
+      "top": 512.25,
+      "width": 344.16668701171875,
+      "x": 462.53125,
+      "y": 512.25
+    }
+  },
+  {
+    "book": "catball",
+    "dataset": {
+      "actorCacheId": "11",
+      "art": "catball",
+      "artState": "ready",
+      "camera": "{\"x\":11.363636363636374,\"y\":0,\"width\":977.2727272727273,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "1",
+      "portraitScale": "0.42889683837095727",
+      "pose": "carry-play",
+      "reflectionActor": "",
+      "scene": "cat-play-wide",
+      "storyBeat": "show-yellow-ball"
+    },
+    "overflow": false,
+    "page": 1,
+    "paper": {
+      "bottom": 641.3229217529297,
+      "height": 564.65625,
+      "left": 441.0208435058594,
+      "right": 838.9687805175781,
+      "top": 76.66667175292969,
+      "width": 397.9479370117187,
+      "x": 441.0208435058594,
+      "y": 76.66667175292969
+    },
+    "photoTiming": {
+      "cutoutMs": 1069.8000000000466,
+      "photoReadMs": 214.90000000002328,
+      "pngEncodeMs": 17.800000000046566,
+      "recognitionMs": 383.89999999990687
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 4966.699999999255,
+      "bodyDownloadMs": 1114.3000000000466,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "catball"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "carry-play",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "catball"
+          ]
+        }
+      ],
+      "composeMs": 8.199999999953434,
+      "composites": 22,
+      "draws": 799,
+      "pageDrawMs": 8274.2999999983
+    },
+    "text": "我有一个黄球。",
+    "textRect": {
+      "bottom": 590.21875,
+      "height": 77.96875,
+      "left": 473.28125,
+      "right": 817.4479370117188,
+      "top": 512.25,
+      "width": 344.16668701171875,
+      "x": 473.28125,
+      "y": 512.25
+    }
+  },
+  {
+    "book": "catball",
+    "dataset": {
+      "actorCacheId": "7",
+      "art": "catball",
+      "artState": "ready",
+      "camera": "{\"x\":11.363636363636374,\"y\":0,\"width\":977.2727272727273,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "2",
+      "portraitScale": "0.42889683837095727",
+      "pose": "crouch-book",
+      "reflectionActor": "",
+      "scene": "cat-offer-close",
+      "storyBeat": "ask-the-cat"
+    },
+    "overflow": false,
+    "page": 2,
+    "paper": {
+      "bottom": 641.3229217529297,
+      "height": 564.65625,
+      "left": 441.0208435058594,
+      "right": 838.9687805175781,
+      "top": 76.66667175292969,
+      "width": 397.9479370117187,
+      "x": 441.0208435058594,
+      "y": 76.66667175292969
+    },
+    "photoTiming": {
+      "cutoutMs": 1069.8000000000466,
+      "photoReadMs": 214.90000000002328,
+      "pngEncodeMs": 17.800000000046566,
+      "recognitionMs": 383.89999999990687
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 4966.699999999255,
+      "bodyDownloadMs": 1114.3000000000466,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "catball"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "carry-play",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "catball"
+          ]
+        }
+      ],
+      "composeMs": 8.199999999953434,
+      "composites": 22,
+      "draws": 800,
+      "pageDrawMs": 8274.59999999823
+    },
+    "text": "小猫，你要小球吗？",
+    "textRect": {
+      "bottom": 590.21875,
+      "height": 77.96875,
+      "left": 462.53125,
+      "right": 806.6979370117188,
+      "top": 512.25,
+      "width": 344.16668701171875,
+      "x": 462.53125,
+      "y": 512.25
+    }
+  },
+  {
+    "book": "catball",
+    "dataset": {
+      "actorCacheId": "7",
+      "art": "catball",
+      "artState": "ready",
+      "camera": "{\"x\":11.363636363636374,\"y\":0,\"width\":977.2727272727273,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "3",
+      "portraitScale": "0.42889683837095727",
+      "pose": "crouch-book",
+      "reflectionActor": "",
+      "scene": "cat-offer-close",
+      "storyBeat": "offer-red"
+    },
+    "overflow": false,
+    "page": 3,
+    "paper": {
+      "bottom": 641.3229217529297,
+      "height": 564.65625,
+      "left": 441.0208435058594,
+      "right": 838.9687805175781,
+      "top": 76.66667175292969,
+      "width": 397.9479370117187,
+      "x": 441.0208435058594,
+      "y": 76.66667175292969
+    },
+    "photoTiming": {
+      "cutoutMs": 1069.8000000000466,
+      "photoReadMs": 214.90000000002328,
+      "pngEncodeMs": 17.800000000046566,
+      "recognitionMs": 383.89999999990687
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 4966.699999999255,
+      "bodyDownloadMs": 1114.3000000000466,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "catball"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "carry-play",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "catball"
+          ]
+        }
+      ],
+      "composeMs": 8.199999999953434,
+      "composites": 22,
+      "draws": 801,
+      "pageDrawMs": 8275.399999998277
+    },
+    "text": "红球给你。",
+    "textRect": {
+      "bottom": 590.21875,
+      "height": 77.96875,
+      "left": 473.28125,
+      "right": 817.4479370117188,
+      "top": 512.25,
+      "width": 344.16668701171875,
+      "x": 473.28125,
+      "y": 512.25
+    }
+  },
+  {
+    "book": "catball",
+    "dataset": {
+      "actorCacheId": "7",
+      "art": "catball",
+      "artState": "ready",
+      "camera": "{\"x\":11.363636363636374,\"y\":0,\"width\":977.2727272727273,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "4",
+      "portraitScale": "0.42889683837095727",
+      "pose": "crouch-book",
+      "reflectionActor": "",
+      "scene": "cat-offer-close",
+      "storyBeat": "offer-yellow"
+    },
+    "overflow": false,
+    "page": 4,
+    "paper": {
+      "bottom": 641.3229217529297,
+      "height": 564.65625,
+      "left": 441.0208435058594,
+      "right": 838.9687805175781,
+      "top": 76.66667175292969,
+      "width": 397.9479370117187,
+      "x": 441.0208435058594,
+      "y": 76.66667175292969
+    },
+    "photoTiming": {
+      "cutoutMs": 1069.8000000000466,
+      "photoReadMs": 214.90000000002328,
+      "pngEncodeMs": 17.800000000046566,
+      "recognitionMs": 383.89999999990687
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 4966.699999999255,
+      "bodyDownloadMs": 1114.3000000000466,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "catball"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "carry-play",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "catball"
+          ]
+        }
+      ],
+      "composeMs": 8.199999999953434,
+      "composites": 22,
+      "draws": 802,
+      "pageDrawMs": 8275.59999999823
+    },
+    "text": "黄球也给你。",
+    "textRect": {
+      "bottom": 590.21875,
+      "height": 77.96875,
+      "left": 462.53125,
+      "right": 806.6979370117188,
+      "top": 512.25,
+      "width": 344.16668701171875,
+      "x": 462.53125,
+      "y": 512.25
+    }
+  },
+  {
+    "book": "catball",
+    "dataset": {
+      "actorCacheId": "7",
+      "art": "catball",
+      "artState": "ready",
+      "camera": "{\"x\":11.363636363636374,\"y\":0,\"width\":977.2727272727273,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "5",
+      "portraitScale": "0.42889683837095727",
+      "pose": "crouch-book",
+      "reflectionActor": "",
+      "scene": "cat-offer-close",
+      "storyBeat": "cat-waits-beside-still-balls"
+    },
+    "overflow": false,
+    "page": 5,
+    "paper": {
+      "bottom": 641.3229217529297,
+      "height": 564.65625,
+      "left": 441.0208435058594,
+      "right": 838.9687805175781,
+      "top": 76.66667175292969,
+      "width": 397.9479370117187,
+      "x": 441.0208435058594,
+      "y": 76.66667175292969
+    },
+    "photoTiming": {
+      "cutoutMs": 1069.8000000000466,
+      "photoReadMs": 214.90000000002328,
+      "pngEncodeMs": 17.800000000046566,
+      "recognitionMs": 383.89999999990687
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 4966.699999999255,
+      "bodyDownloadMs": 1114.3000000000466,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "catball"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "carry-play",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "catball"
+          ]
+        }
+      ],
+      "composeMs": 8.199999999953434,
+      "composites": 22,
+      "draws": 803,
+      "pageDrawMs": 8275.999999998254
+    },
+    "text": "小猫不要红球，也不要黄球。",
+    "textRect": {
+      "bottom": 590.21875,
+      "height": 77.96875,
+      "left": 473.28125,
+      "right": 817.4479370117188,
+      "top": 512.25,
+      "width": 344.16668701171875,
+      "x": 473.28125,
+      "y": 512.25
+    }
+  },
+  {
+    "book": "catball",
+    "dataset": {
+      "actorCacheId": "10",
+      "art": "catball",
+      "artState": "ready",
+      "camera": "{\"x\":11.363636363636374,\"y\":0,\"width\":977.2727272727273,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "6",
+      "portraitScale": "0.42889683837095727",
+      "pose": "crouch-touch",
+      "reflectionActor": "",
+      "scene": "cat-rolling-side",
+      "storyBeat": "hand-starts-the-ball"
+    },
+    "overflow": false,
+    "page": 6,
+    "paper": {
+      "bottom": 641.3229217529297,
+      "height": 564.65625,
+      "left": 441.0208435058594,
+      "right": 838.9687805175781,
+      "top": 76.66667175292969,
+      "width": 397.9479370117187,
+      "x": 441.0208435058594,
+      "y": 76.66667175292969
+    },
+    "photoTiming": {
+      "cutoutMs": 1069.8000000000466,
+      "photoReadMs": 214.90000000002328,
+      "pngEncodeMs": 17.800000000046566,
+      "recognitionMs": 383.89999999990687
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 4966.699999999255,
+      "bodyDownloadMs": 1114.3000000000466,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "catball"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "carry-play",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "catball"
+          ]
+        }
+      ],
+      "composeMs": 8.199999999953434,
+      "composites": 22,
+      "draws": 804,
+      "pageDrawMs": 8276.199999998324
+    },
+    "text": "小球来，小球去。",
+    "textRect": {
+      "bottom": 590.21875,
+      "height": 77.96875,
+      "left": 462.53125,
+      "right": 806.6979370117188,
+      "top": 512.25,
+      "width": 344.16668701171875,
+      "x": 462.53125,
+      "y": 512.25
+    }
+  },
+  {
+    "book": "catball",
+    "dataset": {
+      "actorCacheId": "7",
+      "art": "catball",
+      "artState": "ready",
+      "camera": "{\"x\":11.363636363636374,\"y\":0,\"width\":977.2727272727273,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "7",
+      "portraitScale": "0.42889683837095727",
+      "pose": "crouch-book",
+      "reflectionActor": "",
+      "scene": "cat-rolling-side",
+      "storyBeat": "cat-comes-to-play"
+    },
+    "overflow": false,
+    "page": 7,
+    "paper": {
+      "bottom": 641.3229217529297,
+      "height": 564.65625,
+      "left": 441.0208435058594,
+      "right": 838.9687805175781,
+      "top": 76.66667175292969,
+      "width": 397.9479370117187,
+      "x": 441.0208435058594,
+      "y": 76.66667175292969
+    },
+    "photoTiming": {
+      "cutoutMs": 1069.8000000000466,
+      "photoReadMs": 214.90000000002328,
+      "pngEncodeMs": 17.800000000046566,
+      "recognitionMs": 383.89999999990687
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 4966.699999999255,
+      "bodyDownloadMs": 1114.3000000000466,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "catball"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "carry-play",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "catball"
+          ]
+        }
+      ],
+      "composeMs": 8.199999999953434,
+      "composites": 22,
+      "draws": 805,
+      "pageDrawMs": 8276.699999998324
+    },
+    "text": "小猫来了！小猫要和我玩！",
+    "textRect": {
+      "bottom": 590.21875,
+      "height": 77.96875,
+      "left": 473.28125,
+      "right": 817.4479370117188,
+      "top": 512.25,
+      "width": 344.16668701171875,
+      "x": 473.28125,
+      "y": 512.25
+    }
+  }
+]

@@ -1,0 +1,648 @@
+{
+  "title": "第一级30篇完整文案·待确认稿",
+  "status": "text-draft-awaiting-user-review",
+  "basis": "以当前书架旧序1—20及同序后续21—30原稿为基础，合入用户逐条指出的问题；未使用已撤回的v9。",
+  "numbering": "已重排并按用户指定调整：原第7篇→新第5篇，原第5篇→新第6篇，原第6篇→新第7篇；原第27篇仍为新第8篇。oldNumber始终指最初篇号。",
+  "example": {
+    "name": "小石头",
+    "age": 5,
+    "className": "大班",
+    "family": [
+      "爸爸",
+      "妈妈",
+      "孩子"
+    ]
+  },
+  "firstTwoPreserved": true,
+  "thirdStorySimplified": true,
+  "illustrationsGenerated": 0,
+  "shelfReplaced": false,
+  "pdfRegenerated": false,
+  "productionChanges": [
+    "第3篇动态家庭正文已同步阅读及后续打印数据源",
+    "已完成绘本第5—7篇仅换序，正文和插画资源未改"
+  ],
+  "draftOnlyChanges": [
+    23,
+    30
+  ],
+  "layout": "paragraphs仅为阅读分段，不是固定A5页码。",
+  "approval": {
+    "confirmedBooks": [],
+    "history": []
+  },
+  "wordingChanges": [
+    {
+      "number": 3,
+      "oldNumber": 3,
+      "before": [
+        "我家有几口人？我来数一数。",
+        "这是爸爸。",
+        "这是妈妈。",
+        "我数好了！一共有两口人。",
+        "咦？我把谁忘了？",
+        "是我呀！还要加上我。",
+        "我家有三口人。我们都在家！"
+      ],
+      "after": [
+        "我家有几口人？",
+        "这是爸爸。",
+        "这是妈妈。",
+        "还有我！",
+        "我家有三口人。",
+        "我们都在家！"
+      ]
+    },
+    {
+      "number": 23,
+      "oldNumber": 26,
+      "before": [
+        "我有两张纸，一张长，一张短。",
+        "小车在这边，小车的家在那边。",
+        "我要给小车做条回家的路。",
+        "我把短纸放在地上。",
+        "太短了，还没到家门口。",
+        "我拿走短纸，放上长纸。",
+        "这回，纸路到家门口了！",
+        "我把小车放在纸上，推到家门口。",
+        "“小车回家了！”"
+      ],
+      "after": [
+        "我有两张纸，一张长，一张短。",
+        "我要给小车画条回家的路。",
+        "我在短纸上画了路。",
+        "小车开到路的头，还没到家门口。",
+        "我把长纸接上，把路也画过去。",
+        "这回，路到家门口了！",
+        "我推着小车，快到家门口了。",
+        "小猫来了，在路上坐下了。",
+        "“小猫，你挡住路了！”"
+      ]
+    },
+    {
+      "number": 30,
+      "oldNumber": 30,
+      "before": [
+        "我画了一条小鱼。",
+        "“小鱼，你的家在哪？”",
+        "我给小鱼画水。",
+        "我再画水中的草和小石头。",
+        "“小鱼，这是你的新家！”",
+        "我把自己画在水边。",
+        "“这回，我也来和你玩！”"
+      ],
+      "after": [
+        "我画了一条小鱼。",
+        "“小鱼，你的家在哪？”",
+        "我给小鱼画水。",
+        "我再画水中的草和小石头。",
+        "“小鱼，这是你的新家！”",
+        "我把自己画在水边。",
+        "“小鱼，我来和你玩！”"
+      ]
+    }
+  ],
+  "books": [
+    {
+      "number": 1,
+      "title": "你好，我是CHILD",
+      "paragraphs": [
+        "你好！我是CHILD。",
+        "我的名字叫CHILD。",
+        "你的名字是什么呢？",
+        "我五岁了。你几岁呢？",
+        "我上大班了。",
+        "你也是吗？"
+      ],
+      "oldNumber": 1,
+      "stage": "起步共读",
+      "orderingReason": "保留自我介绍开场，姓名、年龄、班级使用当前示例；不把前三篇的出现字视为已经掌握。",
+      "status": "awaiting-user-confirmation",
+      "userDecision": null
+    },
+    {
+      "number": 2,
+      "title": "我的花",
+      "paragraphs": [
+        "我的小花。",
+        "我的花有好多片。",
+        "一片两片三四片，",
+        "五片六片七八片，",
+        "九片十片十一片，",
+        "飞入草丛都不见。"
+      ],
+      "oldNumber": 2,
+      "stage": "起步共读",
+      "orderingReason": "保留数花片的儿歌，与前后故事体裁区分，按原起步位置共读。",
+      "status": "awaiting-user-confirmation",
+      "userDecision": null
+    },
+    {
+      "number": 3,
+      "title": "我家有几口人？",
+      "paragraphs": [
+        "我家有几口人？",
+        "这是爸爸。",
+        "这是妈妈。",
+        "还有我！",
+        "我家有三口人。",
+        "我们都在家！"
+      ],
+      "oldNumber": 3,
+      "stage": "起步共读",
+      "orderingReason": "按用户要求删掉数一数、数好了和咦等话术，直接认识家人、加上我，最后呈现全家；人数跟随家庭设置。",
+      "status": "awaiting-user-confirmation",
+      "userDecision": null
+    },
+    {
+      "number": 4,
+      "title": "我的小手",
+      "paragraphs": [
+        "我有两只小手。",
+        "我用小手做小花。",
+        "小手开，小花开。",
+        "小手合上，小花不见了。",
+        "小手开，小花开。",
+        "你的小花开了吗？"
+      ],
+      "oldNumber": 4,
+      "stage": "直接动作与反复短句",
+      "orderingReason": "用手开合做花，动作可直接演示，反复句先建立读句节奏。",
+      "status": "awaiting-user-confirmation",
+      "userDecision": null
+    },
+    {
+      "number": 5,
+      "title": "山不见了",
+      "paragraphs": [
+        "山上有白云。",
+        "白云来了，山不见了。",
+        "“山呢？”",
+        "风来了，云走了。",
+        "山出来了！",
+        "山没有走，是云走了！"
+      ],
+      "oldNumber": 7,
+      "stage": "直接动作与反复短句",
+      "orderingReason": "按用户指定从第7篇前移到第5篇；山、云、风在同一视野里变化，正文不改。",
+      "status": "awaiting-user-confirmation",
+      "userDecision": null
+    },
+    {
+      "number": 6,
+      "title": "下雨了",
+      "paragraphs": [
+        "下雨了！",
+        "小伞开了。我在伞下。",
+        "小花在雨中。",
+        "“小花，来！”小花不来。",
+        "“花不来，我去！”",
+        "我在伞下，小花也在伞下。",
+        "雨在伞上，伞下有我，也有花。"
+      ],
+      "oldNumber": 5,
+      "stage": "直接动作与反复短句",
+      "orderingReason": "按用户指定从第5篇移到第6篇；雨中、伞下和孩子走过去的单一步骤，正文不改。",
+      "status": "awaiting-user-confirmation",
+      "userDecision": null
+    },
+    {
+      "number": 7,
+      "title": "小石头回家",
+      "paragraphs": [
+        "大石头下，有小石头。",
+        "这是小石头的家。",
+        "我拿起小石头。",
+        "我走，小石头也走。",
+        "我要回家了。",
+        "我把小石头放回大石头下。",
+        "“小石头，你回家了！”",
+        "我也回家了。"
+      ],
+      "oldNumber": 6,
+      "stage": "直接动作与反复短句",
+      "orderingReason": "按用户指定从第6篇移到第7篇；拿起、带走、放回同一块石头，正文不改。",
+      "status": "awaiting-user-confirmation",
+      "userDecision": null
+    },
+    {
+      "number": 8,
+      "title": "小虫过小山",
+      "paragraphs": [
+        "我在山下，小虫也在山下。",
+        "我上山，小虫也上山。",
+        "我下山了，小虫在山上。",
+        "我坐下来，看小虫。",
+        "小虫过了小山。",
+        "我坐在山下，小虫走了。",
+        "“小虫，我也来！”",
+        "我也走了。"
+      ],
+      "oldNumber": 27,
+      "stage": "直接动作与反复短句",
+      "orderingReason": "复现已读过的山、上、下、走，加入虫、坐、看、过，保留短句和重复结构。",
+      "status": "awaiting-user-confirmation",
+      "userDecision": null
+    },
+    {
+      "number": 9,
+      "title": "小车回家",
+      "paragraphs": [
+        "小车的家，有两个门。",
+        "一个入口，一个出口。",
+        "我开小车，从入口进去，从出口出来。",
+        "我不玩了，小车也要回家。",
+        "我把小车开回家，关上门。"
+      ],
+      "oldNumber": 8,
+      "stage": "同场景观察与位置",
+      "orderingReason": "玩具车进入、出来和收好，先在一个场景里认识入口、出口。",
+      "status": "awaiting-user-confirmation",
+      "userDecision": null
+    },
+    {
+      "number": 10,
+      "title": "小球在哪",
+      "paragraphs": [
+        "我要和小球玩。小球在哪？",
+        "我在家里找小球，没有看见。",
+        "我去小山上找。山上有小石头，没有小球。",
+        "我去小车里找。车里也没有。",
+        "我回家一看，小球在门后！",
+        "“小球，你在这里呀！”"
+      ],
+      "oldNumber": 9,
+      "stage": "同场景观察与位置",
+      "orderingReason": "复现山、石、车，依次找球并在门后找到，首次出现位置和寻找词较少。",
+      "status": "awaiting-user-confirmation",
+      "userDecision": null
+    },
+    {
+      "number": 11,
+      "title": "我和小树谁高",
+      "paragraphs": [
+        "小树，你好！",
+        "我和小树，谁高？",
+        "小树高，我不高。",
+        "我站在小石头上。",
+        "“这回，我高！”",
+        "我下来，小树又高了。",
+        "我看看脚下的小石头，笑了。"
+      ],
+      "oldNumber": 11,
+      "stage": "同场景观察与位置",
+      "orderingReason": "站上石头、下来再比高，实际动作提供高低对照，不说真的长高。",
+      "status": "awaiting-user-confirmation",
+      "userDecision": null
+    },
+    {
+      "number": 12,
+      "title": "水中的我",
+      "paragraphs": [
+        "水中有天，有云，也有我。",
+        "我走，水中的我也走。",
+        "我不走，水中的我也不走。",
+        "我把小手放入水中。",
+        "水动了，水中的我不见了！",
+        "我把小手拿出来，不动了。",
+        "等一等，水中的我回来了。",
+        "“你好，水中的我！”"
+      ],
+      "oldNumber": 10,
+      "stage": "同场景观察与位置",
+      "orderingReason": "先观察水中影像跟随动作，再触水、拿手、等待恢复，因果比位置观察稍多。",
+      "status": "awaiting-user-confirmation",
+      "userDecision": null
+    },
+    {
+      "number": 13,
+      "title": "谁在叫",
+      "paragraphs": [
+        "我听见叫声。谁在叫？",
+        "我看看树上，是小鸟在叫。",
+        "“小鸟，下来和我玩！”",
+        "小鸟不叫了。谁又在叫？",
+        "我看看树下，是小猫在叫。",
+        "“小猫，你也来！”",
+        "小鸟呢？小鸟不在树上了。",
+        "我一看，小鸟在小车上！",
+        "“小鸟，你也来了！”"
+      ],
+      "oldNumber": 12,
+      "stage": "同场景观察与位置",
+      "orderingReason": "先用听见叫声建立声音来源，再看树上、树下与鸟的新位置，补足听觉语境。",
+      "status": "awaiting-user-confirmation",
+      "userDecision": null
+    },
+    {
+      "number": 14,
+      "title": "小猫要小球吗",
+      "paragraphs": [
+        "我有一个红球。",
+        "我有一个黄球。",
+        "“小猫，你要小球吗？”",
+        "“红球给你。黄球也给你。”",
+        "小猫不来玩。",
+        "我把小球推过去。",
+        "小猫跑来了！",
+        "我和小猫一起玩！"
+      ],
+      "oldNumber": 13,
+      "stage": "同场景观察与位置",
+      "orderingReason": "在已知猫、球基础上认识颜色和推球，明确我推、猫跑来的动作。",
+      "status": "awaiting-user-confirmation",
+      "userDecision": null
+    },
+    {
+      "number": 15,
+      "title": "小猫的床",
+      "paragraphs": [
+        "这是小猫的床。",
+        "小猫想睡了。",
+        "床上有小球，我把小球拿出来。",
+        "床上还有小车，我把小车也拿出来。",
+        "小球、小车都放好了。",
+        "“小猫，睡吧。”",
+        "小猫上了床，睡了。"
+      ],
+      "oldNumber": 19,
+      "stage": "生活任务与等待",
+      "orderingReason": "拿出两件已知玩具，让猫睡觉；先引入床、想、睡，为晚睡和早起准备。",
+      "status": "awaiting-user-confirmation",
+      "userDecision": null
+    },
+    {
+      "number": 16,
+      "title": "大鞋和小鞋",
+      "paragraphs": [
+        "这是我的小鞋。",
+        "这是大人的鞋，我也要穿。",
+        "我穿上大鞋。",
+        "我一走，小脚从大鞋里出来了！",
+        "我穿好小鞋。",
+        "这回，小脚和小鞋一起走。"
+      ],
+      "oldNumber": 14,
+      "stage": "生活任务与等待",
+      "orderingReason": "复现脚、走和出来，认识穿鞋；鞋不按孩子性别绑定主人。",
+      "status": "awaiting-user-confirmation",
+      "userDecision": null
+    },
+    {
+      "number": 17,
+      "title": "我还不想睡",
+      "paragraphs": [
+        "天晚了，我还不想睡。",
+        "“小鸟，来和我玩！”",
+        "小鸟在树上睡了。",
+        "“小猫，来和我玩！”",
+        "小猫在小床上睡了。",
+        "我把小车放好：“小车，你也睡吧。”",
+        "好吧，我也要睡了。"
+      ],
+      "oldNumber": 20,
+      "stage": "生活任务与等待",
+      "orderingReason": "复现鸟、猫、床、睡和收车，只新增少量用字，给前段动作词一次巩固。",
+      "status": "awaiting-user-confirmation",
+      "userDecision": null
+    },
+    {
+      "number": 18,
+      "title": "早上好",
+      "paragraphs": [
+        "今天，我早早起来了。",
+        "我要和爸爸出门玩。",
+        "我穿好衣服，穿好鞋。",
+        "爸爸还在睡！",
+        "“爸爸，快起来！我都穿好了！”",
+        "爸爸起来了，也去穿衣服、穿鞋。",
+        "我在门口等爸爸。",
+        "爸爸穿好了，我们一起出门。"
+      ],
+      "oldNumber": 21,
+      "stage": "生活任务与等待",
+      "orderingReason": "接在睡前篇后，复现穿鞋、等候，讲孩子先准备好、爸爸后起床的角色变化。",
+      "status": "awaiting-user-confirmation",
+      "userDecision": null
+    },
+    {
+      "number": 19,
+      "title": "这水太热了",
+      "paragraphs": [
+        "我想喝水。",
+        "这水太热了，我还不能喝。",
+        "我把水放好，等一等。",
+        "水不热了！这回，我能喝了。",
+        "我喝一口，再喝一口。"
+      ],
+      "oldNumber": 24,
+      "stage": "生活任务与等待",
+      "orderingReason": "复现水和等，只写一杯水由太热到能喝，不并入冷水和浇花支线。",
+      "status": "awaiting-user-confirmation",
+      "userDecision": null
+    },
+    {
+      "number": 20,
+      "title": "小花喝水",
+      "paragraphs": [
+        "“小花，你要喝水吗？”",
+        "我给小花喝水。",
+        "一点，再一点。",
+        "水多了，流到我的脚上。",
+        "“我的脚湿了！”",
+        "我不再加水。",
+        "“小花，你喝好了，我要去洗脚了。”"
+      ],
+      "oldNumber": 15,
+      "stage": "生活任务与等待",
+      "orderingReason": "从人喝水到给花喝水，加入水多、脚湿和另去洗脚的连续变化。",
+      "status": "awaiting-user-confirmation",
+      "userDecision": null
+    },
+    {
+      "number": 21,
+      "title": "小球也要走",
+      "paragraphs": [
+        "我把小球放在小车前。",
+        "我推小车，小车推着小球走。",
+        "我把小球放在小车后。",
+        "我推小车，小球没有动。",
+        "我把小车拿回来，把小球放进去。",
+        "我再推小车，小球也一起走了！"
+      ],
+      "oldNumber": 16,
+      "stage": "多步操作与对话",
+      "orderingReason": "在车和球已经熟悉的语境中比较前、后、里面三种摆放，增加步骤而少增字。",
+      "status": "awaiting-user-confirmation",
+      "userDecision": null
+    },
+    {
+      "number": 22,
+      "title": "小纸片飞了",
+      "paragraphs": [
+        "我有一片红纸。",
+        "风来了，小纸片飞了！",
+        "纸片飞到左边，我跑到左边。",
+        "纸片飞到右边，我又跑到右边。",
+        "小纸片下来了，我把它拿回来。",
+        "我拿小石头压住纸片。",
+        "风又来了，纸片不飞了！",
+        "“这回，我不用跑了！”"
+      ],
+      "oldNumber": 17,
+      "stage": "多步操作与对话",
+      "orderingReason": "先复现拿、放、石头和跑，再读左右与压住纸片这个解决动作。",
+      "status": "awaiting-user-confirmation",
+      "userDecision": null
+    },
+    {
+      "number": 23,
+      "title": "长纸和短纸",
+      "paragraphs": [
+        "我有两张纸，一张长，一张短。",
+        "我要给小车画条回家的路。",
+        "我在短纸上画了路。",
+        "小车开到路的头，还没到家门口。",
+        "我把长纸接上，把路也画过去。",
+        "这回，路到家门口了！",
+        "我推着小车，快到家门口了。",
+        "小猫来了，在路上坐下了。",
+        "“小猫，你挡住路了！”"
+      ],
+      "oldNumber": 26,
+      "stage": "多步操作与对话",
+      "orderingReason": "改为在纸上画回家的路，接长纸延长道路；小猫坐在路上挡车，形成可见的小意外。没有纸桥承重情节。",
+      "status": "awaiting-user-confirmation",
+      "userDecision": null
+    },
+    {
+      "number": 24,
+      "title": "大果子和小果子",
+      "paragraphs": [
+        "我有两个果子，一个大，一个小。",
+        "朋友来我家玩。",
+        "我说：“大的给你，小的给我。”",
+        "我把大果子给朋友。",
+        "朋友吃了一口：“真好吃！”",
+        "我也吃一口：“小的也好吃！”"
+      ],
+      "oldNumber": 18,
+      "stage": "多步操作与对话",
+      "orderingReason": "加入朋友和双方说话，明确果子给谁、谁吃哪一个；不反复来去。",
+      "status": "awaiting-user-confirmation",
+      "userDecision": null
+    },
+    {
+      "number": 25,
+      "title": "看日出",
+      "paragraphs": [
+        "今天，我来看日出。",
+        "天还黑着，小鸟还没有叫。",
+        "天边红了。",
+        "太阳出来了！",
+        "我听见小鸟叫，我也笑了。",
+        "“小鸟，早上好！”",
+        "明天，我还来看日出。"
+      ],
+      "oldNumber": 22,
+      "stage": "迁移观察与尝试创作",
+      "orderingReason": "复现早上、天、鸟、听与红色，观察由天黑到太阳出来，结尾明确是我明天再来。",
+      "status": "awaiting-user-confirmation",
+      "userDecision": null
+    },
+    {
+      "number": 26,
+      "title": "水中的月亮",
+      "paragraphs": [
+        "天上有月亮，水中也有月亮。",
+        "小兔在水边，我也在水边。",
+        "风来了，水动了。",
+        "水中的月亮不见了！",
+        "“月亮，你在哪？”",
+        "我看看天上。月亮还在！",
+        "我和小兔等一等。",
+        "水不动了，水中的月亮又回来了。"
+      ],
+      "oldNumber": 23,
+      "stage": "迁移观察与尝试创作",
+      "orderingReason": "把水中影像的观察迁移到月亮，虽然新增较少，仍因推理而安排在后段。",
+      "status": "awaiting-user-confirmation",
+      "userDecision": null
+    },
+    {
+      "number": 27,
+      "title": "我和小兔",
+      "paragraphs": [
+        "我看小白兔。",
+        "小兔的耳朵长长的，我的耳朵小小的。",
+        "小鸟在叫，小兔在听，我也在听。",
+        "小兔的眼睛红红的，我的眼睛黑黑的。",
+        "我笑了，小兔看见了我的牙。",
+        "“小兔，你的牙呢？”",
+        "我拿一片菜叶给小兔。",
+        "小兔一吃，我也看见了它的小牙！"
+      ],
+      "oldNumber": 28,
+      "stage": "迁移观察与尝试创作",
+      "orderingReason": "兔子已先出现；完整读耳朵、眼睛，再通过给菜叶看牙，含双主体观察和问答。",
+      "status": "awaiting-user-confirmation",
+      "userDecision": null
+    },
+    {
+      "number": 28,
+      "title": "我跳过去了",
+      "paragraphs": [
+        "小兔会跳，我也要学。",
+        "小兔跳过小石头。",
+        "我跳了一下，没有过去。",
+        "小石头太高了。",
+        "我把小纸片放在地上。",
+        "“我先跳过小纸片吧。”",
+        "我跳！这回，我过去了！",
+        "“小兔，你看，我跳过去了！”"
+      ],
+      "oldNumber": 29,
+      "stage": "迁移观察与尝试创作",
+      "orderingReason": "复现兔、石头、高、纸和过，理解失败后换一个较容易目标再试。",
+      "status": "awaiting-user-confirmation",
+      "userDecision": null
+    },
+    {
+      "number": 29,
+      "title": "我画的家",
+      "paragraphs": [
+        "我给小火车画个家。",
+        "家有一个小门。",
+        "我还要在门里画小火车。",
+        "门太小，画不下！",
+        "我再画一个大门。",
+        "我把小火车画在大门里。",
+        "门外有绿树，树下有红花。",
+        "“小火车，这是你的家！”"
+      ],
+      "oldNumber": 25,
+      "stage": "迁移观察与尝试创作",
+      "orderingReason": "从操作实物过渡到画中的空间，门小画不下，补画大门再把火车画进去。",
+      "status": "awaiting-user-confirmation",
+      "userDecision": null
+    },
+    {
+      "number": 30,
+      "title": "小鱼的新家",
+      "paragraphs": [
+        "我画了一条小鱼。",
+        "“小鱼，你的家在哪？”",
+        "我给小鱼画水。",
+        "我再画水中的草和小石头。",
+        "“小鱼，这是你的新家！”",
+        "我把自己画在水边。",
+        "“小鱼，我来和你玩！”"
+      ],
+      "oldNumber": 30,
+      "stage": "迁移观察与尝试创作",
+      "orderingReason": "接续画画，复现水、草、石头和家，再把自己画在水边，作为综合运用。",
+      "status": "awaiting-user-confirmation",
+      "userDecision": null
+    }
+  ]
+}

@@ -1,0 +1,714 @@
+[
+  {
+    "book": "catbed",
+    "dataset": {
+      "actorCacheId": "2",
+      "art": "catbed",
+      "artState": "ready",
+      "camera": "{\"x\":11.363636363636374,\"y\":0,\"width\":977.2727272727273,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "0",
+      "portraitScale": "0.26155187445510025",
+      "pose": "hands-flower-open",
+      "reflectionActor": "",
+      "scene": "bed-room-wide",
+      "sceneGeometry": "{\"paper\":null,\"stone\":null,\"wind\":null,\"small\":null,\"big\":null,\"bed\":{\"x\":440,\"ground\":955,\"width\":320},\"cat\":null,\"ball\":null,\"car\":null,\"sleeping\":false}",
+      "storyBeat": "this-is-the-cats-bed"
+    },
+    "overflow": false,
+    "page": 0,
+    "paper": {
+      "bottom": 641.3229217529297,
+      "height": 564.65625,
+      "left": 441.0208435058594,
+      "right": 838.9687805175781,
+      "top": 76.66667175292969,
+      "width": 397.9479370117187,
+      "x": 441.0208435058594,
+      "y": 76.66667175292969
+    },
+    "photoTiming": {
+      "cutoutMs": null,
+      "photoReadMs": null,
+      "pngEncodeMs": null,
+      "recognitionMs": null
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 7949.7999999932945,
+      "bodyDownloadMs": 344.0000000037253,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "catbed"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "step-own-shoes",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "catbed"
+          ]
+        }
+      ],
+      "composeMs": 4.799999997019768,
+      "composites": 10,
+      "draws": 363,
+      "pageDrawMs": 2986.800000017509
+    },
+    "text": "这是小猫的床。",
+    "textRect": {
+      "bottom": 590.21875,
+      "height": 77.96875,
+      "left": 462.53125,
+      "right": 806.6979370117188,
+      "top": 512.25,
+      "width": 344.16668701171875,
+      "x": 462.53125,
+      "y": 512.25
+    }
+  },
+  {
+    "book": "catbed",
+    "dataset": {
+      "actorCacheId": "",
+      "art": "catbed",
+      "artState": "ready",
+      "camera": "{\"x\":11.363636363636374,\"y\":0,\"width\":977.2727272727273,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "1",
+      "portraitScale": "",
+      "pose": "none",
+      "reflectionActor": "",
+      "scene": "bed-room-low",
+      "sceneGeometry": "{\"paper\":null,\"stone\":null,\"wind\":null,\"small\":null,\"big\":null,\"bed\":{\"x\":440,\"ground\":955,\"width\":320},\"cat\":{\"key\":\"cat-drowsy\",\"x\":800,\"ground\":950,\"width\":165},\"ball\":null,\"car\":null,\"sleeping\":false}",
+      "storyBeat": "cat-wants-to-sleep"
+    },
+    "overflow": false,
+    "page": 1,
+    "paper": {
+      "bottom": 641.3229217529297,
+      "height": 564.65625,
+      "left": 441.0208435058594,
+      "right": 838.9687805175781,
+      "top": 76.66667175292969,
+      "width": 397.9479370117187,
+      "x": 441.0208435058594,
+      "y": 76.66667175292969
+    },
+    "photoTiming": {
+      "cutoutMs": null,
+      "photoReadMs": null,
+      "pngEncodeMs": null,
+      "recognitionMs": null
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 7949.7999999932945,
+      "bodyDownloadMs": 344.0000000037253,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "catbed"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "step-own-shoes",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "catbed"
+          ]
+        }
+      ],
+      "composeMs": 4.799999997019768,
+      "composites": 10,
+      "draws": 364,
+      "pageDrawMs": 2987.600000018254
+    },
+    "text": "小猫想睡了。",
+    "textRect": {
+      "bottom": 590.21875,
+      "height": 77.96875,
+      "left": 473.28125,
+      "right": 817.4479370117188,
+      "top": 512.25,
+      "width": 344.16668701171875,
+      "x": 473.28125,
+      "y": 512.25
+    }
+  },
+  {
+    "book": "catbed",
+    "dataset": {
+      "actorCacheId": "",
+      "art": "catbed",
+      "artState": "ready",
+      "camera": "{\"x\":11.363636363636374,\"y\":0,\"width\":977.2727272727273,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "2",
+      "portraitScale": "",
+      "pose": "none",
+      "reflectionActor": "",
+      "scene": "bed-room-low",
+      "sceneGeometry": "{\"paper\":null,\"stone\":null,\"wind\":null,\"small\":null,\"big\":null,\"bed\":{\"x\":440,\"ground\":955,\"width\":320},\"cat\":{\"key\":\"bed-cat-awake\",\"x\":800,\"ground\":950,\"width\":165},\"ball\":{\"at\":[605,895]},\"car\":null,\"sleeping\":false}",
+      "storyBeat": "ball-is-on-the-bed"
+    },
+    "overflow": false,
+    "page": 2,
+    "paper": {
+      "bottom": 641.3229217529297,
+      "height": 564.65625,
+      "left": 441.0208435058594,
+      "right": 838.9687805175781,
+      "top": 76.66667175292969,
+      "width": 397.9479370117187,
+      "x": 441.0208435058594,
+      "y": 76.66667175292969
+    },
+    "photoTiming": {
+      "cutoutMs": null,
+      "photoReadMs": null,
+      "pngEncodeMs": null,
+      "recognitionMs": null
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 7949.7999999932945,
+      "bodyDownloadMs": 344.0000000037253,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "catbed"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "step-own-shoes",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "catbed"
+          ]
+        }
+      ],
+      "composeMs": 4.799999997019768,
+      "composites": 10,
+      "draws": 365,
+      "pageDrawMs": 2987.8000000193715
+    },
+    "text": "小床上，有小球。",
+    "textRect": {
+      "bottom": 590.21875,
+      "height": 77.96875,
+      "left": 462.53125,
+      "right": 806.6979370117188,
+      "top": 512.25,
+      "width": 344.16668701171875,
+      "x": 462.53125,
+      "y": 512.25
+    }
+  },
+  {
+    "book": "catbed",
+    "dataset": {
+      "actorCacheId": "10",
+      "art": "catbed",
+      "artState": "ready",
+      "camera": "{\"x\":11.363636363636374,\"y\":0,\"width\":977.2727272727273,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "3",
+      "portraitScale": "0.26155187445510025",
+      "pose": "crouch-book",
+      "reflectionActor": "",
+      "scene": "bed-room-low",
+      "sceneGeometry": "{\"paper\":null,\"stone\":null,\"wind\":null,\"small\":null,\"big\":null,\"bed\":{\"x\":440,\"ground\":955,\"width\":320},\"cat\":{\"key\":\"bed-cat-awake\",\"x\":800,\"ground\":950,\"width\":165},\"ball\":{\"at\":\"rightPalm\"},\"car\":null,\"sleeping\":false}",
+      "storyBeat": "child-takes-ball-out"
+    },
+    "overflow": false,
+    "page": 3,
+    "paper": {
+      "bottom": 641.3229217529297,
+      "height": 564.65625,
+      "left": 441.0208435058594,
+      "right": 838.9687805175781,
+      "top": 76.66667175292969,
+      "width": 397.9479370117187,
+      "x": 441.0208435058594,
+      "y": 76.66667175292969
+    },
+    "photoTiming": {
+      "cutoutMs": null,
+      "photoReadMs": null,
+      "pngEncodeMs": null,
+      "recognitionMs": null
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 7949.7999999932945,
+      "bodyDownloadMs": 344.0000000037253,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "catbed"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "step-own-shoes",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "catbed"
+          ]
+        }
+      ],
+      "composeMs": 4.799999997019768,
+      "composites": 10,
+      "draws": 366,
+      "pageDrawMs": 2988.200000019744
+    },
+    "text": "我把小球拿出来。",
+    "textRect": {
+      "bottom": 590.21875,
+      "height": 77.96875,
+      "left": 473.28125,
+      "right": 817.4479370117188,
+      "top": 512.25,
+      "width": 344.16668701171875,
+      "x": 473.28125,
+      "y": 512.25
+    }
+  },
+  {
+    "book": "catbed",
+    "dataset": {
+      "actorCacheId": "10",
+      "art": "catbed",
+      "artState": "ready",
+      "camera": "{\"x\":11.363636363636374,\"y\":0,\"width\":977.2727272727273,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "4",
+      "portraitScale": "0.26155187445510025",
+      "pose": "crouch-book",
+      "reflectionActor": "",
+      "scene": "bed-room-wide",
+      "sceneGeometry": "{\"paper\":null,\"stone\":null,\"wind\":null,\"small\":null,\"big\":null,\"bed\":{\"x\":440,\"ground\":955,\"width\":320},\"cat\":{\"key\":\"bed-cat-awake\",\"x\":800,\"ground\":950,\"width\":165},\"ball\":{\"at\":[330,950]},\"car\":{\"x\":495,\"ground\":905,\"width\":220},\"sleeping\":false}",
+      "storyBeat": "child-puts-car-in"
+    },
+    "overflow": false,
+    "page": 4,
+    "paper": {
+      "bottom": 641.3229217529297,
+      "height": 564.65625,
+      "left": 441.0208435058594,
+      "right": 838.9687805175781,
+      "top": 76.66667175292969,
+      "width": 397.9479370117187,
+      "x": 441.0208435058594,
+      "y": 76.66667175292969
+    },
+    "photoTiming": {
+      "cutoutMs": null,
+      "photoReadMs": null,
+      "pngEncodeMs": null,
+      "recognitionMs": null
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 7949.7999999932945,
+      "bodyDownloadMs": 344.0000000037253,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "catbed"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "step-own-shoes",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "catbed"
+          ]
+        }
+      ],
+      "composeMs": 4.799999997019768,
+      "composites": 10,
+      "draws": 367,
+      "pageDrawMs": 2988.700000019744
+    },
+    "text": "我又把小车开进去。",
+    "textRect": {
+      "bottom": 590.21875,
+      "height": 77.96875,
+      "left": 462.53125,
+      "right": 806.6979370117188,
+      "top": 512.25,
+      "width": 344.16668701171875,
+      "x": 462.53125,
+      "y": 512.25
+    }
+  },
+  {
+    "book": "catbed",
+    "dataset": {
+      "actorCacheId": "10",
+      "art": "catbed",
+      "artState": "ready",
+      "camera": "{\"x\":11.363636363636374,\"y\":0,\"width\":977.2727272727273,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "5",
+      "portraitScale": "0.26155187445510025",
+      "pose": "crouch-book",
+      "reflectionActor": "",
+      "scene": "bed-room-low",
+      "sceneGeometry": "{\"paper\":null,\"stone\":null,\"wind\":null,\"small\":null,\"big\":null,\"bed\":{\"x\":440,\"ground\":955,\"width\":320},\"cat\":{\"key\":\"bed-cat-awake\",\"x\":800,\"ground\":950,\"width\":165},\"ball\":{\"at\":[330,950]},\"car\":{\"x\":495,\"ground\":905,\"width\":220},\"sleeping\":false}",
+      "storyBeat": "cat-looks-at-the-child"
+    },
+    "overflow": false,
+    "page": 5,
+    "paper": {
+      "bottom": 641.3229217529297,
+      "height": 564.65625,
+      "left": 441.0208435058594,
+      "right": 838.9687805175781,
+      "top": 76.66667175292969,
+      "width": 397.9479370117187,
+      "x": 441.0208435058594,
+      "y": 76.66667175292969
+    },
+    "photoTiming": {
+      "cutoutMs": null,
+      "photoReadMs": null,
+      "pngEncodeMs": null,
+      "recognitionMs": null
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 7949.7999999932945,
+      "bodyDownloadMs": 344.0000000037253,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "catbed"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "step-own-shoes",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "catbed"
+          ]
+        }
+      ],
+      "composeMs": 4.799999997019768,
+      "composites": 10,
+      "draws": 368,
+      "pageDrawMs": 2988.9000000208616
+    },
+    "text": "小猫看我。你要睡了吗？",
+    "textRect": {
+      "bottom": 590.21875,
+      "height": 77.96875,
+      "left": 473.28125,
+      "right": 817.4479370117188,
+      "top": 512.25,
+      "width": 344.16668701171875,
+      "x": 473.28125,
+      "y": 512.25
+    }
+  },
+  {
+    "book": "catbed",
+    "dataset": {
+      "actorCacheId": "10",
+      "art": "catbed",
+      "artState": "ready",
+      "camera": "{\"x\":11.363636363636374,\"y\":0,\"width\":977.2727272727273,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "6",
+      "portraitScale": "0.26155187445510025",
+      "pose": "crouch-book",
+      "reflectionActor": "",
+      "scene": "bed-room-wide",
+      "sceneGeometry": "{\"paper\":null,\"stone\":null,\"wind\":null,\"small\":null,\"big\":null,\"bed\":{\"x\":440,\"ground\":955,\"width\":320},\"cat\":{\"key\":\"bed-cat-awake\",\"x\":800,\"ground\":950,\"width\":165},\"ball\":{\"at\":[330,950]},\"car\":{\"at\":\"rightPalm\",\"width\":180},\"sleeping\":false}",
+      "storyBeat": "child-takes-car-out"
+    },
+    "overflow": false,
+    "page": 6,
+    "paper": {
+      "bottom": 641.3229217529297,
+      "height": 564.65625,
+      "left": 441.0208435058594,
+      "right": 838.9687805175781,
+      "top": 76.66667175292969,
+      "width": 397.9479370117187,
+      "x": 441.0208435058594,
+      "y": 76.66667175292969
+    },
+    "photoTiming": {
+      "cutoutMs": null,
+      "photoReadMs": null,
+      "pngEncodeMs": null,
+      "recognitionMs": null
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 7949.7999999932945,
+      "bodyDownloadMs": 344.0000000037253,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "catbed"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "step-own-shoes",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "catbed"
+          ]
+        }
+      ],
+      "composeMs": 4.799999997019768,
+      "composites": 10,
+      "draws": 369,
+      "pageDrawMs": 2989.500000020489
+    },
+    "text": "小车出来吧！小球也不来了。",
+    "textRect": {
+      "bottom": 590.21875,
+      "height": 77.96875,
+      "left": 462.53125,
+      "right": 806.6979370117188,
+      "top": 512.25,
+      "width": 344.16668701171875,
+      "x": 462.53125,
+      "y": 512.25
+    }
+  },
+  {
+    "book": "catbed",
+    "dataset": {
+      "actorCacheId": "9",
+      "art": "catbed",
+      "artState": "ready",
+      "camera": "{\"x\":11.363636363636374,\"y\":0,\"width\":977.2727272727273,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "7",
+      "portraitScale": "0.26155187445510025",
+      "pose": "step-own-shoes",
+      "reflectionActor": "",
+      "scene": "bed-room-end",
+      "sceneGeometry": "{\"paper\":null,\"stone\":null,\"wind\":null,\"small\":null,\"big\":null,\"bed\":{\"x\":440,\"ground\":955,\"width\":320},\"cat\":{\"key\":\"bed-cat-sleep\",\"x\":480,\"ground\":915,\"width\":240},\"ball\":{\"at\":[200,950]},\"car\":{\"x\":85,\"ground\":890,\"width\":180},\"sleeping\":true}",
+      "storyBeat": "cat-sleeps-child-plays-away"
+    },
+    "overflow": false,
+    "page": 7,
+    "paper": {
+      "bottom": 641.3229217529297,
+      "height": 564.65625,
+      "left": 441.0208435058594,
+      "right": 838.9687805175781,
+      "top": 76.66667175292969,
+      "width": 397.9479370117187,
+      "x": 441.0208435058594,
+      "y": 76.66667175292969
+    },
+    "photoTiming": {
+      "cutoutMs": null,
+      "photoReadMs": null,
+      "pngEncodeMs": null,
+      "recognitionMs": null
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 7949.7999999932945,
+      "bodyDownloadMs": 344.0000000037253,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "catbed"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "step-own-shoes",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "catbed"
+          ]
+        }
+      ],
+      "composeMs": 4.799999997019768,
+      "composites": 10,
+      "draws": 370,
+      "pageDrawMs": 2990.700000019744
+    },
+    "text": "小猫，你睡吧。我去玩了。",
+    "textRect": {
+      "bottom": 590.21875,
+      "height": 77.96875,
+      "left": 473.28125,
+      "right": 817.4479370117188,
+      "top": 512.25,
+      "width": 344.16668701171875,
+      "x": 473.28125,
+      "y": 512.25
+    }
+  }
+]

@@ -1,0 +1,1137 @@
+{
+  "minimumBackgroundEffectivePpi": 243.1,
+  "maximumBackgroundEffectivePpi": 243.1,
+  "records": [
+    {
+      "number": 16,
+      "page": 1,
+      "background": "shoes-bench",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.1
+    },
+    {
+      "number": 16,
+      "page": 2,
+      "background": "shoes-comparison",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.1
+    },
+    {
+      "number": 16,
+      "page": 3,
+      "background": "shoes-try",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.1
+    },
+    {
+      "number": 16,
+      "page": 4,
+      "background": "shoes-try",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.1
+    },
+    {
+      "number": 16,
+      "page": 5,
+      "background": "shoes-try",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.1
+    },
+    {
+      "number": 16,
+      "page": 6,
+      "background": "shoes-bench",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.1
+    },
+    {
+      "number": 16,
+      "page": 7,
+      "background": "shoes-end",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.1
+    },
+    {
+      "number": 17,
+      "page": 1,
+      "background": "sleep-window",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.1
+    },
+    {
+      "number": 17,
+      "page": 2,
+      "background": "sleep-window",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.1
+    },
+    {
+      "number": 17,
+      "page": 3,
+      "background": "sleep-branch",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.1
+    },
+    {
+      "number": 17,
+      "page": 4,
+      "background": "sleep-catwide",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.1
+    },
+    {
+      "number": 17,
+      "page": 5,
+      "background": "sleep-catclose",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.1
+    },
+    {
+      "number": 17,
+      "page": 6,
+      "background": "sleep-toys",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.1
+    },
+    {
+      "number": 17,
+      "page": 7,
+      "background": "sleep-toys",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.1
+    },
+    {
+      "number": 17,
+      "page": 8,
+      "background": "sleep-bedroom",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.1
+    },
+    {
+      "number": 18,
+      "page": 1,
+      "background": "morning-child-room",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.1
+    },
+    {
+      "number": 18,
+      "page": 2,
+      "background": "shoes-bench",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.1
+    },
+    {
+      "number": 18,
+      "page": 3,
+      "background": "shoes-bench",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.1
+    },
+    {
+      "number": 18,
+      "page": 4,
+      "background": "morning-parent-room",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.1
+    },
+    {
+      "number": 18,
+      "page": 5,
+      "background": "morning-parent-room",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.1
+    },
+    {
+      "number": 18,
+      "page": 6,
+      "background": "morning-parent-room",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.1
+    },
+    {
+      "number": 18,
+      "page": 7,
+      "background": "shoes-bench",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.1
+    },
+    {
+      "number": 18,
+      "page": 8,
+      "background": "morning-outside",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.1
+    },
+    {
+      "number": 19,
+      "page": 1,
+      "background": "warm-water-room",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.1
+    },
+    {
+      "number": 19,
+      "page": 2,
+      "background": "warm-water-table-close",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.1
+    },
+    {
+      "number": 19,
+      "page": 3,
+      "background": "warm-water-room",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.1
+    },
+    {
+      "number": 19,
+      "page": 4,
+      "background": "warm-water-room",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.1
+    },
+    {
+      "number": 19,
+      "page": 5,
+      "background": "warm-water-table-close",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.1
+    },
+    {
+      "number": 19,
+      "page": 6,
+      "background": "warm-water-room",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.1
+    },
+    {
+      "number": 19,
+      "page": 7,
+      "background": "warm-water-room",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.1
+    },
+    {
+      "number": 19,
+      "page": 8,
+      "background": "warm-water-room",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.1
+    },
+    {
+      "number": 20,
+      "page": 1,
+      "background": "water-pour-scene",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.1
+    },
+    {
+      "number": 20,
+      "page": 2,
+      "background": "water-pour-scene",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.1
+    },
+    {
+      "number": 20,
+      "page": 3,
+      "background": "water-drops",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.1
+    },
+    {
+      "number": 20,
+      "page": 4,
+      "background": "flower-leaf-shelter",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.1
+    },
+    {
+      "number": 20,
+      "page": 5,
+      "background": "flower-leaf-shelter",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.1
+    },
+    {
+      "number": 20,
+      "page": 6,
+      "background": "water-greet",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.1
+    },
+    {
+      "number": 20,
+      "page": 7,
+      "background": "flower-leaf-shelter",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.1
+    },
+    {
+      "number": 20,
+      "page": 8,
+      "background": "water-greet",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.1
+    },
+    {
+      "number": 21,
+      "page": 1,
+      "background": "wagon-side",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.1
+    },
+    {
+      "number": 21,
+      "page": 2,
+      "background": "wagon-side",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.1
+    },
+    {
+      "number": 21,
+      "page": 3,
+      "background": "wagon-side",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.1
+    },
+    {
+      "number": 21,
+      "page": 4,
+      "background": "wagon-side",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.1
+    },
+    {
+      "number": 21,
+      "page": 5,
+      "background": "wagon-loading",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.1
+    },
+    {
+      "number": 21,
+      "page": 6,
+      "background": "wagon-home",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.1
+    },
+    {
+      "number": 22,
+      "page": 1,
+      "background": "paper-welcome",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.1
+    },
+    {
+      "number": 22,
+      "page": 2,
+      "background": "paper-wind",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.1
+    },
+    {
+      "number": 22,
+      "page": 3,
+      "background": "paper-wind",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.1
+    },
+    {
+      "number": 22,
+      "page": 4,
+      "background": "paper-wind",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.1
+    },
+    {
+      "number": 22,
+      "page": 5,
+      "background": "paper-land",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.1
+    },
+    {
+      "number": 22,
+      "page": 6,
+      "background": "paper-again",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.1
+    },
+    {
+      "number": 22,
+      "page": 7,
+      "background": "paper-again",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.1
+    },
+    {
+      "number": 22,
+      "page": 8,
+      "background": "paper-end",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.1
+    },
+    {
+      "number": 23,
+      "page": 1,
+      "background": "revision-room",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.1
+    },
+    {
+      "number": 23,
+      "page": 2,
+      "background": "revision-room",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.1
+    },
+    {
+      "number": 23,
+      "page": 3,
+      "background": "revision-room",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.1
+    },
+    {
+      "number": 23,
+      "page": 4,
+      "background": "revision-room",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.1
+    },
+    {
+      "number": 23,
+      "page": 5,
+      "background": "revision-room",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.1
+    },
+    {
+      "number": 23,
+      "page": 6,
+      "background": "revision-room",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.1
+    },
+    {
+      "number": 23,
+      "page": 7,
+      "background": "revision-room",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.1
+    },
+    {
+      "number": 24,
+      "page": 1,
+      "background": "fruit-welcome",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.1
+    },
+    {
+      "number": 24,
+      "page": 2,
+      "background": "fruit-share",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.1
+    },
+    {
+      "number": 24,
+      "page": 3,
+      "background": "fruit-share",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.1
+    },
+    {
+      "number": 24,
+      "page": 4,
+      "background": "fruit-share",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.1
+    },
+    {
+      "number": 24,
+      "page": 5,
+      "background": "fruit-end",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.1
+    },
+    {
+      "number": 24,
+      "page": 6,
+      "background": "fruit-welcome",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.1
+    },
+    {
+      "number": 24,
+      "page": 7,
+      "background": "fruit-end",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.1
+    }
+  ],
+  "newPoseNativeResolution": [
+    {
+      "pose": "pretend-cat",
+      "sourceSize": [
+        1024,
+        1536
+      ],
+      "sourceCollar": [
+        510,
+        300
+      ],
+      "sourceSole": 1460,
+      "uniformScale": 1.013793103448276,
+      "offset": [
+        250.9655172413793,
+        795.8620689655172
+      ],
+      "registeredSize": [
+        1536,
+        2560
+      ],
+      "registeredCollar": [
+        768,
+        1100
+      ],
+      "registeredSole": 2276,
+      "headGeometryChanged": false,
+      "nativeBodyEffectivePpi": 616.5
+    },
+    {
+      "pose": "pretend-bunny",
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "sourceCollar": [
+        632,
+        440
+      ],
+      "sourceSole": 1236,
+      "uniformScale": 1.4773869346733668,
+      "offset": [
+        -165.7085427135678,
+        449.9497487437186
+      ],
+      "registeredSize": [
+        1536,
+        2560
+      ],
+      "registeredCollar": [
+        768,
+        1100
+      ],
+      "registeredSole": 2276,
+      "headGeometryChanged": false,
+      "nativeBodyEffectivePpi": 423.1
+    }
+  ],
+  "native300PpiClaimed": false
+}

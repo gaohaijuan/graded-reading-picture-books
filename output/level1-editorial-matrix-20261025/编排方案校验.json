@@ -1,0 +1,42 @@
+{
+  "passed": true,
+  "books": 30,
+  "oldNumbersUnique": 30,
+  "targetRows": 200,
+  "wordRouteEntries": 82,
+  "missingTotal": 43,
+  "missingProposed": 21,
+  "missingUnresolved": 22,
+  "protectedRouteInsertions": 0,
+  "unchangedInputs": [
+    {
+      "role": "manuscript",
+      "file": "output/manuscript-level1-complete-review/第一级30篇完整文案-待确认.json",
+      "sha256": "1a162eb2644c09199ff44e3bb5c01f44203072c331d2eb9ed4cd30cc467620ca"
+    },
+    {
+      "role": "audit",
+      "file": "output/level1-vocabulary-audit-20261025/第一级词汇覆盖与复现核查.json",
+      "sha256": "300418ea069e92a282a2f7f989b3f8c614b1d87532983c011fe36d01ef2b4cee"
+    },
+    {
+      "role": "plan",
+      "file": "little-protagonist/content/level1-character-plan.json",
+      "sha256": "b682c49102e906abdeacb386ac934ceec79216b89103b4e099654f0aa4595f89"
+    }
+  ],
+  "notVerified": [
+    "尚无新完整正文，未进行修改后全量覆盖/字频验收。",
+    "未制作插画/PDF，未做网页或打印验证。"
+  ],
+  "outputs": [
+    "30篇共同编排表-供审阅.txt",
+    "30篇故事与字词复现编排方案.json",
+    "30篇编排总览.txt",
+    "43个缺字的安排与未解决项.txt",
+    "先看这里-编排方案说明.txt",
+    "原200字逐字处理表.txt",
+    "完整词语跨篇路线.txt",
+    "编排方案校验.json"
+  ]
+}

@@ -1,0 +1,2176 @@
+[
+  {
+    "actor": "27",
+    "beat": "white-clouds-above-mountain",
+    "book": "mountain",
+    "overflow": false,
+    "page": 1,
+    "photoTiming": {
+      "cutoutMs": 2140.20000000298,
+      "photoReadMs": 635.6000000014901,
+      "pngEncodeMs": 26.19999999552965,
+      "recognitionMs": 1086.39999999851
+    },
+    "pipeline": "composed-actor-v1",
+    "portraitScale": "0.42889683837095727",
+    "pose": "stand-wave",
+    "preparation": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 6832.299999989569,
+      "bodyDownloadMs": 1016.6999999880792,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "mountain",
+                "car",
+                "ball"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "run-left",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "push-cart",
+                  "status": "ready"
+                },
+                {
+                  "id": "reach-water",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "mountain",
+            "car",
+            "ball"
+          ]
+        }
+      ],
+      "composeMs": 215.79999999701977,
+      "composites": 36,
+      "draws": 356,
+      "pageDrawMs": 12426.199999980628
+    },
+    "reflection": "",
+    "scene": "mountain-clear",
+    "text": "山上有白云。"
+  },
+  {
+    "actor": "27",
+    "beat": "mountain-hidden",
+    "book": "mountain",
+    "overflow": false,
+    "page": 2,
+    "photoTiming": {
+      "cutoutMs": 2140.20000000298,
+      "photoReadMs": 635.6000000014901,
+      "pngEncodeMs": 26.19999999552965,
+      "recognitionMs": 1086.39999999851
+    },
+    "pipeline": "composed-actor-v1",
+    "portraitScale": "0.42889683837095727",
+    "pose": "stand-wave",
+    "preparation": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 6832.299999989569,
+      "bodyDownloadMs": 1016.6999999880792,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "mountain",
+                "car",
+                "ball"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "run-left",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "push-cart",
+                  "status": "ready"
+                },
+                {
+                  "id": "reach-water",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "mountain",
+            "car",
+            "ball"
+          ]
+        }
+      ],
+      "composeMs": 215.79999999701977,
+      "composites": 36,
+      "draws": 357,
+      "pageDrawMs": 12461.499999977648
+    },
+    "reflection": "",
+    "scene": "mountain-clear",
+    "text": "白云来，\n\n山不见了。"
+  },
+  {
+    "actor": "28",
+    "beat": "ask-mountain",
+    "book": "mountain",
+    "overflow": false,
+    "page": 3,
+    "photoTiming": {
+      "cutoutMs": 2140.20000000298,
+      "photoReadMs": 635.6000000014901,
+      "pngEncodeMs": 26.19999999552965,
+      "recognitionMs": 1086.39999999851
+    },
+    "pipeline": "composed-actor-v1",
+    "portraitScale": "0.42889683837095727",
+    "pose": "hands-flower-open",
+    "preparation": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 6832.299999989569,
+      "bodyDownloadMs": 1016.6999999880792,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "mountain",
+                "car",
+                "ball"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "run-left",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "push-cart",
+                  "status": "ready"
+                },
+                {
+                  "id": "reach-water",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "mountain",
+            "car",
+            "ball"
+          ]
+        }
+      ],
+      "composeMs": 215.79999999701977,
+      "composites": 36,
+      "draws": 358,
+      "pageDrawMs": 12463.199999973178
+    },
+    "reflection": "",
+    "scene": "mountain-clear",
+    "text": "山，\n\n你也回家了吗？"
+  },
+  {
+    "actor": "27",
+    "beat": "wind-moves-cloud",
+    "book": "mountain",
+    "overflow": false,
+    "page": 4,
+    "photoTiming": {
+      "cutoutMs": 2140.20000000298,
+      "photoReadMs": 635.6000000014901,
+      "pngEncodeMs": 26.19999999552965,
+      "recognitionMs": 1086.39999999851
+    },
+    "pipeline": "composed-actor-v1",
+    "portraitScale": "0.42889683837095727",
+    "pose": "stand-wave",
+    "preparation": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 6832.299999989569,
+      "bodyDownloadMs": 1016.6999999880792,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "mountain",
+                "car",
+                "ball"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "run-left",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "push-cart",
+                  "status": "ready"
+                },
+                {
+                  "id": "reach-water",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "mountain",
+            "car",
+            "ball"
+          ]
+        }
+      ],
+      "composeMs": 215.79999999701977,
+      "composites": 36,
+      "draws": 359,
+      "pageDrawMs": 12464.299999967216
+    },
+    "reflection": "",
+    "scene": "mountain-clear",
+    "text": "风来了，\n\n云走了。"
+  },
+  {
+    "actor": "28",
+    "beat": "mountain-revealed",
+    "book": "mountain",
+    "overflow": false,
+    "page": 5,
+    "photoTiming": {
+      "cutoutMs": 2140.20000000298,
+      "photoReadMs": 635.6000000014901,
+      "pngEncodeMs": 26.19999999552965,
+      "recognitionMs": 1086.39999999851
+    },
+    "pipeline": "composed-actor-v1",
+    "portraitScale": "0.42889683837095727",
+    "pose": "hands-flower-open",
+    "preparation": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 6832.299999989569,
+      "bodyDownloadMs": 1016.6999999880792,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "mountain",
+                "car",
+                "ball"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "run-left",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "push-cart",
+                  "status": "ready"
+                },
+                {
+                  "id": "reach-water",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "mountain",
+            "car",
+            "ball"
+          ]
+        }
+      ],
+      "composeMs": 215.79999999701977,
+      "composites": 36,
+      "draws": 360,
+      "pageDrawMs": 12464.799999967216
+    },
+    "reflection": "",
+    "scene": "mountain-clear",
+    "text": "山出来了！\n\n山，你回来了！"
+  },
+  {
+    "actor": "27",
+    "beat": "same-mountain-never-moved",
+    "book": "mountain",
+    "overflow": false,
+    "page": 6,
+    "photoTiming": {
+      "cutoutMs": 2140.20000000298,
+      "photoReadMs": 635.6000000014901,
+      "pngEncodeMs": 26.19999999552965,
+      "recognitionMs": 1086.39999999851
+    },
+    "pipeline": "composed-actor-v1",
+    "portraitScale": "0.42889683837095727",
+    "pose": "stand-wave",
+    "preparation": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 6832.299999989569,
+      "bodyDownloadMs": 1016.6999999880792,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "mountain",
+                "car",
+                "ball"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "run-left",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "push-cart",
+                  "status": "ready"
+                },
+                {
+                  "id": "reach-water",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "mountain",
+            "car",
+            "ball"
+          ]
+        }
+      ],
+      "composeMs": 215.79999999701977,
+      "composites": 36,
+      "draws": 361,
+      "pageDrawMs": 12465.699999965727
+    },
+    "reflection": "",
+    "scene": "mountain-clear",
+    "text": "山没有走，\n\n是云走了！"
+  },
+  {
+    "actor": "27",
+    "beat": "two-door-home",
+    "book": "car",
+    "overflow": false,
+    "page": 1,
+    "photoTiming": {
+      "cutoutMs": 2140.20000000298,
+      "photoReadMs": 635.6000000014901,
+      "pngEncodeMs": 26.19999999552965,
+      "recognitionMs": 1086.39999999851
+    },
+    "pipeline": "composed-actor-v1",
+    "portraitScale": "0.42889683837095727",
+    "pose": "stand-wave",
+    "preparation": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 6832.299999989569,
+      "bodyDownloadMs": 1016.6999999880792,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "car",
+                "ball",
+                "water"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "run-left",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "push-cart",
+                  "status": "ready"
+                },
+                {
+                  "id": "reach-water",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-palm",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "car",
+            "ball",
+            "water"
+          ]
+        }
+      ],
+      "composeMs": 217.60000000149012,
+      "composites": 39,
+      "draws": 410,
+      "pageDrawMs": 14106.799999959769
+    },
+    "reflection": "",
+    "scene": "car-room-wide",
+    "text": "小车的家，\n\n有两个门。"
+  },
+  {
+    "actor": "",
+    "beat": "entrance-and-exit",
+    "book": "car",
+    "overflow": false,
+    "page": 2,
+    "photoTiming": {
+      "cutoutMs": 2140.20000000298,
+      "photoReadMs": 635.6000000014901,
+      "pngEncodeMs": 26.19999999552965,
+      "recognitionMs": 1086.39999999851
+    },
+    "pipeline": "composed-actor-v1",
+    "portraitScale": "",
+    "pose": "none",
+    "preparation": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 6832.299999989569,
+      "bodyDownloadMs": 1016.6999999880792,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "car",
+                "ball",
+                "water"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "run-left",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "push-cart",
+                  "status": "ready"
+                },
+                {
+                  "id": "reach-water",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-palm",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "car",
+            "ball",
+            "water"
+          ]
+        }
+      ],
+      "composeMs": 217.60000000149012,
+      "composites": 39,
+      "draws": 411,
+      "pageDrawMs": 14110.199999965727
+    },
+    "reflection": "",
+    "scene": "car-room-floor",
+    "text": "一个入口，\n\n一个出口。"
+  },
+  {
+    "actor": "26",
+    "beat": "enter-left-door",
+    "book": "car",
+    "overflow": false,
+    "page": 3,
+    "photoTiming": {
+      "cutoutMs": 2140.20000000298,
+      "photoReadMs": 635.6000000014901,
+      "pngEncodeMs": 26.19999999552965,
+      "recognitionMs": 1086.39999999851
+    },
+    "pipeline": "composed-actor-v1",
+    "portraitScale": "0.42889683837095727",
+    "pose": "crouch-book",
+    "preparation": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 6832.299999989569,
+      "bodyDownloadMs": 1016.6999999880792,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "car",
+                "ball",
+                "water"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "run-left",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "push-cart",
+                  "status": "ready"
+                },
+                {
+                  "id": "reach-water",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-palm",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "car",
+            "ball",
+            "water"
+          ]
+        }
+      ],
+      "composeMs": 217.60000000149012,
+      "composites": 39,
+      "draws": 412,
+      "pageDrawMs": 14111.399999961255
+    },
+    "reflection": "",
+    "scene": "car-room-floor",
+    "text": "小车开进去。"
+  },
+  {
+    "actor": "26",
+    "beat": "leave-right-door",
+    "book": "car",
+    "overflow": false,
+    "page": 4,
+    "photoTiming": {
+      "cutoutMs": 2140.20000000298,
+      "photoReadMs": 635.6000000014901,
+      "pngEncodeMs": 26.19999999552965,
+      "recognitionMs": 1086.39999999851
+    },
+    "pipeline": "composed-actor-v1",
+    "portraitScale": "0.42889683837095727",
+    "pose": "crouch-book",
+    "preparation": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 6832.299999989569,
+      "bodyDownloadMs": 1016.6999999880792,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "car",
+                "ball",
+                "water"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "run-left",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "push-cart",
+                  "status": "ready"
+                },
+                {
+                  "id": "reach-water",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-palm",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "car",
+            "ball",
+            "water"
+          ]
+        }
+      ],
+      "composeMs": 217.60000000149012,
+      "composites": 39,
+      "draws": 413,
+      "pageDrawMs": 14113.399999961255
+    },
+    "reflection": "",
+    "scene": "car-room-floor",
+    "text": "小车开出来。"
+  },
+  {
+    "actor": "29",
+    "beat": "in-and-out-again",
+    "book": "car",
+    "overflow": false,
+    "page": 5,
+    "photoTiming": {
+      "cutoutMs": 2140.20000000298,
+      "photoReadMs": 635.6000000014901,
+      "pngEncodeMs": 26.19999999552965,
+      "recognitionMs": 1086.39999999851
+    },
+    "pipeline": "composed-actor-v1",
+    "portraitScale": "0.42889683837095727",
+    "pose": "push-cart",
+    "preparation": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 6832.299999989569,
+      "bodyDownloadMs": 1016.6999999880792,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "car",
+                "ball",
+                "water"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "run-left",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "push-cart",
+                  "status": "ready"
+                },
+                {
+                  "id": "reach-water",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-palm",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "car",
+            "ball",
+            "water"
+          ]
+        }
+      ],
+      "composeMs": 217.60000000149012,
+      "composites": 39,
+      "draws": 414,
+      "pageDrawMs": 14119.099999964235
+    },
+    "reflection": "",
+    "scene": "car-room-wide",
+    "text": "小车开进去，\n\n又开出来。"
+  },
+  {
+    "actor": "26",
+    "beat": "ask-car-to-come-home",
+    "book": "car",
+    "overflow": false,
+    "page": 6,
+    "photoTiming": {
+      "cutoutMs": 2140.20000000298,
+      "photoReadMs": 635.6000000014901,
+      "pngEncodeMs": 26.19999999552965,
+      "recognitionMs": 1086.39999999851
+    },
+    "pipeline": "composed-actor-v1",
+    "portraitScale": "0.42889683837095727",
+    "pose": "crouch-book",
+    "preparation": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 6832.299999989569,
+      "bodyDownloadMs": 1016.6999999880792,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "car",
+                "ball",
+                "water"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "run-left",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "push-cart",
+                  "status": "ready"
+                },
+                {
+                  "id": "reach-water",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-palm",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "car",
+            "ball",
+            "water"
+          ]
+        }
+      ],
+      "composeMs": 217.60000000149012,
+      "composites": 39,
+      "draws": 415,
+      "pageDrawMs": 14119.799999967216
+    },
+    "reflection": "",
+    "scene": "car-room-wide",
+    "text": "小车，\n\n你不回家吗？"
+  },
+  {
+    "actor": "26",
+    "beat": "park-inside",
+    "book": "car",
+    "overflow": false,
+    "page": 7,
+    "photoTiming": {
+      "cutoutMs": 2140.20000000298,
+      "photoReadMs": 635.6000000014901,
+      "pngEncodeMs": 26.19999999552965,
+      "recognitionMs": 1086.39999999851
+    },
+    "pipeline": "composed-actor-v1",
+    "portraitScale": "0.42889683837095727",
+    "pose": "crouch-book",
+    "preparation": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 6832.299999989569,
+      "bodyDownloadMs": 1016.6999999880792,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "car",
+                "ball",
+                "water"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "run-left",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "push-cart",
+                  "status": "ready"
+                },
+                {
+                  "id": "reach-water",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-palm",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "car",
+            "ball",
+            "water"
+          ]
+        }
+      ],
+      "composeMs": 217.60000000149012,
+      "composites": 39,
+      "draws": 416,
+      "pageDrawMs": 14122.499999962747
+    },
+    "reflection": "",
+    "scene": "car-room-floor",
+    "text": "小车开进去了。"
+  },
+  {
+    "actor": "30",
+    "beat": "doors-closed",
+    "book": "car",
+    "overflow": false,
+    "page": 8,
+    "photoTiming": {
+      "cutoutMs": 2140.20000000298,
+      "photoReadMs": 635.6000000014901,
+      "pngEncodeMs": 26.19999999552965,
+      "recognitionMs": 1086.39999999851
+    },
+    "pipeline": "composed-actor-v1",
+    "portraitScale": "0.42889683837095727",
+    "pose": "reach-water",
+    "preparation": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 6832.299999989569,
+      "bodyDownloadMs": 1016.6999999880792,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "car",
+                "ball",
+                "water"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "run-left",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "push-cart",
+                  "status": "ready"
+                },
+                {
+                  "id": "reach-water",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-palm",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "car",
+            "ball",
+            "water"
+          ]
+        }
+      ],
+      "composeMs": 217.60000000149012,
+      "composites": 39,
+      "draws": 417,
+      "pageDrawMs": 14327.099999964235
+    },
+    "reflection": "",
+    "scene": "car-room-door",
+    "text": "小手关上门。\n\n回家了！"
+  },
+  {
+    "actor": "27",
+    "beat": "want-to-play-no-ball",
+    "book": "ball",
+    "overflow": false,
+    "page": 1,
+    "photoTiming": {
+      "cutoutMs": 2140.20000000298,
+      "photoReadMs": 635.6000000014901,
+      "pngEncodeMs": 26.19999999552965,
+      "recognitionMs": 1086.39999999851
+    },
+    "pipeline": "composed-actor-v1",
+    "portraitScale": "0.42889683837095727",
+    "pose": "stand-wave",
+    "preparation": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 6832.299999989569,
+      "bodyDownloadMs": 1016.6999999880792,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "ball",
+                "water"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "run-left",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-palm",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "ball",
+            "water"
+          ]
+        }
+      ],
+      "composeMs": 218.10000000149012,
+      "composites": 40,
+      "draws": 466,
+      "pageDrawMs": 15717.699999935923
+    },
+    "reflection": "",
+    "scene": "ball-yard-wide",
+    "text": "我要和小球玩。"
+  },
+  {
+    "actor": "31",
+    "beat": "search-courtyard",
+    "book": "ball",
+    "overflow": false,
+    "page": 2,
+    "photoTiming": {
+      "cutoutMs": 2140.20000000298,
+      "photoReadMs": 635.6000000014901,
+      "pngEncodeMs": 26.19999999552965,
+      "recognitionMs": 1086.39999999851
+    },
+    "pipeline": "composed-actor-v1",
+    "portraitScale": "0.42889683837095727",
+    "pose": "run-left",
+    "preparation": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 6832.299999989569,
+      "bodyDownloadMs": 1016.6999999880792,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "ball",
+                "water"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "run-left",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-palm",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "ball",
+            "water"
+          ]
+        }
+      ],
+      "composeMs": 218.10000000149012,
+      "composites": 40,
+      "draws": 467,
+      "pageDrawMs": 15718.099999934437
+    },
+    "reflection": "",
+    "scene": "ball-yard-wide",
+    "text": "我找小球。\n\n你也来找。"
+  },
+  {
+    "actor": "26",
+    "beat": "look-at-small-mound",
+    "book": "ball",
+    "overflow": false,
+    "page": 3,
+    "photoTiming": {
+      "cutoutMs": 2140.20000000298,
+      "photoReadMs": 635.6000000014901,
+      "pngEncodeMs": 26.19999999552965,
+      "recognitionMs": 1086.39999999851
+    },
+    "pipeline": "composed-actor-v1",
+    "portraitScale": "0.42889683837095727",
+    "pose": "crouch-book",
+    "preparation": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 6832.299999989569,
+      "bodyDownloadMs": 1016.6999999880792,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "ball",
+                "water"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "run-left",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-palm",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "ball",
+            "water"
+          ]
+        }
+      ],
+      "composeMs": 218.10000000149012,
+      "composites": 40,
+      "draws": 468,
+      "pageDrawMs": 15718.999999932945
+    },
+    "reflection": "",
+    "scene": "ball-mound-detail",
+    "text": "小球在小山上吗？"
+  },
+  {
+    "actor": "",
+    "beat": "only-pebbles-on-mound",
+    "book": "ball",
+    "overflow": false,
+    "page": 4,
+    "photoTiming": {
+      "cutoutMs": 2140.20000000298,
+      "photoReadMs": 635.6000000014901,
+      "pngEncodeMs": 26.19999999552965,
+      "recognitionMs": 1086.39999999851
+    },
+    "pipeline": "composed-actor-v1",
+    "portraitScale": "",
+    "pose": "none",
+    "preparation": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 6832.299999989569,
+      "bodyDownloadMs": 1016.6999999880792,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "ball",
+                "water"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "run-left",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-palm",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "ball",
+            "water"
+          ]
+        }
+      ],
+      "composeMs": 218.10000000149012,
+      "composites": 40,
+      "draws": 469,
+      "pageDrawMs": 15719.299999929965
+    },
+    "reflection": "",
+    "scene": "ball-mound-detail",
+    "text": "小山上，\n\n有小石头。"
+  },
+  {
+    "actor": "26",
+    "beat": "look-inside-toy-cart",
+    "book": "ball",
+    "overflow": false,
+    "page": 5,
+    "photoTiming": {
+      "cutoutMs": 2140.20000000298,
+      "photoReadMs": 635.6000000014901,
+      "pngEncodeMs": 26.19999999552965,
+      "recognitionMs": 1086.39999999851
+    },
+    "pipeline": "composed-actor-v1",
+    "portraitScale": "0.42889683837095727",
+    "pose": "crouch-book",
+    "preparation": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 6832.299999989569,
+      "bodyDownloadMs": 1016.6999999880792,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "ball",
+                "water"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "run-left",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-palm",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "ball",
+            "water"
+          ]
+        }
+      ],
+      "composeMs": 218.10000000149012,
+      "composites": 40,
+      "draws": 470,
+      "pageDrawMs": 15719.999999932945
+    },
+    "reflection": "",
+    "scene": "ball-cart-detail",
+    "text": "小球在小车里吗？"
+  },
+  {
+    "actor": "",
+    "beat": "only-pebbles-in-cart",
+    "book": "ball",
+    "overflow": false,
+    "page": 6,
+    "photoTiming": {
+      "cutoutMs": 2140.20000000298,
+      "photoReadMs": 635.6000000014901,
+      "pngEncodeMs": 26.19999999552965,
+      "recognitionMs": 1086.39999999851
+    },
+    "pipeline": "composed-actor-v1",
+    "portraitScale": "",
+    "pose": "none",
+    "preparation": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 6832.299999989569,
+      "bodyDownloadMs": 1016.6999999880792,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "ball",
+                "water"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "run-left",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-palm",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "ball",
+            "water"
+          ]
+        }
+      ],
+      "composeMs": 218.10000000149012,
+      "composites": 40,
+      "draws": 471,
+      "pageDrawMs": 15720.299999937415
+    },
+    "reflection": "",
+    "scene": "ball-cart-detail",
+    "text": "小车里，\n\n也有小石头。"
+  },
+  {
+    "actor": "27",
+    "beat": "ball-found-indoors",
+    "book": "ball",
+    "overflow": false,
+    "page": 7,
+    "photoTiming": {
+      "cutoutMs": 2140.20000000298,
+      "photoReadMs": 635.6000000014901,
+      "pngEncodeMs": 26.19999999552965,
+      "recognitionMs": 1086.39999999851
+    },
+    "pipeline": "composed-actor-v1",
+    "portraitScale": "0.42889683837095727",
+    "pose": "stand-wave",
+    "preparation": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 6832.299999989569,
+      "bodyDownloadMs": 1016.6999999880792,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "ball",
+                "water"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "run-left",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-palm",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "ball",
+            "water"
+          ]
+        }
+      ],
+      "composeMs": 218.10000000149012,
+      "composites": 40,
+      "draws": 472,
+      "pageDrawMs": 15921.499999940395
+    },
+    "reflection": "",
+    "scene": "ball-home-reveal",
+    "text": "回家了！\n\n小球在家里！"
+  },
+  {
+    "actor": "28",
+    "beat": "ball-never-left-home",
+    "book": "ball",
+    "overflow": false,
+    "page": 8,
+    "photoTiming": {
+      "cutoutMs": 2140.20000000298,
+      "photoReadMs": 635.6000000014901,
+      "pngEncodeMs": 26.19999999552965,
+      "recognitionMs": 1086.39999999851
+    },
+    "pipeline": "composed-actor-v1",
+    "portraitScale": "0.42889683837095727",
+    "pose": "hands-flower-open",
+    "preparation": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 6832.299999989569,
+      "bodyDownloadMs": 1016.6999999880792,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "ball",
+                "water"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "run-left",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-palm",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "ball",
+            "water"
+          ]
+        }
+      ],
+      "composeMs": 218.10000000149012,
+      "composites": 40,
+      "draws": 473,
+      "pageDrawMs": 15922.099999934437
+    },
+    "reflection": "",
+    "scene": "ball-home-reveal",
+    "text": "我出门了，\n\n小球没有出门！"
+  },
+  {
+    "actor": "",
+    "beat": "sky-clouds-reflected",
+    "book": "water",
+    "overflow": false,
+    "page": 1,
+    "photoTiming": {
+      "cutoutMs": 2140.20000000298,
+      "photoReadMs": 635.6000000014901,
+      "pngEncodeMs": 26.19999999552965,
+      "recognitionMs": 1086.39999999851
+    },
+    "pipeline": "composed-actor-v1",
+    "portraitScale": "",
+    "pose": "none",
+    "preparation": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 6832.299999989569,
+      "bodyDownloadMs": 1016.6999999880792,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "water"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "run-left",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-palm",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "water"
+          ]
+        }
+      ],
+      "composeMs": 220.5,
+      "composites": 41,
+      "draws": 528,
+      "pageDrawMs": 17140.799999959767
+    },
+    "reflection": "",
+    "scene": "water-puddle-detail",
+    "text": "水中有天。\n\n水中有云。"
+  },
+  {
+    "actor": "26",
+    "beat": "flower-and-me-reflected",
+    "book": "water",
+    "overflow": false,
+    "page": 2,
+    "photoTiming": {
+      "cutoutMs": 2140.20000000298,
+      "photoReadMs": 635.6000000014901,
+      "pngEncodeMs": 26.19999999552965,
+      "recognitionMs": 1086.39999999851
+    },
+    "pipeline": "composed-actor-v1",
+    "portraitScale": "0.42889683837095727",
+    "pose": "crouch-book",
+    "preparation": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 6832.299999989569,
+      "bodyDownloadMs": 1016.6999999880792,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "water"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "run-left",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-palm",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "water"
+          ]
+        }
+      ],
+      "composeMs": 220.5,
+      "composites": 41,
+      "draws": 529,
+      "pageDrawMs": 17141.499999955297
+    },
+    "reflection": "same-cached-actor",
+    "scene": "water-reflection-bank",
+    "text": "水中有花。\n\n水中有我。"
+  },
+  {
+    "actor": "31",
+    "beat": "walk-and-reflection-follows",
+    "book": "water",
+    "overflow": false,
+    "page": 3,
+    "photoTiming": {
+      "cutoutMs": 2140.20000000298,
+      "photoReadMs": 635.6000000014901,
+      "pngEncodeMs": 26.19999999552965,
+      "recognitionMs": 1086.39999999851
+    },
+    "pipeline": "composed-actor-v1",
+    "portraitScale": "0.42889683837095727",
+    "pose": "run-left",
+    "preparation": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 6832.299999989569,
+      "bodyDownloadMs": 1016.6999999880792,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "water"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "run-left",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-palm",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "water"
+          ]
+        }
+      ],
+      "composeMs": 220.5,
+      "composites": 41,
+      "draws": 530,
+      "pageDrawMs": 17142.099999956787
+    },
+    "reflection": "same-cached-actor",
+    "scene": "water-reflection-bank",
+    "text": "我走，\n\n水中的我也走。"
+  },
+  {
+    "actor": "27",
+    "beat": "stop-and-reflection-stops",
+    "book": "water",
+    "overflow": false,
+    "page": 4,
+    "photoTiming": {
+      "cutoutMs": 2140.20000000298,
+      "photoReadMs": 635.6000000014901,
+      "pngEncodeMs": 26.19999999552965,
+      "recognitionMs": 1086.39999999851
+    },
+    "pipeline": "composed-actor-v1",
+    "portraitScale": "0.42889683837095727",
+    "pose": "stand-wave",
+    "preparation": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 6832.299999989569,
+      "bodyDownloadMs": 1016.6999999880792,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "water"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "run-left",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-palm",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "water"
+          ]
+        }
+      ],
+      "composeMs": 220.5,
+      "composites": 41,
+      "draws": 531,
+      "pageDrawMs": 17142.499999955297
+    },
+    "reflection": "same-cached-actor",
+    "scene": "water-reflection-bank",
+    "text": "我不走，\n\n水中的我也不走。"
+  },
+  {
+    "actor": "33",
+    "beat": "hand-approaches-water",
+    "book": "water",
+    "overflow": false,
+    "page": 5,
+    "photoTiming": {
+      "cutoutMs": 2140.20000000298,
+      "photoReadMs": 635.6000000014901,
+      "pngEncodeMs": 26.19999999552965,
+      "recognitionMs": 1086.39999999851
+    },
+    "pipeline": "composed-actor-v1",
+    "portraitScale": "0.42889683837095727",
+    "pose": "crouch-palm",
+    "preparation": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 6832.299999989569,
+      "bodyDownloadMs": 1016.6999999880792,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "water"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "run-left",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-palm",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "water"
+          ]
+        }
+      ],
+      "composeMs": 220.5,
+      "composites": 41,
+      "draws": 532,
+      "pageDrawMs": 17142.899999961257
+    },
+    "reflection": "same-cached-actor",
+    "scene": "water-reflection-bank",
+    "text": "我的小手来了，\n\n水中的小手也来了。"
+  },
+  {
+    "actor": "32",
+    "beat": "touch-water-break-reflection",
+    "book": "water",
+    "overflow": false,
+    "page": 6,
+    "photoTiming": {
+      "cutoutMs": 2140.20000000298,
+      "photoReadMs": 635.6000000014901,
+      "pngEncodeMs": 26.19999999552965,
+      "recognitionMs": 1086.39999999851
+    },
+    "pipeline": "composed-actor-v1",
+    "portraitScale": "0.42889683837095727",
+    "pose": "crouch-touch",
+    "preparation": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 6832.299999989569,
+      "bodyDownloadMs": 1016.6999999880792,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "water"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "run-left",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-palm",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "water"
+          ]
+        }
+      ],
+      "composeMs": 220.5,
+      "composites": 41,
+      "draws": 533,
+      "pageDrawMs": 17143.599999964237
+    },
+    "reflection": "",
+    "scene": "water-reflection-bank",
+    "text": "小手入水。\n\n水中的我不见了！"
+  },
+  {
+    "actor": "26",
+    "beat": "hand-out-water-calm-again",
+    "book": "water",
+    "overflow": false,
+    "page": 7,
+    "photoTiming": {
+      "cutoutMs": 2140.20000000298,
+      "photoReadMs": 635.6000000014901,
+      "pngEncodeMs": 26.19999999552965,
+      "recognitionMs": 1086.39999999851
+    },
+    "pipeline": "composed-actor-v1",
+    "portraitScale": "0.42889683837095727",
+    "pose": "crouch-book",
+    "preparation": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 6832.299999989569,
+      "bodyDownloadMs": 1016.6999999880792,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "water"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "run-left",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-palm",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "water"
+          ]
+        }
+      ],
+      "composeMs": 220.5,
+      "composites": 41,
+      "draws": 534,
+      "pageDrawMs": 17144.399999968708
+    },
+    "reflection": "same-cached-actor",
+    "scene": "water-reflection-bank",
+    "text": "小手出水。\n\n水中的我回来了！"
+  },
+  {
+    "actor": "27",
+    "beat": "greet-reflection-and-go-home",
+    "book": "water",
+    "overflow": false,
+    "page": 8,
+    "photoTiming": {
+      "cutoutMs": 2140.20000000298,
+      "photoReadMs": 635.6000000014901,
+      "pngEncodeMs": 26.19999999552965,
+      "recognitionMs": 1086.39999999851
+    },
+    "pipeline": "composed-actor-v1",
+    "portraitScale": "0.42889683837095727",
+    "pose": "stand-wave",
+    "preparation": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 6832.299999989569,
+      "bodyDownloadMs": 1016.6999999880792,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "water"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "run-left",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-palm",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "water"
+          ]
+        }
+      ],
+      "composeMs": 220.5,
+      "composites": 41,
+      "draws": 535,
+      "pageDrawMs": 17145.399999968708
+    },
+    "reflection": "same-cached-actor",
+    "scene": "water-reflection-bank",
+    "text": "你好，水中的我！\n\n你也要回家吗？"
+  }
+]

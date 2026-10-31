@@ -1,0 +1,892 @@
+[
+  {
+    "number": 3,
+    "page": 1,
+    "source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\books-11-15\\play-courtyard.png",
+    "world": {
+      "width": 1000,
+      "height": 1000
+    },
+    "camera": {
+      "x": 0,
+      "y": 0,
+      "width": 977.3755656108597,
+      "height": 1000
+    }
+  },
+  {
+    "number": 3,
+    "page": 2,
+    "source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\books-11-15\\play-courtyard.png",
+    "world": {
+      "width": 1000,
+      "height": 1000
+    },
+    "camera": {
+      "x": 0,
+      "y": 0,
+      "width": 977.3755656108597,
+      "height": 1000
+    }
+  },
+  {
+    "number": 3,
+    "page": 3,
+    "source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\books-11-15\\play-courtyard.png",
+    "world": {
+      "width": 1000,
+      "height": 1000
+    },
+    "camera": {
+      "x": 0,
+      "y": 0,
+      "width": 977.3755656108597,
+      "height": 1000
+    }
+  },
+  {
+    "number": 3,
+    "page": 4,
+    "source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\books-11-15\\play-courtyard.png",
+    "world": {
+      "width": 1000,
+      "height": 1000
+    },
+    "camera": {
+      "x": 0,
+      "y": 0,
+      "width": 977.3755656108597,
+      "height": 1000
+    }
+  },
+  {
+    "number": 3,
+    "page": 5,
+    "source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\books-11-15\\play-courtyard.png",
+    "world": {
+      "width": 1000,
+      "height": 1000
+    },
+    "camera": {
+      "x": 0,
+      "y": 0,
+      "width": 977.3755656108597,
+      "height": 1000
+    }
+  },
+  {
+    "number": 3,
+    "page": 6,
+    "source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\books-11-15\\play-courtyard.png",
+    "world": {
+      "width": 1000,
+      "height": 1000
+    },
+    "camera": {
+      "x": 0,
+      "y": 0,
+      "width": 977.3755656108597,
+      "height": 1000
+    }
+  },
+  {
+    "number": 4,
+    "page": 1,
+    "background": "hands-room",
+    "source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\layered-v1\\hands-room.webp",
+    "world": {
+      "width": 1672,
+      "height": 941
+    },
+    "camera": {
+      "x": 180.14479638009044,
+      "y": 0,
+      "width": 919.710407239819,
+      "height": 941
+    }
+  },
+  {
+    "number": 4,
+    "page": 2,
+    "background": "hands-room",
+    "source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\layered-v1\\hands-room.webp",
+    "world": {
+      "width": 1672,
+      "height": 941
+    },
+    "camera": {
+      "x": 180.14479638009044,
+      "y": 0,
+      "width": 919.710407239819,
+      "height": 941
+    }
+  },
+  {
+    "number": 4,
+    "page": 3,
+    "background": "hands-room",
+    "source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\layered-v1\\hands-room.webp",
+    "world": {
+      "width": 1672,
+      "height": 941
+    },
+    "camera": {
+      "x": 180.04705882352937,
+      "y": 0,
+      "width": 919.9058823529411,
+      "height": 941.2
+    }
+  },
+  {
+    "number": 4,
+    "page": 4,
+    "background": "hands-room",
+    "source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\layered-v1\\hands-room.webp",
+    "world": {
+      "width": 1672,
+      "height": 941
+    },
+    "camera": {
+      "x": 179.10877828054294,
+      "y": 0,
+      "width": 921.782443438914,
+      "height": 943.12
+    }
+  },
+  {
+    "number": 4,
+    "page": 5,
+    "background": "hands-room",
+    "source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\layered-v1\\hands-room.webp",
+    "world": {
+      "width": 1672,
+      "height": 941
+    },
+    "camera": {
+      "x": 179.34281651121984,
+      "y": 0,
+      "width": 921.3143669775602,
+      "height": 942.6410884353742
+    }
+  },
+  {
+    "number": 4,
+    "page": 6,
+    "background": "hands-room",
+    "source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\layered-v1\\hands-room.webp",
+    "world": {
+      "width": 1672,
+      "height": 941
+    },
+    "camera": {
+      "x": 179.10877828054294,
+      "y": 0,
+      "width": 921.782443438914,
+      "height": 943.12
+    }
+  },
+  {
+    "number": 4,
+    "page": 7,
+    "background": "hands-room",
+    "source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\layered-v1\\hands-room.webp",
+    "world": {
+      "width": 1672,
+      "height": 941
+    },
+    "camera": {
+      "x": 180.04705882352937,
+      "y": 0,
+      "width": 919.9058823529411,
+      "height": 941.2
+    }
+  },
+  {
+    "number": 5,
+    "page": 1,
+    "background": "mountain-empty-sky",
+    "source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\local-eight\\mountain-empty-sky.webp",
+    "world": {
+      "width": 1000,
+      "height": 1000
+    },
+    "camera": {
+      "x": 11.312217194570167,
+      "y": 0,
+      "width": 977.3755656108597,
+      "height": 1000
+    }
+  },
+  {
+    "number": 5,
+    "page": 2,
+    "background": "mountain-empty-sky",
+    "source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\local-eight\\mountain-empty-sky.webp",
+    "world": {
+      "width": 1000,
+      "height": 1000
+    },
+    "camera": {
+      "x": 11.312217194570167,
+      "y": 0,
+      "width": 977.3755656108597,
+      "height": 1000
+    }
+  },
+  {
+    "number": 5,
+    "page": 3,
+    "background": "mountain-empty-sky",
+    "source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\local-eight\\mountain-empty-sky.webp",
+    "world": {
+      "width": 1000,
+      "height": 1000
+    },
+    "camera": {
+      "x": 11.312217194570167,
+      "y": 0,
+      "width": 977.3755656108597,
+      "height": 1000
+    }
+  },
+  {
+    "number": 5,
+    "page": 4,
+    "background": "mountain-empty-sky",
+    "source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\local-eight\\mountain-empty-sky.webp",
+    "world": {
+      "width": 1000,
+      "height": 1000
+    },
+    "camera": {
+      "x": 11.312217194570167,
+      "y": 0,
+      "width": 977.3755656108597,
+      "height": 1000
+    }
+  },
+  {
+    "number": 5,
+    "page": 5,
+    "background": "mountain-empty-sky",
+    "source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\local-eight\\mountain-empty-sky.webp",
+    "world": {
+      "width": 1000,
+      "height": 1000
+    },
+    "camera": {
+      "x": 11.312217194570167,
+      "y": 0,
+      "width": 977.3755656108597,
+      "height": 1000
+    }
+  },
+  {
+    "number": 5,
+    "page": 6,
+    "background": "mountain-empty-sky",
+    "source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\local-eight\\mountain-empty-sky.webp",
+    "world": {
+      "width": 1000,
+      "height": 1000
+    },
+    "camera": {
+      "x": 11.312217194570167,
+      "y": 0,
+      "width": 977.3755656108597,
+      "height": 1000
+    }
+  },
+  {
+    "number": 6,
+    "page": 1,
+    "background": "rain-sky",
+    "source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\rain\\rain-sky.webp",
+    "world": {
+      "width": 1672,
+      "height": 941
+    },
+    "camera": {
+      "x": 152.6447963800905,
+      "y": 0,
+      "width": 919.710407239819,
+      "height": 941
+    }
+  },
+  {
+    "number": 6,
+    "page": 2,
+    "background": "rain-alone",
+    "source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\layered-v1\\rain-alone.webp",
+    "world": {
+      "width": 1672,
+      "height": 941
+    },
+    "camera": {
+      "x": 20.44999999999999,
+      "y": -67.62743055555552,
+      "width": 1051.9052036199093,
+      "height": 1076.254861111111
+    }
+  },
+  {
+    "number": 6,
+    "page": 3,
+    "background": "rain-flower-close",
+    "source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\local-eight\\rain-flower-close.webp",
+    "world": {
+      "width": 1000,
+      "height": 1000
+    },
+    "camera": {
+      "x": 11.312217194570167,
+      "y": 0,
+      "width": 977.3755656108597,
+      "height": 1000
+    }
+  },
+  {
+    "number": 6,
+    "page": 4,
+    "background": "rain-flower-close",
+    "source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\local-eight\\rain-flower-close.webp",
+    "world": {
+      "width": 1000,
+      "height": 1000
+    },
+    "camera": {
+      "x": 11.312217194570167,
+      "y": 0,
+      "width": 977.3755656108597,
+      "height": 1000
+    }
+  },
+  {
+    "number": 6,
+    "page": 5,
+    "background": "rain-walk",
+    "source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\layered-v1\\rain-walk.webp",
+    "world": {
+      "width": 1672,
+      "height": 941
+    },
+    "camera": {
+      "x": 152.64479638009044,
+      "y": 0,
+      "width": 919.710407239819,
+      "height": 941
+    }
+  },
+  {
+    "number": 6,
+    "page": 6,
+    "background": "rain-shelter",
+    "source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\layered-v1\\rain-shelter.webp",
+    "world": {
+      "width": 1672,
+      "height": 941
+    },
+    "camera": {
+      "x": 152.64479638009044,
+      "y": 0,
+      "width": 919.710407239819,
+      "height": 941
+    }
+  },
+  {
+    "number": 6,
+    "page": 7,
+    "background": "rain-shelter",
+    "source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\layered-v1\\rain-shelter.webp",
+    "world": {
+      "width": 1672,
+      "height": 941
+    },
+    "camera": {
+      "x": 152.64479638009044,
+      "y": 0,
+      "width": 919.710407239819,
+      "height": 941
+    }
+  },
+  {
+    "number": 6,
+    "page": 8,
+    "background": "rain-shelter",
+    "source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\layered-v1\\rain-shelter.webp",
+    "world": {
+      "width": 1672,
+      "height": 941
+    },
+    "camera": {
+      "x": 152.6447963800905,
+      "y": -13.610324074074128,
+      "width": 946.3152036199095,
+      "height": 968.2206481481483
+    }
+  },
+  {
+    "number": 11,
+    "page": 1,
+    "background": "tree-welcome",
+    "source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\books-11-13\\tree-welcome.webp",
+    "world": {
+      "width": 1000,
+      "height": 1000
+    },
+    "camera": {
+      "x": 11.312217194570167,
+      "y": 0,
+      "width": 977.3755656108597,
+      "height": 1000
+    }
+  },
+  {
+    "number": 11,
+    "page": 2,
+    "background": "tree-comparison",
+    "source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\books-11-15\\play-courtyard.png",
+    "world": {
+      "width": 1000,
+      "height": 1000
+    },
+    "camera": {
+      "x": 11.312217194570167,
+      "y": 0,
+      "width": 977.3755656108597,
+      "height": 1000
+    }
+  },
+  {
+    "number": 11,
+    "page": 3,
+    "background": "tree-comparison",
+    "source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\books-11-15\\play-courtyard.png",
+    "world": {
+      "width": 1000,
+      "height": 1000
+    },
+    "camera": {
+      "x": 11.312217194570167,
+      "y": 0,
+      "width": 977.3755656108597,
+      "height": 1000
+    }
+  },
+  {
+    "number": 11,
+    "page": 4,
+    "background": "tree-comparison",
+    "source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\books-11-15\\play-courtyard.png",
+    "world": {
+      "width": 1000,
+      "height": 1000
+    },
+    "camera": {
+      "x": 11.312217194570167,
+      "y": 0,
+      "width": 977.3755656108597,
+      "height": 1000
+    }
+  },
+  {
+    "number": 11,
+    "page": 5,
+    "background": "tree-comparison",
+    "source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\books-11-15\\play-courtyard.png",
+    "world": {
+      "width": 1000,
+      "height": 1000
+    },
+    "camera": {
+      "x": 11.312217194570167,
+      "y": 0,
+      "width": 977.3755656108597,
+      "height": 1000
+    }
+  },
+  {
+    "number": 11,
+    "page": 6,
+    "background": "tree-comparison",
+    "source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\books-11-15\\play-courtyard.png",
+    "world": {
+      "width": 1000,
+      "height": 1000
+    },
+    "camera": {
+      "x": 11.312217194570167,
+      "y": 0,
+      "width": 977.3755656108597,
+      "height": 1000
+    }
+  },
+  {
+    "number": 11,
+    "page": 7,
+    "background": "tree-comparison",
+    "source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\books-11-15\\play-courtyard.png",
+    "world": {
+      "width": 1000,
+      "height": 1000
+    },
+    "camera": {
+      "x": 11.312217194570167,
+      "y": 0,
+      "width": 977.3755656108597,
+      "height": 1000
+    }
+  },
+  {
+    "number": 11,
+    "page": 8,
+    "background": "tree-welcome",
+    "source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\books-11-13\\tree-welcome.webp",
+    "world": {
+      "width": 1000,
+      "height": 1000
+    },
+    "camera": {
+      "x": 11.312217194570167,
+      "y": 0,
+      "width": 977.3755656108597,
+      "height": 1000
+    }
+  },
+  {
+    "number": 12,
+    "page": 1,
+    "background": "water-reflection-bank",
+    "source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\first-ten\\water-reflection-bank.webp",
+    "world": {
+      "width": 1000,
+      "height": 1000
+    },
+    "camera": {
+      "x": 11.312217194570167,
+      "y": 0,
+      "width": 977.3755656108597,
+      "height": 1000
+    }
+  },
+  {
+    "number": 12,
+    "page": 2,
+    "background": "water-reflection-bank",
+    "source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\first-ten\\water-reflection-bank.webp",
+    "world": {
+      "width": 1000,
+      "height": 1000
+    },
+    "camera": {
+      "x": 11.312217194570167,
+      "y": 0,
+      "width": 977.3755656108597,
+      "height": 1000
+    }
+  },
+  {
+    "number": 12,
+    "page": 3,
+    "background": "water-reflection-bank",
+    "source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\first-ten\\water-reflection-bank.webp",
+    "world": {
+      "width": 1000,
+      "height": 1000
+    },
+    "camera": {
+      "x": 11.312217194570167,
+      "y": 0,
+      "width": 977.3755656108597,
+      "height": 1000
+    }
+  },
+  {
+    "number": 12,
+    "page": 4,
+    "background": "water-reflection-bank",
+    "source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\first-ten\\water-reflection-bank.webp",
+    "world": {
+      "width": 1000,
+      "height": 1000
+    },
+    "camera": {
+      "x": 11.312217194570167,
+      "y": 0,
+      "width": 977.3755656108597,
+      "height": 1000
+    }
+  },
+  {
+    "number": 12,
+    "page": 5,
+    "background": "water-reflection-bank",
+    "source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\first-ten\\water-reflection-bank.webp",
+    "world": {
+      "width": 1000,
+      "height": 1000
+    },
+    "camera": {
+      "x": 11.312217194570167,
+      "y": 0,
+      "width": 977.3755656108597,
+      "height": 1000
+    }
+  },
+  {
+    "number": 13,
+    "page": 1,
+    "background": "calling-wide",
+    "source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\books-11-13\\calling-wide.webp",
+    "world": {
+      "width": 1000,
+      "height": 1000
+    },
+    "camera": {
+      "x": 11.312217194570167,
+      "y": 0,
+      "width": 977.3755656108597,
+      "height": 1000
+    }
+  },
+  {
+    "number": 13,
+    "page": 2,
+    "background": "calling-up",
+    "source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\books-11-13\\calling-up.webp",
+    "world": {
+      "width": 1000,
+      "height": 1000
+    },
+    "camera": {
+      "x": 11.312217194570167,
+      "y": 0,
+      "width": 977.3755656108597,
+      "height": 1000
+    }
+  },
+  {
+    "number": 13,
+    "page": 3,
+    "background": "calling-wide",
+    "source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\books-11-13\\calling-wide.webp",
+    "world": {
+      "width": 1000,
+      "height": 1000
+    },
+    "camera": {
+      "x": 11.312217194570167,
+      "y": 0,
+      "width": 977.3755656108597,
+      "height": 1000
+    }
+  },
+  {
+    "number": 13,
+    "page": 4,
+    "background": "calling-wide",
+    "source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\books-11-13\\calling-wide.webp",
+    "world": {
+      "width": 1000,
+      "height": 1000
+    },
+    "camera": {
+      "x": 11.312217194570167,
+      "y": 0,
+      "width": 977.3755656108597,
+      "height": 1000
+    }
+  },
+  {
+    "number": 13,
+    "page": 5,
+    "background": "calling-down",
+    "source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\books-11-13\\calling-down.webp",
+    "world": {
+      "width": 1000,
+      "height": 1000
+    },
+    "camera": {
+      "x": 11.312217194570167,
+      "y": 0,
+      "width": 977.3755656108597,
+      "height": 1000
+    }
+  },
+  {
+    "number": 13,
+    "page": 6,
+    "background": "calling-down",
+    "source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\books-11-13\\calling-down.webp",
+    "world": {
+      "width": 1000,
+      "height": 1000
+    },
+    "camera": {
+      "x": 11.312217194570167,
+      "y": 0,
+      "width": 977.3755656108597,
+      "height": 1000
+    }
+  },
+  {
+    "number": 13,
+    "page": 7,
+    "background": "calling-wide",
+    "source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\books-11-13\\calling-wide.webp",
+    "world": {
+      "width": 1000,
+      "height": 1000
+    },
+    "camera": {
+      "x": 11.312217194570167,
+      "y": 0,
+      "width": 977.3755656108597,
+      "height": 1000
+    }
+  },
+  {
+    "number": 13,
+    "page": 8,
+    "background": "calling-wide",
+    "source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\books-11-13\\calling-wide.webp",
+    "world": {
+      "width": 1000,
+      "height": 1000
+    },
+    "camera": {
+      "x": 11.312217194570167,
+      "y": 0,
+      "width": 977.3755656108597,
+      "height": 1000
+    }
+  },
+  {
+    "number": 13,
+    "page": 9,
+    "background": "calling-wide",
+    "source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\books-11-13\\calling-wide.webp",
+    "world": {
+      "width": 1000,
+      "height": 1000
+    },
+    "camera": {
+      "x": 11.312217194570167,
+      "y": 0,
+      "width": 977.3755656108597,
+      "height": 1000
+    }
+  },
+  {
+    "number": 15,
+    "page": 1,
+    "background": "bed-room-wide",
+    "source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\books-17-19\\bed-room-wide.webp",
+    "world": {
+      "width": 1000,
+      "height": 1000
+    },
+    "camera": {
+      "x": 11.312217194570167,
+      "y": 0,
+      "width": 977.3755656108597,
+      "height": 1000
+    }
+  },
+  {
+    "number": 15,
+    "page": 2,
+    "background": "bed-room-low",
+    "source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\books-17-19\\bed-room-low.webp",
+    "world": {
+      "width": 1000,
+      "height": 1000
+    },
+    "camera": {
+      "x": 11.312217194570167,
+      "y": 0,
+      "width": 977.3755656108597,
+      "height": 1000
+    }
+  },
+  {
+    "number": 15,
+    "page": 3,
+    "background": "bed-room-low",
+    "source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\books-17-19\\bed-room-low.webp",
+    "world": {
+      "width": 1000,
+      "height": 1000
+    },
+    "camera": {
+      "x": 11.312217194570167,
+      "y": 0,
+      "width": 977.3755656108597,
+      "height": 1000
+    }
+  },
+  {
+    "number": 15,
+    "page": 4,
+    "background": "bed-room-wide",
+    "source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\books-17-19\\bed-room-wide.webp",
+    "world": {
+      "width": 1000,
+      "height": 1000
+    },
+    "camera": {
+      "x": 11.312217194570167,
+      "y": 0,
+      "width": 977.3755656108597,
+      "height": 1000
+    }
+  },
+  {
+    "number": 15,
+    "page": 5,
+    "background": "bed-room-low",
+    "source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\books-17-19\\bed-room-low.webp",
+    "world": {
+      "width": 1000,
+      "height": 1000
+    },
+    "camera": {
+      "x": 11.312217194570167,
+      "y": 0,
+      "width": 977.3755656108597,
+      "height": 1000
+    }
+  },
+  {
+    "number": 15,
+    "page": 6,
+    "background": "bed-room-wide",
+    "source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\books-17-19\\bed-room-wide.webp",
+    "world": {
+      "width": 1000,
+      "height": 1000
+    },
+    "camera": {
+      "x": 11.312217194570167,
+      "y": 0,
+      "width": 977.3755656108597,
+      "height": 1000
+    }
+  },
+  {
+    "number": 15,
+    "page": 7,
+    "background": "bed-room-end",
+    "source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\books-17-19\\bed-room-end.webp",
+    "world": {
+      "width": 1000,
+      "height": 1000
+    },
+    "camera": {
+      "x": 11.312217194570167,
+      "y": 0,
+      "width": 977.3755656108597,
+      "height": 1000
+    }
+  }
+]

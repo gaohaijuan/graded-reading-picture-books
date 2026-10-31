@@ -1,0 +1,296 @@
+{
+  "pageCount": 132,
+  "storyCoverCount": 15,
+  "chapters": [
+    {
+      "bookId": "intro-complete",
+      "title": "你好，我是小石头",
+      "number": 1,
+      "startPage": 3,
+      "startFolio": 1,
+      "bodyStartPage": 4,
+      "storyPages": 6
+    },
+    {
+      "bookId": "snow-revision",
+      "title": "下雪了",
+      "number": 2,
+      "startPage": 11,
+      "startFolio": 9,
+      "bodyStartPage": 12,
+      "storyPages": 5
+    },
+    {
+      "bookId": "family",
+      "title": "我家有几口人？",
+      "number": 3,
+      "startPage": 18,
+      "startFolio": 16,
+      "bodyStartPage": 19,
+      "storyPages": 6
+    },
+    {
+      "bookId": "hands-revision",
+      "title": "我的小手",
+      "number": 4,
+      "startPage": 26,
+      "startFolio": 24,
+      "bodyStartPage": 27,
+      "storyPages": 7
+    },
+    {
+      "bookId": "mountain-revision",
+      "title": "山不见了",
+      "number": 5,
+      "startPage": 35,
+      "startFolio": 33,
+      "bodyStartPage": 36,
+      "storyPages": 6
+    },
+    {
+      "bookId": "rain-revision",
+      "title": "下雨了",
+      "number": 6,
+      "startPage": 43,
+      "startFolio": 41,
+      "bodyStartPage": 44,
+      "storyPages": 8
+    },
+    {
+      "bookId": "stone-complete",
+      "title": "小石头回家",
+      "number": 7,
+      "startPage": 53,
+      "startFolio": 51,
+      "bodyStartPage": 54,
+      "storyPages": 8
+    },
+    {
+      "bookId": "insect-revision",
+      "title": "小虫在哪",
+      "number": 8,
+      "startPage": 63,
+      "startFolio": 61,
+      "bodyStartPage": 64,
+      "storyPages": 6
+    },
+    {
+      "bookId": "car-complete",
+      "title": "小车回家",
+      "number": 9,
+      "startPage": 71,
+      "startFolio": 69,
+      "bodyStartPage": 72,
+      "storyPages": 5
+    },
+    {
+      "bookId": "ball-revision",
+      "title": "小球在哪",
+      "number": 10,
+      "startPage": 78,
+      "startFolio": 76,
+      "bodyStartPage": 79,
+      "storyPages": 6
+    },
+    {
+      "bookId": "tree-revision",
+      "title": "我和小树谁高",
+      "number": 11,
+      "startPage": 86,
+      "startFolio": 84,
+      "bodyStartPage": 87,
+      "storyPages": 8
+    },
+    {
+      "bookId": "water-revision",
+      "title": "水中的我",
+      "number": 12,
+      "startPage": 96,
+      "startFolio": 94,
+      "bodyStartPage": 97,
+      "storyPages": 5
+    },
+    {
+      "bookId": "calling-revision",
+      "title": "谁在叫",
+      "number": 13,
+      "startPage": 103,
+      "startFolio": 101,
+      "bodyStartPage": 104,
+      "storyPages": 9
+    },
+    {
+      "bookId": "catball-complete",
+      "title": "小猫要小球吗",
+      "number": 14,
+      "startPage": 114,
+      "startFolio": 112,
+      "bodyStartPage": 115,
+      "storyPages": 7
+    },
+    {
+      "bookId": "catbed-revision",
+      "title": "小猫的床",
+      "number": 15,
+      "startPage": 123,
+      "startFolio": 121,
+      "bodyStartPage": 124,
+      "storyPages": 7
+    }
+  ],
+  "result": [
+    {
+      "leaf": {
+        "kind": "story-cover",
+        "bookId": "intro-complete",
+        "chapter": 1,
+        "number": 3,
+        "folio": 1
+      },
+      "runs": [
+        {
+          "text": "小小主角 · 第1级",
+          "x": 76.00000012432118,
+          "y": 20.00000047280105,
+          "size": 3.5000000057253176,
+          "align": "center",
+          "color": "#344637"
+        },
+        {
+          "text": "你好，我是小石头",
+          "x": 76.00000012432118,
+          "y": 38.000000898322,
+          "size": 9.000000014722245,
+          "align": "center",
+          "color": "#344637"
+        },
+        {
+          "text": "第1级 · 第1篇",
+          "x": 76.00000012432118,
+          "y": 181.00000427884953,
+          "size": 4.00000000654322,
+          "align": "center",
+          "color": "#344637"
+        },
+        {
+          "text": "小小主角 · 我的故事",
+          "x": 76.00000012432118,
+          "y": 195.00000460981028,
+          "size": 3.000000004907415,
+          "align": "center",
+          "color": "#344637"
+        },
+        {
+          "text": "1",
+          "x": 76.00000012432118,
+          "y": 199.00000470437047,
+          "size": 3.000000004907415,
+          "align": "center",
+          "color": "#344637"
+        }
+      ]
+    },
+    {
+      "leaf": {
+        "kind": "story-cover",
+        "bookId": "insect-revision",
+        "chapter": 8,
+        "number": 63,
+        "folio": 61
+      },
+      "runs": [
+        {
+          "text": "小小主角 · 第1级",
+          "x": 76.00000012432118,
+          "y": 20.00000047280105,
+          "size": 3.5000000057253176,
+          "align": "center",
+          "color": "#344637"
+        },
+        {
+          "text": "小虫在哪",
+          "x": 76.00000012432118,
+          "y": 38.000000898322,
+          "size": 9.000000014722245,
+          "align": "center",
+          "color": "#344637"
+        },
+        {
+          "text": "第1级 · 第8篇",
+          "x": 76.00000012432118,
+          "y": 181.00000427884953,
+          "size": 4.00000000654322,
+          "align": "center",
+          "color": "#344637"
+        },
+        {
+          "text": "小小主角 · 我的故事",
+          "x": 76.00000012432118,
+          "y": 195.00000460981028,
+          "size": 3.000000004907415,
+          "align": "center",
+          "color": "#344637"
+        },
+        {
+          "text": "61",
+          "x": 76.00000012432118,
+          "y": 199.00000470437047,
+          "size": 3.000000004907415,
+          "align": "center",
+          "color": "#344637"
+        }
+      ]
+    },
+    {
+      "leaf": {
+        "kind": "story-cover",
+        "bookId": "catbed-revision",
+        "chapter": 15,
+        "number": 123,
+        "folio": 121
+      },
+      "runs": [
+        {
+          "text": "小小主角 · 第1级",
+          "x": 76.00000012432118,
+          "y": 20.00000047280105,
+          "size": 3.5000000057253176,
+          "align": "center",
+          "color": "#344637"
+        },
+        {
+          "text": "小猫的床",
+          "x": 76.00000012432118,
+          "y": 38.000000898322,
+          "size": 9.000000014722245,
+          "align": "center",
+          "color": "#344637"
+        },
+        {
+          "text": "第1级 · 第15篇",
+          "x": 76.00000012432118,
+          "y": 181.00000427884953,
+          "size": 4.00000000654322,
+          "align": "center",
+          "color": "#344637"
+        },
+        {
+          "text": "小小主角 · 我的故事",
+          "x": 76.00000012432118,
+          "y": 195.00000460981028,
+          "size": 3.000000004907415,
+          "align": "center",
+          "color": "#344637"
+        },
+        {
+          "text": "121",
+          "x": 76.00000012432118,
+          "y": 199.00000470437047,
+          "size": 3.000000004907415,
+          "align": "center",
+          "color": "#344637"
+        }
+      ]
+    }
+  ]
+}

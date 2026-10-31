@@ -1,0 +1,2563 @@
+{
+  "bodyPages": 111,
+  "minimumBackgroundEffectivePpi": 145.89,
+  "native300PpiClaimed": false,
+  "closeFloorCropAccounted": true,
+  "limitations": "按实际背景图与取景计算；既有动作和全部道具另见各批次原始记录，非印刷认证。",
+  "records": [
+    {
+      "id": "level2-shoes",
+      "number": 16,
+      "page": 1,
+      "background": "shoes-bench",
+      "url": "./art/sequence/books-16-20-storyboards-v2/b18-p07.png",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-shoes",
+      "number": 16,
+      "page": 2,
+      "background": "shoes-comparison",
+      "url": "./art/sequence/books-16-20-storyboards-v2/b18-p03.png",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-shoes",
+      "number": 16,
+      "page": 3,
+      "background": "shoes-try",
+      "url": "./art/sequence/books-16-20-storyboards-v2/b18-p04.png",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-shoes",
+      "number": 16,
+      "page": 4,
+      "background": "shoes-try",
+      "url": "./art/sequence/books-16-20-storyboards-v2/b18-p04.png",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-shoes",
+      "number": 16,
+      "page": 5,
+      "background": "shoes-try",
+      "url": "./art/sequence/books-16-20-storyboards-v2/b18-p04.png",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-shoes",
+      "number": 16,
+      "page": 6,
+      "background": "shoes-bench",
+      "url": "./art/sequence/books-16-20-storyboards-v2/b18-p07.png",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-shoes",
+      "number": 16,
+      "page": 7,
+      "background": "shoes-end",
+      "url": "./art/sequence/books-16-20-storyboards-v2/b18-p08.png",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-sleepy",
+      "number": 17,
+      "page": 1,
+      "background": "sleep-window",
+      "url": "./art/sequence/book-20/sleep-window.png",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-sleepy",
+      "number": 17,
+      "page": 2,
+      "background": "sleep-window",
+      "url": "./art/sequence/book-20/sleep-window.png",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-sleepy",
+      "number": 17,
+      "page": 3,
+      "background": "sleep-branch",
+      "url": "./art/sequence/book-20/sleep-branch.png",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-sleepy",
+      "number": 17,
+      "page": 4,
+      "background": "sleep-catwide",
+      "url": "./art/sequence/book-20/sleep-catwide.png",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-sleepy",
+      "number": 17,
+      "page": 5,
+      "background": "sleep-catclose",
+      "url": "./art/sequence/book-20/sleep-catclose.png",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-sleepy",
+      "number": 17,
+      "page": 6,
+      "background": "sleep-toys",
+      "url": "./art/sequence/book-20/sleep-toys.png",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-sleepy",
+      "number": 17,
+      "page": 7,
+      "background": "sleep-toys",
+      "url": "./art/sequence/book-20/sleep-toys.png",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-sleepy",
+      "number": 17,
+      "page": 8,
+      "background": "sleep-bedroom",
+      "url": "./art/sequence/book-20/sleep-bedroom.png",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-morning",
+      "number": 18,
+      "page": 1,
+      "background": "morning-child-room",
+      "url": "./art/sequence/level2-first-three/morning-child-room.webp",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-morning",
+      "number": 18,
+      "page": 2,
+      "background": "shoes-bench",
+      "url": "./art/sequence/books-16-20-storyboards-v2/b18-p07.png",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-morning",
+      "number": 18,
+      "page": 3,
+      "background": "shoes-bench",
+      "url": "./art/sequence/books-16-20-storyboards-v2/b18-p07.png",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-morning",
+      "number": 18,
+      "page": 4,
+      "background": "morning-parent-room",
+      "url": "./art/sequence/level2-first-three/morning-parent-room.webp",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-morning",
+      "number": 18,
+      "page": 5,
+      "background": "morning-parent-room",
+      "url": "./art/sequence/level2-first-three/morning-parent-room.webp",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-morning",
+      "number": 18,
+      "page": 6,
+      "background": "morning-parent-room",
+      "url": "./art/sequence/level2-first-three/morning-parent-room.webp",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-morning",
+      "number": 18,
+      "page": 7,
+      "background": "shoes-bench",
+      "url": "./art/sequence/books-16-20-storyboards-v2/b18-p07.png",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-morning",
+      "number": 18,
+      "page": 8,
+      "background": "morning-outside",
+      "url": "./art/sequence/level2-first-three/morning-outside.webp",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-hot-water",
+      "number": 19,
+      "page": 1,
+      "background": "warm-water-room",
+      "url": "./art/sequence/level2-next-three/warm-water-room.webp",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-hot-water",
+      "number": 19,
+      "page": 2,
+      "background": "warm-water-table-close",
+      "url": "./art/sequence/level2-next-three/warm-water-table-close.webp",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-hot-water",
+      "number": 19,
+      "page": 3,
+      "background": "warm-water-room",
+      "url": "./art/sequence/level2-next-three/warm-water-room.webp",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-hot-water",
+      "number": 19,
+      "page": 4,
+      "background": "warm-water-room",
+      "url": "./art/sequence/level2-next-three/warm-water-room.webp",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-hot-water",
+      "number": 19,
+      "page": 5,
+      "background": "warm-water-table-close",
+      "url": "./art/sequence/level2-next-three/warm-water-table-close.webp",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-hot-water",
+      "number": 19,
+      "page": 6,
+      "background": "warm-water-room",
+      "url": "./art/sequence/level2-next-three/warm-water-room.webp",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-hot-water",
+      "number": 19,
+      "page": 7,
+      "background": "warm-water-room",
+      "url": "./art/sequence/level2-next-three/warm-water-room.webp",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-hot-water",
+      "number": 19,
+      "page": 8,
+      "background": "warm-water-room",
+      "url": "./art/sequence/level2-next-three/warm-water-room.webp",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-flower-water",
+      "number": 20,
+      "page": 1,
+      "background": "water-pour-scene",
+      "url": "./art/sequence/books-16-20-storyboards-v2/b19-p02.png",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-flower-water",
+      "number": 20,
+      "page": 2,
+      "background": "water-pour-scene",
+      "url": "./art/sequence/books-16-20-storyboards-v2/b19-p02.png",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-flower-water",
+      "number": 20,
+      "page": 3,
+      "background": "water-drops",
+      "url": "./art/sequence/books-16-20-storyboards-v2/b19-p03.png",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-flower-water",
+      "number": 20,
+      "page": 4,
+      "background": "flower-leaf-shelter",
+      "url": "./art/sequence/level2-next-three/flower-leaf-shelter.webp",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-flower-water",
+      "number": 20,
+      "page": 5,
+      "background": "flower-leaf-shelter",
+      "url": "./art/sequence/level2-next-three/flower-leaf-shelter.webp",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-flower-water",
+      "number": 20,
+      "page": 6,
+      "background": "water-greet",
+      "url": "./art/sequence/books-16-20-storyboards-v2/b19-p01.png",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-flower-water",
+      "number": 20,
+      "page": 7,
+      "background": "flower-leaf-shelter",
+      "url": "./art/sequence/level2-next-three/flower-leaf-shelter.webp",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-flower-water",
+      "number": 20,
+      "page": 8,
+      "background": "water-greet",
+      "url": "./art/sequence/books-16-20-storyboards-v2/b19-p01.png",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-ball-wagon",
+      "number": 21,
+      "page": 1,
+      "background": "wagon-side",
+      "url": "./art/sequence/books-14-16/wagon-side.webp",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-ball-wagon",
+      "number": 21,
+      "page": 2,
+      "background": "wagon-side",
+      "url": "./art/sequence/books-14-16/wagon-side.webp",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-ball-wagon",
+      "number": 21,
+      "page": 3,
+      "background": "wagon-side",
+      "url": "./art/sequence/books-14-16/wagon-side.webp",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-ball-wagon",
+      "number": 21,
+      "page": 4,
+      "background": "wagon-side",
+      "url": "./art/sequence/books-14-16/wagon-side.webp",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-ball-wagon",
+      "number": 21,
+      "page": 5,
+      "background": "wagon-loading",
+      "url": "./art/sequence/books-14-16/wagon-loading.webp",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-ball-wagon",
+      "number": 21,
+      "page": 6,
+      "background": "wagon-home",
+      "url": "./art/sequence/books-14-16/wagon-home.webp",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-paper",
+      "number": 22,
+      "page": 1,
+      "background": "paper-welcome",
+      "url": "./art/sequence/books-16-20-storyboards-v2/b20-p01.png",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-paper",
+      "number": 22,
+      "page": 2,
+      "background": "paper-wind",
+      "url": "./art/sequence/books-16-20-storyboards-v2/b20-p02.png",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-paper",
+      "number": 22,
+      "page": 3,
+      "background": "paper-wind",
+      "url": "./art/sequence/books-16-20-storyboards-v2/b20-p02.png",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-paper",
+      "number": 22,
+      "page": 4,
+      "background": "paper-wind",
+      "url": "./art/sequence/books-16-20-storyboards-v2/b20-p02.png",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-paper",
+      "number": 22,
+      "page": 5,
+      "background": "paper-land",
+      "url": "./art/sequence/books-16-20-storyboards-v2/b20-p05.png",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-paper",
+      "number": 22,
+      "page": 6,
+      "background": "paper-again",
+      "url": "./art/sequence/books-16-20-storyboards-v2/b20-p06.png",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-paper",
+      "number": 22,
+      "page": 7,
+      "background": "paper-again",
+      "url": "./art/sequence/books-16-20-storyboards-v2/b20-p06.png",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-paper",
+      "number": 22,
+      "page": 8,
+      "background": "paper-end",
+      "url": "./art/sequence/books-16-20-storyboards-v2/b20-p08.png",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-who-laughs",
+      "number": 23,
+      "page": 1,
+      "background": "revision-room",
+      "url": "./art/sequence/first-ten/car-room-wide.webp",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-who-laughs",
+      "number": 23,
+      "page": 2,
+      "background": "revision-room",
+      "url": "./art/sequence/first-ten/car-room-wide.webp",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-who-laughs",
+      "number": 23,
+      "page": 3,
+      "background": "revision-room",
+      "url": "./art/sequence/first-ten/car-room-wide.webp",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-who-laughs",
+      "number": 23,
+      "page": 4,
+      "background": "revision-room",
+      "url": "./art/sequence/first-ten/car-room-wide.webp",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 432.0135746606335,
+        "y": 280,
+        "width": 605.972850678733,
+        "height": 620
+      },
+      "backgroundEffectivePpi": 150.75
+    },
+    {
+      "id": "level2-who-laughs",
+      "number": 23,
+      "page": 5,
+      "background": "revision-room",
+      "url": "./art/sequence/first-ten/car-room-wide.webp",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-who-laughs",
+      "number": 23,
+      "page": 6,
+      "background": "revision-room",
+      "url": "./art/sequence/first-ten/car-room-wide.webp",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-who-laughs",
+      "number": 23,
+      "page": 7,
+      "background": "revision-room",
+      "url": "./art/sequence/first-ten/car-room-wide.webp",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-fruit",
+      "number": 24,
+      "page": 1,
+      "background": "fruit-welcome",
+      "url": "./art/sequence/books-16-20-storyboards-v2/b20-p01.png",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-fruit",
+      "number": 24,
+      "page": 2,
+      "background": "fruit-share",
+      "url": "./art/sequence/books-16-20-storyboards-v2/b20-p05.png",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-fruit",
+      "number": 24,
+      "page": 3,
+      "background": "fruit-share",
+      "url": "./art/sequence/books-16-20-storyboards-v2/b20-p05.png",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-fruit",
+      "number": 24,
+      "page": 4,
+      "background": "fruit-share",
+      "url": "./art/sequence/books-16-20-storyboards-v2/b20-p05.png",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-fruit",
+      "number": 24,
+      "page": 5,
+      "background": "fruit-end",
+      "url": "./art/sequence/books-16-20-storyboards-v2/b20-p08.png",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-fruit",
+      "number": 24,
+      "page": 6,
+      "background": "fruit-welcome",
+      "url": "./art/sequence/books-16-20-storyboards-v2/b20-p01.png",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-fruit",
+      "number": 24,
+      "page": 7,
+      "background": "fruit-end",
+      "url": "./art/sequence/books-16-20-storyboards-v2/b20-p08.png",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-sunrise",
+      "number": 25,
+      "page": 1,
+      "background": "l2-dawn-night",
+      "url": "./art/sequence/sunrise/night.webp",
+      "world": {
+        "width": 1000,
+        "height": 1500
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1024,
+        1536
+      ],
+      "camera": {
+        "x": -5.684341886080802e-14,
+        "y": 450.4259259259259,
+        "width": 1000.0000000000001,
+        "height": 1023.1481481481483
+      },
+      "backgroundEffectivePpi": 203.14
+    },
+    {
+      "id": "level2-sunrise",
+      "number": 25,
+      "page": 2,
+      "background": "l2-dawn-night",
+      "url": "./art/sequence/sunrise/night.webp",
+      "world": {
+        "width": 1000,
+        "height": 1500
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1024,
+        1536
+      ],
+      "camera": {
+        "x": 60,
+        "y": 219.58333333333331,
+        "width": 900,
+        "height": 920.8333333333334
+      },
+      "backgroundEffectivePpi": 182.83
+    },
+    {
+      "id": "level2-sunrise",
+      "number": 25,
+      "page": 3,
+      "background": "l2-dawn-night",
+      "url": "./art/sequence/sunrise/night.webp",
+      "world": {
+        "width": 1000,
+        "height": 1500
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1024,
+        1536
+      ],
+      "camera": {
+        "x": -5.684341886080802e-14,
+        "y": 450.4259259259259,
+        "width": 1000.0000000000001,
+        "height": 1023.1481481481483
+      },
+      "backgroundEffectivePpi": 203.14
+    },
+    {
+      "id": "level2-sunrise",
+      "number": 25,
+      "page": 4,
+      "background": "l2-dawn-night",
+      "url": "./art/sequence/sunrise/night.webp",
+      "world": {
+        "width": 1000,
+        "height": 1500
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1024,
+        1536
+      ],
+      "camera": {
+        "x": -5.684341886080802e-14,
+        "y": 450.4259259259259,
+        "width": 1000.0000000000001,
+        "height": 1023.1481481481483
+      },
+      "backgroundEffectivePpi": 203.14
+    },
+    {
+      "id": "level2-sunrise",
+      "number": 25,
+      "page": 5,
+      "background": "l2-dawn-sun",
+      "url": "./art/sequence/sunrise/sun.webp",
+      "world": {
+        "width": 1000,
+        "height": 1500
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1024,
+        1536
+      ],
+      "camera": {
+        "x": -5.684341886080802e-14,
+        "y": 450.4259259259259,
+        "width": 1000.0000000000001,
+        "height": 1023.1481481481483
+      },
+      "backgroundEffectivePpi": 203.14
+    },
+    {
+      "id": "level2-sunrise",
+      "number": 25,
+      "page": 6,
+      "background": "l2-dawn-sun",
+      "url": "./art/sequence/sunrise/sun.webp",
+      "world": {
+        "width": 1000,
+        "height": 1500
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1024,
+        1536
+      ],
+      "camera": {
+        "x": -5.684341886080802e-14,
+        "y": 450.4259259259259,
+        "width": 1000.0000000000001,
+        "height": 1023.1481481481483
+      },
+      "backgroundEffectivePpi": 203.14
+    },
+    {
+      "id": "level2-sunrise",
+      "number": 25,
+      "page": 7,
+      "background": "l2-dawn-sun",
+      "url": "./art/sequence/sunrise/sun.webp",
+      "world": {
+        "width": 1000,
+        "height": 1500
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1024,
+        1536
+      ],
+      "camera": {
+        "x": -5.684341886080802e-14,
+        "y": 450.4259259259259,
+        "width": 1000.0000000000001,
+        "height": 1023.1481481481483
+      },
+      "backgroundEffectivePpi": 203.14
+    },
+    {
+      "id": "level2-moon",
+      "number": 26,
+      "page": 1,
+      "background": "moon-pond-wide",
+      "url": "./art/sequence/level2-fourth-three/moon-pond-wide.webp",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-moon",
+      "number": 26,
+      "page": 2,
+      "background": "moon-pond-wide",
+      "url": "./art/sequence/level2-fourth-three/moon-pond-wide.webp",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-moon",
+      "number": 26,
+      "page": 3,
+      "background": "moon-pond-close",
+      "url": "./art/sequence/level2-fourth-three/moon-pond-close.webp",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-moon",
+      "number": 26,
+      "page": 4,
+      "background": "moon-pond-close",
+      "url": "./art/sequence/level2-fourth-three/moon-pond-close.webp",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-moon",
+      "number": 26,
+      "page": 5,
+      "background": "moon-pond-wide",
+      "url": "./art/sequence/level2-fourth-three/moon-pond-wide.webp",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-moon",
+      "number": 26,
+      "page": 6,
+      "background": "moon-pond-wide",
+      "url": "./art/sequence/level2-fourth-three/moon-pond-wide.webp",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-moon",
+      "number": 26,
+      "page": 7,
+      "background": "moon-pond-close",
+      "url": "./art/sequence/level2-fourth-three/moon-pond-close.webp",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-rabbit",
+      "number": 27,
+      "page": 1,
+      "background": "l2-rabbit-garden",
+      "url": "./art/sequence/books-16-20-storyboards-v2/b20-p05.png",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-rabbit",
+      "number": 27,
+      "page": 2,
+      "background": "l2-rabbit-garden",
+      "url": "./art/sequence/books-16-20-storyboards-v2/b20-p05.png",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-rabbit",
+      "number": 27,
+      "page": 3,
+      "background": "l2-rabbit-bird-garden",
+      "url": "./art/sequence/books-11-13/calling-wide.webp",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-rabbit",
+      "number": 27,
+      "page": 4,
+      "background": "l2-rabbit-garden",
+      "url": "./art/sequence/books-16-20-storyboards-v2/b20-p05.png",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-rabbit",
+      "number": 27,
+      "page": 5,
+      "background": "l2-rabbit-garden",
+      "url": "./art/sequence/books-16-20-storyboards-v2/b20-p05.png",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-rabbit",
+      "number": 27,
+      "page": 6,
+      "background": "l2-rabbit-garden",
+      "url": "./art/sequence/books-16-20-storyboards-v2/b20-p05.png",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-rabbit",
+      "number": 27,
+      "page": 7,
+      "background": "l2-rabbit-garden-end",
+      "url": "./art/sequence/books-16-20-storyboards-v2/b20-p08.png",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-rabbit",
+      "number": 27,
+      "page": 8,
+      "background": "l2-rabbit-garden-end",
+      "url": "./art/sequence/books-16-20-storyboards-v2/b20-p08.png",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-jump",
+      "number": 28,
+      "page": 1,
+      "background": "jump-garden-wide",
+      "url": "./art/sequence/books-16-20-storyboards-v2/b20-p05.png",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-jump",
+      "number": 28,
+      "page": 2,
+      "background": "jump-ground-close",
+      "url": "./art/sequence/level2-last-three/jump-ground-close.webp",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 270,
+        "y": 326.89814814814815,
+        "width": 700,
+        "height": 716.2037037037037
+      },
+      "backgroundEffectivePpi": 174.14
+    },
+    {
+      "id": "level2-jump",
+      "number": 28,
+      "page": 3,
+      "background": "jump-ground-close",
+      "url": "./art/sequence/level2-last-three/jump-ground-close.webp",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-jump",
+      "number": 28,
+      "page": 4,
+      "background": "jump-ground-close",
+      "url": "./art/sequence/level2-last-three/jump-ground-close.webp",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 112.26421768707482,
+        "y": 249.37590765936005,
+        "width": 734.2516194169975,
+        "height": 751.2481846812799
+      },
+      "backgroundEffectivePpi": 182.66
+    },
+    {
+      "id": "level2-jump",
+      "number": 28,
+      "page": 5,
+      "background": "jump-ground-close",
+      "url": "./art/sequence/level2-last-three/jump-ground-close.webp",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-jump",
+      "number": 28,
+      "page": 6,
+      "background": "jump-garden-wide",
+      "url": "./art/sequence/books-16-20-storyboards-v2/b20-p05.png",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-jump",
+      "number": 28,
+      "page": 7,
+      "background": "jump-garden-wide",
+      "url": "./art/sequence/books-16-20-storyboards-v2/b20-p05.png",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-jump",
+      "number": 28,
+      "page": 8,
+      "background": "jump-ground-close",
+      "url": "./art/sequence/level2-last-three/jump-ground-close.webp",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-train",
+      "number": 29,
+      "page": 1,
+      "background": "studio-floor",
+      "url": "./art/sequence/level2-last-three/studio-floor.webp",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-train",
+      "number": 29,
+      "page": 2,
+      "background": "studio-floor",
+      "url": "./art/sequence/level2-last-three/studio-floor.webp",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": true,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 145.89
+    },
+    {
+      "id": "level2-train",
+      "number": 29,
+      "page": 3,
+      "background": "studio-floor",
+      "url": "./art/sequence/level2-last-three/studio-floor.webp",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-train",
+      "number": 29,
+      "page": 4,
+      "background": "studio-floor",
+      "url": "./art/sequence/level2-last-three/studio-floor.webp",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": true,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 145.89
+    },
+    {
+      "id": "level2-train",
+      "number": 29,
+      "page": 5,
+      "background": "studio-floor",
+      "url": "./art/sequence/level2-last-three/studio-floor.webp",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-train",
+      "number": 29,
+      "page": 6,
+      "background": "studio-floor",
+      "url": "./art/sequence/level2-last-three/studio-floor.webp",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-train",
+      "number": 29,
+      "page": 7,
+      "background": "studio-floor",
+      "url": "./art/sequence/level2-last-three/studio-floor.webp",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": true,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 145.89
+    },
+    {
+      "id": "level2-fish",
+      "number": 30,
+      "page": 1,
+      "background": "studio-floor",
+      "url": "./art/sequence/level2-last-three/studio-floor.webp",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": true,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 145.89
+    },
+    {
+      "id": "level2-fish",
+      "number": 30,
+      "page": 2,
+      "background": "studio-floor",
+      "url": "./art/sequence/level2-last-three/studio-floor.webp",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-fish",
+      "number": 30,
+      "page": 3,
+      "background": "studio-floor",
+      "url": "./art/sequence/level2-last-three/studio-floor.webp",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-fish",
+      "number": 30,
+      "page": 4,
+      "background": "studio-floor",
+      "url": "./art/sequence/level2-last-three/studio-floor.webp",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-fish",
+      "number": 30,
+      "page": 5,
+      "background": "studio-floor",
+      "url": "./art/sequence/level2-last-three/studio-floor.webp",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": true,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 145.89
+    },
+    {
+      "id": "level2-fish",
+      "number": 30,
+      "page": 6,
+      "background": "studio-floor",
+      "url": "./art/sequence/level2-last-three/studio-floor.webp",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": false,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 243.14
+    },
+    {
+      "id": "level2-fish",
+      "number": 30,
+      "page": 7,
+      "background": "studio-floor",
+      "url": "./art/sequence/level2-last-three/studio-floor.webp",
+      "world": {
+        "width": 1000,
+        "height": 1000
+      },
+      "closeFloorCrop": true,
+      "nativeBackgroundSize": [
+        1254,
+        1254
+      ],
+      "camera": {
+        "x": 11.312217194570167,
+        "y": 0,
+        "width": 977.3755656108597,
+        "height": 1000
+      },
+      "backgroundEffectivePpi": 145.89
+    }
+  ],
+  "reviewFixesIncluded": true
+}

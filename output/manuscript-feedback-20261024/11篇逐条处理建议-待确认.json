@@ -1,0 +1,575 @@
+{
+  "status": "proposal-awaiting-user-review",
+  "basis": "只针对用户指出的旧顺序11篇；未使用已撤回v9，不改前3篇，不修改当前书架、正文源稿、插画或PDF。",
+  "originalNumberingRetained": true,
+  "proposed": [
+    {
+      "number": 5,
+      "title": "下雨了",
+      "reason": "删掉没有写清关联的云、风铺垫，直接从下雨开始。云和风留在看山、追纸等确有用途的情节中。",
+      "paragraphs": [
+        "下雨了！",
+        "小伞开了。我在伞下。",
+        "小花在雨中。",
+        "“小花，来！”小花不来。",
+        "“花不来，我去！”",
+        "我在伞下，小花也在伞下。",
+        "雨在伞上，伞下有我，也有花。"
+      ],
+      "originalTitle": "下雨了",
+      "originalParagraphs": [
+        "天上有云。",
+        "风来了。下雨了！",
+        "小伞开了。我在伞下。",
+        "小花在雨中。",
+        "小花，来！小花不来。",
+        "花不来，我去！",
+        "我在伞下，小花也在伞下。",
+        "雨在伞上，伞下有我，也有花。"
+      ],
+      "status": "proposal-awaiting-user-review",
+      "outsideWorkingCharacterList": [],
+      "firstExposuresAtOldPosition": [
+        "下",
+        "雨",
+        "伞",
+        "中"
+      ]
+    },
+    {
+      "number": 13,
+      "title": "小猫要小球吗",
+      "reason": "写明孩子推球，小猫跑来参与；不再让小球没有主语地来去。",
+      "paragraphs": [
+        "我有一个红球。",
+        "我有一个黄球。",
+        "“小猫，你要小球吗？”",
+        "“红球给你。黄球也给你。”",
+        "小猫不来玩。",
+        "我把小球推过去。",
+        "小猫跑来了！",
+        "我和小猫一起玩！"
+      ],
+      "originalTitle": "小猫要小球吗",
+      "originalParagraphs": [
+        "我有一个红球。",
+        "我有一个黄球。",
+        "小猫，你要小球吗？",
+        "红球给你。",
+        "黄球也给你。",
+        "小猫不要红球，也不要黄球。",
+        "小球来，小球去。",
+        "小猫来了！小猫要和我玩！"
+      ],
+      "status": "proposal-awaiting-user-review",
+      "outsideWorkingCharacterList": [
+        "推"
+      ],
+      "firstExposuresAtOldPosition": [
+        "红",
+        "黄",
+        "给",
+        "推",
+        "过",
+        "跑",
+        "起"
+      ]
+    },
+    {
+      "number": 14,
+      "title": "大鞋和小鞋",
+      "reason": "正文用“大人的鞋”，不按孩子性别规定鞋子的主人或鞋型。画面暂以普通成人平底鞋为通用设定；本次不改插画。",
+      "paragraphs": [
+        "这是我的小鞋。",
+        "这是大人的鞋，我也要穿。",
+        "我穿上大鞋。",
+        "一走，小脚出来了！",
+        "我穿好小鞋。",
+        "这回，小脚和小鞋一起走。"
+      ],
+      "originalTitle": "大鞋和小鞋",
+      "originalParagraphs": [
+        "这是我的小鞋。",
+        "这是大鞋。我也要穿。",
+        "小脚穿大鞋。",
+        "我走，大鞋不走。",
+        "小脚出来了！",
+        "我穿小鞋。小脚和小鞋一起走。"
+      ],
+      "status": "proposal-awaiting-user-review",
+      "outsideWorkingCharacterList": [],
+      "firstExposuresAtOldPosition": [
+        "鞋",
+        "穿",
+        "脚",
+        "起"
+      ]
+    },
+    {
+      "number": 18,
+      "title": "大果子和小果子",
+      "reason": "去掉没有动作的来去和反复互让，只写一次清楚的分享；不再为了页数补空话。",
+      "paragraphs": [
+        "我有两个果子，一个大，一个小。",
+        "朋友来我家玩，也想吃果子。",
+        "我说：“大的给你，小的给我。”",
+        "我把大果子给朋友。",
+        "朋友吃了一口：“真好吃！”",
+        "我也吃一口：“小的也好吃！”"
+      ],
+      "originalTitle": "大果子和小果子",
+      "originalParagraphs": [
+        "我有两个果子。一个大，一个小。",
+        "大的给你，小的给我。",
+        "你说：“大的给你！”",
+        "大果子来，大果子去。",
+        "小果子呢？小果子在我手中。",
+        "我吃一口。小果子真好吃！",
+        "你也吃一口。大果子也好吃！",
+        "大果子小果子，我们都爱吃！"
+      ],
+      "status": "proposal-awaiting-user-review",
+      "outsideWorkingCharacterList": [],
+      "firstExposuresAtOldPosition": [
+        "果",
+        "子",
+        "朋",
+        "友",
+        "想",
+        "吃",
+        "说",
+        "真"
+      ]
+    },
+    {
+      "number": 20,
+      "title": "我还不想睡",
+      "reason": "删去小车在鞋里及对小车反复邀玩的情节，明确是孩子放好玩具、和它道晚安的游戏式拟人。",
+      "paragraphs": [
+        "天晚了，我还不想睡。",
+        "“小鸟，来和我玩！”",
+        "小鸟在树上睡了。",
+        "“小猫，来和我玩！”",
+        "小猫在小床上睡了。",
+        "我把小车放好：“小车，你也睡吧。”",
+        "好吧，我也要睡了。"
+      ],
+      "originalTitle": "我还不想睡",
+      "originalParagraphs": [
+        "天晚了。我还不想睡。",
+        "小鸟，小鸟，来和我玩！",
+        "小鸟在树上睡了。",
+        "小猫，小猫，来和我玩！",
+        "小猫在小床上睡了。",
+        "小车，小车，来和我玩！",
+        "小车在大鞋里。小车也要睡了吗？",
+        "好吧！我也要睡了。"
+      ],
+      "status": "proposal-awaiting-user-review",
+      "outsideWorkingCharacterList": [],
+      "firstExposuresAtOldPosition": [
+        "晚"
+      ]
+    },
+    {
+      "number": 21,
+      "title": "早上好",
+      "reason": "改成孩子先收拾好、反过来等爸爸出门的小情节，删掉鞋里小车起床的牵强呼应。爸爸是审稿示例中的实际出场家人，未按性别自动决定角色。",
+      "paragraphs": [
+        "今天，我早早起来了。",
+        "我要和爸爸出门玩。",
+        "我穿好衣，穿好鞋。",
+        "爸爸还在睡！",
+        "“爸爸，快起来！我都穿好了！”",
+        "爸爸起来了，也去穿衣、穿鞋。",
+        "我在门口等爸爸。",
+        "“爸爸，快来！我们出门吧！”"
+      ],
+      "originalTitle": "早上好",
+      "originalParagraphs": [
+        "早上好！今天我早早起来了。",
+        "小猫还在睡。",
+        "小车还在大鞋里。",
+        "我穿衣，我穿鞋。",
+        "小猫起来了！小车，你也起来吧！",
+        "我拿起小车。小车也起来了！",
+        "今天和我玩，明天也早早起来吧！"
+      ],
+      "status": "proposal-awaiting-user-review",
+      "outsideWorkingCharacterList": [
+        "等"
+      ],
+      "firstExposuresAtOldPosition": [
+        "今",
+        "早",
+        "衣",
+        "快",
+        "等"
+      ]
+    },
+    {
+      "number": 22,
+      "title": "看日出",
+      "reason": "不替原稿猜测末尾的“你”是谁；结尾直接写孩子明天还来看日出。",
+      "paragraphs": [
+        "今天，我来看日出。",
+        "天还黑着，小鸟还没有叫。",
+        "天边红了。",
+        "看，日出！",
+        "小鸟叫了，我也笑了。",
+        "“小鸟，早上好！”",
+        "明天，我还来看日出。"
+      ],
+      "originalTitle": "看日出",
+      "originalParagraphs": [
+        "今天，我们看日出。",
+        "天还黑着。小鸟还没有叫。",
+        "天边红了。",
+        "看，日出！",
+        "小鸟叫了。我也笑了。",
+        "早上好，小鸟！早上好，红红的天！",
+        "明天，你还来吗？"
+      ],
+      "status": "proposal-awaiting-user-review",
+      "outsideWorkingCharacterList": [],
+      "firstExposuresAtOldPosition": [
+        "日",
+        "黑",
+        "着",
+        "笑"
+      ]
+    },
+    {
+      "number": 24,
+      "title": "这水太热了",
+      "reason": "采用“还不能喝”；只保留同一杯水由太热到能喝的等待过程，去掉冷水对照和给花喝水的岔线。",
+      "paragraphs": [
+        "我想喝水。",
+        "这水太热了，我还不能喝。",
+        "我把水放好，等一等。",
+        "水不热了！这回，我能喝了。",
+        "我喝一口，再喝一口。"
+      ],
+      "originalTitle": "这水太热了",
+      "originalParagraphs": [
+        "我想喝水。",
+        "这水太热了！我还不喝。",
+        "这水太冷了！我也不想喝。",
+        "热水，热水，你不要太热。",
+        "不热了！我喝一点，再喝一点。",
+        "小花，你也要喝吗？",
+        "小花不喝热水。我给小花一点水。",
+        "我喝好了。小花也喝好了！"
+      ],
+      "status": "proposal-awaiting-user-review",
+      "outsideWorkingCharacterList": [
+        "等"
+      ],
+      "firstExposuresAtOldPosition": [
+        "太",
+        "热",
+        "能",
+        "等"
+      ]
+    },
+    {
+      "number": 26,
+      "title": "长纸和短纸",
+      "reason": "撤回纸桥提案：普通薄纸架空不能默认承载玩具车。新提案把纸平铺在地上，只比较纸路能否铺到家门口，不宣称短纸会挡车或让车开不过去。车由地面支撑；仍待用户确认，未改原文或插画。",
+      "paragraphs": [
+        "我有两张纸，一张长，一张短。",
+        "我要给小车的家做条路。",
+        "我把短纸放在地上。",
+        "纸太短，还没到家门口。",
+        "我拿走短纸，放上长纸。",
+        "这回，纸路到家门口了。",
+        "我把小车放在纸上，推到家门口。",
+        "“小车回家了！”"
+      ],
+      "originalTitle": "长纸和短纸",
+      "originalParagraphs": [
+        "我有两片纸。一片长，一片短。",
+        "小车要过来。",
+        "短纸放下。小车开不过去。",
+        "长纸放下。小车开过去了！",
+        "短纸，你要做什么呢？",
+        "短纸做小门。",
+        "小门关上。小车在家里。",
+        "长纸让小车过来，短纸让小车回家！"
+      ],
+      "status": "proposal-awaiting-user-review",
+      "outsideWorkingCharacterList": [
+        "张",
+        "条",
+        "路",
+        "推"
+      ],
+      "firstExposuresAtOldPosition": [
+        "张",
+        "短",
+        "做",
+        "条",
+        "路",
+        "地",
+        "推"
+      ]
+    },
+    {
+      "number": 27,
+      "title": "小虫过小山",
+      "reason": "保留上下山、孩子停下后小虫继续走的变化，去掉不必要的土、脚、边、前后等负担。简化后可接在“山不见了”后试排，最终序号尚不改。",
+      "paragraphs": [
+        "我在山下，小虫也在山下。",
+        "我上山，小虫也上山。",
+        "我下山了，小虫在山上。",
+        "我坐下来，看小虫。",
+        "小虫过了小山。",
+        "我坐在山下，小虫走了。",
+        "“小虫，我也来！”",
+        "我也走了。"
+      ],
+      "originalTitle": "小虫过小山",
+      "originalParagraphs": [
+        "地上有小土山。",
+        "小虫在山下。我也在山下。",
+        "小虫上山。我也上山。",
+        "我快，小虫不快。",
+        "我坐下来。小虫，你来吧！",
+        "它过了小土山，来到我的脚边。",
+        "小虫在前，我还在后！",
+        "小虫，你不坐吗？好吧，我也走！"
+      ],
+      "status": "proposal-awaiting-user-review",
+      "outsideWorkingCharacterList": [],
+      "firstExposuresAtOldPosition": [
+        "虫",
+        "坐"
+      ]
+    },
+    {
+      "number": 28,
+      "title": "我和小兔",
+      "reason": "使用正常词“耳朵”“眼睛”；去掉“耳在，眼也在”的空话和水中观察支线。题目改为能涵盖身体观察的“我和小兔”。单说“牙”在这里是正常口语，不为凑字故意截词。",
+      "paragraphs": [
+        "我看小白兔。",
+        "小兔的耳朵长长的，我的耳朵小小的。",
+        "小鸟在叫，小兔在听，我也在听。",
+        "小兔的眼睛红红的，我的眼睛黑黑的。",
+        "小兔看看我，我也看看它。",
+        "我一笑，小兔看见了我的牙。",
+        "“小兔，你的牙呢？”"
+      ],
+      "originalTitle": "小兔听什么",
+      "originalParagraphs": [
+        "小兔的耳，长长的。我的耳，小小的。",
+        "小兔听，小鸟在叫。",
+        "我也听，小鸟还在叫。",
+        "小兔的眼，红红的。我的眼，黑黑的。",
+        "我看水中的我。耳在，眼也在。",
+        "我一笑，牙也出来了！",
+        "小兔，小兔，你的牙呢？"
+      ],
+      "status": "proposal-awaiting-user-review",
+      "outsideWorkingCharacterList": [
+        "朵",
+        "睛"
+      ],
+      "firstExposuresAtOldPosition": [
+        "耳",
+        "朵",
+        "听",
+        "眼",
+        "睛",
+        "牙"
+      ]
+    }
+  ],
+  "bugPositionAnalysis": [
+    {
+      "afterOldBook": 7,
+      "afterTitle": "山不见了",
+      "originalNewCharacters": [
+        "地",
+        "土",
+        "虫",
+        "快",
+        "坐",
+        "它",
+        "过",
+        "到",
+        "脚",
+        "边",
+        "前",
+        "后"
+      ],
+      "proposedNewCharacters": [
+        "虫",
+        "坐",
+        "看",
+        "过"
+      ]
+    },
+    {
+      "afterOldBook": 8,
+      "afterTitle": "小车回家",
+      "originalNewCharacters": [
+        "地",
+        "土",
+        "虫",
+        "快",
+        "坐",
+        "它",
+        "过",
+        "到",
+        "脚",
+        "边",
+        "前",
+        "后"
+      ],
+      "proposedNewCharacters": [
+        "虫",
+        "坐",
+        "看",
+        "过"
+      ]
+    },
+    {
+      "afterOldBook": 10,
+      "afterTitle": "水中的我",
+      "originalNewCharacters": [
+        "地",
+        "土",
+        "虫",
+        "快",
+        "坐",
+        "它",
+        "过",
+        "到",
+        "脚",
+        "边",
+        "前",
+        "后"
+      ],
+      "proposedNewCharacters": [
+        "虫",
+        "坐",
+        "看",
+        "过"
+      ]
+    },
+    {
+      "afterOldBook": 11,
+      "afterTitle": "小树长高了",
+      "originalNewCharacters": [
+        "地",
+        "土",
+        "虫",
+        "快",
+        "坐",
+        "它",
+        "过",
+        "到",
+        "脚",
+        "边",
+        "前",
+        "后"
+      ],
+      "proposedNewCharacters": [
+        "虫",
+        "坐",
+        "看",
+        "过"
+      ]
+    },
+    {
+      "afterOldBook": 12,
+      "afterTitle": "谁在叫",
+      "originalNewCharacters": [
+        "地",
+        "土",
+        "虫",
+        "快",
+        "坐",
+        "它",
+        "过",
+        "到",
+        "脚",
+        "边",
+        "前",
+        "后"
+      ],
+      "proposedNewCharacters": [
+        "虫",
+        "坐",
+        "过"
+      ]
+    },
+    {
+      "afterOldBook": 14,
+      "afterTitle": "大鞋和小鞋",
+      "originalNewCharacters": [
+        "地",
+        "土",
+        "虫",
+        "快",
+        "坐",
+        "它",
+        "过",
+        "到",
+        "边",
+        "前",
+        "后"
+      ],
+      "proposedNewCharacters": [
+        "虫",
+        "坐",
+        "过"
+      ]
+    },
+    {
+      "afterOldBook": 16,
+      "afterTitle": "小球也要走",
+      "originalNewCharacters": [
+        "地",
+        "土",
+        "虫",
+        "快",
+        "坐",
+        "它",
+        "过",
+        "边"
+      ],
+      "proposedNewCharacters": [
+        "虫",
+        "坐",
+        "过"
+      ]
+    }
+  ],
+  "sourcesUnchanged": [
+    {
+      "file": "miniprogram/lib/stories.js",
+      "sha256": "96494da01f3abebd049eb1768e916b15725b4152ac94e7a1e6c3171f71f12d56"
+    },
+    {
+      "file": "miniprogram/lib/level1-approved.js",
+      "sha256": "b012613d58c5ca339e6f302cda2876637bb9b777460c2ae3283aa1fc90205d3d"
+    },
+    {
+      "file": "content/level1-stories-04-10.json",
+      "sha256": "b6ba56ea5e10de2abab95806a2fe667bc1450bf60f57668d880dfb88d42db945"
+    },
+    {
+      "file": "content/level1-stories-11-20.json",
+      "sha256": "277b7cbf127aede4b2167d5a1f7dcbdebd6bb1923bb329cc47b0c73c60fd9abe"
+    },
+    {
+      "file": "content/level1-stories-21-40.json",
+      "sha256": "5c66458e3773f04779ec4e5c2b835b6c54737eea3f24cd27d729406478435095"
+    },
+    {
+      "file": "content/level1-character-plan.json",
+      "sha256": "b682c49102e906abdeacb386ac934ceec79216b89103b4e099654f0aa4595f89"
+    }
+  ]
+}

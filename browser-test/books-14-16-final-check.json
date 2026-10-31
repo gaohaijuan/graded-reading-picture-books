@@ -1,0 +1,233 @@
+{
+  "date": "2026-10-24",
+  "newBooks": [
+    "大鞋和小鞋",
+    "小花喝水",
+    "小球也要走"
+  ],
+  "newBodyPages": 22,
+  "shelfBooks": 16,
+  "imageGeneration": {
+    "mode": "built-in imagegen",
+    "imageApi": false,
+    "prompts": "../little-protagonist/content/books-14-16-art-provenance.json"
+  },
+  "browser": {
+    "default": {
+      "pages": 44,
+      "overflow": 0,
+      "allArtworkReady": true,
+      "portraitScales": [
+        "0.26155187445510025"
+      ],
+      "poses": [
+        "stand-wave",
+        "hands-flower-open",
+        "none",
+        "crouch-book",
+        "carry-play",
+        "crouch-touch",
+        "barefoot-stand",
+        "barefoot-step",
+        "step-own-shoes",
+        "water-pour",
+        "push-cart"
+      ]
+    },
+    "photo": {
+      "pages": 22,
+      "overflow": 0,
+      "allArtworkReady": true,
+      "portraitScales": [
+        "0.42889683837095727"
+      ],
+      "poses": [
+        "barefoot-stand",
+        "none",
+        "barefoot-step",
+        "step-own-shoes",
+        "water-pour",
+        "crouch-touch",
+        "push-cart",
+        "hands-flower-open",
+        "crouch-book"
+      ]
+    },
+    "mobile": {
+      "pages": 22,
+      "overflow": 0,
+      "allArtworkReady": true,
+      "portraitScales": [
+        "0.42889683837095727"
+      ],
+      "poses": [
+        "barefoot-stand",
+        "none",
+        "barefoot-step",
+        "step-own-shoes",
+        "water-pour",
+        "crouch-touch",
+        "push-cart",
+        "hands-flower-open",
+        "crouch-book"
+      ]
+    }
+  },
+  "causalGeometryChecksPassed": true,
+  "pdf": {
+    "file": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\output\\pdf\\小小主角-第2册-竖版A5校样.pdf",
+    "pages": 53,
+    "body_pages": 44,
+    "chapters": [
+      {
+        "book": "tree",
+        "title": "小树长高了",
+        "start_folio": 1,
+        "start_pdf_page": 3,
+        "body_pages": 6
+      },
+      {
+        "book": "calling",
+        "title": "谁在叫",
+        "start_folio": 8,
+        "start_pdf_page": 10,
+        "body_pages": 8
+      },
+      {
+        "book": "catball",
+        "title": "小猫要小球吗",
+        "start_folio": 17,
+        "start_pdf_page": 19,
+        "body_pages": 8
+      },
+      {
+        "book": "shoes",
+        "title": "大鞋和小鞋",
+        "start_folio": 26,
+        "start_pdf_page": 28,
+        "body_pages": 6
+      },
+      {
+        "book": "watering",
+        "title": "小花喝水",
+        "start_folio": 33,
+        "start_pdf_page": 35,
+        "body_pages": 8
+      },
+      {
+        "book": "wagon",
+        "title": "小球也要走",
+        "start_folio": 42,
+        "start_pdf_page": 44,
+        "body_pages": 8
+      }
+    ],
+    "fonts": [
+      {
+        "name": "/NotoSerifSC-ExtraLight-1671",
+        "embedded": true
+      }
+    ],
+    "errors": []
+  },
+  "printQuality": {
+    "minimumNativePpi": 243,
+    "native300Ppi": false,
+    "completeLayerAudit": true,
+    "pressPdfs": {
+      "outer": {
+        "pages": 2,
+        "size": {
+          "media_mm": [
+            303,
+            216
+          ],
+          "trim_mm": [
+            297,
+            210
+          ],
+          "bleed_each_mm": 3
+        }
+      },
+      "inner": {
+        "pages": 49,
+        "size": {
+          "media_mm": [
+            154,
+            216
+          ],
+          "trim_mm": [
+            148,
+            210
+          ],
+          "bleed_each_mm": 3
+        }
+      }
+    }
+  },
+  "validation": {
+    "unitTestsPassed": 392,
+    "projectJavascriptFilesChecked": 44
+  },
+  "profileRestored": {
+    "name": "小石头",
+    "head": "default illustrated",
+    "familyMembers": 3
+  },
+  "viewportReset": true,
+  "performance": {
+    "portraitProcessing": {
+      "cutoutMs": 792.1000000005588,
+      "photoReadMs": 119.90000000037251,
+      "pngEncodeMs": 16.799999999813735,
+      "recognitionMs": 194.20000000018624
+    },
+    "sessionCumulative": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 8919.500000000466,
+      "bodyDownloadMs": 306.1000000005588,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "wagon"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                },
+                {
+                  "id": "push-cart",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "wagon"
+          ]
+        }
+      ],
+      "composeMs": 21.899999998509884,
+      "composites": 57,
+      "draws": 2210,
+      "pageDrawMs": 16650.700000003446
+    },
+    "limitations": "Local Windows localhost session with warm caches; counters include covers and repeated renders. Draw timing measures JS submission, not GPU completion. PNG encoding is portrait output. Narrow viewport is not a physical-device benchmark."
+  }
+}

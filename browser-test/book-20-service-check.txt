@@ -1,0 +1,146 @@
+Browser tab: 2, Title: "小小主角 · 本地开发版", URL: "http://127.0.0.1:4173/".
+1 AXWebArea 小小主角 · 本地开发版, URL: 127.0.0.1:4173/
+	2 container little-story-preview
+		3 text 小小主角 · 本地开发版
+		8 text 竖屏 · 纸质绘本打印服务
+		5 container Description: 小小主角阅读小程序, ID: ls-device
+			6 text 9:41 ▮▮▮ ▰
+			7 container ls-screen
+				9 button 书架
+				10 container
+					11 text 小小主角 · 纸质阅读
+					12 heading 小主角的纸质绘本打印服务, Value: 1
+						13 text 小主角的纸质绘本打印服务
+					14 text 选一个级别，先看看这次会收到哪些故事。
+					15 container 打印级别
+						16 checkbox 第1级打印服务 现有 20 个故事 · 2 册样册, Value: 1
+							17 text 第1级打印服务
+							18 text 现有 20 个故事 · 2 册样册
+						19 checkbox 第2级打印服务 筹备中, Value: 0
+							20 text 第2级打印服务
+							21 text 筹备中
+						22 checkbox 第3级打印服务 筹备中, Value: 0
+							23 text 第3级打印服务
+							24 text 筹备中
+						25 checkbox 第4级打印服务 筹备中, Value: 0
+							26 text 第4级打印服务
+							27 text 筹备中
+						28 checkbox 第5级打印服务 筹备中, Value: 0
+							29 text 第5级打印服务
+							30 text 筹备中
+						31 checkbox 第6级打印服务 筹备中, Value: 0
+							32 text 第6级打印服务
+							33 text 筹备中
+						34 checkbox 第7级打印服务 筹备中, Value: 0
+							35 text 第7级打印服务
+							36 text 筹备中
+						37 checkbox 第8级打印服务 筹备中, Value: 0
+							38 text 第8级打印服务
+							39 text 筹备中
+						40 checkbox 第9级打印服务 筹备中, Value: 0
+							41 text 第9级打印服务
+							42 text 筹备中
+						43 checkbox 第10级打印服务 筹备中, Value: 0
+							44 text 第10级打印服务
+							45 text 筹备中
+					46 container Description: 打印清单, ID: ls-print-checklist
+						47 text 第1级 · 本次打印清单
+						48 heading 小石头的第1级绘本样册, Value: 2
+							49 text 小石头的第1级绘本样册
+						50 definition list
+							51 container 本次故事
+								52 text 本次故事
+							53 container
+								54 text 20  个
+							55 container 装订成书
+								56 text 装订成书
+							57 container
+								58 text 2  册 / 套
+						59 text 当前只有 20 个故事完成插画，本次打印 2 册样册，不是完整第1级。
+						60 container
+							61 heading 第1册 · 10个故事, Value: 3
+								62 text 第1册 · 10个故事
+							63 content list
+								64 container
+									65 AXListMarker 1. 
+									66 text 你好，我是小石头
+								67 container
+									68 AXListMarker 2. 
+									69 text 我的花
+								70 container
+									71 AXListMarker 3. 
+									72 text 我家有几口人？
+								73 container
+									74 AXListMarker 4. 
+									75 text 我的小手
+								76 container
+									77 AXListMarker 5. 
+									78 text 下雨了
+								79 container
+									80 AXListMarker 6. 
+									81 text 小石头回家
+								82 container
+									83 AXListMarker 7. 
+									84 text 山不见了
+								85 container
+									86 AXListMarker 8. 
+									87 text 小车回家
+								88 container
+									89 AXListMarker 9. 
+									90 text 小球在哪
+								91 container
+									92 AXListMarker 10. 
+									93 text 水中的我
+						94 container
+							95 heading 第2册 · 10个故事, Value: 3
+								96 text 第2册 · 10个故事
+							97 content list
+								98 container
+									99 AXListMarker 11. 
+									100 text 小树长高了
+								101 container
+									102 AXListMarker 12. 
+									103 text 谁在叫
+								104 container
+									105 AXListMarker 13. 
+									106 text 小猫要小球吗
+								107 container
+									108 AXListMarker 14. 
+									109 text 大鞋和小鞋
+								110 container
+									111 AXListMarker 15. 
+									112 text 小花喝水
+								113 container
+									114 AXListMarker 16. 
+									115 text 小球也要走
+								116 container
+									117 AXListMarker 17. 
+									118 text 小纸片飞了
+								119 container
+									120 AXListMarker 18. 
+									121 text 大果子和小果子
+								122 container
+									123 AXListMarker 19. 
+									124 text 小猫的床
+								125 container
+									126 AXListMarker 20. 
+									127 text 我还不想睡
+						128 content list
+							129 container
+								130 AXListMarker • 
+								131 text 竖版 A5，左右翻页，每页有图和短句。
+							132 container
+								133 AXListMarker • 
+								134 text 使用当前小主角头像、名字和家人设置。
+							135 container
+								136 AXListMarker • 
+								137 text 每册独立封面、目录；每个故事后有识字小结。
+						138 text 完整每级计划 30 个故事，每 10 个装订一册，共 3 册。这里只按已完成内容打印。
+						139 button (disabled) 打印服务暂未开放
+						140 text 此试用链接尚未连接打印收件后台，暂不能提交打印需求。
+				141 container 主导航
+					142 button 书架
+					143 button 小主角
+					144 button 我的
+
+The focused UI element is 1 AXWebArea 小小主角 · 本地开发版, URL: 127.0.0.1:4173/

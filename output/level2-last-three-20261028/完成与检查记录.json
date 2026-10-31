@@ -1,0 +1,29 @@
+{
+  "status": "数字审核校样已完成",
+  "titles": [
+    "我跳过去了",
+    "小火车",
+    "小鱼的新家"
+  ],
+  "levelNumbers": [
+    13,
+    14,
+    15
+  ],
+  "bodyPages": 22,
+  "pdfPages": 31,
+  "preview": "http://127.0.0.1:4175/?view=level2-last-three",
+  "pdf": "第二级-最后三本-A5合订校样.pdf",
+  "sha256": "0ba7651bf9d555dce533fde274d0e6ade1397d12739b87a2cbcd5fcb777b1574",
+  "illustrationMethod": "内置imagegen，新增11个图层；复用统一人物合成管线",
+  "nativeAssets": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\art-samples\\level2-last-three-native",
+  "prompts": "完整插画提示词与来源.json",
+  "checks": {
+    "approvedTextExact": true,
+    "allPdfPagesRendered": true,
+    "mobileLayouts": 28,
+    "realPortraitFixture": "官方MediaPipe成人本地测试照片，四动作同头像、比例一致；未使用用户儿童照片",
+    "minimumBackgroundEffectivePpi": 174.14
+  },
+  "deliveryScope": "三本独立浏览器校样和A5合订校样，默认人物；未纳入默认第一级书架或开放第二级打印下单。"
+}

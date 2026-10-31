@@ -1,0 +1,56 @@
+{
+  "date": "2026-10-25",
+  "round": 3,
+  "changed": [
+    8,
+    23
+  ],
+  "other28TextsPreserved": true,
+  "firstTwoUnchanged": true,
+  "totalBooks": 30,
+  "uniqueBodyCharacters": 180,
+  "illustrationsGenerated": 0,
+  "productionSourcesChanged": [],
+  "books": [
+    {
+      "number": 8,
+      "oldNumber": 27,
+      "previousTitle": "小虫过小山",
+      "title": "小虫不走",
+      "paragraphs": [
+        "石头上，有一只小虫。",
+        "“小虫，走！”",
+        "小虫不走。",
+        "我走过去，看了看。",
+        "是小草，不是小虫！",
+        "我笑了。"
+      ],
+      "newCharacters": [
+        "虫",
+        "过",
+        "看",
+        "笑"
+      ],
+      "reviewNote": "孩子把石头上的小草误认成小虫，走近看清后笑了。后续画面必须始终是同一截卷曲草叶，表现观察揭晓，不是虫子变成草。"
+    },
+    {
+      "number": 23,
+      "oldNumber": 26,
+      "previousTitle": "长纸和短纸",
+      "title": "谁先笑",
+      "paragraphs": [
+        "“爸爸，我们都不笑！”",
+        "爸爸看着我，我看着爸爸。",
+        "我把两只小手放在头上。",
+        "“爸爸，我是小兔！”",
+        "爸爸笑了。",
+        "“爸爸，你先笑了！”我也笑了。"
+      ],
+      "newCharacters": [
+        "兔",
+        "先"
+      ],
+      "reviewNote": "父女或父子一起玩不许笑游戏，孩子把双手放在头上做兔耳动作，逗笑爸爸后自己也笑了。后续画面需把手势表现清楚；本轮不出图。"
+    }
+  ]
+}

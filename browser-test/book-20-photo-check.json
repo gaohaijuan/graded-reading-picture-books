@@ -1,0 +1,706 @@
+[
+  {
+    "dataset": {
+      "actorCacheId": "35",
+      "art": "sleepy",
+      "artState": "ready",
+      "camera": "{\"x\":11.363636363636374,\"y\":0,\"width\":977.2727272727273,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "0",
+      "portraitScale": "0.42889683837095727",
+      "pose": "stand-wave",
+      "reflectionActor": "",
+      "scene": "sleep-window",
+      "sceneGeometry": "{\"indoors\":true,\"bird\":null,\"birdSleeping\":false,\"bed\":null,\"cat\":null,\"catSleeping\":false,\"shoes\":null,\"carInside\":false,\"readyForBed\":false}",
+      "storyBeat": "evening-not-sleepy"
+    },
+    "overflow": false,
+    "page": 0,
+    "paper": {
+      "bottom": 641.3229217529297,
+      "height": 564.65625,
+      "left": 441.0208435058594,
+      "right": 838.9687805175781,
+      "top": 76.66667175292969,
+      "width": 397.9479370117187,
+      "x": 441.0208435058594,
+      "y": 76.66667175292969
+    },
+    "photoTiming": {
+      "cutoutMs": 755.6000000014901,
+      "photoReadMs": 19.100000001490116,
+      "pngEncodeMs": 17.199999999254942,
+      "recognitionMs": 230.60000000149012
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 10289.900000002235,
+      "bodyDownloadMs": 759.0000000037253,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "sleepy"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "barefoot-stand",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "sleepy"
+          ]
+        }
+      ],
+      "composeMs": 20.600000012665987,
+      "composites": 46,
+      "draws": 404,
+      "pageDrawMs": 15171.400000039488
+    },
+    "text": "天晚了。我还不想睡。",
+    "textRect": {
+      "bottom": 590.21875,
+      "height": 77.96875,
+      "left": 462.53125,
+      "right": 806.6979370117188,
+      "top": 512.25,
+      "width": 344.16668701171875,
+      "x": 462.53125,
+      "y": 512.25
+    }
+  },
+  {
+    "dataset": {
+      "actorCacheId": "37",
+      "art": "sleepy",
+      "artState": "ready",
+      "camera": "{\"x\":11.363636363636374,\"y\":0,\"width\":977.2727272727273,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "1",
+      "portraitScale": "0.42889683837095727",
+      "pose": "hands-flower-open",
+      "reflectionActor": "",
+      "scene": "sleep-window",
+      "sceneGeometry": "{\"indoors\":true,\"bird\":null,\"birdSleeping\":false,\"bed\":null,\"cat\":null,\"catSleeping\":false,\"shoes\":null,\"carInside\":false,\"readyForBed\":false}",
+      "storyBeat": "call-the-bird-from-indoors"
+    },
+    "overflow": false,
+    "page": 1,
+    "paper": {
+      "bottom": 641.3229217529297,
+      "height": 564.65625,
+      "left": 441.0208435058594,
+      "right": 838.9687805175781,
+      "top": 76.66667175292969,
+      "width": 397.9479370117187,
+      "x": 441.0208435058594,
+      "y": 76.66667175292969
+    },
+    "photoTiming": {
+      "cutoutMs": 755.6000000014901,
+      "photoReadMs": 19.100000001490116,
+      "pngEncodeMs": 17.199999999254942,
+      "recognitionMs": 230.60000000149012
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 10289.900000002235,
+      "bodyDownloadMs": 759.0000000037253,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "sleepy"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "barefoot-stand",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "sleepy"
+          ]
+        }
+      ],
+      "composeMs": 20.600000012665987,
+      "composites": 46,
+      "draws": 405,
+      "pageDrawMs": 15171.800000041723
+    },
+    "text": "小鸟，小鸟，来和我玩！",
+    "textRect": {
+      "bottom": 590.21875,
+      "height": 77.96875,
+      "left": 473.28125,
+      "right": 817.4479370117188,
+      "top": 512.25,
+      "width": 344.16668701171875,
+      "x": 473.28125,
+      "y": 512.25
+    }
+  },
+  {
+    "dataset": {
+      "actorCacheId": "",
+      "art": "sleepy",
+      "artState": "ready",
+      "camera": "{\"x\":11.363636363636374,\"y\":0,\"width\":977.2727272727273,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "2",
+      "portraitScale": "",
+      "pose": "none",
+      "reflectionActor": "",
+      "scene": "sleep-branch",
+      "sceneGeometry": "{\"indoors\":true,\"bird\":{\"x\":455,\"ground\":485,\"width\":230},\"birdSleeping\":true,\"bed\":null,\"cat\":null,\"catSleeping\":false,\"shoes\":null,\"carInside\":false,\"readyForBed\":false}",
+      "storyBeat": "bird-is-sleeping"
+    },
+    "overflow": false,
+    "page": 2,
+    "paper": {
+      "bottom": 641.3229217529297,
+      "height": 564.65625,
+      "left": 441.0208435058594,
+      "right": 838.9687805175781,
+      "top": 76.66667175292969,
+      "width": 397.9479370117187,
+      "x": 441.0208435058594,
+      "y": 76.66667175292969
+    },
+    "photoTiming": {
+      "cutoutMs": 755.6000000014901,
+      "photoReadMs": 19.100000001490116,
+      "pngEncodeMs": 17.199999999254942,
+      "recognitionMs": 230.60000000149012
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 10289.900000002235,
+      "bodyDownloadMs": 759.0000000037253,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "sleepy"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "barefoot-stand",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "sleepy"
+          ]
+        }
+      ],
+      "composeMs": 20.600000012665987,
+      "composites": 46,
+      "draws": 406,
+      "pageDrawMs": 15172.000000040978
+    },
+    "text": "小鸟在树上睡了。",
+    "textRect": {
+      "bottom": 590.21875,
+      "height": 77.96875,
+      "left": 462.53125,
+      "right": 806.6979370117188,
+      "top": 512.25,
+      "width": 344.16668701171875,
+      "x": 462.53125,
+      "y": 512.25
+    }
+  },
+  {
+    "dataset": {
+      "actorCacheId": "37",
+      "art": "sleepy",
+      "artState": "ready",
+      "camera": "{\"x\":11.363636363636374,\"y\":0,\"width\":977.2727272727273,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "3",
+      "portraitScale": "0.42889683837095727",
+      "pose": "hands-flower-open",
+      "reflectionActor": "",
+      "scene": "sleep-catwide",
+      "sceneGeometry": "{\"indoors\":true,\"bird\":null,\"birdSleeping\":false,\"bed\":{\"x\":540,\"ground\":950,\"width\":360},\"cat\":{\"x\":580,\"ground\":905,\"width\":275},\"catSleeping\":true,\"shoes\":null,\"carInside\":false,\"readyForBed\":false}",
+      "storyBeat": "call-the-cat"
+    },
+    "overflow": false,
+    "page": 3,
+    "paper": {
+      "bottom": 641.3229217529297,
+      "height": 564.65625,
+      "left": 441.0208435058594,
+      "right": 838.9687805175781,
+      "top": 76.66667175292969,
+      "width": 397.9479370117187,
+      "x": 441.0208435058594,
+      "y": 76.66667175292969
+    },
+    "photoTiming": {
+      "cutoutMs": 755.6000000014901,
+      "photoReadMs": 19.100000001490116,
+      "pngEncodeMs": 17.199999999254942,
+      "recognitionMs": 230.60000000149012
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 10289.900000002235,
+      "bodyDownloadMs": 759.0000000037253,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "sleepy"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "barefoot-stand",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "sleepy"
+          ]
+        }
+      ],
+      "composeMs": 20.600000012665987,
+      "composites": 46,
+      "draws": 407,
+      "pageDrawMs": 15172.800000041723
+    },
+    "text": "小猫，小猫，来和我玩！",
+    "textRect": {
+      "bottom": 590.21875,
+      "height": 77.96875,
+      "left": 473.28125,
+      "right": 817.4479370117188,
+      "top": 512.25,
+      "width": 344.16668701171875,
+      "x": 473.28125,
+      "y": 512.25
+    }
+  },
+  {
+    "dataset": {
+      "actorCacheId": "",
+      "art": "sleepy",
+      "artState": "ready",
+      "camera": "{\"x\":11.363636363636374,\"y\":0,\"width\":977.2727272727273,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "4",
+      "portraitScale": "",
+      "pose": "none",
+      "reflectionActor": "",
+      "scene": "sleep-catclose",
+      "sceneGeometry": "{\"indoors\":true,\"bird\":null,\"birdSleeping\":false,\"bed\":{\"x\":250,\"ground\":940,\"width\":500},\"cat\":{\"x\":310,\"ground\":880,\"width\":380},\"catSleeping\":true,\"shoes\":null,\"carInside\":false,\"readyForBed\":false}",
+      "storyBeat": "cat-is-asleep-in-its-bed"
+    },
+    "overflow": false,
+    "page": 4,
+    "paper": {
+      "bottom": 641.3229217529297,
+      "height": 564.65625,
+      "left": 441.0208435058594,
+      "right": 838.9687805175781,
+      "top": 76.66667175292969,
+      "width": 397.9479370117187,
+      "x": 441.0208435058594,
+      "y": 76.66667175292969
+    },
+    "photoTiming": {
+      "cutoutMs": 755.6000000014901,
+      "photoReadMs": 19.100000001490116,
+      "pngEncodeMs": 17.199999999254942,
+      "recognitionMs": 230.60000000149012
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 10289.900000002235,
+      "bodyDownloadMs": 759.0000000037253,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "sleepy"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "barefoot-stand",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "sleepy"
+          ]
+        }
+      ],
+      "composeMs": 20.600000012665987,
+      "composites": 46,
+      "draws": 408,
+      "pageDrawMs": 15173.100000042468
+    },
+    "text": "小猫在小床上睡了。",
+    "textRect": {
+      "bottom": 590.21875,
+      "height": 77.96875,
+      "left": 462.53125,
+      "right": 806.6979370117188,
+      "top": 512.25,
+      "width": 344.16668701171875,
+      "x": 462.53125,
+      "y": 512.25
+    }
+  },
+  {
+    "dataset": {
+      "actorCacheId": "34",
+      "art": "sleepy",
+      "artState": "ready",
+      "camera": "{\"x\":11.363636363636374,\"y\":0,\"width\":977.2727272727273,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "5",
+      "portraitScale": "0.42889683837095727",
+      "pose": "crouch-book",
+      "reflectionActor": "",
+      "scene": "sleep-toys",
+      "sceneGeometry": "{\"indoors\":true,\"bird\":null,\"birdSleeping\":false,\"bed\":null,\"cat\":null,\"catSleeping\":false,\"shoes\":null,\"carInside\":false,\"readyForBed\":false}",
+      "storyBeat": "call-the-missing-car"
+    },
+    "overflow": false,
+    "page": 5,
+    "paper": {
+      "bottom": 641.3229217529297,
+      "height": 564.65625,
+      "left": 441.0208435058594,
+      "right": 838.9687805175781,
+      "top": 76.66667175292969,
+      "width": 397.9479370117187,
+      "x": 441.0208435058594,
+      "y": 76.66667175292969
+    },
+    "photoTiming": {
+      "cutoutMs": 755.6000000014901,
+      "photoReadMs": 19.100000001490116,
+      "pngEncodeMs": 17.199999999254942,
+      "recognitionMs": 230.60000000149012
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 10289.900000002235,
+      "bodyDownloadMs": 759.0000000037253,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "sleepy"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "barefoot-stand",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "sleepy"
+          ]
+        }
+      ],
+      "composeMs": 20.600000012665987,
+      "composites": 46,
+      "draws": 409,
+      "pageDrawMs": 15174.300000041723
+    },
+    "text": "小车，小车，来和我玩！",
+    "textRect": {
+      "bottom": 590.21875,
+      "height": 77.96875,
+      "left": 473.28125,
+      "right": 817.4479370117188,
+      "top": 512.25,
+      "width": 344.16668701171875,
+      "x": 473.28125,
+      "y": 512.25
+    }
+  },
+  {
+    "dataset": {
+      "actorCacheId": "",
+      "art": "sleepy",
+      "artState": "ready",
+      "camera": "{\"x\":11.363636363636374,\"y\":0,\"width\":977.2727272727273,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "6",
+      "portraitScale": "",
+      "pose": "none",
+      "reflectionActor": "",
+      "scene": "sleep-shoeclose",
+      "sceneGeometry": "{\"indoors\":true,\"bird\":null,\"birdSleeping\":false,\"bed\":null,\"cat\":null,\"catSleeping\":false,\"shoes\":{\"x\":170,\"ground\":940,\"width\":700},\"carInside\":true,\"readyForBed\":false}",
+      "storyBeat": "car-is-inside-a-big-shoe"
+    },
+    "overflow": false,
+    "page": 6,
+    "paper": {
+      "bottom": 641.3229217529297,
+      "height": 564.65625,
+      "left": 441.0208435058594,
+      "right": 838.9687805175781,
+      "top": 76.66667175292969,
+      "width": 397.9479370117187,
+      "x": 441.0208435058594,
+      "y": 76.66667175292969
+    },
+    "photoTiming": {
+      "cutoutMs": 755.6000000014901,
+      "photoReadMs": 19.100000001490116,
+      "pngEncodeMs": 17.199999999254942,
+      "recognitionMs": 230.60000000149012
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 10289.900000002235,
+      "bodyDownloadMs": 759.0000000037253,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "sleepy"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "barefoot-stand",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "sleepy"
+          ]
+        }
+      ],
+      "composeMs": 20.600000012665987,
+      "composites": 46,
+      "draws": 410,
+      "pageDrawMs": 15175.200000043958
+    },
+    "text": "小车在大鞋里。小车也要睡了吗？",
+    "textRect": {
+      "bottom": 590.21875,
+      "height": 77.96875,
+      "left": 462.53125,
+      "right": 806.6979370117188,
+      "top": 512.25,
+      "width": 344.16668701171875,
+      "x": 462.53125,
+      "y": 512.25
+    }
+  },
+  {
+    "dataset": {
+      "actorCacheId": "36",
+      "art": "sleepy",
+      "artState": "ready",
+      "camera": "{\"x\":11.363636363636374,\"y\":0,\"width\":977.2727272727273,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "7",
+      "portraitScale": "0.42889683837095727",
+      "pose": "barefoot-stand",
+      "reflectionActor": "",
+      "scene": "sleep-bedroom",
+      "sceneGeometry": "{\"indoors\":true,\"bird\":null,\"birdSleeping\":false,\"bed\":null,\"cat\":null,\"catSleeping\":false,\"shoes\":null,\"carInside\":false,\"readyForBed\":true}",
+      "storyBeat": "ready-for-my-own-bed"
+    },
+    "overflow": false,
+    "page": 7,
+    "paper": {
+      "bottom": 641.3229217529297,
+      "height": 564.65625,
+      "left": 441.0208435058594,
+      "right": 838.9687805175781,
+      "top": 76.66667175292969,
+      "width": 397.9479370117187,
+      "x": 441.0208435058594,
+      "y": 76.66667175292969
+    },
+    "photoTiming": {
+      "cutoutMs": 755.6000000014901,
+      "photoReadMs": 19.100000001490116,
+      "pngEncodeMs": 17.199999999254942,
+      "recognitionMs": 230.60000000149012
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 10289.900000002235,
+      "bodyDownloadMs": 759.0000000037253,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "sleepy"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                },
+                {
+                  "id": "barefoot-stand",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "sleepy"
+          ]
+        }
+      ],
+      "composeMs": 20.600000012665987,
+      "composites": 46,
+      "draws": 411,
+      "pageDrawMs": 15175.400000043212
+    },
+    "text": "好吧！我也要睡了。",
+    "textRect": {
+      "bottom": 590.21875,
+      "height": 77.96875,
+      "left": 473.28125,
+      "right": 817.4479370117188,
+      "top": 512.25,
+      "width": 344.16668701171875,
+      "x": 473.28125,
+      "y": 512.25
+    }
+  }
+]

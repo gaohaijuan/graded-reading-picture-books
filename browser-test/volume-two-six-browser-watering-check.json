@@ -1,0 +1,826 @@
+[
+  {
+    "book": "watering",
+    "dataset": {
+      "actorCacheId": "20",
+      "art": "watering",
+      "artState": "ready",
+      "camera": "{\"x\":11.363636363636374,\"y\":0,\"width\":977.2727272727273,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "0",
+      "portraitScale": "0.26155187445510025",
+      "pose": "barefoot-stand",
+      "reflectionActor": "",
+      "scene": "water-greet",
+      "sceneGeometry": "{\"wearing\":null,\"bigShoes\":null,\"basin\":null,\"wagon\":null,\"ball\":null}",
+      "storyBeat": "ask-the-flower"
+    },
+    "overflow": false,
+    "page": 0,
+    "paper": {
+      "bottom": 641.3229217529297,
+      "height": 564.65625,
+      "left": 441.0208435058594,
+      "right": 838.9687805175781,
+      "top": 76.66667175292969,
+      "width": 397.9479370117187,
+      "x": 441.0208435058594,
+      "y": 76.66667175292969
+    },
+    "photoTiming": {
+      "cutoutMs": null,
+      "photoReadMs": null,
+      "pngEncodeMs": null,
+      "recognitionMs": null
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 8919.500000000466,
+      "bodyDownloadMs": 248.80000000074503,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "watering",
+                "wagon"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                },
+                {
+                  "id": "barefoot-stand",
+                  "status": "ready"
+                },
+                {
+                  "id": "water-pour",
+                  "status": "ready"
+                },
+                {
+                  "id": "push-cart",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "watering",
+            "wagon"
+          ]
+        }
+      ],
+      "composeMs": 8.999999998603016,
+      "composites": 25,
+      "draws": 1447,
+      "pageDrawMs": 9118.300000006331
+    },
+    "text": "小花，小花，你要喝水吗？",
+    "textRect": {
+      "bottom": 590.21875,
+      "height": 77.96875,
+      "left": 462.53125,
+      "right": 806.6979370117188,
+      "top": 512.25,
+      "width": 344.16668701171875,
+      "x": 462.53125,
+      "y": 512.25
+    }
+  },
+  {
+    "book": "watering",
+    "dataset": {
+      "actorCacheId": "21",
+      "art": "watering",
+      "artState": "ready",
+      "camera": "{\"x\":11.363636363636374,\"y\":0,\"width\":977.2727272727273,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "1",
+      "portraitScale": "0.26155187445510025",
+      "pose": "water-pour",
+      "reflectionActor": "",
+      "scene": "water-pour-scene",
+      "sceneGeometry": "{\"wearing\":null,\"bigShoes\":null,\"basin\":null,\"wagon\":null,\"ball\":null}",
+      "storyBeat": "water-the-soil"
+    },
+    "overflow": false,
+    "page": 1,
+    "paper": {
+      "bottom": 641.3229217529297,
+      "height": 564.65625,
+      "left": 441.0208435058594,
+      "right": 838.9687805175781,
+      "top": 76.66667175292969,
+      "width": 397.9479370117187,
+      "x": 441.0208435058594,
+      "y": 76.66667175292969
+    },
+    "photoTiming": {
+      "cutoutMs": null,
+      "photoReadMs": null,
+      "pngEncodeMs": null,
+      "recognitionMs": null
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 8919.500000000466,
+      "bodyDownloadMs": 248.80000000074503,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "watering",
+                "wagon"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                },
+                {
+                  "id": "barefoot-stand",
+                  "status": "ready"
+                },
+                {
+                  "id": "water-pour",
+                  "status": "ready"
+                },
+                {
+                  "id": "push-cart",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "watering",
+            "wagon"
+          ]
+        }
+      ],
+      "composeMs": 8.999999998603016,
+      "composites": 25,
+      "draws": 1449,
+      "pageDrawMs": 9118.800000006331
+    },
+    "text": "我给小花喝水。",
+    "textRect": {
+      "bottom": 590.21875,
+      "height": 77.96875,
+      "left": 473.28125,
+      "right": 817.4479370117188,
+      "top": 512.25,
+      "width": 344.16668701171875,
+      "x": 473.28125,
+      "y": 512.25
+    }
+  },
+  {
+    "book": "watering",
+    "dataset": {
+      "actorCacheId": "",
+      "art": "watering",
+      "artState": "ready",
+      "camera": "{\"x\":11.363636363636374,\"y\":0,\"width\":977.2727272727273,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "2",
+      "portraitScale": "",
+      "pose": "none",
+      "reflectionActor": "",
+      "scene": "water-drops",
+      "sceneGeometry": "{\"wearing\":null,\"bigShoes\":null,\"basin\":null,\"wagon\":null,\"ball\":null}",
+      "storyBeat": "a-little-more"
+    },
+    "overflow": false,
+    "page": 2,
+    "paper": {
+      "bottom": 641.3229217529297,
+      "height": 564.65625,
+      "left": 441.0208435058594,
+      "right": 838.9687805175781,
+      "top": 76.66667175292969,
+      "width": 397.9479370117187,
+      "x": 441.0208435058594,
+      "y": 76.66667175292969
+    },
+    "photoTiming": {
+      "cutoutMs": null,
+      "photoReadMs": null,
+      "pngEncodeMs": null,
+      "recognitionMs": null
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 8919.500000000466,
+      "bodyDownloadMs": 248.80000000074503,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "watering",
+                "wagon"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                },
+                {
+                  "id": "barefoot-stand",
+                  "status": "ready"
+                },
+                {
+                  "id": "water-pour",
+                  "status": "ready"
+                },
+                {
+                  "id": "push-cart",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "watering",
+            "wagon"
+          ]
+        }
+      ],
+      "composeMs": 8.999999998603016,
+      "composites": 25,
+      "draws": 1450,
+      "pageDrawMs": 9119.000000006054
+    },
+    "text": "一点，再一点。",
+    "textRect": {
+      "bottom": 590.21875,
+      "height": 77.96875,
+      "left": 462.53125,
+      "right": 806.6979370117188,
+      "top": 512.25,
+      "width": 344.16668701171875,
+      "x": 462.53125,
+      "y": 512.25
+    }
+  },
+  {
+    "book": "watering",
+    "dataset": {
+      "actorCacheId": "20",
+      "art": "watering",
+      "artState": "ready",
+      "camera": "{\"x\":11.363636363636374,\"y\":0,\"width\":977.2727272727273,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "3",
+      "portraitScale": "0.26155187445510025",
+      "pose": "barefoot-stand",
+      "reflectionActor": "",
+      "scene": "water-runoff",
+      "sceneGeometry": "{\"wearing\":null,\"bigShoes\":null,\"basin\":null,\"wagon\":null,\"ball\":null}",
+      "storyBeat": "water-reaches-my-feet"
+    },
+    "overflow": false,
+    "page": 3,
+    "paper": {
+      "bottom": 641.3229217529297,
+      "height": 564.65625,
+      "left": 441.0208435058594,
+      "right": 838.9687805175781,
+      "top": 76.66667175292969,
+      "width": 397.9479370117187,
+      "x": 441.0208435058594,
+      "y": 76.66667175292969
+    },
+    "photoTiming": {
+      "cutoutMs": null,
+      "photoReadMs": null,
+      "pngEncodeMs": null,
+      "recognitionMs": null
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 8919.500000000466,
+      "bodyDownloadMs": 248.80000000074503,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "watering",
+                "wagon"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                },
+                {
+                  "id": "barefoot-stand",
+                  "status": "ready"
+                },
+                {
+                  "id": "water-pour",
+                  "status": "ready"
+                },
+                {
+                  "id": "push-cart",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "watering",
+            "wagon"
+          ]
+        }
+      ],
+      "composeMs": 8.999999998603016,
+      "composites": 25,
+      "draws": 1451,
+      "pageDrawMs": 9119.20000000624
+    },
+    "text": "水多了！水跑到我的脚下。",
+    "textRect": {
+      "bottom": 590.21875,
+      "height": 77.96875,
+      "left": 473.28125,
+      "right": 817.4479370117188,
+      "top": 512.25,
+      "width": 344.16668701171875,
+      "x": 473.28125,
+      "y": 512.25
+    }
+  },
+  {
+    "book": "watering",
+    "dataset": {
+      "actorCacheId": "20",
+      "art": "watering",
+      "artState": "ready",
+      "camera": "{\"x\":11.363636363636374,\"y\":0,\"width\":977.2727272727273,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "4",
+      "portraitScale": "0.26155187445510025",
+      "pose": "barefoot-stand",
+      "reflectionActor": "",
+      "scene": "water-feet",
+      "sceneGeometry": "{\"wearing\":null,\"bigShoes\":null,\"basin\":null,\"wagon\":null,\"ball\":null}",
+      "storyBeat": "do-feet-drink-water"
+    },
+    "overflow": false,
+    "page": 4,
+    "paper": {
+      "bottom": 641.3229217529297,
+      "height": 564.65625,
+      "left": 441.0208435058594,
+      "right": 838.9687805175781,
+      "top": 76.66667175292969,
+      "width": 397.9479370117187,
+      "x": 441.0208435058594,
+      "y": 76.66667175292969
+    },
+    "photoTiming": {
+      "cutoutMs": null,
+      "photoReadMs": null,
+      "pngEncodeMs": null,
+      "recognitionMs": null
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 8919.500000000466,
+      "bodyDownloadMs": 248.80000000074503,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "watering",
+                "wagon"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                },
+                {
+                  "id": "barefoot-stand",
+                  "status": "ready"
+                },
+                {
+                  "id": "water-pour",
+                  "status": "ready"
+                },
+                {
+                  "id": "push-cart",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "watering",
+            "wagon"
+          ]
+        }
+      ],
+      "composeMs": 8.999999998603016,
+      "composites": 25,
+      "draws": 1452,
+      "pageDrawMs": 9119.500000006054
+    },
+    "text": "小花喝水，我的小脚也喝水？",
+    "textRect": {
+      "bottom": 590.21875,
+      "height": 77.96875,
+      "left": 462.53125,
+      "right": 806.6979370117188,
+      "top": 512.25,
+      "width": 344.16668701171875,
+      "x": 462.53125,
+      "y": 512.25
+    }
+  },
+  {
+    "book": "watering",
+    "dataset": {
+      "actorCacheId": "20",
+      "art": "watering",
+      "artState": "ready",
+      "camera": "{\"x\":11.363636363636374,\"y\":0,\"width\":977.2727272727273,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "5",
+      "portraitScale": "0.26155187445510025",
+      "pose": "barefoot-stand",
+      "reflectionActor": "",
+      "scene": "wash-corner",
+      "sceneGeometry": "{\"wearing\":null,\"bigShoes\":null,\"basin\":{\"x\":275,\"ground\":966,\"width\":280},\"wagon\":null,\"ball\":null}",
+      "storyBeat": "feet-need-washing"
+    },
+    "overflow": false,
+    "page": 5,
+    "paper": {
+      "bottom": 641.3229217529297,
+      "height": 564.65625,
+      "left": 441.0208435058594,
+      "right": 838.9687805175781,
+      "top": 76.66667175292969,
+      "width": 397.9479370117187,
+      "x": 441.0208435058594,
+      "y": 76.66667175292969
+    },
+    "photoTiming": {
+      "cutoutMs": null,
+      "photoReadMs": null,
+      "pngEncodeMs": null,
+      "recognitionMs": null
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 8919.500000000466,
+      "bodyDownloadMs": 248.80000000074503,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "watering",
+                "wagon"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                },
+                {
+                  "id": "barefoot-stand",
+                  "status": "ready"
+                },
+                {
+                  "id": "water-pour",
+                  "status": "ready"
+                },
+                {
+                  "id": "push-cart",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "watering",
+            "wagon"
+          ]
+        }
+      ],
+      "composeMs": 8.999999998603016,
+      "composites": 25,
+      "draws": 1453,
+      "pageDrawMs": 9119.90000000596
+    },
+    "text": "小脚不喝水。小脚要洗一洗。",
+    "textRect": {
+      "bottom": 590.21875,
+      "height": 77.96875,
+      "left": 473.28125,
+      "right": 817.4479370117188,
+      "top": 512.25,
+      "width": 344.16668701171875,
+      "x": 473.28125,
+      "y": 512.25
+    }
+  },
+  {
+    "book": "watering",
+    "dataset": {
+      "actorCacheId": "20",
+      "art": "watering",
+      "artState": "ready",
+      "camera": "{\"x\":11.363636363636374,\"y\":0,\"width\":977.2727272727273,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "6",
+      "portraitScale": "0.26155187445510025",
+      "pose": "barefoot-stand",
+      "reflectionActor": "",
+      "scene": "wash-close",
+      "sceneGeometry": "{\"wearing\":null,\"bigShoes\":null,\"basin\":{\"x\":275,\"ground\":966,\"width\":280},\"wagon\":null,\"ball\":null}",
+      "storyBeat": "flower-water-and-foot-wash"
+    },
+    "overflow": false,
+    "page": 6,
+    "paper": {
+      "bottom": 641.3229217529297,
+      "height": 564.65625,
+      "left": 441.0208435058594,
+      "right": 838.9687805175781,
+      "top": 76.66667175292969,
+      "width": 397.9479370117187,
+      "x": 441.0208435058594,
+      "y": 76.66667175292969
+    },
+    "photoTiming": {
+      "cutoutMs": null,
+      "photoReadMs": null,
+      "pngEncodeMs": null,
+      "recognitionMs": null
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 8919.500000000466,
+      "bodyDownloadMs": 248.80000000074503,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "watering",
+                "wagon"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                },
+                {
+                  "id": "barefoot-stand",
+                  "status": "ready"
+                },
+                {
+                  "id": "water-pour",
+                  "status": "ready"
+                },
+                {
+                  "id": "push-cart",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "watering",
+            "wagon"
+          ]
+        }
+      ],
+      "composeMs": 8.999999998603016,
+      "composites": 25,
+      "draws": 1454,
+      "pageDrawMs": 9120.200000005774
+    },
+    "text": "给小花一点水，给小脚洗一洗。",
+    "textRect": {
+      "bottom": 590.21875,
+      "height": 77.96875,
+      "left": 462.53125,
+      "right": 806.6979370117188,
+      "top": 512.25,
+      "width": 344.16668701171875,
+      "x": 462.53125,
+      "y": 512.25
+    }
+  },
+  {
+    "book": "watering",
+    "dataset": {
+      "actorCacheId": "20",
+      "art": "watering",
+      "artState": "ready",
+      "camera": "{\"x\":11.363636363636374,\"y\":0,\"width\":977.2727272727273,\"height\":1000}",
+      "characterPipeline": "composed-actor-v1",
+      "cover": "0",
+      "page": "7",
+      "portraitScale": "0.26155187445510025",
+      "pose": "barefoot-stand",
+      "reflectionActor": "",
+      "scene": "water-end",
+      "sceneGeometry": "{\"wearing\":null,\"bigShoes\":null,\"basin\":{\"x\":275,\"ground\":966,\"width\":280},\"wagon\":null,\"ball\":null}",
+      "storyBeat": "flower-and-feet-finished"
+    },
+    "overflow": false,
+    "page": 7,
+    "paper": {
+      "bottom": 641.3229217529297,
+      "height": 564.65625,
+      "left": 441.0208435058594,
+      "right": 838.9687805175781,
+      "top": 76.66667175292969,
+      "width": 397.9479370117187,
+      "x": 441.0208435058594,
+      "y": 76.66667175292969
+    },
+    "photoTiming": {
+      "cutoutMs": null,
+      "photoReadMs": null,
+      "pngEncodeMs": null,
+      "recognitionMs": null
+    },
+    "session": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 8919.500000000466,
+      "bodyDownloadMs": 248.80000000074503,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "watering",
+                "wagon"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-book",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-touch",
+                  "status": "ready"
+                },
+                {
+                  "id": "barefoot-stand",
+                  "status": "ready"
+                },
+                {
+                  "id": "water-pour",
+                  "status": "ready"
+                },
+                {
+                  "id": "push-cart",
+                  "status": "ready"
+                },
+                {
+                  "id": "hands-flower-open",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "watering",
+            "wagon"
+          ]
+        }
+      ],
+      "composeMs": 8.999999998603016,
+      "composites": 25,
+      "draws": 1455,
+      "pageDrawMs": 9120.400000005497
+    },
+    "text": "小花喝好了，小脚也洗好了！",
+    "textRect": {
+      "bottom": 590.21875,
+      "height": 77.96875,
+      "left": 473.28125,
+      "right": 817.4479370117188,
+      "top": 512.25,
+      "width": 344.16668701171875,
+      "x": 473.28125,
+      "y": 512.25
+    }
+  }
+]

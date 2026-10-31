@@ -1,0 +1,1427 @@
+{
+  "file": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\output\\level2-first-six-20261028\\第二级-前六本-A5合订校样.pdf",
+  "formatMm": [
+    148,
+    210
+  ],
+  "pageCount": 60,
+  "bodyPages": 45,
+  "blankPages": 0,
+  "covers": 1,
+  "contentsPages": 1,
+  "summaryPages": 6,
+  "storyCoverPages": 6,
+  "bodyStarts": [
+    4,
+    13,
+    23,
+    33,
+    43,
+    53
+  ],
+  "chapterStarts": [
+    3,
+    12,
+    22,
+    32,
+    42,
+    52
+  ],
+  "storyNumbers": [
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
+  ],
+  "embeddedChineseVectorText": true,
+  "defaultIllustratedCharacter": true,
+  "edition": "level2-first-six-20261028",
+  "records": [
+    {
+      "physicalPage": 1,
+      "kind": "cover",
+      "bookId": null,
+      "bodyPage": null
+    },
+    {
+      "physicalPage": 2,
+      "kind": "contents",
+      "bookId": null,
+      "bodyPage": null
+    },
+    {
+      "physicalPage": 3,
+      "kind": "story-cover",
+      "bookId": "level2-shoes",
+      "bodyPage": null
+    },
+    {
+      "physicalPage": 4,
+      "kind": "story",
+      "bookId": "level2-shoes",
+      "bodyPage": 0,
+      "text": [
+        "这是我的小鞋。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 5,
+      "kind": "story",
+      "bookId": "level2-shoes",
+      "bodyPage": 1,
+      "text": [
+        "这是爸爸的大鞋，我也要穿。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 6,
+      "kind": "story",
+      "bookId": "level2-shoes",
+      "bodyPage": 2,
+      "text": [
+        "我穿上大鞋，大鞋真大。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 7,
+      "kind": "story",
+      "bookId": "level2-shoes",
+      "bodyPage": 3,
+      "text": [
+        "我一走，小脚从大鞋里出来了！"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 8,
+      "kind": "story",
+      "bookId": "level2-shoes",
+      "bodyPage": 4,
+      "text": [
+        "我走不好，又出来了。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 9,
+      "kind": "story",
+      "bookId": "level2-shoes",
+      "bodyPage": 5,
+      "text": [
+        "我放下大鞋，穿好小鞋。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 10,
+      "kind": "story",
+      "bookId": "level2-shoes",
+      "bodyPage": 6,
+      "text": [
+        "小脚和小鞋一起走，真好！"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 11,
+      "kind": "summary",
+      "bookId": "level2-shoes",
+      "bodyPage": null
+    },
+    {
+      "physicalPage": 12,
+      "kind": "story-cover",
+      "bookId": "level2-sleepy",
+      "bodyPage": null
+    },
+    {
+      "physicalPage": 13,
+      "kind": "story",
+      "bookId": "level2-sleepy",
+      "bodyPage": 0,
+      "text": [
+        "天晚了，我还不想睡。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 14,
+      "kind": "story",
+      "bookId": "level2-sleepy",
+      "bodyPage": 1,
+      "text": [
+        "\"小鸟，小鸟，来和我玩！\""
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 15,
+      "kind": "story",
+      "bookId": "level2-sleepy",
+      "bodyPage": 2,
+      "text": [
+        "小鸟在树上睡了。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 16,
+      "kind": "story",
+      "bookId": "level2-sleepy",
+      "bodyPage": 3,
+      "text": [
+        "\"小猫，来和我玩！\""
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 17,
+      "kind": "story",
+      "bookId": "level2-sleepy",
+      "bodyPage": 4,
+      "text": [
+        "小猫在小床上睡了。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 18,
+      "kind": "story",
+      "bookId": "level2-sleepy",
+      "bodyPage": 5,
+      "text": [
+        "我把小车放好，关上门。门关好了。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 19,
+      "kind": "story",
+      "bookId": "level2-sleepy",
+      "bodyPage": 6,
+      "text": [
+        "\"小车，你也睡吧。\""
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 20,
+      "kind": "story",
+      "bookId": "level2-sleepy",
+      "bodyPage": 7,
+      "text": [
+        "好吧，我也要睡了，明天再玩吧。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 21,
+      "kind": "summary",
+      "bookId": "level2-sleepy",
+      "bodyPage": null
+    },
+    {
+      "physicalPage": 22,
+      "kind": "story-cover",
+      "bookId": "level2-morning",
+      "bodyPage": null
+    },
+    {
+      "physicalPage": 23,
+      "kind": "story",
+      "bookId": "level2-morning",
+      "bodyPage": 0,
+      "text": [
+        "今天，我早早起来了。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 24,
+      "kind": "story",
+      "bookId": "level2-morning",
+      "bodyPage": 1,
+      "text": [
+        "我要和爸爸出门玩。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 25,
+      "kind": "story",
+      "bookId": "level2-morning",
+      "bodyPage": 2,
+      "text": [
+        "我穿好衣服，穿好鞋。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 26,
+      "kind": "story",
+      "bookId": "level2-morning",
+      "bodyPage": 3,
+      "text": [
+        "爸爸还在睡！"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 27,
+      "kind": "story",
+      "bookId": "level2-morning",
+      "bodyPage": 4,
+      "text": [
+        "\"爸爸，快起来！我都穿好了！\""
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 28,
+      "kind": "story",
+      "bookId": "level2-morning",
+      "bodyPage": 5,
+      "text": [
+        "爸爸起来了，也去穿衣服、穿鞋。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 29,
+      "kind": "story",
+      "bookId": "level2-morning",
+      "bodyPage": 6,
+      "text": [
+        "我在门口等爸爸。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 30,
+      "kind": "story",
+      "bookId": "level2-morning",
+      "bodyPage": 7,
+      "text": [
+        "我们都穿好了，我们一起出门。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 31,
+      "kind": "summary",
+      "bookId": "level2-morning",
+      "bodyPage": null
+    },
+    {
+      "physicalPage": 32,
+      "kind": "story-cover",
+      "bookId": "level2-hot-water",
+      "bodyPage": null
+    },
+    {
+      "physicalPage": 33,
+      "kind": "story",
+      "bookId": "level2-hot-water",
+      "bodyPage": 0,
+      "text": [
+        "我玩了半天，口好干。",
+        "我想喝水。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 34,
+      "kind": "story",
+      "bookId": "level2-hot-water",
+      "bodyPage": 1,
+      "text": [
+        "这水太热了，我还不能喝。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 35,
+      "kind": "story",
+      "bookId": "level2-hot-water",
+      "bodyPage": 2,
+      "text": [
+        "我把水放一放，等一等。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 36,
+      "kind": "story",
+      "bookId": "level2-hot-water",
+      "bodyPage": 3,
+      "text": [
+        "等啊等，等啊等。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 37,
+      "kind": "story",
+      "bookId": "level2-hot-water",
+      "bodyPage": 4,
+      "text": [
+        "我摸一摸，水不热了！"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 38,
+      "kind": "story",
+      "bookId": "level2-hot-water",
+      "bodyPage": 5,
+      "text": [
+        "我能喝了。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 39,
+      "kind": "story",
+      "bookId": "level2-hot-water",
+      "bodyPage": 6,
+      "text": [
+        "我喝一口，再喝一口。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 40,
+      "kind": "story",
+      "bookId": "level2-hot-water",
+      "bodyPage": 7,
+      "text": [
+        "真好喝！"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 41,
+      "kind": "summary",
+      "bookId": "level2-hot-water",
+      "bodyPage": null
+    },
+    {
+      "physicalPage": 42,
+      "kind": "story-cover",
+      "bookId": "level2-flower-water",
+      "bodyPage": null
+    },
+    {
+      "physicalPage": 43,
+      "kind": "story",
+      "bookId": "level2-flower-water",
+      "bodyPage": 0,
+      "text": [
+        "小花渴了，我拿小水壶。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 44,
+      "kind": "story",
+      "bookId": "level2-flower-water",
+      "bodyPage": 1,
+      "text": [
+        "我给小花喝水。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 45,
+      "kind": "story",
+      "bookId": "level2-flower-water",
+      "bodyPage": 2,
+      "text": [
+        "一点，再一点。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 46,
+      "kind": "story",
+      "bookId": "level2-flower-water",
+      "bodyPage": 3,
+      "text": [
+        "小虫爬到叶子下。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 47,
+      "kind": "story",
+      "bookId": "level2-flower-water",
+      "bodyPage": 4,
+      "text": [
+        "\"小虫，小虫，下雨啦！\""
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 48,
+      "kind": "story",
+      "bookId": "level2-flower-water",
+      "bodyPage": 5,
+      "text": [
+        "我放好小水壶，等一等。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 49,
+      "kind": "story",
+      "bookId": "level2-flower-water",
+      "bodyPage": 6,
+      "text": [
+        "小虫又爬出来了。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 50,
+      "kind": "story",
+      "bookId": "level2-flower-water",
+      "bodyPage": 7,
+      "text": [
+        "\"雨不下了！小虫，出来玩吧！\""
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 51,
+      "kind": "summary",
+      "bookId": "level2-flower-water",
+      "bodyPage": null
+    },
+    {
+      "physicalPage": 52,
+      "kind": "story-cover",
+      "bookId": "level2-ball-wagon",
+      "bodyPage": null
+    },
+    {
+      "physicalPage": 53,
+      "kind": "story",
+      "bookId": "level2-ball-wagon",
+      "bodyPage": 0,
+      "text": [
+        "我把小球放在小车前。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 54,
+      "kind": "story",
+      "bookId": "level2-ball-wagon",
+      "bodyPage": 1,
+      "text": [
+        "我推小车，小车推着小球走。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 55,
+      "kind": "story",
+      "bookId": "level2-ball-wagon",
+      "bodyPage": 2,
+      "text": [
+        "我把小球放在小车后。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 56,
+      "kind": "story",
+      "bookId": "level2-ball-wagon",
+      "bodyPage": 3,
+      "text": [
+        "我推小车，小球没有动，一动也不动。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 57,
+      "kind": "story",
+      "bookId": "level2-ball-wagon",
+      "bodyPage": 4,
+      "text": [
+        "我把小车拿回来，把小球放进去。"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        12,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        12,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 58,
+      "kind": "story",
+      "bookId": "level2-ball-wagon",
+      "bodyPage": 5,
+      "text": [
+        "我再推，再推小车，小球也一起走了！"
+      ],
+      "textSizeMm": 8,
+      "imageRectMm": [
+        8,
+        24,
+        128,
+        131
+      ],
+      "textRectMm": [
+        8,
+        162,
+        128,
+        29
+      ]
+    },
+    {
+      "physicalPage": 59,
+      "kind": "summary",
+      "bookId": "level2-ball-wagon",
+      "bodyPage": null
+    },
+    {
+      "physicalPage": 60,
+      "kind": "back",
+      "bookId": null,
+      "bodyPage": null
+    }
+  ],
+  "checks": [
+    {
+      "physicalPage": 1,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 2,
+      "textExtractable": true,
+      "images": 0
+    },
+    {
+      "physicalPage": 3,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 4,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 5,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 6,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 7,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 8,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 9,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 10,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 11,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 12,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 13,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 14,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 15,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 16,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 17,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 18,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 19,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 20,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 21,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 22,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 23,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 24,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 25,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 26,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 27,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 28,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 29,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 30,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 31,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 32,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 33,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 34,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 35,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 36,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 37,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 38,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 39,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 40,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 41,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 42,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 43,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 44,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 45,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 46,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 47,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 48,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 49,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 50,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 51,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 52,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 53,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 54,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 55,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 56,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 57,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 58,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 59,
+      "textExtractable": true,
+      "images": 1
+    },
+    {
+      "physicalPage": 60,
+      "textExtractable": true,
+      "images": 1
+    }
+  ],
+  "qualityNote": "PDF-only JPEG encoding (95 for local-eight,97 for priority-three), no image resize; lossless originals preserved. Native effective resolution is separately audited; exporting300ppi does not create detail. RGB reading proof, no physical printing claim."
+}

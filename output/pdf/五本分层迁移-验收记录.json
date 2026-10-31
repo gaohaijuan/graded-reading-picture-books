@@ -1,0 +1,195 @@
+{
+  "scope": "Browser reading and PDF export: five stories migrated; six stories now use composed-actor-v1.",
+  "imageMethod": "Built-in imagegen edits of existing backgrounds and umbrella; no image API or CLI. Approved character bodies and heads reused.",
+  "environment": "Windows in-app browser, localhost. Mobile QA uses a simulated 390x844 viewport, not a physical device. Face models were already available; not cold-network performance.",
+  "browser": {
+    "defaultStoryPages": 41,
+    "photoStoryPages": 44,
+    "photoPoses": [
+      "carry-play",
+      "crouch-book",
+      "crouch-palm",
+      "hands-flower-closed",
+      "hands-flower-open",
+      "hold-umbrella",
+      "run-left",
+      "stand-wave"
+    ],
+    "defaultOverflowPages": 0,
+    "photoOverflowPages": 0,
+    "longName": "小小云朵和小太阳",
+    "photoFamilyMembers": 6
+  },
+  "performanceMs": {
+    "photo": {
+      "cutoutMs": 966.8000000007452,
+      "photoReadMs": 50.10000000149011,
+      "pngEncodeMs": 17.5,
+      "recognitionMs": 603
+    },
+    "defaultReadingCumulative": {
+      "bodyDownloadMs": 170.69999999925494,
+      "backgroundDownloadMs": 2034.0999999903145,
+      "composeMs": 4.5,
+      "composites": 10,
+      "pageDrawMs": 1267.299999978393,
+      "draws": 582
+    },
+    "interpretation": "Image download figures include browser cache and decode. Canvas composition/draw are JS submission durations, not completed GPU time; cumulative reading values include covers and repeated draws."
+  },
+  "memory": {
+    "memoryInStone": {
+      "adultComposites": 0,
+      "backgroundDownloadMs": 2622.29999999702,
+      "bodyDownloadMs": 440.69999999925494,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "stone"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "run-left",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-palm",
+                  "status": "ready"
+                },
+                {
+                  "id": "carry-play",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "stone"
+          ]
+        }
+      ],
+      "composeMs": 6.800000000745058,
+      "composites": 5,
+      "draws": 13,
+      "pageDrawMs": 463.5999999977648
+    },
+    "memoryOnShelf": {
+      "adultComposites": 4,
+      "backgroundDownloadMs": 2622.29999999702,
+      "bodyDownloadMs": 440.69999999925494,
+      "buckets": [
+        {
+          "sessions": [
+            {
+              "books": [
+                "stone"
+              ],
+              "loading": null,
+              "poses": [
+                {
+                  "id": "stand-wave",
+                  "status": "ready"
+                },
+                {
+                  "id": "run-left",
+                  "status": "ready"
+                },
+                {
+                  "id": "crouch-palm",
+                  "status": "ready"
+                },
+                {
+                  "id": "carry-play",
+                  "status": "ready"
+                }
+              ]
+            }
+          ],
+          "window": [
+            "stone"
+          ]
+        }
+      ],
+      "composeMs": 6.800000000745058,
+      "composites": 5,
+      "draws": 96,
+      "pageDrawMs": 521.1000000275671
+    }
+  },
+  "unitTests": {
+    "passed": 387,
+    "failed": 0
+  },
+  "pdf": {
+    "file": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\output\\pdf\\小小主角-六本分层合成合集-竖版A5校样.pdf",
+    "pages": 50,
+    "body_pages": 41,
+    "chapters": [
+      {
+        "book": "intro",
+        "title": "你好，我是小石头",
+        "start_folio": 1,
+        "start_pdf_page": 3,
+        "body_pages": 6
+      },
+      {
+        "book": "flower",
+        "title": "我的花",
+        "start_folio": 8,
+        "start_pdf_page": 10,
+        "body_pages": 6
+      },
+      {
+        "book": "family",
+        "title": "我家有几口人？",
+        "start_folio": 15,
+        "start_pdf_page": 17,
+        "body_pages": 7
+      },
+      {
+        "book": "hands",
+        "title": "我的小手",
+        "start_folio": 23,
+        "start_pdf_page": 25,
+        "body_pages": 6
+      },
+      {
+        "book": "rain",
+        "title": "下雨了",
+        "start_folio": 30,
+        "start_pdf_page": 32,
+        "body_pages": 8
+      },
+      {
+        "book": "stone",
+        "title": "小石头回家",
+        "start_folio": 39,
+        "start_pdf_page": 41,
+        "body_pages": 8
+      }
+    ],
+    "fonts": [
+      {
+        "name": "/NotoSerifSC-ExtraLight-6789",
+        "embedded": true
+      }
+    ],
+    "errors": []
+  },
+  "resolution": {
+    "minimumMeasuredNativePpi": 86,
+    "native300Ppi": false,
+    "note": "A5 RGB proof only; 300dpi export does not increase native scene detail."
+  },
+  "records": {
+    "assetsAndPrompts": "little-protagonist/content/layered-art-provenance.json",
+    "pressAndLayerAudit": "output/pdf/六本分层迁移后-逐层像素与印厂包检查.json"
+  }
+}

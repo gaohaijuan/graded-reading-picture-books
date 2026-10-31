@@ -1,0 +1,6 @@
+{
+  "url": "http://127.0.0.1:4173/",
+  "page": 5,
+  "bookNumber": 11,
+  "state": "Browser tab: 2, Title: \"小小主角 · 本地开发版\", URL: \"http://127.0.0.1:4173/\".\n0 AXWebArea 小小主角 · 本地开发版, URL: 127.0.0.1:4173/\n\t1 container little-story-preview\n\t\t2 text 小小主角 · 本地开发版\n\t\t3 link Description: 查看第一级别 · 完整15篇审核版, Value: 127.0.0.1:4173/?view=level1-complete\n\t\t4 link Description: 查看第二级 · 前三本校样, Value: 127.0.0.1:4173/?view=level2-first-three\n\t\t7 text 竖版 A5 · 图文同页\n\t\t6 container Description: 小小主角阅读小程序, ID: ls-device\n\t\t\t8 container\n\t\t\t\t9 button 书架\n\t\t\t\t10 text 我和小树谁高\n\t\t\t\t11 container 竖版A5图文页\n\t\t\t\t\t12 text 我和小树谁高\n\t\t\t\t\t13 image 故事插画\n\t\t\t\t\t14 container 第5页正文\n\t\t\t\t\t\t15 text “这回，谁高？我高！”\n\t\t\t\t\t16 text 5\n\t\t\t\t17 button 上一页\n\t\t\t\t18 text 5 / 8\n\t\t\t\t19 progress indicator Description: 本书阅读页数, Value: 5\n\t\t\t\t20 button 下一页\n\t\t21 text 我和小树谁高，第5页。“这回，谁高？我高！”\n\nThe focused UI element is 0 AXWebArea 小小主角 · 本地开发版, URL: 127.0.0.1:4173/"
+}

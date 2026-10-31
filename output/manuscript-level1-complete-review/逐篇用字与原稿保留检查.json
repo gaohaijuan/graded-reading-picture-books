@@ -1,0 +1,673 @@
+{
+  "stories": 30,
+  "firstTwoUnchanged": true,
+  "parentLedOpeningConfirmed": [
+    1,
+    2
+  ],
+  "thirdMatchesActualFamilyBook": true,
+  "original27IsNew8": true,
+  "earlyOrder": [
+    7,
+    5,
+    6
+  ],
+  "earlyStoryTextsUnchanged": true,
+  "correctedStories": [
+    25
+  ],
+  "workingListIncludesCa": false,
+  "story20UsesCa": false,
+  "story23Paragraphs": 6,
+  "maxNewCharactersAfterOpening": 8,
+  "pendingTextReview": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30
+  ],
+  "defaultUniqueBodyCharacters": 180,
+  "outsideWorkingCharacterList": [
+    "用",
+    "合",
+    "从",
+    "比",
+    "动",
+    "等",
+    "声",
+    "推",
+    "服",
+    "流",
+    "湿",
+    "加",
+    "压",
+    "住",
+    "先",
+    "阳",
+    "亮",
+    "朵",
+    "睛",
+    "叶",
+    "条",
+    "自",
+    "己"
+  ],
+  "perStory": [
+    {
+      "number": 1,
+      "oldNumber": 1,
+      "title": "你好，我是CHILD",
+      "characters": 20,
+      "newCharacters": [
+        "你",
+        "好",
+        "我",
+        "是",
+        "的",
+        "名",
+        "字",
+        "叫",
+        "什",
+        "么",
+        "呢",
+        "五",
+        "岁",
+        "了",
+        "几",
+        "上",
+        "大",
+        "班",
+        "也",
+        "吗"
+      ],
+      "newCount": 20,
+      "cumulative": 20,
+      "outsideWorkingList": []
+    },
+    {
+      "number": 2,
+      "oldNumber": 2,
+      "title": "我的花",
+      "characters": 25,
+      "newCharacters": [
+        "小",
+        "花",
+        "有",
+        "多",
+        "片",
+        "一",
+        "两",
+        "三",
+        "四",
+        "六",
+        "七",
+        "八",
+        "九",
+        "十",
+        "飞",
+        "入",
+        "草",
+        "丛",
+        "都",
+        "不",
+        "见"
+      ],
+      "newCount": 21,
+      "cumulative": 41,
+      "outsideWorkingList": []
+    },
+    {
+      "number": 3,
+      "oldNumber": 3,
+      "title": "我家有几口人？",
+      "characters": 15,
+      "newCharacters": [
+        "家",
+        "口",
+        "人",
+        "这",
+        "爸",
+        "妈",
+        "还",
+        "们",
+        "在"
+      ],
+      "newCount": 9,
+      "cumulative": 50,
+      "outsideWorkingList": []
+    },
+    {
+      "number": 4,
+      "oldNumber": 4,
+      "title": "我的小手",
+      "characters": 18,
+      "newCharacters": [
+        "只",
+        "手",
+        "用",
+        "做",
+        "开",
+        "合"
+      ],
+      "newCount": 6,
+      "cumulative": 56,
+      "outsideWorkingList": [
+        "用",
+        "合"
+      ]
+    },
+    {
+      "number": 5,
+      "oldNumber": 7,
+      "title": "山不见了",
+      "characters": 15,
+      "newCharacters": [
+        "山",
+        "白",
+        "云",
+        "来",
+        "风",
+        "走",
+        "出",
+        "没"
+      ],
+      "newCount": 8,
+      "cumulative": 64,
+      "outsideWorkingList": []
+    },
+    {
+      "number": 6,
+      "oldNumber": 5,
+      "title": "下雨了",
+      "characters": 16,
+      "newCharacters": [
+        "下",
+        "雨",
+        "伞",
+        "中",
+        "去"
+      ],
+      "newCount": 5,
+      "cumulative": 69,
+      "outsideWorkingList": []
+    },
+    {
+      "number": 7,
+      "oldNumber": 6,
+      "title": "小石头回家",
+      "characters": 21,
+      "newCharacters": [
+        "石",
+        "头",
+        "拿",
+        "起",
+        "要",
+        "回",
+        "把",
+        "放"
+      ],
+      "newCount": 8,
+      "cumulative": 77,
+      "outsideWorkingList": []
+    },
+    {
+      "number": 8,
+      "oldNumber": 27,
+      "title": "小虫不走",
+      "characters": 18,
+      "newCharacters": [
+        "虫",
+        "过",
+        "看",
+        "笑"
+      ],
+      "newCount": 4,
+      "cumulative": 81,
+      "outsideWorkingList": []
+    },
+    {
+      "number": 9,
+      "oldNumber": 8,
+      "title": "小车回家",
+      "characters": 27,
+      "newCharacters": [
+        "车",
+        "个",
+        "门",
+        "从",
+        "进",
+        "玩",
+        "关"
+      ],
+      "newCount": 7,
+      "cumulative": 88,
+      "outsideWorkingList": [
+        "从"
+      ]
+    },
+    {
+      "number": 10,
+      "oldNumber": 9,
+      "title": "小球在哪",
+      "characters": 23,
+      "newCharacters": [
+        "和",
+        "球",
+        "哪",
+        "里",
+        "再",
+        "后",
+        "找",
+        "到"
+      ],
+      "newCount": 8,
+      "cumulative": 96,
+      "outsideWorkingList": []
+    },
+    {
+      "number": 11,
+      "oldNumber": 11,
+      "title": "我和小树谁高",
+      "characters": 26,
+      "newCharacters": [
+        "树",
+        "谁",
+        "高",
+        "比",
+        "点",
+        "站",
+        "又",
+        "脚"
+      ],
+      "newCount": 8,
+      "cumulative": 104,
+      "outsideWorkingList": [
+        "比"
+      ]
+    },
+    {
+      "number": 12,
+      "oldNumber": 10,
+      "title": "水中的我",
+      "characters": 26,
+      "newCharacters": [
+        "水",
+        "天",
+        "动",
+        "等"
+      ],
+      "newCount": 4,
+      "cumulative": 108,
+      "outsideWorkingList": [
+        "动",
+        "等"
+      ]
+    },
+    {
+      "number": 13,
+      "oldNumber": 12,
+      "title": "谁在叫",
+      "characters": 26,
+      "newCharacters": [
+        "听",
+        "声",
+        "鸟",
+        "猫"
+      ],
+      "newCount": 4,
+      "cumulative": 112,
+      "outsideWorkingList": [
+        "声"
+      ]
+    },
+    {
+      "number": 14,
+      "oldNumber": 13,
+      "title": "小猫要小球吗",
+      "characters": 25,
+      "newCharacters": [
+        "红",
+        "黄",
+        "给",
+        "推",
+        "跑"
+      ],
+      "newCount": 5,
+      "cumulative": 117,
+      "outsideWorkingList": [
+        "推"
+      ]
+    },
+    {
+      "number": 15,
+      "oldNumber": 19,
+      "title": "小猫的床",
+      "characters": 24,
+      "newCharacters": [
+        "床",
+        "想",
+        "睡",
+        "吧"
+      ],
+      "newCount": 4,
+      "cumulative": 121,
+      "outsideWorkingList": []
+    },
+    {
+      "number": 16,
+      "oldNumber": 14,
+      "title": "大鞋和小鞋",
+      "characters": 24,
+      "newCharacters": [
+        "鞋",
+        "穿"
+      ],
+      "newCount": 2,
+      "cumulative": 123,
+      "outsideWorkingList": [
+        "从"
+      ]
+    },
+    {
+      "number": 17,
+      "oldNumber": 20,
+      "title": "我还不想睡",
+      "characters": 26,
+      "newCharacters": [
+        "晚"
+      ],
+      "newCount": 1,
+      "cumulative": 124,
+      "outsideWorkingList": []
+    },
+    {
+      "number": 18,
+      "oldNumber": 21,
+      "title": "早上好",
+      "characters": 29,
+      "newCharacters": [
+        "今",
+        "早",
+        "衣",
+        "服",
+        "快"
+      ],
+      "newCount": 5,
+      "cumulative": 129,
+      "outsideWorkingList": [
+        "服",
+        "等"
+      ]
+    },
+    {
+      "number": 19,
+      "oldNumber": 24,
+      "title": "这水太热了",
+      "characters": 19,
+      "newCharacters": [
+        "喝",
+        "太",
+        "热",
+        "能"
+      ],
+      "newCount": 4,
+      "cumulative": 133,
+      "outsideWorkingList": [
+        "等"
+      ]
+    },
+    {
+      "number": 20,
+      "oldNumber": 15,
+      "title": "小花喝水",
+      "characters": 27,
+      "newCharacters": [
+        "流",
+        "湿",
+        "加"
+      ],
+      "newCount": 3,
+      "cumulative": 136,
+      "outsideWorkingList": [
+        "流",
+        "湿",
+        "加"
+      ]
+    },
+    {
+      "number": 21,
+      "oldNumber": 16,
+      "title": "小球也要走",
+      "characters": 25,
+      "newCharacters": [
+        "前",
+        "着"
+      ],
+      "newCount": 2,
+      "cumulative": 138,
+      "outsideWorkingList": [
+        "推",
+        "动"
+      ]
+    },
+    {
+      "number": 22,
+      "oldNumber": 17,
+      "title": "小纸片飞了",
+      "characters": 29,
+      "newCharacters": [
+        "纸",
+        "左",
+        "边",
+        "右",
+        "它",
+        "压",
+        "住"
+      ],
+      "newCount": 7,
+      "cumulative": 145,
+      "outsideWorkingList": [
+        "压",
+        "住",
+        "用"
+      ]
+    },
+    {
+      "number": 23,
+      "oldNumber": 26,
+      "title": "谁先笑",
+      "characters": 23,
+      "newCharacters": [
+        "兔",
+        "先"
+      ],
+      "newCount": 2,
+      "cumulative": 147,
+      "outsideWorkingList": [
+        "先"
+      ]
+    },
+    {
+      "number": 24,
+      "oldNumber": 18,
+      "title": "大果子和小果子",
+      "characters": 25,
+      "newCharacters": [
+        "果",
+        "子",
+        "朋",
+        "友",
+        "说",
+        "吃",
+        "真"
+      ],
+      "newCount": 7,
+      "cumulative": 154,
+      "outsideWorkingList": []
+    },
+    {
+      "number": 25,
+      "oldNumber": 22,
+      "title": "谁还在睡",
+      "characters": 28,
+      "newCharacters": [
+        "日",
+        "黑",
+        "阳",
+        "坐"
+      ],
+      "newCount": 4,
+      "cumulative": 158,
+      "outsideWorkingList": [
+        "阳",
+        "等"
+      ]
+    },
+    {
+      "number": 26,
+      "oldNumber": 23,
+      "title": "水中的月亮",
+      "characters": 28,
+      "newCharacters": [
+        "月",
+        "亮"
+      ],
+      "newCount": 2,
+      "cumulative": 160,
+      "outsideWorkingList": [
+        "亮",
+        "动"
+      ]
+    },
+    {
+      "number": 27,
+      "oldNumber": 28,
+      "title": "我和小兔",
+      "characters": 32,
+      "newCharacters": [
+        "耳",
+        "朵",
+        "长",
+        "眼",
+        "睛",
+        "牙",
+        "菜",
+        "叶"
+      ],
+      "newCount": 8,
+      "cumulative": 168,
+      "outsideWorkingList": [
+        "朵",
+        "睛",
+        "叶"
+      ]
+    },
+    {
+      "number": 28,
+      "oldNumber": 29,
+      "title": "我跳过去了",
+      "characters": 32,
+      "newCharacters": [
+        "会",
+        "跳",
+        "学",
+        "地"
+      ],
+      "newCount": 4,
+      "cumulative": 172,
+      "outsideWorkingList": [
+        "先"
+      ]
+    },
+    {
+      "number": 29,
+      "oldNumber": 25,
+      "title": "我画的家",
+      "characters": 28,
+      "newCharacters": [
+        "火",
+        "画",
+        "绿"
+      ],
+      "newCount": 3,
+      "cumulative": 175,
+      "outsideWorkingList": []
+    },
+    {
+      "number": 30,
+      "oldNumber": 30,
+      "title": "小鱼的新家",
+      "characters": 29,
+      "newCharacters": [
+        "条",
+        "鱼",
+        "新",
+        "自",
+        "己"
+      ],
+      "newCount": 5,
+      "cumulative": 180,
+      "outsideWorkingList": [
+        "条",
+        "自",
+        "己"
+      ]
+    }
+  ],
+  "note": "统计仅为当前默认正文的字形接触量；不能据此声称已符合正式教学验收或孩子已掌握。正常词不得为卡字表而截断。",
+  "unchangedSources": [
+    {
+      "file": "miniprogram/lib/stories.js",
+      "sha256": "c3353b190ddaf2f6b11625d030580b3a4eb9ebe820c6fbe7d0fea889f49e7d00"
+    },
+    {
+      "file": "miniprogram/lib/family.js",
+      "sha256": "da43a902303139cd22090fb6a0caac9ee53dd23c663e389007649e7f0ce9e0b7"
+    },
+    {
+      "file": "miniprogram/lib/level1-approved.js",
+      "sha256": "b012613d58c5ca339e6f302cda2876637bb9b777460c2ae3283aa1fc90205d3d"
+    },
+    {
+      "file": "content/level1-stories-04-10.json",
+      "sha256": "b6ba56ea5e10de2abab95806a2fe667bc1450bf60f57668d880dfb88d42db945"
+    },
+    {
+      "file": "content/level1-stories-11-20.json",
+      "sha256": "277b7cbf127aede4b2167d5a1f7dcbdebd6bb1923bb329cc47b0c73c60fd9abe"
+    },
+    {
+      "file": "content/level1-stories-21-40.json",
+      "sha256": "5c66458e3773f04779ec4e5c2b835b6c54737eea3f24cd27d729406478435095"
+    },
+    {
+      "file": "content/level1-character-plan.json",
+      "sha256": "b682c49102e906abdeacb386ac934ceec79216b89103b4e099654f0aa4595f89"
+    }
+  ],
+  "sourceChanges": []
+}
